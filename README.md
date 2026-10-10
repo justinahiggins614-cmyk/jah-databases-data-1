@@ -1,0 +1,3 @@
+# jah-databases-data-1
+Overflow data shard for the JAH Data Bases network. Served via GitHub Pages.
+Data dirs mirror the main repo layout: data/<slug>/chunks/...
