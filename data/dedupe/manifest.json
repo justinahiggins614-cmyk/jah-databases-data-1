@@ -1,8 +1,8 @@
 {
- "built_at": "2026-10-15T19:02:57.496489+00:00",
- "total_records": 3138577,
- "total_hashes": 3138577,
- "unique_hashes": 986998,
+ "built_at": "2026-10-16T02:25:48.412462+00:00",
+ "total_records": 3076173,
+ "total_hashes": 3076173,
+ "unique_hashes": 961612,
  "shards": 256,
  "hash": "fnv1a64(utf16-units(nfkd-strip-lower-alnum))",
  "bloom_p": 0.01,
