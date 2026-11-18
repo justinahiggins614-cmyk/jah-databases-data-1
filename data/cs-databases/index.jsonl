@@ -1,0 +1,5 @@
+{"id": "JAH-CSDB-000001", "t": "Semi-Structured Documents", "g": "semi-docs"}
+{"id": "JAH-CSDB-000002", "t": "Binary Large Objects (BLOBs)", "g": "blob-store"}
+{"id": "JAH-CSDB-000003", "t": "Index B-Tree Nodes", "g": "btree-nodes"}
+{"id": "JAH-CSDB-000004", "t": "Database Transaction Log (WAL)", "g": "wal-log"}
+{"id": "JAH-CSDB-000005", "t": "Intellectual Property Prior Art Indexes", "g": "database-types"}

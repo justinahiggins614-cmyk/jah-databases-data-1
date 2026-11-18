@@ -1,0 +1,5 @@
+{"id": "JAH-HCDG-000001", "t": "Electronic Health Records (Signature Edition)", "g": "ehr"}
+{"id": "JAH-HCDG-000002", "t": "Genomic Sequencing Data (Signature Edition)", "g": "genome-seq"}
+{"id": "JAH-HCDG-000003", "t": "Pathology Slide Scans (Signature Edition)", "g": "path-slide"}
+{"id": "JAH-HCDG-000004", "t": "Epidemiology Surveillance Logs (Signature Edition)", "g": "epi-surv"}
+{"id": "JAH-HCDG-000005", "t": "Medical Device Telemetry (Signature Edition)", "g": "meddev-tel"}

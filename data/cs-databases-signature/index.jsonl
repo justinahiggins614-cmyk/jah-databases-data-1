@@ -1,0 +1,4 @@
+{"id": "JAH-CSDBG-000001", "t": "Semi-Structured Documents (Signature Edition)", "g": "semi-docs"}
+{"id": "JAH-CSDBG-000002", "t": "Binary Large Objects (BLOBs) (Signature Edition)", "g": "blob-store"}
+{"id": "JAH-CSDBG-000003", "t": "Index B-Tree Nodes (Signature Edition)", "g": "btree-nodes"}
+{"id": "JAH-CSDBG-000004", "t": "Database Transaction Log (WAL) (Signature Edition)", "g": "wal-log"}

@@ -1,0 +1,5 @@
+{"id": "JAH-HCD-000001", "t": "Electronic Health Records", "g": "ehr"}
+{"id": "JAH-HCD-000002", "t": "Genomic Sequencing Data", "g": "genome-seq"}
+{"id": "JAH-HCD-000003", "t": "Pathology Slide Scans", "g": "path-slide"}
+{"id": "JAH-HCD-000004", "t": "Epidemiology Surveillance Logs", "g": "epi-surv"}
+{"id": "JAH-HCD-000005", "t": "Medical Device Telemetry", "g": "meddev-tel"}
