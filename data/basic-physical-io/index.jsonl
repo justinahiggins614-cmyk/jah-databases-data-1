@@ -1,0 +1,21 @@
+{"id": "JAH-BPI-000001", "t": "Digital Stopwatch and Precision Timer", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000002", "t": "Programmable Alarm and Signal Generator", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000003", "t": "Keyboard Input Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000004", "t": "Mouse Movement and Button Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000005", "t": "Joystick and Game Controller Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000006", "t": "Webcam Inspection Camera", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000007", "t": "Document Scanning Station", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000008", "t": "Barcode and QR Code Reader", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000009", "t": "Optical Character Recognition Reader", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000010", "t": "Screen Colorimeter Interface", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000011", "t": "Display Pixel Defect Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000012", "t": "Display Refresh Rate and Response Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000013", "t": "Speaker Frequency Response Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000014", "t": "Microphone Sensitivity Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000015", "t": "Stereo Audio Channel Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000016", "t": "Audio Loopback Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000017", "t": "Headphone Channel and Polarity Tester", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000018", "t": "Ambient Sound Level Estimator", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000019", "t": "Audio Frequency Meter", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000020", "t": "Acoustic Spectrum Analyzer", "g": "basic-physical-io"}
+{"id": "JAH-BPI-000021", "t": "All Tools (70+ Utilities)", "g": "Bizarre Software"}

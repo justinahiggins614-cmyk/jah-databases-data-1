@@ -1,0 +1,21 @@
+{"id": "JAH-CET-000001", "t": "Runtimes", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000002", "t": "Execution Runtimes", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000003", "t": "Exo-kernels", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000004", "t": "Nano-kernels", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000005", "t": "Compute Substrates", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000006", "t": "Application Frameworks", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000007", "t": "Web Frameworks", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000008", "t": "UI Frameworks", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000009", "t": "Core Libraries", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000010", "t": "System Libraries", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000011", "t": "Stacks", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000012", "t": "Tech Stacks", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000013", "t": "Platforms", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000014", "t": "Platform-as-a-Service (PaaS)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000015", "t": "Infrastructure-as-a-Service (IaaS)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000016", "t": "Backend-as-a-Service (BaaS)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000017", "t": "Infrastructures", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000018", "t": "Architectures", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000019", "t": "Core Engines", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000020", "t": "Monoliths", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CET-000021", "t": "Hardware Abstraction Layers (HAL)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}

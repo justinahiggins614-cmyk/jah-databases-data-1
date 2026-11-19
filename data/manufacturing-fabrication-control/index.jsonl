@@ -1,0 +1,21 @@
+{"id": "JAH-MFC-000001", "t": "3D Printer Control Station", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000002", "t": "CNC Router Control Station", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000003", "t": "Laser Engraver Control Station", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000004", "t": "Laser Cutter Control Station", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000005", "t": "Vinyl Cutter Control Station", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000006", "t": "Plotter Control Station", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000007", "t": "Pick-and-Place Machine Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000008", "t": "Reflow Oven Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000009", "t": "Soldering Station Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000010", "t": "Hot Air Rework Station Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000011", "t": "Robotic Arm Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000012", "t": "Stepper Motor Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000013", "t": "Servo Motor Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000014", "t": "Industrial Motor Drive Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000015", "t": "Programmable Relay Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000016", "t": "PLC Machine Control Console", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000017", "t": "Industrial Camera Trigger Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000018", "t": "Laboratory Pump Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000019", "t": "Programmable Valve Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000020", "t": "Automated Test Fixture Controller", "g": "manufacturing-fabrication-control"}
+{"id": "JAH-MFC-000021", "t": "Reflow Oven", "g": "Toolset"}
