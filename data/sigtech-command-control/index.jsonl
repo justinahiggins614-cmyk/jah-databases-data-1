@@ -1,0 +1,20 @@
+{"id": "JAH-STCC-000001", "t": "What Command/Control Systems Are", "g": "Foundations"}
+{"id": "JAH-STCC-000002", "t": "Authentication and Authority", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000003", "t": "The Truth Interface", "g": "Signature Design"}
+{"id": "JAH-STCC-000004", "t": "Protocols: The Language of Command", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000005", "t": "Failsafe Command Design", "g": "Safety & Limits"}
+{"id": "JAH-STCC-000006", "t": "Logging and Audit Trails", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000007", "t": "Human Factors in Control Rooms", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000008", "t": "Redundancy and Voting", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000009", "t": "The Kill Switch", "g": "Safety & Limits"}
+{"id": "JAH-STCC-000010", "t": "SCADA Fundamentals", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000011", "t": "ROS 2 as Command Fabric", "g": "Build It Yourself"}
+{"id": "JAH-STCC-000012", "t": "Command Queuing and Priority", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000013", "t": "Time Synchronization", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000014", "t": "The Operator's Handbook", "g": "Build It Yourself"}
+{"id": "JAH-STCC-000015", "t": "Testing Command Systems", "g": "Build It Yourself"}
+{"id": "JAH-STCC-000016", "t": "Scaling to Fleets", "g": "Signature Design"}
+{"id": "JAH-STCC-000017", "t": "The Audit Culture", "g": "Real-World Basis"}
+{"id": "JAH-STCC-000018", "t": "Command Center Ergonomics", "g": "Build It Yourself"}
+{"id": "JAH-STCC-000019", "t": "Legal Authority to Command", "g": "Safety & Limits"}
+{"id": "JAH-STCC-000020", "t": "The Complete Command Stack", "g": "Foundations"}

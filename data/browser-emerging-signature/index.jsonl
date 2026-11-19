@@ -1,0 +1,18 @@
+{"id": "JAH-BEMGS-000001", "t": "Signature PouchDB (browser) Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000002", "t": "Signature Filebase Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000003", "t": "Signature Dexie.js Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000004", "t": "Signature ElectricSQL Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000005", "t": "Signature Turso Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000006", "t": "Signature chDB Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000007", "t": "Signature DuckDB-WASM Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000008", "t": "Signature TinyBase Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000009", "t": "Signature Automerge Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000010", "t": "Signature PGlite Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000011", "t": "Signature Pyodide Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000012", "t": "Signature LocalForage Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000013", "t": "Signature GunDB Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000014", "t": "Signature TinyDB Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000015", "t": "Signature Pyodide SQLite/DuckDB Layer Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000016", "t": "Signature LocalForage / IndexedDB Wrapper Engines Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000017", "t": "Signature GunDB Engine", "g": "browser-emerging-signature"}
+{"id": "JAH-BEMGS-000018", "t": "Signature TinyDB Engine", "g": "browser-emerging-signature"}

@@ -1,0 +1,17 @@
+{"id": "JAH-TSER-000001", "t": "TimescaleDB", "g": "time-series"}
+{"id": "JAH-TSER-000002", "t": "InfluxDB", "g": "time-series"}
+{"id": "JAH-TSER-000003", "t": "QuestDB", "g": "time-series"}
+{"id": "JAH-TSER-000004", "t": "Prometheus", "g": "time-series"}
+{"id": "JAH-TSER-000005", "t": "VictoriaMetrics", "g": "time-series"}
+{"id": "JAH-TSER-000006", "t": "Apache IoTDB", "g": "time-series"}
+{"id": "JAH-TSER-000007", "t": "TDengine", "g": "time-series"}
+{"id": "JAH-TSER-000008", "t": "GridDB", "g": "time-series"}
+{"id": "JAH-TSER-000009", "t": "kdb+", "g": "time-series"}
+{"id": "JAH-TSER-000010", "t": "OpenTSDB", "g": "time-series"}
+{"id": "JAH-TSER-000011", "t": "M3DB", "g": "time-series"}
+{"id": "JAH-TSER-000012", "t": "KairosDB", "g": "time-series"}
+{"id": "JAH-TSER-000013", "t": "Graphite", "g": "time-series"}
+{"id": "JAH-TSER-000014", "t": "M3DB", "g": "time-series"}
+{"id": "JAH-TSER-000015", "t": "KairosDB", "g": "time-series"}
+{"id": "JAH-TSER-000016", "t": "Graphite (Whisper)", "g": "time-series"}
+{"id": "JAH-TSER-000017", "t": "Time-Series Metric Tuples", "g": "database-types"}

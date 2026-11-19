@@ -1,0 +1,16 @@
+{"id": "JAH-EMBL-000001", "t": "SQLite", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000002", "t": "Realm", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000003", "t": "ObjectBox", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000004", "t": "Couchbase Lite", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000005", "t": "WatermelonDB", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000006", "t": "RxDB", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000007", "t": "LokiJS", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000008", "t": "NeDB", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000009", "t": "lowdb", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000010", "t": "SQL.js", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000011", "t": "libSQL", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000012", "t": "H2 Database", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000013", "t": "Apache Derby", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000014", "t": "libSQL", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000015", "t": "H2 Database", "g": "embedded-mobile-local"}
+{"id": "JAH-EMBL-000016", "t": "Apache Derby", "g": "embedded-mobile-local"}

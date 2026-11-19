@@ -1,0 +1,16 @@
+{"id": "JAH-CORD-000001", "t": "etcd", "g": "coordination-stores"}
+{"id": "JAH-CORD-000002", "t": "Apache ZooKeeper", "g": "coordination-stores"}
+{"id": "JAH-CORD-000003", "t": "HashiCorp Consul", "g": "coordination-stores"}
+{"id": "JAH-CORD-000004", "t": "Dragonboat", "g": "coordination-stores"}
+{"id": "JAH-CORD-000005", "t": "braft", "g": "coordination-stores"}
+{"id": "JAH-CORD-000006", "t": "SOFAJRaft", "g": "coordination-stores"}
+{"id": "JAH-CORD-000007", "t": "NuRaft", "g": "coordination-stores"}
+{"id": "JAH-CORD-000008", "t": "LogCabin", "g": "coordination-stores"}
+{"id": "JAH-CORD-000009", "t": "Google Chubby", "g": "coordination-stores"}
+{"id": "JAH-CORD-000010", "t": "Apache Helix", "g": "coordination-stores"}
+{"id": "JAH-CORD-000011", "t": "TiKV", "g": "coordination-stores"}
+{"id": "JAH-CORD-000012", "t": "Project Voldemort", "g": "coordination-stores"}
+{"id": "JAH-CORD-000013", "t": "BoltDB", "g": "coordination-stores"}
+{"id": "JAH-CORD-000014", "t": "TiKV", "g": "coordination-stores"}
+{"id": "JAH-CORD-000015", "t": "Project Voldemort", "g": "coordination-stores"}
+{"id": "JAH-CORD-000016", "t": "BoltDB", "g": "coordination-stores"}

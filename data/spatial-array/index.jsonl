@@ -1,0 +1,16 @@
+{"id": "JAH-SPAR-000001", "t": "TileDB", "g": "spatial-array"}
+{"id": "JAH-SPAR-000002", "t": "PostGIS", "g": "spatial-array"}
+{"id": "JAH-SPAR-000003", "t": "Rasdaman", "g": "spatial-array"}
+{"id": "JAH-SPAR-000004", "t": "SciDB", "g": "spatial-array"}
+{"id": "JAH-SPAR-000005", "t": "Apache Sedona", "g": "spatial-array"}
+{"id": "JAH-SPAR-000006", "t": "GeoMesa", "g": "spatial-array"}
+{"id": "JAH-SPAR-000007", "t": "MobilityDB", "g": "spatial-array"}
+{"id": "JAH-SPAR-000008", "t": "DuckDB Spatial", "g": "spatial-array"}
+{"id": "JAH-SPAR-000009", "t": "Zarr", "g": "spatial-array"}
+{"id": "JAH-SPAR-000010", "t": "GeoWave", "g": "spatial-array"}
+{"id": "JAH-SPAR-000011", "t": "HeavyDB", "g": "spatial-array"}
+{"id": "JAH-SPAR-000012", "t": "SpatiaLite", "g": "spatial-array"}
+{"id": "JAH-SPAR-000013", "t": "Ordnance Survey Spatial Engine", "g": "spatial-array"}
+{"id": "JAH-SPAR-000014", "t": "HeavyDB (formerly OmniSci/MapD)", "g": "spatial-array"}
+{"id": "JAH-SPAR-000015", "t": "SpatialLite", "g": "spatial-array"}
+{"id": "JAH-SPAR-000016", "t": "Ordnance Survey Spatial Engine", "g": "spatial-array"}

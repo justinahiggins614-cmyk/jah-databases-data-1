@@ -1,0 +1,20 @@
+{"id": "JAH-PNV-000001", "t": "Indoor Visual Navigation System", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000002", "t": "Wi-Fi RTT Distance Mapper", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000003", "t": "Ultra-Wideband Direction Finder", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000004", "t": "Multi-Phone Triangulation Network", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000005", "t": "Visual Landmark Navigator", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000006", "t": "Indoor Asset Locator", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000007", "t": "Dead-Reckoning Navigation Assistant", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000008", "t": "Map-Matching Engine", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000009", "t": "Geofenced Workflow Controller", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000010", "t": "3D Route Accessibility Mapper", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000011", "t": "Building Floor-Plan Reconstructor", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000012", "t": "Emergency Exit Route Planner", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000013", "t": "Visual Line-of-Sight Calculator", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000014", "t": "Terrain Slope and Grade Mapper", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000015", "t": "Multi-Device Relative Position Dashboard", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000016", "t": "Personal Navigation Dead-Zone Mapper", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000017", "t": "Photographic Survey Station", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000018", "t": "3D Asset Placement Planner", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000019", "t": "Virtual Survey Notebook", "g": "phone-positioning-navigation"}
+{"id": "JAH-PNV-000020", "t": "Spatial Data Fusion Engine", "g": "phone-positioning-navigation"}

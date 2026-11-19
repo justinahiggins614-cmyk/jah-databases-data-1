@@ -1,0 +1,16 @@
+{"id": "JAH-CORDS-000001", "t": "Signature etcd Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000002", "t": "Signature Apache ZooKeeper Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000003", "t": "Signature HashiCorp Consul Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000004", "t": "Signature Dragonboat Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000005", "t": "Signature braft Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000006", "t": "Signature SOFAJRaft Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000007", "t": "Signature NuRaft Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000008", "t": "Signature LogCabin Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000009", "t": "Signature Google Chubby Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000010", "t": "Signature Apache Helix Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000011", "t": "Signature TiKV Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000012", "t": "Signature Project Voldemort Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000013", "t": "Signature BoltDB Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000014", "t": "Signature TiKV Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000015", "t": "Signature Project Voldemort Engine", "g": "coordination-stores-signature"}
+{"id": "JAH-CORDS-000016", "t": "Signature BoltDB Engine", "g": "coordination-stores-signature"}

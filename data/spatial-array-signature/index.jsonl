@@ -1,0 +1,16 @@
+{"id": "JAH-SPARS-000001", "t": "Signature TileDB Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000002", "t": "Signature PostGIS Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000003", "t": "Signature Rasdaman Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000004", "t": "Signature SciDB Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000005", "t": "Signature Apache Sedona Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000006", "t": "Signature GeoMesa Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000007", "t": "Signature MobilityDB Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000008", "t": "Signature DuckDB Spatial Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000009", "t": "Signature Zarr Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000010", "t": "Signature GeoWave Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000011", "t": "Signature HeavyDB Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000012", "t": "Signature SpatiaLite Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000013", "t": "Signature Ordnance Survey Spatial Engine Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000014", "t": "Signature HeavyDB Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000015", "t": "Signature SpatialLite Engine", "g": "spatial-array-signature"}
+{"id": "JAH-SPARS-000016", "t": "Signature Ordnance Survey Spatial Engine Engine", "g": "spatial-array-signature"}

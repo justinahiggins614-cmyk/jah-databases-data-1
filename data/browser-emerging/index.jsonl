@@ -1,0 +1,18 @@
+{"id": "JAH-BEMG-000001", "t": "PouchDB (browser)", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000002", "t": "Filebase", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000003", "t": "Dexie.js", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000004", "t": "ElectricSQL", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000005", "t": "Turso", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000006", "t": "chDB", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000007", "t": "DuckDB-WASM", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000008", "t": "TinyBase", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000009", "t": "Automerge", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000010", "t": "PGlite", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000011", "t": "Pyodide", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000012", "t": "LocalForage", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000013", "t": "GunDB", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000014", "t": "TinyDB", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000015", "t": "Pyodide SQLite/DuckDB Layer", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000016", "t": "LocalForage / IndexedDB Wrapper Engines", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000017", "t": "GunDB", "g": "browser-emerging"}
+{"id": "JAH-BEMG-000018", "t": "TinyDB", "g": "browser-emerging"}

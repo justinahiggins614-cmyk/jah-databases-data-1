@@ -1,0 +1,20 @@
+{"id": "JAH-PAV-000001", "t": "Acoustic Fingerprint Library", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000002", "t": "Machine Fault Sound Classifier", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000003", "t": "Bearing Noise Analyzer", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000004", "t": "Fan and Motor Health Monitor", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000005", "t": "Pump Cavitation Sound Monitor", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000006", "t": "Pipe Leak Acoustic Classifier", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000007", "t": "Room Reverberation Estimator", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000008", "t": "Room Impulse Response Analyzer", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000009", "t": "Echo-Based Room Mapper", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000010", "t": "Acoustic Material Comparison Tool", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000011", "t": "Speech Intelligibility Analyzer", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000012", "t": "Audio Noise Source Classifier", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000013", "t": "Audio Clipping and Distortion Detector", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000014", "t": "Audio Phase and Channel Analyzer", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000015", "t": "Multi-Phone Acoustic Survey", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000016", "t": "Sound Event Timeline Generator", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000017", "t": "Vibration-to-Audio Analyzer", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000018", "t": "Rotational Speed Estimator", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000019", "t": "Resonance Finder", "g": "phone-acoustic-vibration"}
+{"id": "JAH-PAV-000020", "t": "Acoustic Quality Control Assistant", "g": "phone-acoustic-vibration"}

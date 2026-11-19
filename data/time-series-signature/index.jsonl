@@ -1,0 +1,16 @@
+{"id": "JAH-TSERS-000001", "t": "Signature TimescaleDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000002", "t": "Signature InfluxDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000003", "t": "Signature QuestDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000004", "t": "Signature Prometheus Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000005", "t": "Signature VictoriaMetrics Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000006", "t": "Signature Apache IoTDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000007", "t": "Signature TDengine Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000008", "t": "Signature GridDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000009", "t": "Signature kdb+ Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000010", "t": "Signature OpenTSDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000011", "t": "Signature M3DB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000012", "t": "Signature KairosDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000013", "t": "Signature Graphite Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000014", "t": "Signature M3DB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000015", "t": "Signature KairosDB Engine", "g": "time-series-signature"}
+{"id": "JAH-TSERS-000016", "t": "Signature Graphite (Whisper) Engine", "g": "time-series-signature"}

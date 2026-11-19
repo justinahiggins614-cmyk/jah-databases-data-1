@@ -1,0 +1,20 @@
+{"id": "JAH-MMED-000001", "t": "SurrealDB", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000002", "t": "Fauna", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000003", "t": "EdgeDB", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000004", "t": "Azure Cosmos DB", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000005", "t": "InterSystems IRIS", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000006", "t": "FoundationDB", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000007", "t": "OrientDB", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000008", "t": "Tarantool", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000009", "t": "CrateDB", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000010", "t": "MarkLogic", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000011", "t": "Supabase", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000012", "t": "Xata", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000013", "t": "Nhost", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000014", "t": "LiteFS", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000015", "t": "PocketBase", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000016", "t": "Supabase", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000017", "t": "Xata", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000018", "t": "Baseset / Nhost", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000019", "t": "LiteFS", "g": "multi-model-edge"}
+{"id": "JAH-MMED-000020", "t": "PocketBase", "g": "multi-model-edge"}

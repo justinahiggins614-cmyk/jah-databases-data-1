@@ -1,0 +1,16 @@
+{"id": "JAH-EMBLS-000001", "t": "Signature SQLite Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000002", "t": "Signature Realm Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000003", "t": "Signature ObjectBox Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000004", "t": "Signature Couchbase Lite Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000005", "t": "Signature WatermelonDB Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000006", "t": "Signature RxDB Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000007", "t": "Signature LokiJS Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000008", "t": "Signature NeDB Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000009", "t": "Signature lowdb Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000010", "t": "Signature SQL.js Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000011", "t": "Signature libSQL Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000012", "t": "Signature H2 Database Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000013", "t": "Signature Apache Derby Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000014", "t": "Signature libSQL Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000015", "t": "Signature H2 Database Engine", "g": "embedded-mobile-local-signature"}
+{"id": "JAH-EMBLS-000016", "t": "Signature Apache Derby Engine", "g": "embedded-mobile-local-signature"}

@@ -1,0 +1,20 @@
+{"id": "JAH-MMEDS-000001", "t": "Signature SurrealDB Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000002", "t": "Signature Fauna Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000003", "t": "Signature EdgeDB Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000004", "t": "Signature Azure Cosmos DB Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000005", "t": "Signature InterSystems IRIS Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000006", "t": "Signature FoundationDB Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000007", "t": "Signature OrientDB Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000008", "t": "Signature Tarantool Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000009", "t": "Signature CrateDB Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000010", "t": "Signature MarkLogic Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000011", "t": "Signature Supabase Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000012", "t": "Signature Xata Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000013", "t": "Signature Nhost Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000014", "t": "Signature LiteFS Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000015", "t": "Signature PocketBase Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000016", "t": "Signature Supabase Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000017", "t": "Signature Xata Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000018", "t": "Signature Baseset / Nhost Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000019", "t": "Signature LiteFS Engine", "g": "multi-model-edge-signature"}
+{"id": "JAH-MMEDS-000020", "t": "Signature PocketBase Engine", "g": "multi-model-edge-signature"}
