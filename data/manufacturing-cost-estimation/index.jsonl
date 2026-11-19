@@ -1,0 +1,34 @@
+{"id": "JAH-MFCE-000001", "t": "Manufacturing Cost and Production Estimation Database: BOM Cost", "c": 0, "g": "bom"}
+{"id": "JAH-MFCE-000002", "t": "Manufacturing Cost and Production Estimation Database: Material Cost per Unit", "c": 0, "g": "bom"}
+{"id": "JAH-MFCE-000003", "t": "Manufacturing Cost and Production Estimation Database: Direct Labor Cost", "c": 0, "g": "labor"}
+{"id": "JAH-MFCE-000004", "t": "Manufacturing Cost and Production Estimation Database: Overhead Rate", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCE-000005", "t": "Manufacturing Cost and Production Estimation Database: Applied Overhead", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCE-000006", "t": "Manufacturing Cost and Production Estimation Database: Total Unit Cost", "c": 0, "g": "costing"}
+{"id": "JAH-MFCE-000007", "t": "Manufacturing Cost and Production Estimation Database: Gross Margin $", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000008", "t": "Manufacturing Cost and Production Estimation Database: Markup %", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000009", "t": "Manufacturing Cost and Production Estimation Database: Margin %", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000010", "t": "Manufacturing Cost and Production Estimation Database: Break-Even Units", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000011", "t": "Manufacturing Cost and Production Estimation Database: Break-Even Revenue", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000012", "t": "Manufacturing Cost and Production Estimation Database: Contribution Margin", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000013", "t": "Manufacturing Cost and Production Estimation Database: CM Ratio", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000014", "t": "Manufacturing Cost and Production Estimation Database: Target Cost", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000015", "t": "Manufacturing Cost and Production Estimation Database: Should-Cost", "c": 0, "g": "costing"}
+{"id": "JAH-MFCE-000016", "t": "Manufacturing Cost and Production Estimation Database: Learning Curve", "c": 0, "g": "labor"}
+{"id": "JAH-MFCE-000017", "t": "Manufacturing Cost and Production Estimation Database: Setup Amortization", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCE-000018", "t": "Manufacturing Cost and Production Estimation Database: Scrap Cost", "c": 0, "g": "quality"}
+{"id": "JAH-MFCE-000019", "t": "Manufacturing Cost and Production Estimation Database: Rework Cost", "c": 0, "g": "quality"}
+{"id": "JAH-MFCE-000020", "t": "Manufacturing Cost and Production Estimation Database: First-Pass Yield", "c": 0, "g": "quality"}
+{"id": "JAH-MFCE-000021", "t": "Manufacturing Cost and Production Estimation Database: Effective Unit Cost (yield)", "c": 0, "g": "quality"}
+{"id": "JAH-MFCE-000022", "t": "Manufacturing Cost and Production Estimation Database: Tooling Amortization", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCE-000023", "t": "Manufacturing Cost and Production Estimation Database: NRE per Unit", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCE-000024", "t": "Manufacturing Cost and Production Estimation Database: Packaging Cost", "c": 0, "g": "logistics"}
+{"id": "JAH-MFCE-000025", "t": "Manufacturing Cost and Production Estimation Database: Freight per Unit", "c": 0, "g": "logistics"}
+{"id": "JAH-MFCE-000026", "t": "Manufacturing Cost and Production Estimation Database: Duty per Unit", "c": 0, "g": "logistics"}
+{"id": "JAH-MFCE-000027", "t": "Manufacturing Cost and Production Estimation Database: Warranty per Unit", "c": 0, "g": "quality"}
+{"id": "JAH-MFCE-000028", "t": "Manufacturing Cost and Production Estimation Database: Total Landed Unit Cost", "c": 0, "g": "costing"}
+{"id": "JAH-MFCE-000029", "t": "Manufacturing Cost and Production Estimation Database: Cost Range (±)", "c": 0, "g": "estimation"}
+{"id": "JAH-MFCE-000030", "t": "Manufacturing Cost and Production Estimation Database: Parametric (per kg)", "c": 0, "g": "estimation"}
+{"id": "JAH-MFCE-000031", "t": "Manufacturing Cost and Production Estimation Database: Outsource Break-Even", "c": 0, "g": "costing"}
+{"id": "JAH-MFCE-000032", "t": "Manufacturing Cost and Production Estimation Database: Cost of Delay", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCE-000033", "t": "Manufacturing Cost and Production Estimation Database: Overhead Absorption", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCE-000034", "t": "Manufacturing Cost and Production Estimation Database: Product Cost Rollup Capstone", "c": 0, "g": "costing"}

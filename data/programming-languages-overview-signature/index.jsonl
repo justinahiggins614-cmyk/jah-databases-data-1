@@ -1,0 +1,34 @@
+{"id": "JAH-PROGS-000001", "t": "What Is a Programming Language — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000002", "t": "Compiled Versus Interpreted Languages — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000003", "t": "Syntax Versus Semantics — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000004", "t": "Variables and Types Across Languages — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000005", "t": "Control Flow: The Universal Toolkit — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000006", "t": "Functions: Named Reusable Computation — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000007", "t": "The Imperative Paradigm — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000008", "t": "The Object-Oriented Paradigm — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000009", "t": "The Functional Paradigm — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000010", "t": "Declarative and Logic Paradigms — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000011", "t": "Language Generations: 1GL to 5GL — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PROGS-000012", "t": "Static Versus Dynamic Typing — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000013", "t": "Strong Versus Weak Typing — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000014", "t": "Memory Management: GC Versus Manual — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000015", "t": "Type Inference — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000016", "t": "Concurrency Models Across Languages — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000017", "t": "The Systems Language Map — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000018", "t": "The Web Language Map — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000019", "t": "The Data and AI Language Map — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000020", "t": "Language Design Tradeoffs — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000021", "t": "Interoperability: Languages Talking to Each Other — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000022", "t": "Standard Libraries Versus Ecosystems — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000023", "t": "Choosing a Language for a Project — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PROGS-000024", "t": "Compilers: Lexing and Parsing — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000025", "t": "Interpreters and Virtual Machines — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000026", "t": "Just-in-Time Compilation — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000027", "t": "Garbage Collection Algorithms — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000028", "t": "Type Systems Theory in Practice — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000029", "t": "Formal Semantics: What Programs Mean — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000030", "t": "Domain-Specific Languages — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000031", "t": "Esoteric Languages and What They Teach — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000032", "t": "Language Evolution and Versioning — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000033", "t": "Benchmarking Languages Fairly — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PROGS-000034", "t": "Building Your Own Language: An Overview — Signature Edition", "g": "Advanced"}

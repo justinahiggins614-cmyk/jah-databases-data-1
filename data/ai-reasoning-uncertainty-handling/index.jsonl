@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-UH-000001", "t": "What uncertainty is: the known unknown", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000002", "t": "Aleatoric vs epistemic: two unknowns", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000003", "t": "The honest 'I do not know': the admission", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000004", "t": "Ranges not points: the honest estimate", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000005", "t": "Confidence basics: how sure", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000006", "t": "The guess label: marking the invented", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000007", "t": "Sources of uncertainty: where it comes from", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000008", "t": "The first quantification: a complete example", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000009", "t": "Deciding anyway: action under uncertainty", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000010", "t": "Humility: the virtue", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000011", "t": "Probability: the language", "g": "uncertainty-handling-foundations"}
+{"id": "JAH-AIR-UH-000012", "t": "Bayesian updating: learning from evidence", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000013", "t": "Calibration: meaning what you say", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000014", "t": "Confidence intervals: the range with teeth", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000015", "t": "Propagating uncertainty: the honest chain", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000016", "t": "Expected value: deciding with numbers", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000017", "t": "Risk: the downside quantified", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000018", "t": "Sensitivity analysis: what matters", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000019", "t": "Communicating uncertainty: the honest message", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000020", "t": "Evaluation: measuring the handling", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000021", "t": "Conformal prediction: guarantees without assumptions", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000022", "t": "Bayesian deep learning: uncertainty in the network", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000023", "t": "Decision theory: the rational choice", "g": "uncertainty-handling-compounded"}
+{"id": "JAH-AIR-UH-000024", "t": "Scenario analysis: the plausible futures", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000025", "t": "Monte Carlo: the simulated future", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000026", "t": "Robust decisions: good across futures", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000027", "t": "The calibrated organization: honesty at scale", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000028", "t": "The honest decider: the final standard", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000029", "t": "Ambiguity aversion: the human factor", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000030", "t": "The uncertainty dashboard: the visible unknown", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000031", "t": "Deep uncertainty: the unknowable", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000032", "t": "Precautionary principle: the careful path", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000033", "t": "The wisdom of crowds: the aggregated guess", "g": "uncertainty-handling-advanced"}
+{"id": "JAH-AIR-UH-000034", "t": "Forecasting: the disciplined prediction", "g": "uncertainty-handling-advanced"}

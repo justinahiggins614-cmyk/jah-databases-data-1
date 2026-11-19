@@ -1,0 +1,34 @@
+{"id": "JAH-DLGS-000001", "t": "Data Lake Governance (Signature): What 'Good Data' Means", "g": "foundations"}
+{"id": "JAH-DLGS-000002", "t": "Data Lake Governance (Signature): Schema Design That Lasts", "g": "foundations"}
+{"id": "JAH-DLGS-000003", "t": "Data Lake Governance (Signature): The Raw-vs-Curated Split", "g": "foundations"}
+{"id": "JAH-DLGS-000004", "t": "Data Lake Governance (Signature): Data Quality Checks", "g": "foundations"}
+{"id": "JAH-DLGS-000005", "t": "Data Lake Governance (Signature): Lineage: Knowing Where Data Came From", "g": "foundations"}
+{"id": "JAH-DLGS-000006", "t": "Data Lake Governance (Signature): Cataloging Everything", "g": "foundations"}
+{"id": "JAH-DLGS-000007", "t": "Data Lake Governance (Signature): Access Control for Data", "g": "foundations"}
+{"id": "JAH-DLGS-000008", "t": "Data Lake Governance (Signature): Retention and Deletion", "g": "foundations"}
+{"id": "JAH-DLGS-000009", "t": "Data Lake Governance (Signature): Privacy by Design", "g": "foundations"}
+{"id": "JAH-DLGS-000010", "t": "Data Lake Governance (Signature): Pipelines That Do Not Break", "g": "foundations"}
+{"id": "JAH-DLGS-000011", "t": "Data Lake Governance (Signature): Testing Data Pipelines", "g": "foundations"}
+{"id": "JAH-DLGS-000012", "t": "Data Lake Governance (Signature): Backfills and Migrations", "g": "foundations"}
+{"id": "JAH-DLGS-000013", "t": "Data Lake Governance (Signature): Monitoring Data Health", "g": "compounded"}
+{"id": "JAH-DLGS-000014", "t": "Data Lake Governance (Signature): Cost of Data", "g": "compounded"}
+{"id": "JAH-DLGS-000015", "t": "Data Lake Governance (Signature): Metadata That Matters", "g": "compounded"}
+{"id": "JAH-DLGS-000016", "t": "Data Lake Governance (Signature): Data Contracts", "g": "compounded"}
+{"id": "JAH-DLGS-000017", "t": "Data Lake Governance (Signature): Streaming vs Batch", "g": "compounded"}
+{"id": "JAH-DLGS-000018", "t": "Data Lake Governance (Signature): The Lakehouse Pattern", "g": "compounded"}
+{"id": "JAH-DLGS-000019", "t": "Data Lake Governance (Signature): Data Mesh Realities", "g": "compounded"}
+{"id": "JAH-DLGS-000020", "t": "Data Lake Governance (Signature): Governance That Works", "g": "compounded"}
+{"id": "JAH-DLGS-000021", "t": "Data Lake Governance (Signature): Audits and Compliance", "g": "compounded"}
+{"id": "JAH-DLGS-000022", "t": "Data Lake Governance (Signature): Disaster Recovery for Data", "g": "compounded"}
+{"id": "JAH-DLGS-000023", "t": "Data Lake Governance (Signature): Advanced: Real-Time Quality", "g": "compounded"}
+{"id": "JAH-DLGS-000024", "t": "Data Lake Governance (Signature): Advanced: Data Products", "g": "compounded"}
+{"id": "JAH-DLGS-000025", "t": "Data Lake Governance (Signature): Advanced: ML Feature Stores", "g": "advanced"}
+{"id": "JAH-DLGS-000026", "t": "Data Lake Governance (Signature): Advanced: Privacy Engineering", "g": "advanced"}
+{"id": "JAH-DLGS-000027", "t": "Data Lake Governance (Signature): Advanced: The Semantic Layer", "g": "advanced"}
+{"id": "JAH-DLGS-000028", "t": "Data Lake Governance (Signature): Advanced: Data Observability", "g": "advanced"}
+{"id": "JAH-DLGS-000029", "t": "Data Lake Governance (Signature): Advanced: FinOps for Data", "g": "advanced"}
+{"id": "JAH-DLGS-000030", "t": "Data Lake Governance (Signature): Advanced: Sovereign and Regulated Data", "g": "advanced"}
+{"id": "JAH-DLGS-000031", "t": "Data Lake Governance (Signature): Advanced: Archival at Scale", "g": "advanced"}
+{"id": "JAH-DLGS-000032", "t": "Data Lake Governance (Signature): Advanced: Teaching Data Engineering", "g": "advanced"}
+{"id": "JAH-DLGS-000033", "t": "Data Lake Governance (Signature): Advanced: The Future Data Stack", "g": "advanced"}
+{"id": "JAH-DLGS-000034", "t": "Data Lake Governance (Signature): Advanced: Data as Strategy", "g": "advanced"}

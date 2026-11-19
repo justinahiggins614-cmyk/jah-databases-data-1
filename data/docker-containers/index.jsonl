@@ -1,0 +1,34 @@
+{"id": "JAH-DOCK-000001", "t": "What Are Containers", "g": "Foundations"}
+{"id": "JAH-DOCK-000002", "t": "Installing Docker", "g": "Foundations"}
+{"id": "JAH-DOCK-000003", "t": "Running Your First Container", "g": "Foundations"}
+{"id": "JAH-DOCK-000004", "t": "Docker Images Basics", "g": "Foundations"}
+{"id": "JAH-DOCK-000005", "t": "Dockerfile Basics", "g": "Foundations"}
+{"id": "JAH-DOCK-000006", "t": "Docker Volumes", "g": "Foundations"}
+{"id": "JAH-DOCK-000007", "t": "Docker Networking Basics", "g": "Foundations"}
+{"id": "JAH-DOCK-000008", "t": "Docker Logs and Inspection", "g": "Foundations"}
+{"id": "JAH-DOCK-000009", "t": "Docker Hub and Registries", "g": "Foundations"}
+{"id": "JAH-DOCK-000010", "t": "Docker Compose Basics", "g": "Foundations"}
+{"id": "JAH-DOCK-000011", "t": "Docker Architecture: Client, Daemon, Registry", "g": "Foundations"}
+{"id": "JAH-DOCK-000012", "t": "Multi-Stage Docker Builds", "g": "Compounded"}
+{"id": "JAH-DOCK-000013", "t": "Docker Layer Caching", "g": "Compounded"}
+{"id": "JAH-DOCK-000014", "t": "Docker Security Basics", "g": "Compounded"}
+{"id": "JAH-DOCK-000015", "t": "Docker Resource Limits", "g": "Compounded"}
+{"id": "JAH-DOCK-000016", "t": "Docker Healthchecks", "g": "Compounded"}
+{"id": "JAH-DOCK-000017", "t": "Docker Compose Advanced", "g": "Compounded"}
+{"id": "JAH-DOCK-000018", "t": "Docker Environment Variables and Config", "g": "Compounded"}
+{"id": "JAH-DOCK-000019", "t": "Docker Debugging Techniques", "g": "Compounded"}
+{"id": "JAH-DOCK-000020", "t": "Docker Image Optimization", "g": "Compounded"}
+{"id": "JAH-DOCK-000021", "t": "Docker in CI Pipelines", "g": "Compounded"}
+{"id": "JAH-DOCK-000022", "t": "Docker Cleanup and Maintenance", "g": "Compounded"}
+{"id": "JAH-DOCK-000023", "t": "Docker Alternatives: Podman", "g": "Compounded"}
+{"id": "JAH-DOCK-000024", "t": "Docker BuildKit Advanced", "g": "Advanced"}
+{"id": "JAH-DOCK-000025", "t": "Docker Multi-Architecture Builds", "g": "Advanced"}
+{"id": "JAH-DOCK-000026", "t": "Docker Secrets Management", "g": "Advanced"}
+{"id": "JAH-DOCK-000027", "t": "Docker Orchestration Intro: Swarm vs Kubernetes", "g": "Advanced"}
+{"id": "JAH-DOCK-000028", "t": "Docker Logging Drivers", "g": "Advanced"}
+{"id": "JAH-DOCK-000029", "t": "Docker Monitoring", "g": "Advanced"}
+{"id": "JAH-DOCK-000030", "t": "Docker Backup and Disaster Recovery", "g": "Advanced"}
+{"id": "JAH-DOCK-000031", "t": "Docker Rootless Mode", "g": "Advanced"}
+{"id": "JAH-DOCK-000032", "t": "Docker Content Trust and Signing", "g": "Advanced"}
+{"id": "JAH-DOCK-000033", "t": "Docker Production Checklist", "g": "Advanced"}
+{"id": "JAH-DOCK-000034", "t": "Docker Capstone: Full Stack Deploy", "g": "Advanced"}

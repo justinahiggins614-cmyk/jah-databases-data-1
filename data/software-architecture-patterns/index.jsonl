@@ -1,0 +1,34 @@
+{"id": "JAH-SWAP-000001", "t": "Universal Software Architecture Patterns Database: Layered Architecture", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000002", "t": "Universal Software Architecture Patterns Database: Microservices", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000003", "t": "Universal Software Architecture Patterns Database: Event-Driven Architecture", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000004", "t": "Universal Software Architecture Patterns Database: Model-View-Controller", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000005", "t": "Universal Software Architecture Patterns Database: Hexagonal (Ports and Adapters)", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000006", "t": "Universal Software Architecture Patterns Database: CQRS", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000007", "t": "Universal Software Architecture Patterns Database: Event Sourcing", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000008", "t": "Universal Software Architecture Patterns Database: Repository Pattern", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000009", "t": "Universal Software Architecture Patterns Database: API Gateway", "c": 0, "g": "integration"}
+{"id": "JAH-SWAP-000010", "t": "Universal Software Architecture Patterns Database: Message Queue", "c": 0, "g": "integration"}
+{"id": "JAH-SWAP-000011", "t": "Universal Software Architecture Patterns Database: Publish-Subscribe", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000012", "t": "Universal Software Architecture Patterns Database: Circuit Breaker", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000013", "t": "Universal Software Architecture Patterns Database: Bulkhead", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000014", "t": "Universal Software Architecture Patterns Database: Retry with Backoff", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000015", "t": "Universal Software Architecture Patterns Database: Saga (Distributed Transaction)", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000016", "t": "Universal Software Architecture Patterns Database: Strangler Fig", "c": 0, "g": "deployment"}
+{"id": "JAH-SWAP-000017", "t": "Universal Software Architecture Patterns Database: Feature Flags", "c": 0, "g": "deployment"}
+{"id": "JAH-SWAP-000018", "t": "Universal Software Architecture Patterns Database: Blue-Green Deployment", "c": 0, "g": "deployment"}
+{"id": "JAH-SWAP-000019", "t": "Universal Software Architecture Patterns Database: Canary Release", "c": 0, "g": "deployment"}
+{"id": "JAH-SWAP-000020", "t": "Universal Software Architecture Patterns Database: Sidecar", "c": 0, "g": "deployment"}
+{"id": "JAH-SWAP-000021", "t": "Universal Software Architecture Patterns Database: Cache-Aside", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000022", "t": "Universal Software Architecture Patterns Database: CQRS with Separate Stores", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000023", "t": "Universal Software Architecture Patterns Database: Dependency Injection", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000024", "t": "Universal Software Architecture Patterns Database: Observer", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000025", "t": "Universal Software Architecture Patterns Database: Strategy", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000026", "t": "Universal Software Architecture Patterns Database: Factory", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000027", "t": "Universal Software Architecture Patterns Database: Adapter", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000028", "t": "Universal Software Architecture Patterns Database: Facade", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000029", "t": "Universal Software Architecture Patterns Database: Singleton (and Why to Avoid It)", "c": 0, "g": "structural"}
+{"id": "JAH-SWAP-000030", "t": "Universal Software Architecture Patterns Database: Pipeline (Pipes and Filters)", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000031", "t": "Universal Software Architecture Patterns Database: Sharding", "c": 0, "g": "data"}
+{"id": "JAH-SWAP-000032", "t": "Universal Software Architecture Patterns Database: Leader Election", "c": 0, "g": "behavioral"}
+{"id": "JAH-SWAP-000033", "t": "Universal Software Architecture Patterns Database: Health Checks and Readiness", "c": 0, "g": "quality"}
+{"id": "JAH-SWAP-000034", "t": "Universal Software Architecture Patterns Database: Rate Limiting", "c": 0, "g": "quality"}

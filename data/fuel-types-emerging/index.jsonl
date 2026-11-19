@@ -1,0 +1,34 @@
+{"id": "JAH-FUE-000001", "t": "Green Hydrogen from Water Electrolysis", "g": "Hydrogen and Power-to-X"}
+{"id": "JAH-FUE-000002", "t": "Green Ammonia by Renewable Haber-Bosch", "g": "Hydrogen and Power-to-X"}
+{"id": "JAH-FUE-000003", "t": "E-Methanol from Green Hydrogen and Captured CO2", "g": "Hydrogen and Power-to-X"}
+{"id": "JAH-FUE-000004", "t": "Power-to-Liquid E-Fuels via Fischer-Tropsch", "g": "Hydrogen and Power-to-X"}
+{"id": "JAH-FUE-000005", "t": "Synthetic Methane by Power-to-Gas Methanation", "g": "Hydrogen and Power-to-X"}
+{"id": "JAH-FUE-000006", "t": "Sustainable Aviation Fuel via HEFA", "g": "Sustainable Aviation Fuel Pathways"}
+{"id": "JAH-FUE-000007", "t": "Sustainable Aviation Fuel via Alcohol-to-Jet", "g": "Sustainable Aviation Fuel Pathways"}
+{"id": "JAH-FUE-000008", "t": "Sustainable Aviation Fuel via Fischer-Tropsch (FT-SPK)", "g": "Sustainable Aviation Fuel Pathways"}
+{"id": "JAH-FUE-000009", "t": "Renewable Diesel (HVO)", "g": "Renewable Diesel and Drop-In Biofuels"}
+{"id": "JAH-FUE-000010", "t": "Advanced Cellulosic Ethanol", "g": "Renewable Diesel and Drop-In Biofuels"}
+{"id": "JAH-FUE-000011", "t": "Biomethane / Renewable Natural Gas", "g": "Biogas and Waste Pathways"}
+{"id": "JAH-FUE-000012", "t": "Bio-LNG (Liquefied Biomethane)", "g": "Biogas and Waste Pathways"}
+{"id": "JAH-FUE-000013", "t": "Algae Phototrophic Biofuels", "g": "Algae and Advanced Biomass"}
+{"id": "JAH-FUE-000014", "t": "Macroalgae (Seaweed) Biofuels", "g": "Algae and Advanced Biomass"}
+{"id": "JAH-FUE-000015", "t": "Fast Pyrolysis Bio-Oils", "g": "Thermochemical Bio-Oils"}
+{"id": "JAH-FUE-000016", "t": "Hydrotreated and Catalytic Pyrolysis Oils", "g": "Thermochemical Bio-Oils"}
+{"id": "JAH-FUE-000017", "t": "Hydrothermal Liquefaction (HTL) Bio-Crude", "g": "Thermochemical Bio-Oils"}
+{"id": "JAH-FUE-000018", "t": "Waste Gasification to Syngas Fuels", "g": "Biogas and Waste Pathways"}
+{"id": "JAH-FUE-000019", "t": "Used Cooking Oil to Drop-In Fuels", "g": "Biogas and Waste Pathways"}
+{"id": "JAH-FUE-000020", "t": "Plastic Waste Pyrolysis to Fuel Oil", "g": "Biogas and Waste Pathways"}
+{"id": "JAH-FUE-000021", "t": "Bio-Butanol by Advanced Fermentation", "g": "Renewable Diesel and Drop-In Biofuels"}
+{"id": "JAH-FUE-000022", "t": "Sustainable Marine Biofuels (Bio-Bunker Blends)", "g": "Renewable Diesel and Drop-In Biofuels"}
+{"id": "JAH-FUE-000023", "t": "Renewable Methanol-to-Gasoline", "g": "Renewable Diesel and Drop-In Biofuels"}
+{"id": "JAH-FUE-000024", "t": "Dimethyl Ether (Bio-DME and E-DME)", "g": "Hydrogen Carriers and Novel Fuels"}
+{"id": "JAH-FUE-000025", "t": "Formic Acid as Hydrogen Carrier", "g": "Hydrogen Carriers and Novel Fuels"}
+{"id": "JAH-FUE-000026", "t": "Liquid Organic Hydrogen Carriers (LOHC)", "g": "Hydrogen Carriers and Novel Fuels"}
+{"id": "JAH-FUE-000027", "t": "Ammonia Cracking for Hydrogen Release", "g": "Hydrogen Carriers and Novel Fuels"}
+{"id": "JAH-FUE-000028", "t": "Ammonia Direct Combustion (Maritime)", "g": "Hydrogen Carriers and Novel Fuels"}
+{"id": "JAH-FUE-000029", "t": "Solid-Oxide Fuel Cell Multi-Fuels", "g": "Hydrogen Carriers and Novel Fuels"}
+{"id": "JAH-FUE-000030", "t": "Iron Powder Combustion Cycle (Metal Fuels)", "g": "Advanced Conversion Concepts"}
+{"id": "JAH-FUE-000031", "t": "E-Kerosene by High-Temperature Co-Electrolysis", "g": "Hydrogen and Power-to-X"}
+{"id": "JAH-FUE-000032", "t": "Microbial Electrosynthesis of Fuels", "g": "Advanced Conversion Concepts"}
+{"id": "JAH-FUE-000033", "t": "Solar Thermochemical Fuels", "g": "Advanced Conversion Concepts"}
+{"id": "JAH-FUE-000034", "t": "Artificial Photosynthesis Fuel Systems", "g": "Advanced Conversion Concepts"}

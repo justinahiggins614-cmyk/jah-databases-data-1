@@ -1,0 +1,34 @@
+{"id": "JAH-VTEA-000001", "t": "Video and Temporal Event Analysis Database: Frame Extraction", "c": 0, "g": "foundations"}
+{"id": "JAH-VTEA-000002", "t": "Video and Temporal Event Analysis Database: Shot Detection", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEA-000003", "t": "Video and Temporal Event Analysis Database: Scene Segmentation", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEA-000004", "t": "Video and Temporal Event Analysis Database: Keyframe Selection", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEA-000005", "t": "Video and Temporal Event Analysis Database: Object Tracking", "c": 0, "g": "tracking"}
+{"id": "JAH-VTEA-000006", "t": "Video and Temporal Event Analysis Database: Motion Detection", "c": 0, "g": "tracking"}
+{"id": "JAH-VTEA-000007", "t": "Video and Temporal Event Analysis Database: Event Timeline", "c": 0, "g": "temporal"}
+{"id": "JAH-VTEA-000008", "t": "Video and Temporal Event Analysis Database: Temporal Annotation", "c": 0, "g": "temporal"}
+{"id": "JAH-VTEA-000009", "t": "Video and Temporal Event Analysis Database: Action Recognition (workflow)", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000010", "t": "Video and Temporal Event Analysis Database: Subtitle Extraction", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000011", "t": "Video and Temporal Event Analysis Database: Chapter Detection", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEA-000012", "t": "Video and Temporal Event Analysis Database: Highlight Detection", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEA-000013", "t": "Video and Temporal Event Analysis Database: Video Summarization", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEA-000014", "t": "Video and Temporal Event Analysis Database: Anomaly Detection", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000015", "t": "Video and Temporal Event Analysis Database: People Counting", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000016", "t": "Video and Temporal Event Analysis Database: Dwell Time", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000017", "t": "Video and Temporal Event Analysis Database: Queue Analysis", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000018", "t": "Video and Temporal Event Analysis Database: Traffic Analysis", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000019", "t": "Video and Temporal Event Analysis Database: Sports Analytics", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEA-000020", "t": "Video and Temporal Event Analysis Database: Surveillance Review", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEA-000021", "t": "Video and Temporal Event Analysis Database: Video Forensics", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEA-000022", "t": "Video and Temporal Event Analysis Database: Timestamp Verification", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEA-000023", "t": "Video and Temporal Event Analysis Database: Frame Rate Check", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000024", "t": "Video and Temporal Event Analysis Database: Codec Identification", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000025", "t": "Video and Temporal Event Analysis Database: Metadata Extraction", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000026", "t": "Video and Temporal Event Analysis Database: Thumbnail Generation", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEA-000027", "t": "Video and Temporal Event Analysis Database: Storyboard", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEA-000028", "t": "Video and Temporal Event Analysis Database: Quality Check", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000029", "t": "Video and Temporal Event Analysis Database: AV Sync Check", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000030", "t": "Video and Temporal Event Analysis Database: Duplicate Detection", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000031", "t": "Video and Temporal Event Analysis Database: Transcoding Workflow", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000032", "t": "Video and Temporal Event Analysis Database: Live Stream Monitoring", "c": 0, "g": "quality"}
+{"id": "JAH-VTEA-000033", "t": "Video and Temporal Event Analysis Database: Privacy Redaction", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEA-000034", "t": "Video and Temporal Event Analysis Database: Capstone: Video Pipeline", "c": 0, "g": "temporal"}

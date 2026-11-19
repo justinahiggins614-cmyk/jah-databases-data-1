@@ -1,0 +1,34 @@
+{"id": "JAH-DFED-000001", "t": "Federation Overview", "g": "Foundations"}
+{"id": "JAH-DFED-000002", "t": "Scatter-Gather Query Pattern", "g": "Foundations"}
+{"id": "JAH-DFED-000003", "t": "Broadcast Query Pattern", "g": "Foundations"}
+{"id": "JAH-DFED-000004", "t": "Chained Query Pattern", "g": "Foundations"}
+{"id": "JAH-DFED-000005", "t": "Cross-Database Join Contract", "g": "Foundations"}
+{"id": "JAH-DFED-000006", "t": "Schema Mapping Record", "g": "Foundations"}
+{"id": "JAH-DFED-000007", "t": "Identity Resolution Across Databases", "g": "Foundations"}
+{"id": "JAH-DFED-000008", "t": "Federation Membership Record", "g": "Foundations"}
+{"id": "JAH-DFED-000009", "t": "Capability Advertisement", "g": "Foundations"}
+{"id": "JAH-DFED-000010", "t": "Query Routing Rules", "g": "Foundations"}
+{"id": "JAH-DFED-000011", "t": "Distributed Search Architecture", "g": "Compounded"}
+{"id": "JAH-DFED-000012", "t": "Result Merging and Ranking", "g": "Compounded"}
+{"id": "JAH-DFED-000013", "t": "Consistency Models in Federation", "g": "Compounded"}
+{"id": "JAH-DFED-000014", "t": "Federated Authentication Tokens", "g": "Compounded"}
+{"id": "JAH-DFED-000015", "t": "Rate Limiting Across Members", "g": "Compounded"}
+{"id": "JAH-DFED-000016", "t": "Caching Federated Results", "g": "Compounded"}
+{"id": "JAH-DFED-000017", "t": "Partial Failure Handling", "g": "Compounded"}
+{"id": "JAH-DFED-000018", "t": "Federated Query Cost Estimation", "g": "Compounded"}
+{"id": "JAH-DFED-000019", "t": "Schema Evolution in Federation", "g": "Compounded"}
+{"id": "JAH-DFED-000020", "t": "Membership Onboarding Record", "g": "Compounded"}
+{"id": "JAH-DFED-000021", "t": "Membership Offboarding Record", "g": "Compounded"}
+{"id": "JAH-DFED-000022", "t": "Global Query Optimizer", "g": "Advanced"}
+{"id": "JAH-DFED-000023", "t": "Distributed Transactions", "g": "Advanced"}
+{"id": "JAH-DFED-000024", "t": "Eventual Consistency Reconciliation", "g": "Advanced"}
+{"id": "JAH-DFED-000025", "t": "Federation Governance Charter", "g": "Advanced"}
+{"id": "JAH-DFED-000026", "t": "Inter-Member SLA Contracts", "g": "Advanced"}
+{"id": "JAH-DFED-000027", "t": "Cross-Database Provenance", "g": "Advanced"}
+{"id": "JAH-DFED-000028", "t": "Federated Analytics Pipeline", "g": "Advanced"}
+{"id": "JAH-DFED-000029", "t": "Multi-Region Federation Topology", "g": "Advanced"}
+{"id": "JAH-DFED-000030", "t": "Federation Security Model", "g": "Advanced"}
+{"id": "JAH-DFED-000031", "t": "Federation Audit Record", "g": "Advanced"}
+{"id": "JAH-DFED-000032", "t": "Federation Health Dashboard", "g": "Advanced"}
+{"id": "JAH-DFED-000033", "t": "Federation Anti-Patterns Catalog", "g": "Advanced"}
+{"id": "JAH-DFED-000034", "t": "Federation Self-Audit and Mastery Record", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-LOAN-000001", "t": "Loans and Mortgages Database: What Loans Are", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000002", "t": "Loans and Mortgages Database: Secured vs Unsecured Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000003", "t": "Loans and Mortgages Database: Fixed vs Variable Rates", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000004", "t": "Loans and Mortgages Database: APR: The True Cost", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000005", "t": "Loans and Mortgages Database: Amortization Basics", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000006", "t": "Loans and Mortgages Database: The Mortgage Payment Formula", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000007", "t": "Loans and Mortgages Database: Conventional Mortgages", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000008", "t": "Loans and Mortgages Database: FHA Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000009", "t": "Loans and Mortgages Database: VA Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000010", "t": "Loans and Mortgages Database: USDA Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000011", "t": "Loans and Mortgages Database: Jumbo Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000012", "t": "Loans and Mortgages Database: Adjustable-Rate Mortgages (ARMs)", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000013", "t": "Loans and Mortgages Database: 15-Year vs 30-Year Mortgages", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000014", "t": "Loans and Mortgages Database: Mortgage Points", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000015", "t": "Loans and Mortgages Database: PMI: Private Mortgage Insurance", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000016", "t": "Loans and Mortgages Database: Escrow Accounts", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000017", "t": "Loans and Mortgages Database: Qualifying: DTI Ratios", "c": 0, "g": "qualification"}
+{"id": "JAH-LOAN-000018", "t": "Loans and Mortgages Database: Qualifying: Credit Score", "c": 0, "g": "qualification"}
+{"id": "JAH-LOAN-000019", "t": "Loans and Mortgages Database: Qualifying: Down Payment", "c": 0, "g": "qualification"}
+{"id": "JAH-LOAN-000020", "t": "Loans and Mortgages Database: Pre-Approval vs Pre-Qualification", "c": 0, "g": "qualification"}
+{"id": "JAH-LOAN-000021", "t": "Loans and Mortgages Database: Auto Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000022", "t": "Loans and Mortgages Database: Student Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000023", "t": "Loans and Mortgages Database: Personal Loans", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000024", "t": "Loans and Mortgages Database: Home Equity Loans and HELOCs", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000025", "t": "Loans and Mortgages Database: Refinancing: When It Pays", "c": 0, "g": "refinancing"}
+{"id": "JAH-LOAN-000026", "t": "Loans and Mortgages Database: Cash-Out Refinancing", "c": 0, "g": "refinancing"}
+{"id": "JAH-LOAN-000027", "t": "Loans and Mortgages Database: Rate-and-Term Refinancing", "c": 0, "g": "refinancing"}
+{"id": "JAH-LOAN-000028", "t": "Loans and Mortgages Database: Streamline Refinancing", "c": 0, "g": "refinancing"}
+{"id": "JAH-LOAN-000029", "t": "Loans and Mortgages Database: Biweekly Payments", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000030", "t": "Loans and Mortgages Database: Loan Payoff Strategies", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000031", "t": "Loans and Mortgages Database: Avoiding Predatory Lending", "c": 0, "g": "qualification"}
+{"id": "JAH-LOAN-000032", "t": "Loans and Mortgages Database: Capstone: The Complete Borrower", "c": 0, "g": "types"}
+{"id": "JAH-LOAN-000033", "t": "Loans and Mortgages Database: Loan Prepayment Penalties", "c": 0, "g": "amortization"}
+{"id": "JAH-LOAN-000034", "t": "Loans and Mortgages Database: Comparing Lender Offers", "c": 0, "g": "qualification"}

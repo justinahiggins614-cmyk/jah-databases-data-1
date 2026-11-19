@@ -1,0 +1,34 @@
+{"id": "JAH-DEISS-000001", "t": "What Interoperability Is: Systems That Talk (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000002", "t": "Data Formats for Exchange: JSON, XML, CSV (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000003", "t": "Character Encodings: UTF-8 Everywhere (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000004", "t": "Identifiers: UUIDs, DOIs, and URIs (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000005", "t": "Schemas: Contracts for Data Shape (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000006", "t": "JSON Schema in Practice (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000007", "t": "Serialization: Bytes on the Wire (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000008", "t": "Delimited Text Done Right: CSV Rules (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000009", "t": "Timestamps and Timezones in Exchange (ISO 8601) (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000010", "t": "Units in Data Exchange: QUDT (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000011", "t": "Nulls and Missing Values Across Systems (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000012", "t": "Versioning Data Formats (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DEISS-000013", "t": "REST API Contracts (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000014", "t": "OpenAPI: Describing the Contract (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000015", "t": "Identifiers That Last: DOI, ORCID, ARK (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000016", "t": "XML, XSD, and Namespaces (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000017", "t": "Binary Serialization: Avro and Protocol Buffers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000018", "t": "ETL: Extract, Transform, Load (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000019", "t": "Field Mapping and Compatibility Tables (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000020", "t": "API Versioning Strategies (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000021", "t": "Error Handling and Status Codes (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000022", "t": "Pagination for Large Result Sets (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000023", "t": "Authentication for Data Exchange (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000024", "t": "Webhooks and Event-Driven Exchange (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DEISS-000025", "t": "Ontologies and Shared Vocabularies (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000026", "t": "Linked Data and RDF (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000027", "t": "Schema Evolution: Compatible Changes (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000028", "t": "Compatibility Mappings Between Standards (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000029", "t": "Data Quality Gates in Pipelines (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000030", "t": "Master Data Management (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000031", "t": "Exchange Auditing and Provenance (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000032", "t": "High-Volume Streaming Exchange (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000033", "t": "FHIR: Healthcare Exchange Case Study (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DEISS-000034", "t": "The Interoperability Test Suite: Proving It Works (Signature Edition)", "g": "Advanced"}

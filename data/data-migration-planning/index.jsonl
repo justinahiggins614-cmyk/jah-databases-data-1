@@ -1,0 +1,34 @@
+{"id": "JAH-DMP-000001", "t": "Migration Strategy Choice", "g": "migration-assessment"}
+{"id": "JAH-DMP-000002", "t": "Data Inventory", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000003", "t": "Source System Analysis", "g": "cutover-execution"}
+{"id": "JAH-DMP-000004", "t": "Target System Prep", "g": "migration-assessment"}
+{"id": "JAH-DMP-000005", "t": "Data Mapping", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000006", "t": "Data Cleansing", "g": "cutover-execution"}
+{"id": "JAH-DMP-000007", "t": "Migration Tooling", "g": "migration-assessment"}
+{"id": "JAH-DMP-000008", "t": "Test Migrations", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000009", "t": "Validation Rules", "g": "cutover-execution"}
+{"id": "JAH-DMP-000010", "t": "Downtime Planning", "g": "migration-assessment"}
+{"id": "JAH-DMP-000011", "t": "Rollback Planning", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000012", "t": "Cutover Execution", "g": "cutover-execution"}
+{"id": "JAH-DMP-000013", "t": "Delta Migrations", "g": "migration-assessment"}
+{"id": "JAH-DMP-000014", "t": "User Training (New System)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000015", "t": "Post-Migration Validation", "g": "cutover-execution"}
+{"id": "JAH-DMP-000016", "t": "Legacy Decommission", "g": "migration-assessment"}
+{"id": "JAH-DMP-000017", "t": "Data Archiving Strategy", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000018", "t": "Cloud Migrations", "g": "cutover-execution"}
+{"id": "JAH-DMP-000019", "t": "Email Migrations", "g": "migration-assessment"}
+{"id": "JAH-DMP-000020", "t": "Database Migrations", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000021", "t": "File Share Migrations", "g": "cutover-execution"}
+{"id": "JAH-DMP-000022", "t": "Application Data Migration", "g": "migration-assessment"}
+{"id": "JAH-DMP-000023", "t": "Migration Project Management", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000024", "t": "Stakeholder Communication", "g": "cutover-execution"}
+{"id": "JAH-DMP-000025", "t": "Risk Management", "g": "migration-assessment"}
+{"id": "JAH-DMP-000026", "t": "Performance Baselines", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000027", "t": "Security During Migration", "g": "cutover-execution"}
+{"id": "JAH-DMP-000028", "t": "Small Business Migrations", "g": "migration-assessment"}
+{"id": "JAH-DMP-000029", "t": "Migration Budgeting", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000030", "t": "Lessons Learned", "g": "cutover-execution"}
+{"id": "JAH-DMP-000031", "t": "The Migration Checklist", "g": "migration-assessment"}
+{"id": "JAH-DMP-000032", "t": "Data Quality Gates", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000033", "t": "Parallel Run Strategy", "g": "cutover-execution"}
+{"id": "JAH-DMP-000034", "t": "Migration Runbook", "g": "migration-assessment"}

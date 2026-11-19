@@ -1,0 +1,34 @@
+{"id": "JAH-ACV-000001", "t": "AI Citation Verification: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-ACV-000002", "t": "AI Citation Verification: How It Actually Works", "g": "foundations"}
+{"id": "JAH-ACV-000003", "t": "AI Citation Verification: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-ACV-000004", "t": "AI Citation Verification: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-ACV-000005", "t": "AI Citation Verification: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-ACV-000006", "t": "AI Citation Verification: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-ACV-000007", "t": "AI Citation Verification: Prompting and Control", "g": "foundations"}
+{"id": "JAH-ACV-000008", "t": "AI Citation Verification: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-ACV-000009", "t": "AI Citation Verification: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-ACV-000010", "t": "AI Citation Verification: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-ACV-000011", "t": "AI Citation Verification: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-ACV-000012", "t": "AI Citation Verification: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-ACV-000013", "t": "AI Citation Verification: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-ACV-000014", "t": "AI Citation Verification: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-ACV-000015", "t": "AI Citation Verification: Deployment Realities", "g": "compounded"}
+{"id": "JAH-ACV-000016", "t": "AI Citation Verification: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-ACV-000017", "t": "AI Citation Verification: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-ACV-000018", "t": "AI Citation Verification: Documentation for AI", "g": "compounded"}
+{"id": "JAH-ACV-000019", "t": "AI Citation Verification: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-ACV-000020", "t": "AI Citation Verification: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-ACV-000021", "t": "AI Citation Verification: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-ACV-000022", "t": "AI Citation Verification: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-ACV-000023", "t": "AI Citation Verification: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-ACV-000024", "t": "AI Citation Verification: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-ACV-000025", "t": "AI Citation Verification: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-ACV-000026", "t": "AI Citation Verification: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-ACV-000027", "t": "AI Citation Verification: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-ACV-000028", "t": "AI Citation Verification: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-ACV-000029", "t": "AI Citation Verification: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-ACV-000030", "t": "AI Citation Verification: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-ACV-000031", "t": "AI Citation Verification: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-ACV-000032", "t": "AI Citation Verification: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-ACV-000033", "t": "AI Citation Verification: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-ACV-000034", "t": "AI Citation Verification: Advanced: Teaching AI Systems", "g": "advanced"}

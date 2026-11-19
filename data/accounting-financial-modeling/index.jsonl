@@ -1,0 +1,34 @@
+{"id": "JAH-AFM-000001", "t": "Accounting and Financial Modeling Database: Revenue", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000002", "t": "Accounting and Financial Modeling Database: COGS", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000003", "t": "Accounting and Financial Modeling Database: Gross Profit", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000004", "t": "Accounting and Financial Modeling Database: Gross Margin", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000005", "t": "Accounting and Financial Modeling Database: Operating Expenses", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000006", "t": "Accounting and Financial Modeling Database: Operating Income", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000007", "t": "Accounting and Financial Modeling Database: Net Income", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000008", "t": "Accounting and Financial Modeling Database: Net Margin", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000009", "t": "Accounting and Financial Modeling Database: EBITDA", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFM-000010", "t": "Accounting and Financial Modeling Database: Current Ratio", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000011", "t": "Accounting and Financial Modeling Database: Quick Ratio", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000012", "t": "Accounting and Financial Modeling Database: Debt-to-Equity", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000013", "t": "Accounting and Financial Modeling Database: ROE", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000014", "t": "Accounting and Financial Modeling Database: ROA", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000015", "t": "Accounting and Financial Modeling Database: Asset Turnover", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000016", "t": "Accounting and Financial Modeling Database: DSO", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000017", "t": "Accounting and Financial Modeling Database: Working Capital", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-AFM-000018", "t": "Accounting and Financial Modeling Database: Free Cash Flow", "c": 0, "g": "cash-flow"}
+{"id": "JAH-AFM-000019", "t": "Accounting and Financial Modeling Database: NPV", "c": 0, "g": "valuation"}
+{"id": "JAH-AFM-000020", "t": "Accounting and Financial Modeling Database: Payback Period", "c": 0, "g": "valuation"}
+{"id": "JAH-AFM-000021", "t": "Accounting and Financial Modeling Database: ROI", "c": 0, "g": "valuation"}
+{"id": "JAH-AFM-000022", "t": "Accounting and Financial Modeling Database: Budget Variance", "c": 0, "g": "budgeting"}
+{"id": "JAH-AFM-000023", "t": "Accounting and Financial Modeling Database: Variance %", "c": 0, "g": "budgeting"}
+{"id": "JAH-AFM-000024", "t": "Accounting and Financial Modeling Database: Cash Runway", "c": 0, "g": "cash-flow"}
+{"id": "JAH-AFM-000025", "t": "Accounting and Financial Modeling Database: Burn Multiple", "c": 0, "g": "cash-flow"}
+{"id": "JAH-AFM-000026", "t": "Accounting and Financial Modeling Database: CAC", "c": 0, "g": "saas"}
+{"id": "JAH-AFM-000027", "t": "Accounting and Financial Modeling Database: LTV", "c": 0, "g": "saas"}
+{"id": "JAH-AFM-000028", "t": "Accounting and Financial Modeling Database: LTV/CAC", "c": 0, "g": "saas"}
+{"id": "JAH-AFM-000029", "t": "Accounting and Financial Modeling Database: Rule of 40", "c": 0, "g": "saas"}
+{"id": "JAH-AFM-000030", "t": "Accounting and Financial Modeling Database: Cash Conversion Cycle", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000031", "t": "Accounting and Financial Modeling Database: Interest Coverage", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000032", "t": "Accounting and Financial Modeling Database: Dividend Payout", "c": 0, "g": "ratios"}
+{"id": "JAH-AFM-000033", "t": "Accounting and Financial Modeling Database: Book Value per Share", "c": 0, "g": "valuation"}
+{"id": "JAH-AFM-000034", "t": "Accounting and Financial Modeling Database: Financial Health Capstone", "c": 0, "g": "analysis"}

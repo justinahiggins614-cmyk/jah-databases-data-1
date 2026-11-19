@@ -1,0 +1,34 @@
+{"id": "JAH-VMTV-0001", "t": "How Text-to-Video Models Work", "g": "Foundations"}
+{"id": "JAH-VMTV-0002", "t": "Anatomy of a Good Video Prompt", "g": "Foundations"}
+{"id": "JAH-VMTV-0003", "t": "Camera Language in Prompts", "g": "Foundations"}
+{"id": "JAH-VMTV-0004", "t": "Style and Aesthetic Prompting", "g": "Foundations"}
+{"id": "JAH-VMTV-0005", "t": "Negative Prompts: What to Exclude", "g": "Foundations"}
+{"id": "JAH-VMTV-0006", "t": "Seeds: Reproducibility and Variation", "g": "Foundations"}
+{"id": "JAH-VMTV-0007", "t": "Duration and Resolution Limits", "g": "Foundations"}
+{"id": "JAH-VMTV-0008", "t": "Image-to-Video: Animating Stills", "g": "Foundations"}
+{"id": "JAH-VMTV-0009", "t": "Character Consistency Across Clips", "g": "Foundations"}
+{"id": "JAH-VMTV-0010", "t": "Common Artifacts and How to Avoid Them", "g": "Foundations"}
+{"id": "JAH-VMTV-0011", "t": "Upscaling AI Video", "g": "Foundations"}
+{"id": "JAH-VMTV-0012", "t": "Editing AI Footage", "g": "Foundations"}
+{"id": "JAH-VMTV-0013", "t": "Storyboarding with AI", "g": "Compounded"}
+{"id": "JAH-VMTV-0014", "t": "Combining AI with Live Action", "g": "Compounded"}
+{"id": "JAH-VMTV-0015", "t": "AI Video for Backgrounds and Plates", "g": "Compounded"}
+{"id": "JAH-VMTV-0016", "t": "Lip-Sync and Performance AI", "g": "Compounded"}
+{"id": "JAH-VMTV-0017", "t": "Extending and Outpainting Video", "g": "Compounded"}
+{"id": "JAH-VMTV-0018", "t": "Inpainting Video: Object Removal", "g": "Compounded"}
+{"id": "JAH-VMTV-0019", "t": "Style Transfer for Video", "g": "Compounded"}
+{"id": "JAH-VMTV-0020", "t": "Batch Generation Workflows", "g": "Compounded"}
+{"id": "JAH-VMTV-0021", "t": "Cost and Compute Planning", "g": "Compounded"}
+{"id": "JAH-VMTV-0022", "t": "Rights and Licensing for AI Video", "g": "Compounded"}
+{"id": "JAH-VMTV-0023", "t": "Deepfakes: Ethics and Detection", "g": "Compounded"}
+{"id": "JAH-VMTV-0024", "t": "Open vs Closed Video Models", "g": "Compounded"}
+{"id": "JAH-VMTV-0025", "t": "Quality Evaluation for AI Video", "g": "Advanced"}
+{"id": "JAH-VMTV-0026", "t": "Temporal Coherence Techniques", "g": "Advanced"}
+{"id": "JAH-VMTV-0027", "t": "Fixing Hands and Faces", "g": "Advanced"}
+{"id": "JAH-VMTV-0028", "t": "Directing AI Video Like a Director", "g": "Advanced"}
+{"id": "JAH-VMTV-0029", "t": "The AI Video Pipeline", "g": "Advanced"}
+{"id": "JAH-VMTV-0030", "t": "Future of AI Video (Signature Outlook)", "g": "Advanced"}
+{"id": "JAH-VMTV-0031", "t": "Building an AI Video Career", "g": "Advanced"}
+{"id": "JAH-VMTV-0032", "t": "AI Video for Advertising", "g": "Advanced"}
+{"id": "JAH-VMTV-0033", "t": "Long-Form AI Video: Structure and Stamina", "g": "Advanced"}
+{"id": "JAH-VMTV-0034", "t": "The AI Video Studio: Running It", "g": "Advanced"}

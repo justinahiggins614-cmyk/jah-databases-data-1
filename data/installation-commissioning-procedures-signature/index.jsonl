@@ -1,0 +1,34 @@
+{"id": "JAH-ICOPS-000001", "t": "Site Survey and Readiness Checklist (Signature Edition)", "g": "Site Preparation"}
+{"id": "JAH-ICOPS-000002", "t": "Receiving, Unpacking, and Damage Inspection (Signature Edition)", "g": "Site Preparation"}
+{"id": "JAH-ICOPS-000003", "t": "Foundation and Anchoring Requirements (Signature Edition)", "g": "Site Preparation"}
+{"id": "JAH-ICOPS-000004", "t": "Utility Requirements Verification (Signature Edition)", "g": "Site Preparation"}
+{"id": "JAH-ICOPS-000005", "t": "Rigging and Placement Procedure (Signature Edition)", "g": "Mechanical Installation"}
+{"id": "JAH-ICOPS-000006", "t": "Leveling and Alignment Basics (Signature Edition)", "g": "Mechanical Installation"}
+{"id": "JAH-ICOPS-000007", "t": "Mechanical Assembly Sequence (Signature Edition)", "g": "Mechanical Installation"}
+{"id": "JAH-ICOPS-000008", "t": "Piping and Ductwork Connection (Signature Edition)", "g": "Mechanical Installation"}
+{"id": "JAH-ICOPS-000009", "t": "Electrical Supply Connection Procedure (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000010", "t": "Grounding and Bonding Verification (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000011", "t": "Control Panel Wiring Checkout (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000012", "t": "Sensor and Instrument Installation (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000013", "t": "Network and Communication Setup (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000014", "t": "Safety System Installation and Checkout (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000015", "t": "Lubrication System Fill and Prime (Signature Edition)", "g": "Startup"}
+{"id": "JAH-ICOPS-000016", "t": "First-Energization Procedure (Signature Edition)", "g": "Startup"}
+{"id": "JAH-ICOPS-000017", "t": "Dry-Run and Rotation Checks (Signature Edition)", "g": "Startup"}
+{"id": "JAH-ICOPS-000018", "t": "Control Loop Tuning at Startup (Signature Edition)", "g": "Startup"}
+{"id": "JAH-ICOPS-000019", "t": "Load Testing Procedure (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000020", "t": "Performance Verification Runs (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000021", "t": "Punch List Management (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000022", "t": "Operator Training Handover (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000023", "t": "Hazardous-Area Installation Requirements (Signature Edition)", "g": "Site Preparation"}
+{"id": "JAH-ICOPS-000024", "t": "Seismic Anchoring and Restraint (Signature Edition)", "g": "Mechanical Installation"}
+{"id": "JAH-ICOPS-000025", "t": "High-Voltage Connection Procedure (Signature Edition)", "g": "Electrical & Controls"}
+{"id": "JAH-ICOPS-000026", "t": "Functional Safety Validation (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000027", "t": "Integrated Systems Test (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000028", "t": "72-Hour Continuous Run Trial (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000029", "t": "Environmental Compliance Verification (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000030", "t": "Spare Parts and Documentation Handover (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000031", "t": "Warranty Activation Procedure (Signature Edition)", "g": "Acceptance Testing"}
+{"id": "JAH-ICOPS-000032", "t": "Remote Monitoring Commissioning (Signature Edition)", "g": "Startup"}
+{"id": "JAH-ICOPS-000033", "t": "Multi-Unit Synchronized Startup (Signature Edition)", "g": "Startup"}
+{"id": "JAH-ICOPS-000034", "t": "Final Sign-Off and Acceptance Certificate (Signature Edition)", "g": "Acceptance Testing"}

@@ -1,0 +1,34 @@
+{"id": "JAH-BINY-000001", "t": "What Is Binary", "g": "Foundations"}
+{"id": "JAH-BINY-000002", "t": "Counting in Binary", "g": "Foundations"}
+{"id": "JAH-BINY-000003", "t": "Bits, Nibbles, Bytes, and Words", "g": "Foundations"}
+{"id": "JAH-BINY-000004", "t": "Binary Addition and the Carry", "g": "Foundations"}
+{"id": "JAH-BINY-000005", "t": "Binary Subtraction and Borrowing", "g": "Foundations"}
+{"id": "JAH-BINY-000006", "t": "Powers of Two and Data Sizes", "g": "Foundations"}
+{"id": "JAH-BINY-000007", "t": "Converting Decimal to Binary", "g": "Foundations"}
+{"id": "JAH-BINY-000008", "t": "Converting Binary to Decimal", "g": "Foundations"}
+{"id": "JAH-BINY-000009", "t": "Binary Multiplication by Shift and Add", "g": "Compounded"}
+{"id": "JAH-BINY-000010", "t": "Binary Division by Long Division", "g": "Compounded"}
+{"id": "JAH-BINY-000011", "t": "Ones Complement", "g": "Compounded"}
+{"id": "JAH-BINY-000012", "t": "Twos Complement and Negative Numbers", "g": "Compounded"}
+{"id": "JAH-BINY-000013", "t": "Signed Versus Unsigned Integers", "g": "Compounded"}
+{"id": "JAH-BINY-000014", "t": "Bitwise AND", "g": "Compounded"}
+{"id": "JAH-BINY-000015", "t": "Bitwise OR and XOR", "g": "Compounded"}
+{"id": "JAH-BINY-000016", "t": "Bitwise NOT and Bit Masks", "g": "Compounded"}
+{"id": "JAH-BINY-000017", "t": "Bit Shifts: Logical and Arithmetic", "g": "Compounded"}
+{"id": "JAH-BINY-000018", "t": "Hexadecimal Shorthand", "g": "Compounded"}
+{"id": "JAH-BINY-000019", "t": "Octal and Converting Between Bases", "g": "Compounded"}
+{"id": "JAH-BINY-000020", "t": "ASCII Text Encoding", "g": "Compounded"}
+{"id": "JAH-BINY-000021", "t": "Unicode and UTF-8", "g": "Compounded"}
+{"id": "JAH-BINY-000022", "t": "Fixed-Point Binary Fractions", "g": "Compounded"}
+{"id": "JAH-BINY-000023", "t": "IEEE 754 Floating-Point Numbers", "g": "Compounded"}
+{"id": "JAH-BINY-000024", "t": "Logic Gates: AND, OR, and NOT", "g": "Advanced"}
+{"id": "JAH-BINY-000025", "t": "XOR, NAND, NOR, and XNOR Gates", "g": "Advanced"}
+{"id": "JAH-BINY-000026", "t": "The Half Adder and Full Adder", "g": "Advanced"}
+{"id": "JAH-BINY-000027", "t": "Ripple-Carry and Carry-Lookahead Adders", "g": "Advanced"}
+{"id": "JAH-BINY-000028", "t": "Parity Bits and Error Detection", "g": "Advanced"}
+{"id": "JAH-BINY-000029", "t": "Hamming Error-Correcting Codes", "g": "Advanced"}
+{"id": "JAH-BINY-000030", "t": "Cyclic Redundancy Checks (CRC)", "g": "Advanced"}
+{"id": "JAH-BINY-000031", "t": "The Binary Reflected Gray Code", "g": "Advanced"}
+{"id": "JAH-BINY-000032", "t": "Binary-Coded Decimal (BCD)", "g": "Advanced"}
+{"id": "JAH-BINY-000033", "t": "Binary in Networking: Subnet Masks", "g": "Advanced"}
+{"id": "JAH-BINY-000034", "t": "Overflow, Carry, and CPU Status Flags", "g": "Advanced"}

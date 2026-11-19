@@ -1,0 +1,34 @@
+{"id": "JAH-ERA-000001", "t": "Hadean Eon", "g": "Foundations"}
+{"id": "JAH-ERA-000002", "t": "Eoarchean Era", "g": "Foundations"}
+{"id": "JAH-ERA-000003", "t": "Paleoarchean Era", "g": "Foundations"}
+{"id": "JAH-ERA-000004", "t": "Mesoarchean Era", "g": "Foundations"}
+{"id": "JAH-ERA-000005", "t": "Neoarchean Era", "g": "Foundations"}
+{"id": "JAH-ERA-000006", "t": "Paleoproterozoic Era", "g": "Foundations"}
+{"id": "JAH-ERA-000007", "t": "Mesoproterozoic Era", "g": "Foundations"}
+{"id": "JAH-ERA-000008", "t": "Neoproterozoic Era", "g": "Foundations"}
+{"id": "JAH-ERA-000009", "t": "Cambrian Period", "g": "Foundations"}
+{"id": "JAH-ERA-000010", "t": "Ordovician Period", "g": "Foundations"}
+{"id": "JAH-ERA-000011", "t": "Silurian Period", "g": "Foundations"}
+{"id": "JAH-ERA-000012", "t": "Devonian Period", "g": "Foundations"}
+{"id": "JAH-ERA-000013", "t": "Mississippian Subperiod", "g": "Compounded"}
+{"id": "JAH-ERA-000014", "t": "Pennsylvanian Subperiod", "g": "Compounded"}
+{"id": "JAH-ERA-000015", "t": "Permian Period", "g": "Compounded"}
+{"id": "JAH-ERA-000016", "t": "Triassic Period", "g": "Compounded"}
+{"id": "JAH-ERA-000017", "t": "Jurassic Period", "g": "Compounded"}
+{"id": "JAH-ERA-000018", "t": "Cretaceous Period", "g": "Compounded"}
+{"id": "JAH-ERA-000019", "t": "Paleogene Period", "g": "Compounded"}
+{"id": "JAH-ERA-000020", "t": "Neogene Period", "g": "Compounded"}
+{"id": "JAH-ERA-000021", "t": "Quaternary Period", "g": "Compounded"}
+{"id": "JAH-ERA-000022", "t": "Formation of the Moon", "g": "Compounded"}
+{"id": "JAH-ERA-000023", "t": "Late Heavy Bombardment", "g": "Compounded"}
+{"id": "JAH-ERA-000024", "t": "Origin of Life", "g": "Advanced"}
+{"id": "JAH-ERA-000025", "t": "Great Oxidation Event", "g": "Advanced"}
+{"id": "JAH-ERA-000026", "t": "Huronian Glaciation", "g": "Advanced"}
+{"id": "JAH-ERA-000027", "t": "First Eukaryotes", "g": "Advanced"}
+{"id": "JAH-ERA-000028", "t": "Cambrian Explosion", "g": "Advanced"}
+{"id": "JAH-ERA-000029", "t": "Ordovician-Silurian Extinction", "g": "Advanced"}
+{"id": "JAH-ERA-000030", "t": "Late Devonian Extinction", "g": "Advanced"}
+{"id": "JAH-ERA-000031", "t": "Permian-Triassic Extinction", "g": "Advanced"}
+{"id": "JAH-ERA-000032", "t": "Triassic-Jurassic Extinction", "g": "Advanced"}
+{"id": "JAH-ERA-000033", "t": "Cretaceous-Paleogene Extinction", "g": "Advanced"}
+{"id": "JAH-ERA-000034", "t": "Rise of Homo sapiens", "g": "Advanced"}

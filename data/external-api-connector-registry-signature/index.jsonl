@@ -1,0 +1,34 @@
+{"id": "JAH-EACRS-000001", "t": "Connector Registry Overview (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000002", "t": "REST API Connector Profile (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000003", "t": "GraphQL Connector Profile (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000004", "t": "Webhook Connector Profile (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000005", "t": "API Key Authentication Profile (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000006", "t": "OAuth 2.0 Connector Profile (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000007", "t": "Rate Limit Model Record (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000008", "t": "Data Format Profiles (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000009", "t": "Error Handling Conventions (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000010", "t": "Status and Health Check Endpoints (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EACRS-000011", "t": "Retry and Backoff Behavior (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000012", "t": "Pagination Connector Behavior (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000013", "t": "Idempotency in Connectors (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000014", "t": "API Versioning Practice (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000015", "t": "Credential Vaulting for Connectors (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000016", "t": "Connector Logging and Telemetry (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000017", "t": "SOAP and Legacy Connector Profile (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000018", "t": "gRPC Connector Profile (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000019", "t": "Event Stream Connector Profile (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000020", "t": "File Transfer Connector Profile (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000021", "t": "Connector Response Caching (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EACRS-000022", "t": "Failover and Circuit Breaking (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000023", "t": "Connector SLA Tracking (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000024", "t": "Connector Cost Metering (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000025", "t": "Connector Security Audit (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000026", "t": "Connector Change Management (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000027", "t": "Connector Test Harness (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000028", "t": "Connector Documentation Standard (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000029", "t": "Multi-Tenant Connector Design (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000030", "t": "Connector Deprecation and Migration (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000031", "t": "PII Redaction in Connectors (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000032", "t": "Connector Marketplace Governance (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000033", "t": "Federation Roster of Connectors (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EACRS-000034", "t": "Registry Self-Audit and Mastery Record (Signature Edition)", "g": "Advanced"}

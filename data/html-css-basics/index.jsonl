@@ -1,0 +1,34 @@
+{"id": "JAH-HTML-000001", "t": "What Are HTML and CSS", "g": "Foundations"}
+{"id": "JAH-HTML-000002", "t": "Your First HTML Page", "g": "Foundations"}
+{"id": "JAH-HTML-000003", "t": "HTML Headings and Paragraphs", "g": "Foundations"}
+{"id": "JAH-HTML-000004", "t": "HTML Links and Anchors", "g": "Foundations"}
+{"id": "JAH-HTML-000005", "t": "HTML Images", "g": "Foundations"}
+{"id": "JAH-HTML-000006", "t": "HTML Lists", "g": "Foundations"}
+{"id": "JAH-HTML-000007", "t": "HTML Tables Basics", "g": "Foundations"}
+{"id": "JAH-HTML-000008", "t": "HTML Forms Basics", "g": "Foundations"}
+{"id": "JAH-HTML-000009", "t": "CSS Selectors Basics", "g": "Foundations"}
+{"id": "JAH-HTML-000010", "t": "CSS Box Model", "g": "Foundations"}
+{"id": "JAH-HTML-000011", "t": "CSS Colors and Units", "g": "Foundations"}
+{"id": "JAH-HTML-000012", "t": "CSS Text and Typography", "g": "Compounded"}
+{"id": "JAH-HTML-000013", "t": "CSS Backgrounds and Borders", "g": "Compounded"}
+{"id": "JAH-HTML-000014", "t": "CSS Display and Visibility", "g": "Compounded"}
+{"id": "JAH-HTML-000015", "t": "CSS Positioning", "g": "Compounded"}
+{"id": "JAH-HTML-000016", "t": "CSS Flexbox", "g": "Compounded"}
+{"id": "JAH-HTML-000017", "t": "CSS Grid", "g": "Compounded"}
+{"id": "JAH-HTML-000018", "t": "Responsive Design Basics", "g": "Compounded"}
+{"id": "JAH-HTML-000019", "t": "CSS Pseudo-classes and Pseudo-elements", "g": "Compounded"}
+{"id": "JAH-HTML-000020", "t": "CSS Transitions", "g": "Compounded"}
+{"id": "JAH-HTML-000021", "t": "CSS Specificity and Cascade", "g": "Compounded"}
+{"id": "JAH-HTML-000022", "t": "CSS Inheritance", "g": "Compounded"}
+{"id": "JAH-HTML-000023", "t": "CSS Variables Custom Properties", "g": "Compounded"}
+{"id": "JAH-HTML-000024", "t": "CSS Animations Keyframes", "g": "Advanced"}
+{"id": "JAH-HTML-000025", "t": "CSS Media Queries Advanced", "g": "Advanced"}
+{"id": "JAH-HTML-000026", "t": "CSS Forms Styling", "g": "Advanced"}
+{"id": "JAH-HTML-000027", "t": "CSS Navigation Patterns", "g": "Advanced"}
+{"id": "JAH-HTML-000028", "t": "CSS Layout Patterns", "g": "Advanced"}
+{"id": "JAH-HTML-000029", "t": "CSS Accessibility Essentials", "g": "Advanced"}
+{"id": "JAH-HTML-000030", "t": "CSS Performance Basics", "g": "Advanced"}
+{"id": "JAH-HTML-000031", "t": "CSS Methodologies: BEM and Beyond", "g": "Advanced"}
+{"id": "JAH-HTML-000032", "t": "CSS Debugging Techniques", "g": "Advanced"}
+{"id": "JAH-HTML-000033", "t": "Semantic HTML5 Elements", "g": "Advanced"}
+{"id": "JAH-HTML-000034", "t": "Putting It Together: A Complete Page", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DLV-000001", "t": "Table-Level Graphs", "g": "Foundations"}
+{"id": "JAH-DLV-000002", "t": "Column-Level Tracing", "g": "Foundations"}
+{"id": "JAH-DLV-000003", "t": "Impact Analysis", "g": "Foundations"}
+{"id": "JAH-DLV-000004", "t": "Root-Cause Tracing", "g": "Foundations"}
+{"id": "JAH-DLV-000005", "t": "Automatic Capture", "g": "Foundations"}
+{"id": "JAH-DLV-000006", "t": "Zoom Levels", "g": "Foundations"}
+{"id": "JAH-DLV-000007", "t": "Temporal Lineage", "g": "Foundations"}
+{"id": "JAH-DLV-000008", "t": "Business Views", "g": "Foundations"}
+{"id": "JAH-DLV-000009", "t": "Quality Overlays", "g": "Foundations"}
+{"id": "JAH-DLV-000010", "t": "Ownership Labels", "g": "Foundations"}
+{"id": "JAH-DLV-000011", "t": "Sensitive Data Flags", "g": "Foundations"}
+{"id": "JAH-DLV-000012", "t": "Automation or Abandon", "g": "Compounded"}
+{"id": "JAH-DLV-000013", "t": "Graph Layouts", "g": "Compounded"}
+{"id": "JAH-DLV-000014", "t": "Filtering Views", "g": "Compounded"}
+{"id": "JAH-DLV-000015", "t": "Search and Navigation", "g": "Compounded"}
+{"id": "JAH-DLV-000016", "t": "Diff Views", "g": "Compounded"}
+{"id": "JAH-DLV-000017", "t": "Lineage for ML", "g": "Compounded"}
+{"id": "JAH-DLV-000018", "t": "Lineage for BI", "g": "Compounded"}
+{"id": "JAH-DLV-000019", "t": "Compliance Views", "g": "Compounded"}
+{"id": "JAH-DLV-000020", "t": "GDPR Tracing", "g": "Compounded"}
+{"id": "JAH-DLV-000021", "t": "Lineage Standards", "g": "Compounded"}
+{"id": "JAH-DLV-000022", "t": "Tool Comparison", "g": "Compounded"}
+{"id": "JAH-DLV-000023", "t": "Build vs Buy", "g": "Compounded"}
+{"id": "JAH-DLV-000024", "t": "Metadata Integration", "g": "Advanced"}
+{"id": "JAH-DLV-000025", "t": "Testing Lineage", "g": "Advanced"}
+{"id": "JAH-DLV-000026", "t": "Performance", "g": "Advanced"}
+{"id": "JAH-DLV-000027", "t": "Collaboration", "g": "Advanced"}
+{"id": "JAH-DLV-000028", "t": "Alerting", "g": "Advanced"}
+{"id": "JAH-DLV-000029", "t": "Lineage for Migrations", "g": "Advanced"}
+{"id": "JAH-DLV-000030", "t": "Debugging with Lineage", "g": "Advanced"}
+{"id": "JAH-DLV-000031", "t": "Documentation", "g": "Advanced"}
+{"id": "JAH-DLV-000032", "t": "Adoption", "g": "Advanced"}
+{"id": "JAH-DLV-000033", "t": "Measuring Value", "g": "Advanced"}
+{"id": "JAH-DLV-000034", "t": "Future Directions", "g": "Advanced"}

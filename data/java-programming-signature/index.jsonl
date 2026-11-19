@@ -1,0 +1,34 @@
+{"id": "JAH-JAVAS-000001", "t": "Java JDK JVM and JRE Explained — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000002", "t": "Java First Program Anatomy — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000003", "t": "Java Variables and Primitive Types — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000004", "t": "Java Operators — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000005", "t": "Java Strings — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000006", "t": "Java if else and switch — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000007", "t": "Java Loops — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000008", "t": "Java Arrays — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000009", "t": "Java Methods — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000010", "t": "Java Classes and Objects — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000011", "t": "Java Packages and Imports — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JAVAS-000012", "t": "Java Constructors — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000013", "t": "Java Inheritance — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000014", "t": "Java Polymorphism — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000015", "t": "Java Encapsulation and Access Modifiers — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000016", "t": "Java Abstract Classes — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000017", "t": "Java Interfaces — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000018", "t": "Java Exception Handling — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000019", "t": "Java Collections: ArrayList — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000020", "t": "Java Collections: HashMap — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000021", "t": "Java StringBuilder — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000022", "t": "Java Static Members — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000023", "t": "Java Enums — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JAVAS-000024", "t": "Java Generics — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000025", "t": "Java Lambda Expressions — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000026", "t": "Java Streams API — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000027", "t": "Java File IO with NIO — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000028", "t": "Java Multithreading Basics — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000029", "t": "Java Synchronization — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000030", "t": "Java Annotations — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000031", "t": "Java JUnit Testing — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000032", "t": "Java Build Tools: Maven and Gradle — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000033", "t": "Java JVM Memory Model — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JAVAS-000034", "t": "Java Garbage Collection — Signature Edition", "g": "Advanced"}

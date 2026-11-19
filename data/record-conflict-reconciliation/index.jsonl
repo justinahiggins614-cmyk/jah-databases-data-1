@@ -1,0 +1,34 @@
+{"id": "JAH-RCR-000001", "t": "Conflict Reconciliation Overview", "g": "Foundations"}
+{"id": "JAH-RCR-000002", "t": "Record Version Identity", "g": "Foundations"}
+{"id": "JAH-RCR-000003", "t": "Source Authority Hierarchy", "g": "Foundations"}
+{"id": "JAH-RCR-000004", "t": "Conflict Taxonomy", "g": "Foundations"}
+{"id": "JAH-RCR-000005", "t": "Conflict Detection Rules", "g": "Foundations"}
+{"id": "JAH-RCR-000006", "t": "Provenance Tagging for Conflicts", "g": "Foundations"}
+{"id": "JAH-RCR-000007", "t": "Confidence Scoring in Conflicts", "g": "Foundations"}
+{"id": "JAH-RCR-000008", "t": "Manual Review Triggers", "g": "Foundations"}
+{"id": "JAH-RCR-000009", "t": "Merge Policy Standard", "g": "Foundations"}
+{"id": "JAH-RCR-000010", "t": "Conflict Case Record Format", "g": "Foundations"}
+{"id": "JAH-RCR-000011", "t": "Three-Way Merge", "g": "Compounded"}
+{"id": "JAH-RCR-000012", "t": "Last-Writer-Wins Analysis", "g": "Compounded"}
+{"id": "JAH-RCR-000013", "t": "Field-Level Resolution", "g": "Compounded"}
+{"id": "JAH-RCR-000014", "t": "Temporal Conflict Resolution", "g": "Compounded"}
+{"id": "JAH-RCR-000015", "t": "Unit and Currency Conflicts", "g": "Compounded"}
+{"id": "JAH-RCR-000016", "t": "Entity Resolution Conflicts", "g": "Compounded"}
+{"id": "JAH-RCR-000017", "t": "Duplicate vs True Conflict", "g": "Compounded"}
+{"id": "JAH-RCR-000018", "t": "Conflict Escalation Path", "g": "Compounded"}
+{"id": "JAH-RCR-000019", "t": "Quorum Resolution", "g": "Compounded"}
+{"id": "JAH-RCR-000020", "t": "Human-in-the-Loop Queues", "g": "Compounded"}
+{"id": "JAH-RCR-000021", "t": "Automated Resolution Log", "g": "Compounded"}
+{"id": "JAH-RCR-000022", "t": "Faulty-Source Conflicts", "g": "Advanced"}
+{"id": "JAH-RCR-000023", "t": "Reconciliation Audit Trail", "g": "Advanced"}
+{"id": "JAH-RCR-000024", "t": "Resolution Decision Record", "g": "Advanced"}
+{"id": "JAH-RCR-000025", "t": "Unresolved-Discrepancy Queue", "g": "Advanced"}
+{"id": "JAH-RCR-000026", "t": "Conflict Resolution SLA", "g": "Advanced"}
+{"id": "JAH-RCR-000027", "t": "Reconciliation at Million-Database Scale", "g": "Advanced"}
+{"id": "JAH-RCR-000028", "t": "Schema-Drift Conflicts", "g": "Advanced"}
+{"id": "JAH-RCR-000029", "t": "Conflict Prediction", "g": "Advanced"}
+{"id": "JAH-RCR-000030", "t": "Reconciliation API Contract", "g": "Advanced"}
+{"id": "JAH-RCR-000031", "t": "Conflict Metrics Dashboard", "g": "Advanced"}
+{"id": "JAH-RCR-000032", "t": "Reconciliation Policy Versioning", "g": "Advanced"}
+{"id": "JAH-RCR-000033", "t": "Reconciliation Disaster Recovery", "g": "Advanced"}
+{"id": "JAH-RCR-000034", "t": "Reconciliation Self-Audit and Mastery Record", "g": "Advanced"}

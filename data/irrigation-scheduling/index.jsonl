@@ -1,0 +1,34 @@
+{"id": "JAH-IRS-000001", "t": "Crop ET", "g": "Foundations"}
+{"id": "JAH-IRS-000002", "t": "Soil Moisture", "g": "Foundations"}
+{"id": "JAH-IRS-000003", "t": "Root-Zone Depth", "g": "Foundations"}
+{"id": "JAH-IRS-000004", "t": "Morning Timing", "g": "Foundations"}
+{"id": "JAH-IRS-000005", "t": "System Types", "g": "Foundations"}
+{"id": "JAH-IRS-000006", "t": "Uniformity Audits", "g": "Foundations"}
+{"id": "JAH-IRS-000007", "t": "Depletion Scheduling", "g": "Foundations"}
+{"id": "JAH-IRS-000008", "t": "Effective Rainfall", "g": "Foundations"}
+{"id": "JAH-IRS-000009", "t": "Wind and Heat", "g": "Foundations"}
+{"id": "JAH-IRS-000010", "t": "Fertigation", "g": "Foundations"}
+{"id": "JAH-IRS-000011", "t": "System Maintenance", "g": "Foundations"}
+{"id": "JAH-IRS-000012", "t": "Record-Keeping", "g": "Compounded"}
+{"id": "JAH-IRS-000013", "t": "Drip Design", "g": "Compounded"}
+{"id": "JAH-IRS-000014", "t": "Sprinkler Design", "g": "Compounded"}
+{"id": "JAH-IRS-000015", "t": "Center Pivots", "g": "Compounded"}
+{"id": "JAH-IRS-000016", "t": "Micro-Sprinklers", "g": "Compounded"}
+{"id": "JAH-IRS-000017", "t": "Subsurface Drip", "g": "Compounded"}
+{"id": "JAH-IRS-000018", "t": "Soil Types", "g": "Compounded"}
+{"id": "JAH-IRS-000019", "t": "Salinity Management", "g": "Compounded"}
+{"id": "JAH-IRS-000020", "t": "Water Quality", "g": "Compounded"}
+{"id": "JAH-IRS-000021", "t": "Pumping Costs", "g": "Compounded"}
+{"id": "JAH-IRS-000022", "t": "Scheduling Tools", "g": "Compounded"}
+{"id": "JAH-IRS-000023", "t": "Weather Stations", "g": "Compounded"}
+{"id": "JAH-IRS-000024", "t": "Deficit Irrigation", "g": "Advanced"}
+{"id": "JAH-IRS-000025", "t": "Growth Stages", "g": "Advanced"}
+{"id": "JAH-IRS-000026", "t": "Vegetable Schedules", "g": "Advanced"}
+{"id": "JAH-IRS-000027", "t": "Orchard Schedules", "g": "Advanced"}
+{"id": "JAH-IRS-000028", "t": "Field Crops", "g": "Advanced"}
+{"id": "JAH-IRS-000029", "t": "Greenhouse", "g": "Advanced"}
+{"id": "JAH-IRS-000030", "t": "Lawns and Landscape", "g": "Advanced"}
+{"id": "JAH-IRS-000031", "t": "Regulations", "g": "Advanced"}
+{"id": "JAH-IRS-000032", "t": "Drought Planning", "g": "Advanced"}
+{"id": "JAH-IRS-000033", "t": "Efficiency Upgrades", "g": "Advanced"}
+{"id": "JAH-IRS-000034", "t": "Case Studies", "g": "Advanced"}

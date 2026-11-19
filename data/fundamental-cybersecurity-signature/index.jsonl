@@ -1,0 +1,34 @@
+{"id": "JAH-SFCYB-000001", "t": "Signature What Cybersecurity Is", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000002", "t": "Signature The Core Question of Cybersecurity", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000003", "t": "Signature Assumptions: The Adversarial Model", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000004", "t": "Signature The Vocabulary: Threats, Vulnerabilities, Risk", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000005", "t": "Signature The Attack Surface: The Fundamental Quantity", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000006", "t": "Signature Threat Modeling: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000007", "t": "Signature A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000008", "t": "Signature How Cybersecurity Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000009", "t": "Signature The Core Mechanism: Defense in Depth", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000010", "t": "Signature The Simplest Law: Least Privilege", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000011", "t": "Signature Common Misconceptions in Cybersecurity", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000012", "t": "Signature How Beginners Practice Cybersecurity", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCYB-000013", "t": "Signature The Core Model: The CIA Triad", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000014", "t": "Signature The Great Idea: Public-Key Cryptography", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000015", "t": "Signature Systems Thinking: The Kill Chain", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000016", "t": "Signature Invariance: What Encryption Preserves", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000017", "t": "Signature Approximation: Risk Management", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000018", "t": "Signature Evidence Standards: Tested Controls", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000019", "t": "Signature Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000020", "t": "Signature Core Trade-offs: Security versus Usability", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000021", "t": "Signature Handling Uncertainty: Assume Breach", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000022", "t": "Signature Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000023", "t": "Signature Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000024", "t": "Signature Teaching Cybersecurity", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCYB-000025", "t": "Signature The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000026", "t": "Signature Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000027", "t": "Signature Computational Security", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000028", "t": "Signature Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000029", "t": "Signature The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000030", "t": "Signature How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000031", "t": "Signature The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000032", "t": "Signature Failure Modes: When Security Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000033", "t": "Signature Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCYB-000034", "t": "Signature The Signature Formulation: Security as the Immune System", "g": "Advanced", "c": 0}

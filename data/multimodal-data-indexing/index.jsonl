@@ -1,0 +1,34 @@
+{"id": "JAH-MDI-000001", "t": "What Is Multimodal Indexing", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000002", "t": "Modality Pipelines", "g": "unified-indexing"}
+{"id": "JAH-MDI-000003", "t": "Text Extraction (OCR)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000004", "t": "Audio Transcription", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000005", "t": "Video Indexing", "g": "unified-indexing"}
+{"id": "JAH-MDI-000006", "t": "Image Embeddings (CLIP)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000007", "t": "Audio Embeddings", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000008", "t": "Unified Vector Index", "g": "unified-indexing"}
+{"id": "JAH-MDI-000009", "t": "Metadata Schema", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000010", "t": "Cross-Modal Retrieval", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000011", "t": "Fusion Strategies", "g": "unified-indexing"}
+{"id": "JAH-MDI-000012", "t": "Evaluating Multimodal", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000013", "t": "The Multimodal Playbook", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000014", "t": "Document Understanding", "g": "unified-indexing"}
+{"id": "JAH-MDI-000015", "t": "Captioning Pipelines", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000016", "t": "Object Detection Indexing", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000017", "t": "Face Handling Ethics", "g": "unified-indexing"}
+{"id": "JAH-MDI-000018", "t": "Speech Diarization", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000019", "t": "Music/Audio Fingerprinting", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000020", "t": "Thumbnail/Keyframe Selection", "g": "unified-indexing"}
+{"id": "JAH-MDI-000021", "t": "Temporal Indexing", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000022", "t": "Multimodal Dedup", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000023", "t": "Storage for Multimodal", "g": "unified-indexing"}
+{"id": "JAH-MDI-000024", "t": "Streaming Multimodal", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000025", "t": "Multimodal RAG", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000026", "t": "Accessibility via Multimodal", "g": "unified-indexing"}
+{"id": "JAH-MDI-000027", "t": "Moderation Across Modalities", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000028", "t": "Cost Management", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000029", "t": "Privacy in Multimodal", "g": "unified-indexing"}
+{"id": "JAH-MDI-000030", "t": "Versioning Embeddings", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000031", "t": "Hybrid Metadata+Vector", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000032", "t": "Multimodal Analytics", "g": "unified-indexing"}
+{"id": "JAH-MDI-000033", "t": "Edge Multimodal", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000034", "t": "The Multimodal Future", "g": "modality-pipelines"}

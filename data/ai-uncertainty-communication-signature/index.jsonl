@@ -1,0 +1,34 @@
+{"id": "JAH-AUCS-000001", "t": "Calibration Basics", "g": "Foundations"}
+{"id": "JAH-AUCS-000002", "t": "Showing Numbers", "g": "Foundations"}
+{"id": "JAH-AUCS-000003", "t": "Explicit Abstention", "g": "Foundations"}
+{"id": "JAH-AUCS-000004", "t": "Uncertainty Sources", "g": "Foundations"}
+{"id": "JAH-AUCS-000005", "t": "Precise Hedging", "g": "Foundations"}
+{"id": "JAH-AUCS-000006", "t": "Visualizing Ranges", "g": "Foundations"}
+{"id": "JAH-AUCS-000007", "t": "High-Stakes Defaults", "g": "Foundations"}
+{"id": "JAH-AUCS-000008", "t": "Probeable Models", "g": "Foundations"}
+{"id": "JAH-AUCS-000009", "t": "Calibration Logging", "g": "Foundations"}
+{"id": "JAH-AUCS-000010", "t": "Error-Case Design", "g": "Foundations"}
+{"id": "JAH-AUCS-000011", "t": "Teaching Trust", "g": "Foundations"}
+{"id": "JAH-AUCS-000012", "t": "Signature Labeling", "g": "Compounded"}
+{"id": "JAH-AUCS-000013", "t": "Confidence Intervals", "g": "Compounded"}
+{"id": "JAH-AUCS-000014", "t": "Bayesian Intuition", "g": "Compounded"}
+{"id": "JAH-AUCS-000015", "t": "Ensemble Disagreement", "g": "Compounded"}
+{"id": "JAH-AUCS-000016", "t": "Temperature Effects", "g": "Compounded"}
+{"id": "JAH-AUCS-000017", "t": "Prompt Sensitivity", "g": "Compounded"}
+{"id": "JAH-AUCS-000018", "t": "Hallucination Patterns", "g": "Compounded"}
+{"id": "JAH-AUCS-000019", "t": "Grounding", "g": "Compounded"}
+{"id": "JAH-AUCS-000020", "t": "Citation Behavior", "g": "Compounded"}
+{"id": "JAH-AUCS-000021", "t": "Refusal Design", "g": "Compounded"}
+{"id": "JAH-AUCS-000022", "t": "Partial Answers", "g": "Compounded"}
+{"id": "JAH-AUCS-000023", "t": "Confidence in Summaries", "g": "Compounded"}
+{"id": "JAH-AUCS-000024", "t": "Multilingual Uncertainty", "g": "Advanced"}
+{"id": "JAH-AUCS-000025", "t": "User Studies", "g": "Advanced"}
+{"id": "JAH-AUCS-000026", "t": "Regulatory Views", "g": "Advanced"}
+{"id": "JAH-AUCS-000027", "t": "Documentation", "g": "Advanced"}
+{"id": "JAH-AUCS-000028", "t": "Testing Calibration", "g": "Advanced"}
+{"id": "JAH-AUCS-000029", "t": "Adversarial Uncertainty", "g": "Advanced"}
+{"id": "JAH-AUCS-000030", "t": "Long-Horizon Uncertainty", "g": "Advanced"}
+{"id": "JAH-AUCS-000031", "t": "Team Decisions", "g": "Advanced"}
+{"id": "JAH-AUCS-000032", "t": "Interfaces Compared", "g": "Advanced"}
+{"id": "JAH-AUCS-000033", "t": "Research Frontiers", "g": "Advanced"}
+{"id": "JAH-AUCS-000034", "t": "Building the Habit", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-BPWE-000001", "t": "Business Process and Workflow Engineering Database: SIPOC Mapping", "c": 0, "g": "process-mapping"}
+{"id": "JAH-BPWE-000002", "t": "Business Process and Workflow Engineering Database: Value Stream Mapping", "c": 0, "g": "process-mapping"}
+{"id": "JAH-BPWE-000003", "t": "Business Process and Workflow Engineering Database: Bottleneck Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000004", "t": "Business Process and Workflow Engineering Database: Cycle Time", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000005", "t": "Business Process and Workflow Engineering Database: Throughput", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000006", "t": "Business Process and Workflow Engineering Database: Little Law (WIP)", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000007", "t": "Business Process and Workflow Engineering Database: Process Capacity", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000008", "t": "Business Process and Workflow Engineering Database: Utilization", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000009", "t": "Business Process and Workflow Engineering Database: Takt Time", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000010", "t": "Business Process and Workflow Engineering Database: Lead Time", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000011", "t": "Business Process and Workflow Engineering Database: Value-Add Ratio", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000012", "t": "Business Process and Workflow Engineering Database: 8 Wastes (DOWNTIME)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000013", "t": "Business Process and Workflow Engineering Database: 5S", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000014", "t": "Business Process and Workflow Engineering Database: Kaizen Events", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000015", "t": "Business Process and Workflow Engineering Database: Standard Work", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000016", "t": "Business Process and Workflow Engineering Database: Poka-Yoke", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000017", "t": "Business Process and Workflow Engineering Database: SMED (Changeover)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000018", "t": "Business Process and Workflow Engineering Database: Kanban", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000019", "t": "Business Process and Workflow Engineering Database: Control Charts (SPC)", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWE-000020", "t": "Business Process and Workflow Engineering Database: Process Capability (Cp/Cpk)", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWE-000021", "t": "Business Process and Workflow Engineering Database: DPMO / Six Sigma", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWE-000022", "t": "Business Process and Workflow Engineering Database: FMEA (Process)", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWE-000023", "t": "Business Process and Workflow Engineering Database: 5 Whys", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000024", "t": "Business Process and Workflow Engineering Database: Fishbone (Ishikawa)", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000025", "t": "Business Process and Workflow Engineering Database: Pareto Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWE-000026", "t": "Business Process and Workflow Engineering Database: RACI Matrix", "c": 0, "g": "governance"}
+{"id": "JAH-BPWE-000027", "t": "Business Process and Workflow Engineering Database: Swimlane Diagrams", "c": 0, "g": "process-mapping"}
+{"id": "JAH-BPWE-000028", "t": "Business Process and Workflow Engineering Database: Decision Rules (DMN)", "c": 0, "g": "automation"}
+{"id": "JAH-BPWE-000029", "t": "Business Process and Workflow Engineering Database: Workflow Automation (RPA)", "c": 0, "g": "automation"}
+{"id": "JAH-BPWE-000030", "t": "Business Process and Workflow Engineering Database: Heijunka (Leveling)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000031", "t": "Business Process and Workflow Engineering Database: Jidoka (Autonomation)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000032", "t": "Business Process and Workflow Engineering Database: Andon", "c": 0, "g": "lean"}
+{"id": "JAH-BPWE-000033", "t": "Business Process and Workflow Engineering Database: Process Audit", "c": 0, "g": "governance"}
+{"id": "JAH-BPWE-000034", "t": "Business Process and Workflow Engineering Database: Capstone: Process Excellence", "c": 0, "g": "governance"}

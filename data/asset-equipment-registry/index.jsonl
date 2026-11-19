@@ -1,0 +1,34 @@
+{"id": "JAH-AREG-000001", "t": "What Is an Asset: Property, Equipment, and Inventory", "g": "Foundations"}
+{"id": "JAH-AREG-000002", "t": "The Asset Register: What Every Record Carries", "g": "Foundations"}
+{"id": "JAH-AREG-000003", "t": "Asset Tags and Physical Identification", "g": "Foundations"}
+{"id": "JAH-AREG-000004", "t": "Asset Categories and Classification", "g": "Foundations"}
+{"id": "JAH-AREG-000005", "t": "Naming Conventions and Asset Taxonomy", "g": "Foundations"}
+{"id": "JAH-AREG-000006", "t": "Acquisition and Capitalization", "g": "Foundations"}
+{"id": "JAH-AREG-000007", "t": "Assignment and Custody", "g": "Foundations"}
+{"id": "JAH-AREG-000008", "t": "Asset Condition Ratings", "g": "Foundations"}
+{"id": "JAH-AREG-000009", "t": "Asset Location and Site Tracking", "g": "Foundations"}
+{"id": "JAH-AREG-000010", "t": "Asset Lifecycle States", "g": "Foundations"}
+{"id": "JAH-AREG-000011", "t": "Tag Technologies: Barcode, QR Code, and RFID", "g": "Compounded"}
+{"id": "JAH-AREG-000012", "t": "Depreciation Schedules: Straight-Line and Declining Balance", "g": "Compounded"}
+{"id": "JAH-AREG-000013", "t": "CMDB-Style Configuration Records", "g": "Compounded"}
+{"id": "JAH-AREG-000014", "t": "Maintenance History and Work Orders", "g": "Compounded"}
+{"id": "JAH-AREG-000015", "t": "Preventive and Predictive Maintenance Scheduling", "g": "Compounded"}
+{"id": "JAH-AREG-000016", "t": "Warranty Tracking and Claims", "g": "Compounded"}
+{"id": "JAH-AREG-000017", "t": "Calibration Management and Traceability", "g": "Compounded"}
+{"id": "JAH-AREG-000018", "t": "Asset Audits and Physical Verification", "g": "Compounded"}
+{"id": "JAH-AREG-000019", "t": "Asset Utilization and Performance Metrics", "g": "Compounded"}
+{"id": "JAH-AREG-000020", "t": "Spare Parts Linkage and Inventory", "g": "Compounded"}
+{"id": "JAH-AREG-000021", "t": "Asset Risk and Criticality Assessment", "g": "Compounded"}
+{"id": "JAH-AREG-000022", "t": "Configuration Baselines and Change Control", "g": "Compounded"}
+{"id": "JAH-AREG-000023", "t": "Reliability Metrics: MTBF, MTTR, and Availability", "g": "Advanced"}
+{"id": "JAH-AREG-000024", "t": "Total Cost of Ownership Modeling", "g": "Advanced"}
+{"id": "JAH-AREG-000025", "t": "The ISO 55000 Asset Management Framework", "g": "Advanced"}
+{"id": "JAH-AREG-000026", "t": "Asset Finance: Leasing Versus Buying", "g": "Advanced"}
+{"id": "JAH-AREG-000027", "t": "Asset Health Scoring and Predictive Replacement", "g": "Advanced"}
+{"id": "JAH-AREG-000028", "t": "Disposal, Decommissioning, and Data Sanitization", "g": "Advanced"}
+{"id": "JAH-AREG-000029", "t": "CMDB Federation and Automated Discovery", "g": "Advanced"}
+{"id": "JAH-AREG-000030", "t": "Asset Insurance and Loss Coverage", "g": "Advanced"}
+{"id": "JAH-AREG-000031", "t": "Registry Data Quality and Governance", "g": "Advanced"}
+{"id": "JAH-AREG-000032", "t": "Registry Analytics and Key Performance Indicators", "g": "Advanced"}
+{"id": "JAH-AREG-000033", "t": "Fleet Management and Multi-Site Consolidation", "g": "Advanced"}
+{"id": "JAH-AREG-000034", "t": "Building an Asset Registry Program", "g": "Advanced"}

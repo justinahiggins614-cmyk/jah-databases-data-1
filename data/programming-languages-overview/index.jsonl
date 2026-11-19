@@ -1,0 +1,34 @@
+{"id": "JAH-PROG-000001", "t": "What Is a Programming Language", "g": "Foundations"}
+{"id": "JAH-PROG-000002", "t": "Compiled Versus Interpreted Languages", "g": "Foundations"}
+{"id": "JAH-PROG-000003", "t": "Syntax Versus Semantics", "g": "Foundations"}
+{"id": "JAH-PROG-000004", "t": "Variables and Types Across Languages", "g": "Foundations"}
+{"id": "JAH-PROG-000005", "t": "Control Flow: The Universal Toolkit", "g": "Foundations"}
+{"id": "JAH-PROG-000006", "t": "Functions: Named Reusable Computation", "g": "Foundations"}
+{"id": "JAH-PROG-000007", "t": "The Imperative Paradigm", "g": "Foundations"}
+{"id": "JAH-PROG-000008", "t": "The Object-Oriented Paradigm", "g": "Foundations"}
+{"id": "JAH-PROG-000009", "t": "The Functional Paradigm", "g": "Foundations"}
+{"id": "JAH-PROG-000010", "t": "Declarative and Logic Paradigms", "g": "Foundations"}
+{"id": "JAH-PROG-000011", "t": "Language Generations: 1GL to 5GL", "g": "Foundations"}
+{"id": "JAH-PROG-000012", "t": "Static Versus Dynamic Typing", "g": "Compounded"}
+{"id": "JAH-PROG-000013", "t": "Strong Versus Weak Typing", "g": "Compounded"}
+{"id": "JAH-PROG-000014", "t": "Memory Management: GC Versus Manual", "g": "Compounded"}
+{"id": "JAH-PROG-000015", "t": "Type Inference", "g": "Compounded"}
+{"id": "JAH-PROG-000016", "t": "Concurrency Models Across Languages", "g": "Compounded"}
+{"id": "JAH-PROG-000017", "t": "The Systems Language Map", "g": "Compounded"}
+{"id": "JAH-PROG-000018", "t": "The Web Language Map", "g": "Compounded"}
+{"id": "JAH-PROG-000019", "t": "The Data and AI Language Map", "g": "Compounded"}
+{"id": "JAH-PROG-000020", "t": "Language Design Tradeoffs", "g": "Compounded"}
+{"id": "JAH-PROG-000021", "t": "Interoperability: Languages Talking to Each Other", "g": "Compounded"}
+{"id": "JAH-PROG-000022", "t": "Standard Libraries Versus Ecosystems", "g": "Compounded"}
+{"id": "JAH-PROG-000023", "t": "Choosing a Language for a Project", "g": "Compounded"}
+{"id": "JAH-PROG-000024", "t": "Compilers: Lexing and Parsing", "g": "Advanced"}
+{"id": "JAH-PROG-000025", "t": "Interpreters and Virtual Machines", "g": "Advanced"}
+{"id": "JAH-PROG-000026", "t": "Just-in-Time Compilation", "g": "Advanced"}
+{"id": "JAH-PROG-000027", "t": "Garbage Collection Algorithms", "g": "Advanced"}
+{"id": "JAH-PROG-000028", "t": "Type Systems Theory in Practice", "g": "Advanced"}
+{"id": "JAH-PROG-000029", "t": "Formal Semantics: What Programs Mean", "g": "Advanced"}
+{"id": "JAH-PROG-000030", "t": "Domain-Specific Languages", "g": "Advanced"}
+{"id": "JAH-PROG-000031", "t": "Esoteric Languages and What They Teach", "g": "Advanced"}
+{"id": "JAH-PROG-000032", "t": "Language Evolution and Versioning", "g": "Advanced"}
+{"id": "JAH-PROG-000033", "t": "Benchmarking Languages Fairly", "g": "Advanced"}
+{"id": "JAH-PROG-000034", "t": "Building Your Own Language: An Overview", "g": "Advanced"}

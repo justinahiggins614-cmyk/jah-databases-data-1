@@ -1,0 +1,34 @@
+{"id": "JAH-CGFS-000001", "t": "Growth Forecasting Overview (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000002", "t": "Record Count Projection Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000003", "t": "Storage Requirement Forecasting (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000004", "t": "Throughput Estimation (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000005", "t": "Hardware Constraint Mapping (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000006", "t": "Growth Rate Measurement (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000007", "t": "Linear Projection Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000008", "t": "Compounding Growth Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000009", "t": "Seasonal Growth Patterns (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000010", "t": "Forecast Horizon Selection (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CGFS-000011", "t": "Forecast History Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000012", "t": "Forecast Accuracy Tracking (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000013", "t": "Capacity Headroom Policy (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000014", "t": "Ingestion Pipeline Capacity (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000015", "t": "Query Load Forecasting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000016", "t": "Index Growth Projection (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000017", "t": "Shard Split Forecasting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000018", "t": "Backfill Capacity Planning (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000019", "t": "Burst Capacity Reserves (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000020", "t": "Multi-Database Fleet Forecasting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000021", "t": "Forecast-Driven Procurement (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CGFS-000022", "t": "Million-Database Scale Projection (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000023", "t": "Logistic S-Curve Growth Model (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000024", "t": "Constraint-Bound Forecasting (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000025", "t": "Monte Carlo Capacity Simulation (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000026", "t": "What-If Scenario Modeling (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000027", "t": "Forecast Confidence Intervals (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000028", "t": "Capacity Cliff Detection (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000029", "t": "Decommissioning and Shrinkage Forecasts (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000030", "t": "Cost-Linked Capacity Planning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000031", "t": "Forecast Governance Record (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000032", "t": "Capacity Dashboard Exemplar (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000033", "t": "Forecast Model Selection Guide (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CGFS-000034", "t": "Forecasting Self-Audit and Mastery Record (Signature Edition)", "g": "Advanced"}

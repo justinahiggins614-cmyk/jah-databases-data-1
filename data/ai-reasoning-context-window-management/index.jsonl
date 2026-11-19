@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-CW-000001", "t": "What the context window is: the working view", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000002", "t": "Tokens: the currency", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000003", "t": "The budget: spending tokens wisely", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000004", "t": "Prioritization: what stays", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000005", "t": "Ordering: position matters", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000006", "t": "The system prompt's seat: the permanent resident", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000007", "t": "Conversation history: the growing past", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000008", "t": "Truncation: the blunt tool", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000009", "t": "The first budget: a complete example", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000010", "t": "Fitting the task: the right size", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000011", "t": "Compression: the smaller window", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CW-000012", "t": "The window audit: knowing what is inside", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000013", "t": "Summarization: the compressed past", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000014", "t": "Retrieval augmentation: fetching what is needed", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000015", "t": "Dynamic budgets: adapting the spend", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000016", "t": "Lost in the middle: the position effect", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000017", "t": "Attention dilution: the crowded window", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000018", "t": "KV cache: the engine room", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000019", "t": "Prompt caching: the reusable start", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000020", "t": "Evaluation: measuring the management", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000021", "t": "Cost optimization: the efficient window", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000022", "t": "Million-token contexts: the new scale", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000023", "t": "Hierarchical context: levels of detail", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CW-000024", "t": "Window warming: the prepared context", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000025", "t": "Salience scoring: ranking content", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000026", "t": "Deduplication: the lean window", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000027", "t": "Memory systems: beyond the window", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000028", "t": "The infinite context illusion: the honest limit", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000029", "t": "The managed mind: the final standard", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000030", "t": "The context compiler: building windows programmatically", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000031", "t": "Multi-window systems: parallel contexts", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000032", "t": "The attention budget: spending focus", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000033", "t": "Context versioning: the changing window", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CW-000034", "t": "The windowless future: beyond fixed contexts", "g": "context-window-management-advanced"}

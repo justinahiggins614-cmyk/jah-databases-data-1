@@ -1,0 +1,34 @@
+{"id": "JAH-MSP-000001", "t": "Materials Science and Property Prediction Database: Density", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000002", "t": "Materials Science and Property Prediction Database: Hooke Law (Uniaxial)", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000003", "t": "Materials Science and Property Prediction Database: Thermal Expansion", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000004", "t": "Materials Science and Property Prediction Database: Sensible Heat", "c": 0, "g": "thermal"}
+{"id": "JAH-MSP-000005", "t": "Materials Science and Property Prediction Database: Fourier Conduction", "c": 0, "g": "thermal"}
+{"id": "JAH-MSP-000006", "t": "Materials Science and Property Prediction Database: Electrical Resistance From Resistivity", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000007", "t": "Materials Science and Property Prediction Database: Diffusion Depth", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000008", "t": "Materials Science and Property Prediction Database: Arrhenius Rate", "c": 0, "g": "ceramics"}
+{"id": "JAH-MSP-000009", "t": "Materials Science and Property Prediction Database: Hall-Petch Strengthening", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000010", "t": "Materials Science and Property Prediction Database: Rule of Mixtures (Modulus)", "c": 0, "g": "composites"}
+{"id": "JAH-MSP-000011", "t": "Materials Science and Property Prediction Database: Inverse Rule of Mixtures", "c": 0, "g": "composites"}
+{"id": "JAH-MSP-000012", "t": "Materials Science and Property Prediction Database: Weight Fraction From Volume", "c": 0, "g": "composites"}
+{"id": "JAH-MSP-000013", "t": "Materials Science and Property Prediction Database: Corrosion Rate", "c": 0, "g": "degradation"}
+{"id": "JAH-MSP-000014", "t": "Materials Science and Property Prediction Database: Creep Rate (Norton)", "c": 0, "g": "degradation"}
+{"id": "JAH-MSP-000015", "t": "Materials Science and Property Prediction Database: Larson-Miller Parameter", "c": 0, "g": "degradation"}
+{"id": "JAH-MSP-000016", "t": "Materials Science and Property Prediction Database: Fracture Toughness Stress Intensity", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000017", "t": "Materials Science and Property Prediction Database: Critical Crack Size", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000018", "t": "Materials Science and Property Prediction Database: Paris Crack Growth", "c": 0, "g": "degradation"}
+{"id": "JAH-MSP-000019", "t": "Materials Science and Property Prediction Database: Hardness-Tensile Approximation", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000020", "t": "Materials Science and Property Prediction Database: Specific Strength", "c": 0, "g": "selection"}
+{"id": "JAH-MSP-000021", "t": "Materials Science and Property Prediction Database: Specific Stiffness", "c": 0, "g": "selection"}
+{"id": "JAH-MSP-000022", "t": "Materials Science and Property Prediction Database: Poisson Ratio From Strains", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000023", "t": "Materials Science and Property Prediction Database: Bulk Modulus", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000024", "t": "Materials Science and Property Prediction Database: Shear Modulus", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000025", "t": "Materials Science and Property Prediction Database: Bragg Law (d-Spacing)", "c": 0, "g": "ceramics"}
+{"id": "JAH-MSP-000026", "t": "Materials Science and Property Prediction Database: ASTM Grain Size Number", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000027", "t": "Materials Science and Property Prediction Database: Lever Rule (Phase Fraction)", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000028", "t": "Materials Science and Property Prediction Database: Carbon Equivalent (Weldability)", "c": 0, "g": "selection"}
+{"id": "JAH-MSP-000029", "t": "Materials Science and Property Prediction Database: Electrical Conductivity", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000030", "t": "Materials Science and Property Prediction Database: Magnetic Flux Density", "c": 0, "g": "metals"}
+{"id": "JAH-MSP-000031", "t": "Materials Science and Property Prediction Database: Parallel-Plate Capacitance", "c": 0, "g": "ceramics"}
+{"id": "JAH-MSP-000032", "t": "Materials Science and Property Prediction Database: Thermal Stress (Constrained)", "c": 0, "g": "thermal"}
+{"id": "JAH-MSP-000033", "t": "Materials Science and Property Prediction Database: Biot Number", "c": 0, "g": "thermal"}
+{"id": "JAH-MSP-000034", "t": "Materials Science and Property Prediction Database: Fourier Number", "c": 0, "g": "thermal"}

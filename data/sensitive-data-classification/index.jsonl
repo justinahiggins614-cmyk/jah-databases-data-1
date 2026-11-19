@@ -1,0 +1,34 @@
+{"id": "JAH-SDCL-000001", "t": "What Data Classification Is", "g": "Classification Basics"}
+{"id": "JAH-SDCL-000002", "t": "Why Classify: Risk, Compliance, Cost", "g": "Classification Basics"}
+{"id": "JAH-SDCL-000003", "t": "Public Data", "g": "Data Categories"}
+{"id": "JAH-SDCL-000004", "t": "Internal Data", "g": "Data Categories"}
+{"id": "JAH-SDCL-000005", "t": "Confidential Data", "g": "Data Categories"}
+{"id": "JAH-SDCL-000006", "t": "Restricted and Regulated Data", "g": "Data Categories"}
+{"id": "JAH-SDCL-000007", "t": "Personal Data (PII)", "g": "Data Categories"}
+{"id": "JAH-SDCL-000008", "t": "Special-Category Personal Data", "g": "Data Categories"}
+{"id": "JAH-SDCL-000009", "t": "Proprietary Data", "g": "Data Categories"}
+{"id": "JAH-SDCL-000010", "t": "Trade Secrets", "g": "Data Categories"}
+{"id": "JAH-SDCL-000011", "t": "Health Data (PHI)", "g": "Data Categories"}
+{"id": "JAH-SDCL-000012", "t": "Financial Data (PCI)", "g": "Data Categories"}
+{"id": "JAH-SDCL-000013", "t": "Classification Criteria", "g": "Classification Operations"}
+{"id": "JAH-SDCL-000014", "t": "Labeling Schemes", "g": "Classification Operations"}
+{"id": "JAH-SDCL-000015", "t": "Automated Classification", "g": "Classification Operations"}
+{"id": "JAH-SDCL-000016", "t": "Regex and Pattern Matching", "g": "Classification Operations"}
+{"id": "JAH-SDCL-000017", "t": "ML Classifiers for Sensitivity", "g": "Classification Operations"}
+{"id": "JAH-SDCL-000018", "t": "Handling Rules by Level", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000019", "t": "Access Controls by Classification", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000020", "t": "Encryption Requirements", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000021", "t": "Masking and Tokenization", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000022", "t": "Classification in Pipelines", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000023", "t": "Classification Metadata", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000024", "t": "Re-classification Workflows", "g": "Handling Rules"}
+{"id": "JAH-SDCL-000025", "t": "Declassification", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000026", "t": "Classification Disputes", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000027", "t": "Classification for a Million-Database Network", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000028", "t": "Classification Metrics", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000029", "t": "Classification and Lineage", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000030", "t": "Classification of Derived Data", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000031", "t": "Provenance of Classifications", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000032", "t": "Classification Audits", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000033", "t": "Incident Handling for Misclassified Data", "g": "Advanced Classification"}
+{"id": "JAH-SDCL-000034", "t": "Sensitive Data Classification Mastery Review", "g": "Advanced Classification"}

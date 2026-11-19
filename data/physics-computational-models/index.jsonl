@@ -1,0 +1,34 @@
+{"id": "JAH-PHCM-000001", "t": "Physics and Computational Models Database: Newton Second Law", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000002", "t": "Physics and Computational Models Database: Kinetic Energy", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000003", "t": "Physics and Computational Models Database: Gravitational Potential Energy", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000004", "t": "Physics and Computational Models Database: Mechanical Work", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000005", "t": "Physics and Computational Models Database: Mechanical Power", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000006", "t": "Physics and Computational Models Database: Linear Momentum", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000007", "t": "Physics and Computational Models Database: Impulse", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000008", "t": "Physics and Computational Models Database: Pressure", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000009", "t": "Physics and Computational Models Database: Density", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000010", "t": "Physics and Computational Models Database: Ohm Law", "c": 0, "g": "electromagnetism"}
+{"id": "JAH-PHCM-000011", "t": "Physics and Computational Models Database: Electric Power", "c": 0, "g": "electromagnetism"}
+{"id": "JAH-PHCM-000012", "t": "Physics and Computational Models Database: Coulomb Force", "c": 0, "g": "electromagnetism"}
+{"id": "JAH-PHCM-000013", "t": "Physics and Computational Models Database: Gravitational Force", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000014", "t": "Physics and Computational Models Database: Wave Speed", "c": 0, "g": "waves"}
+{"id": "JAH-PHCM-000015", "t": "Physics and Computational Models Database: Frequency from Period", "c": 0, "g": "waves"}
+{"id": "JAH-PHCM-000016", "t": "Physics and Computational Models Database: Hooke Law", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000017", "t": "Physics and Computational Models Database: Spring Potential Energy", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000018", "t": "Physics and Computational Models Database: Centripetal Force", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000019", "t": "Physics and Computational Models Database: Torque", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000020", "t": "Physics and Computational Models Database: Angular Velocity", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000021", "t": "Physics and Computational Models Database: Ideal Gas Pressure", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-PHCM-000022", "t": "Physics and Computational Models Database: Thermal Efficiency", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-PHCM-000023", "t": "Physics and Computational Models Database: Refractive Index", "c": 0, "g": "waves"}
+{"id": "JAH-PHCM-000024", "t": "Physics and Computational Models Database: Doppler Shift (approaching)", "c": 0, "g": "waves"}
+{"id": "JAH-PHCM-000025", "t": "Physics and Computational Models Database: Half-Life Remaining", "c": 0, "g": "modern"}
+{"id": "JAH-PHCM-000026", "t": "Physics and Computational Models Database: Radioactive Decay", "c": 0, "g": "modern"}
+{"id": "JAH-PHCM-000027", "t": "Physics and Computational Models Database: Thermal Kinetic Energy", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-PHCM-000028", "t": "Physics and Computational Models Database: Escape Velocity (Earth)", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000029", "t": "Physics and Computational Models Database: Orbital Velocity (LEO)", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCM-000030", "t": "Physics and Computational Models Database: Schwarzschild Radius (Sun)", "c": 0, "g": "modern"}
+{"id": "JAH-PHCM-000031", "t": "Physics and Computational Models Database: Lorentz Factor", "c": 0, "g": "modern"}
+{"id": "JAH-PHCM-000032", "t": "Physics and Computational Models Database: Photon Energy", "c": 0, "g": "modern"}
+{"id": "JAH-PHCM-000033", "t": "Physics and Computational Models Database: de Broglie Wavelength", "c": 0, "g": "modern"}
+{"id": "JAH-PHCM-000034", "t": "Physics and Computational Models Database: Projectile Range Capstone", "c": 0, "g": "mechanics"}

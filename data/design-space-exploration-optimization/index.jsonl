@@ -1,0 +1,34 @@
+{"id": "JAH-DSEO-000001", "t": "Design-Space Exploration and Optimization Database: Combinations", "c": 0, "g": "counting"}
+{"id": "JAH-DSEO-000002", "t": "Design-Space Exploration and Optimization Database: Permutations", "c": 0, "g": "counting"}
+{"id": "JAH-DSEO-000003", "t": "Design-Space Exploration and Optimization Database: Full Factorial Runs", "c": 0, "g": "doe"}
+{"id": "JAH-DSEO-000004", "t": "Design-Space Exploration and Optimization Database: Parameter Sweep Points", "c": 0, "g": "doe"}
+{"id": "JAH-DSEO-000005", "t": "Design-Space Exploration and Optimization Database: Weighted Score", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000006", "t": "Design-Space Exploration and Optimization Database: Normalized Score", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000007", "t": "Design-Space Exploration and Optimization Database: Improvement Ratio", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000008", "t": "Design-Space Exploration and Optimization Database: Percent Improvement", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000009", "t": "Design-Space Exploration and Optimization Database: Constraint Violation", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEO-000010", "t": "Design-Space Exploration and Optimization Database: Penalty", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEO-000011", "t": "Design-Space Exploration and Optimization Database: Fitness", "c": 0, "g": "optimization"}
+{"id": "JAH-DSEO-000012", "t": "Design-Space Exploration and Optimization Database: Main Effect (DOE)", "c": 0, "g": "doe"}
+{"id": "JAH-DSEO-000013", "t": "Design-Space Exploration and Optimization Database: Design Margin", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEO-000014", "t": "Design-Space Exploration and Optimization Database: Safety Factor", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEO-000015", "t": "Design-Space Exploration and Optimization Database: Utilization", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEO-000016", "t": "Design-Space Exploration and Optimization Database: Efficiency", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000017", "t": "Design-Space Exploration and Optimization Database: Tradeoff Slope", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000018", "t": "Design-Space Exploration and Optimization Database: Sensitivity", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000019", "t": "Design-Space Exploration and Optimization Database: Response Range", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000020", "t": "Design-Space Exploration and Optimization Database: Coefficient of Variation", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000021", "t": "Design-Space Exploration and Optimization Database: Z-Score", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000022", "t": "Design-Space Exploration and Optimization Database: Rank Score", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000023", "t": "Design-Space Exploration and Optimization Database: Cost per Performance", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000024", "t": "Design-Space Exploration and Optimization Database: Performance per Cost", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000025", "t": "Design-Space Exploration and Optimization Database: ROI", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000026", "t": "Design-Space Exploration and Optimization Database: Learning Curve", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000027", "t": "Design-Space Exploration and Optimization Database: Scaling Law", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000028", "t": "Design-Space Exploration and Optimization Database: Marginal Gain", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000029", "t": "Design-Space Exploration and Optimization Database: Regret", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000030", "t": "Design-Space Exploration and Optimization Database: Expected Value", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000031", "t": "Design-Space Exploration and Optimization Database: Risk-Adjusted Value", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEO-000032", "t": "Design-Space Exploration and Optimization Database: Design Diversity", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000033", "t": "Design-Space Exploration and Optimization Database: Coverage", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEO-000034", "t": "Design-Space Exploration and Optimization Database: Design Score Capstone", "c": 0, "g": "ranking"}

@@ -1,0 +1,34 @@
+{"id": "JAH-EGPSS-000001", "t": "Electrical Grid and Power Systems Signature Database: Single-Phase Real Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000002", "t": "Electrical Grid and Power Systems Signature Database: Reactive Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000003", "t": "Electrical Grid and Power Systems Signature Database: Apparent Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000004", "t": "Electrical Grid and Power Systems Signature Database: Power Factor from P/S", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000005", "t": "Electrical Grid and Power Systems Signature Database: Three-Phase Real Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000006", "t": "Electrical Grid and Power Systems Signature Database: Three-Phase Current", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000007", "t": "Electrical Grid and Power Systems Signature Database: Resistive Line Loss", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000008", "t": "Electrical Grid and Power Systems Signature Database: DC Voltage Drop", "c": 0, "g": "dc-systems"}
+{"id": "JAH-EGPSS-000009", "t": "Electrical Grid and Power Systems Signature Database: Transformer Voltage Ratio", "c": 0, "g": "transformers"}
+{"id": "JAH-EGPSS-000010", "t": "Electrical Grid and Power Systems Signature Database: Transformer Efficiency", "c": 0, "g": "transformers"}
+{"id": "JAH-EGPSS-000011", "t": "Electrical Grid and Power Systems Signature Database: Load Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPSS-000012", "t": "Electrical Grid and Power Systems Signature Database: Demand Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPSS-000013", "t": "Electrical Grid and Power Systems Signature Database: Diversity Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPSS-000014", "t": "Electrical Grid and Power Systems Signature Database: Coincidence Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPSS-000015", "t": "Electrical Grid and Power Systems Signature Database: Utilization Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPSS-000016", "t": "Electrical Grid and Power Systems Signature Database: Per-Unit Voltage", "c": 0, "g": "analysis"}
+{"id": "JAH-EGPSS-000017", "t": "Electrical Grid and Power Systems Signature Database: Energy Consumption", "c": 0, "g": "metering"}
+{"id": "JAH-EGPSS-000018", "t": "Electrical Grid and Power Systems Signature Database: Energy Cost", "c": 0, "g": "metering"}
+{"id": "JAH-EGPSS-000019", "t": "Electrical Grid and Power Systems Signature Database: Demand Charge", "c": 0, "g": "metering"}
+{"id": "JAH-EGPSS-000020", "t": "Electrical Grid and Power Systems Signature Database: Total Power Bill", "c": 0, "g": "metering"}
+{"id": "JAH-EGPSS-000021", "t": "Electrical Grid and Power Systems Signature Database: Power Factor Correction", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000022", "t": "Electrical Grid and Power Systems Signature Database: kVA to kW", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000023", "t": "Electrical Grid and Power Systems Signature Database: kW to kVA", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000024", "t": "Electrical Grid and Power Systems Signature Database: kVAR from kVA/kW", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000025", "t": "Electrical Grid and Power Systems Signature Database: Line-to-Neutral Voltage", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000026", "t": "Electrical Grid and Power Systems Signature Database: Delta Line Current", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000027", "t": "Electrical Grid and Power Systems Signature Database: Synchronous Speed", "c": 0, "g": "machines"}
+{"id": "JAH-EGPSS-000028", "t": "Electrical Grid and Power Systems Signature Database: Induction Motor Slip", "c": 0, "g": "machines"}
+{"id": "JAH-EGPSS-000029", "t": "Electrical Grid and Power Systems Signature Database: Shaft Power", "c": 0, "g": "machines"}
+{"id": "JAH-EGPSS-000030", "t": "Electrical Grid and Power Systems Signature Database: Motor Efficiency", "c": 0, "g": "machines"}
+{"id": "JAH-EGPSS-000031", "t": "Electrical Grid and Power Systems Signature Database: Voltage Regulation", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPSS-000032", "t": "Electrical Grid and Power Systems Signature Database: Copper Wire Resistance", "c": 0, "g": "dc-systems"}
+{"id": "JAH-EGPSS-000033", "t": "Electrical Grid and Power Systems Signature Database: Capacity Factor (Plant)", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPSS-000034", "t": "Electrical Grid and Power Systems Signature Database: Feeder Check Capstone", "c": 0, "g": "design"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DNG-000001", "t": "Signature Why Normalize (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000002", "t": "Signature First Normal Form (1NF) (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000003", "t": "Signature Second Normal Form (2NF) (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000004", "t": "Signature Third Normal Form (3NF) (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000005", "t": "Signature BCNF (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000006", "t": "Signature 4NF and 5NF (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000007", "t": "Signature Anomalies Explained (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000008", "t": "Signature Keys: Natural vs Surrogate (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000009", "t": "Signature Relationships: 1-1, 1-N, N-M (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000010", "t": "Signature ER Diagramming (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000011", "t": "Signature When to Denormalize (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000012", "t": "Signature Star Schema (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000013", "t": "Signature Snowflake Schema (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000014", "t": "Signature Slowly Changing Dimensions (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000015", "t": "Signature Normalization in NoSQL (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000016", "t": "Signature Text Normalization (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000017", "t": "Signature Date/Time Normalization (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000018", "t": "Signature Currency Normalization (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000019", "t": "Signature Address Normalization (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000020", "t": "Signature Name Normalization (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000021", "t": "Signature Phone Normalization (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000022", "t": "Signature Email Normalization (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000023", "t": "Signature Unit Normalization (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000024", "t": "Signature Categorical Encoding (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000025", "t": "Signature The Normalization Checklist (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000026", "t": "Signature Normalization vs Performance (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000027", "t": "Signature Indexing Normalized Tables (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000028", "t": "Signature Materialized Views (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000029", "t": "Signature JSON Columns: When (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000030", "t": "Signature Temporal Tables (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000031", "t": "Signature Normalization Smells (Signature Edition)", "g": "normal-forms"}
+{"id": "JAH-DNG-000032", "t": "Signature Refactoring to 3NF (Signature Edition)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000033", "t": "Signature Normalization in Data Lakes (Signature Edition)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000034", "t": "Signature Case Study: Order System (Signature Edition)", "g": "normal-forms"}

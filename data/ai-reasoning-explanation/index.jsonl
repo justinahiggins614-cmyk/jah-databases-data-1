@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-EX-000001", "t": "What explanation is: making clear", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000002", "t": "The reader: explaining for someone", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000003", "t": "Clarity: the clear explanation", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000004", "t": "Structure: the architecture of understanding", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000005", "t": "Examples: the concrete teacher", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000006", "t": "Analogy basics: the familiar explaining the strange", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000007", "t": "The honest 'I do not know': the limit stated", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000008", "t": "Simple language: the plain voice", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000009", "t": "The first explanation: a complete example", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000010", "t": "Checking understanding: did it land", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000011", "t": "Brevity: the short explanation", "g": "explanation-foundations"}
+{"id": "JAH-AIR-EX-000012", "t": "Audience analysis: knowing the room", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000013", "t": "Explanatory strategies: the approaches", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000014", "t": "Advanced analogies: the careful mapping", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000015", "t": "Visualizations: showing, not just telling", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000016", "t": "Justification: giving reasons", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000017", "t": "Causal explanation: why it happened", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000018", "t": "Technical explanation: the expert's craft", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000019", "t": "ELI5: the simple extreme", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000020", "t": "Interpretability basics: opening the box", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000021", "t": "LIME and SHAP: the attribution tools", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000022", "t": "Evaluation: measuring explanations", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000023", "t": "Mechanistic interpretability: the deep look", "g": "explanation-compounded"}
+{"id": "JAH-AIR-EX-000024", "t": "Explaining uncertainty: the honest hedge", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000025", "t": "Adversarial explanations: the hostile audit", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000026", "t": "The Socratic method: questions that teach", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000027", "t": "Teaching at scale: explanation for many", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000028", "t": "The master explainer: the final standard", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000029", "t": "Explaining to experts: the peer briefing", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000030", "t": "Explaining failure: the honest postmortem", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000031", "t": "Narrative explanation: the story that teaches", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000032", "t": "Interactive explanation: the dialogue", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000033", "t": "Explaining with data: the evidentiary style", "g": "explanation-advanced"}
+{"id": "JAH-AIR-EX-000034", "t": "The explanation audit: verifying understanding at scale", "g": "explanation-advanced"}

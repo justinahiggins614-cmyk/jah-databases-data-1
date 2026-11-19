@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-SUMS-000001", "t": "What summarization is: the faithful brief (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000002", "t": "Extractive vs abstractive: two philosophies (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000003", "t": "Sentence scoring: ranking what matters (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000004", "t": "The lead baseline: surprisingly strong (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000005", "t": "Compression ratio: how short is right (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000006", "t": "Key sentences: finding the load-bearing (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000007", "t": "Faithfulness basics: do not invent (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000008", "t": "Summary purposes: briefs for someone (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000009", "t": "The first summary: a complete walkthrough (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000010", "t": "Length control: hitting the target (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000011", "t": "Reading the summary: the consumer's view (Signature Edition)", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUMS-000012", "t": "TextRank: the graph method (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000013", "t": "Query-focused summaries: answering with context (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000014", "t": "Multi-document summarization: many sources, one brief (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000015", "t": "Meeting summaries: decisions and actions (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000016", "t": "Action items: the do-list extracted (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000017", "t": "Abstractive methods: writing the summary (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000018", "t": "Faithfulness checking: verifying the brief (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000019", "t": "ROUGE: the standard metric (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000020", "t": "Human evaluation: the gold standard (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000021", "t": "Domain adaptation: summaries for the field (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000022", "t": "Update summaries: what is new (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000023", "t": "Evaluation practice: the summarization lab (Signature Edition)", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUMS-000024", "t": "Long-document summarization: the book problem (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000025", "t": "Hierarchical summaries: the telescoping brief (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000026", "t": "Faithfulness guarantees: the strong promise (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000027", "t": "Hallucination detection: catching the invented (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000028", "t": "Controllable summarization: summaries to order (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000029", "t": "Personalized summaries: briefs for you (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000030", "t": "Real-time summarization: the live brief (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000031", "t": "Summarization evaluation suites: the full battery (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000032", "t": "The briefing standard: the professional brief (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000033", "t": "The faithful brief: the final standard (Signature Edition)", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUMS-000034", "t": "The living summary: briefs that stay current (Signature Edition)", "g": "summarization-advanced"}

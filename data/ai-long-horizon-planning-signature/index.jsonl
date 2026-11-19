@@ -1,0 +1,34 @@
+{"id": "JAH-ALHPS-000001", "t": "Verifiable Steps", "g": "Foundations"}
+{"id": "JAH-ALHPS-000002", "t": "Explicit State", "g": "Foundations"}
+{"id": "JAH-ALHPS-000003", "t": "Checkpoints", "g": "Foundations"}
+{"id": "JAH-ALHPS-000004", "t": "Replan Triggers", "g": "Foundations"}
+{"id": "JAH-ALHPS-000005", "t": "Step Limits", "g": "Foundations"}
+{"id": "JAH-ALHPS-000006", "t": "Error Recovery", "g": "Foundations"}
+{"id": "JAH-ALHPS-000007", "t": "Tool Validation", "g": "Foundations"}
+{"id": "JAH-ALHPS-000008", "t": "Goal Visibility", "g": "Foundations"}
+{"id": "JAH-ALHPS-000009", "t": "Human Approval Gates", "g": "Foundations"}
+{"id": "JAH-ALHPS-000010", "t": "Stop Rules", "g": "Foundations"}
+{"id": "JAH-ALHPS-000011", "t": "Plan Libraries", "g": "Foundations"}
+{"id": "JAH-ALHPS-000012", "t": "Signature Labeling", "g": "Compounded"}
+{"id": "JAH-ALHPS-000013", "t": "Hierarchical Planning", "g": "Compounded"}
+{"id": "JAH-ALHPS-000014", "t": "Search Strategies", "g": "Compounded"}
+{"id": "JAH-ALHPS-000015", "t": "Heuristics", "g": "Compounded"}
+{"id": "JAH-ALHPS-000016", "t": "World Models", "g": "Compounded"}
+{"id": "JAH-ALHPS-000017", "t": "Monte Carlo Planning", "g": "Compounded"}
+{"id": "JAH-ALHPS-000018", "t": "Reinforcement Signals", "g": "Compounded"}
+{"id": "JAH-ALHPS-000019", "t": "Credit Assignment", "g": "Compounded"}
+{"id": "JAH-ALHPS-000020", "t": "Exploration Balance", "g": "Compounded"}
+{"id": "JAH-ALHPS-000021", "t": "Multi-Agent Planning", "g": "Compounded"}
+{"id": "JAH-ALHPS-000022", "t": "Communication Protocols", "g": "Compounded"}
+{"id": "JAH-ALHPS-000023", "t": "Conflict Resolution", "g": "Compounded"}
+{"id": "JAH-ALHPS-000024", "t": "Resource Allocation", "g": "Advanced"}
+{"id": "JAH-ALHPS-000025", "t": "Deadline Reasoning", "g": "Advanced"}
+{"id": "JAH-ALHPS-000026", "t": "Contingency Plans", "g": "Advanced"}
+{"id": "JAH-ALHPS-000027", "t": "Plan Repair", "g": "Advanced"}
+{"id": "JAH-ALHPS-000028", "t": "Execution Monitoring", "g": "Advanced"}
+{"id": "JAH-ALHPS-000029", "t": "Drift Detection", "g": "Advanced"}
+{"id": "JAH-ALHPS-000030", "t": "Intervention Design", "g": "Advanced"}
+{"id": "JAH-ALHPS-000031", "t": "Evaluation", "g": "Advanced"}
+{"id": "JAH-ALHPS-000032", "t": "Safety Bounds", "g": "Advanced"}
+{"id": "JAH-ALHPS-000033", "t": "Research Frontiers", "g": "Advanced"}
+{"id": "JAH-ALHPS-000034", "t": "Case Studies", "g": "Advanced"}

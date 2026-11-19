@@ -1,0 +1,34 @@
+{"id": "JAH-DNG-000001", "t": "Why Normalize", "g": "normal-forms"}
+{"id": "JAH-DNG-000002", "t": "First Normal Form (1NF)", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000003", "t": "Second Normal Form (2NF)", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000004", "t": "Third Normal Form (3NF)", "g": "normal-forms"}
+{"id": "JAH-DNG-000005", "t": "BCNF", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000006", "t": "4NF and 5NF", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000007", "t": "Anomalies Explained", "g": "normal-forms"}
+{"id": "JAH-DNG-000008", "t": "Keys: Natural vs Surrogate", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000009", "t": "Relationships: 1-1, 1-N, N-M", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000010", "t": "ER Diagramming", "g": "normal-forms"}
+{"id": "JAH-DNG-000011", "t": "When to Denormalize", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000012", "t": "Star Schema", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000013", "t": "Snowflake Schema", "g": "normal-forms"}
+{"id": "JAH-DNG-000014", "t": "Slowly Changing Dimensions", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000015", "t": "Normalization in NoSQL", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000016", "t": "Text Normalization", "g": "normal-forms"}
+{"id": "JAH-DNG-000017", "t": "Date/Time Normalization", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000018", "t": "Currency Normalization", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000019", "t": "Address Normalization", "g": "normal-forms"}
+{"id": "JAH-DNG-000020", "t": "Name Normalization", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000021", "t": "Phone Normalization", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000022", "t": "Email Normalization", "g": "normal-forms"}
+{"id": "JAH-DNG-000023", "t": "Unit Normalization", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000024", "t": "Categorical Encoding", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000025", "t": "The Normalization Checklist", "g": "normal-forms"}
+{"id": "JAH-DNG-000026", "t": "Normalization vs Performance", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000027", "t": "Indexing Normalized Tables", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000028", "t": "Materialized Views", "g": "normal-forms"}
+{"id": "JAH-DNG-000029", "t": "JSON Columns: When", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000030", "t": "Temporal Tables", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000031", "t": "Normalization Smells", "g": "normal-forms"}
+{"id": "JAH-DNG-000032", "t": "Refactoring to 3NF", "g": "modeling-decisions"}
+{"id": "JAH-DNG-000033", "t": "Normalization in Data Lakes", "g": "denormalization-strategy"}
+{"id": "JAH-DNG-000034", "t": "Case Study: Order System", "g": "normal-forms"}

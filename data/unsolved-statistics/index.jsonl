@@ -1,0 +1,34 @@
+{"id": "JAH-USST-000001", "t": "The Problem of Induction in Statistics", "g": "Foundations"}
+{"id": "JAH-USST-000002", "t": "Interpretations of Probability", "g": "Foundations"}
+{"id": "JAH-USST-000003", "t": "What a 95 Percent Confidence Interval Really Means", "g": "Foundations"}
+{"id": "JAH-USST-000004", "t": "The Replication Crisis in Statistics", "g": "Foundations"}
+{"id": "JAH-USST-000005", "t": "P-Values and the Search for a Replacement", "g": "Foundations"}
+{"id": "JAH-USST-000006", "t": "Multiple Testing and the Multiplicity Burden", "g": "Foundations"}
+{"id": "JAH-USST-000007", "t": "Optional Stopping and Data Peeking", "g": "Foundations"}
+{"id": "JAH-USST-000008", "t": "The Likelihood Principle Versus Frequentist Practice", "g": "Foundations"}
+{"id": "JAH-USST-000009", "t": "AIC Versus BIC: No Universal Model Selection Winner", "g": "Foundations"}
+{"id": "JAH-USST-000010", "t": "The Reference Class Problem", "g": "Foundations"}
+{"id": "JAH-USST-000011", "t": "The Problem of Priors: Elicitation and Sensitivity", "g": "Foundations"}
+{"id": "JAH-USST-000012", "t": "Goodman New Riddle: Projectibility", "g": "Foundations"}
+{"id": "JAH-USST-000013", "t": "Optimal Inference Under Model Misspecification", "g": "Compounded"}
+{"id": "JAH-USST-000014", "t": "Post-Selection Inference", "g": "Compounded"}
+{"id": "JAH-USST-000015", "t": "High-Dimensional p Much Greater Than n Guarantees", "g": "Compounded"}
+{"id": "JAH-USST-000016", "t": "Where the Bootstrap Breaks", "g": "Compounded"}
+{"id": "JAH-USST-000017", "t": "Causal Inference from Observational Data", "g": "Compounded"}
+{"id": "JAH-USST-000018", "t": "Causal Discovery: Learning Cause from Correlation", "g": "Compounded"}
+{"id": "JAH-USST-000019", "t": "Transportability and External Validity", "g": "Compounded"}
+{"id": "JAH-USST-000020", "t": "Causal Inference Under Interference", "g": "Compounded"}
+{"id": "JAH-USST-000021", "t": "Meta-Analysis Under Publication Bias", "g": "Compounded"}
+{"id": "JAH-USST-000022", "t": "Missing Data and Nonignorable Nonresponse", "g": "Compounded"}
+{"id": "JAH-USST-000023", "t": "Conformal Prediction: Validity Versus Efficiency", "g": "Compounded"}
+{"id": "JAH-USST-000024", "t": "Adaptive Data Analysis and the Reusable Holdout", "g": "Compounded"}
+{"id": "JAH-USST-000025", "t": "Differential Privacy and the Utility Frontier", "g": "Compounded"}
+{"id": "JAH-USST-000026", "t": "Objective Bayes and Reference Priors", "g": "Compounded"}
+{"id": "JAH-USST-000027", "t": "Foundations of Statistical Evidence", "g": "Advanced"}
+{"id": "JAH-USST-000028", "t": "Generalized Bayesian Inference Under Misspecification", "g": "Advanced"}
+{"id": "JAH-USST-000029", "t": "Honest Uniform Inference for Complex Estimators", "g": "Advanced"}
+{"id": "JAH-USST-000030", "t": "The Conditional Coverage Impossibility", "g": "Advanced"}
+{"id": "JAH-USST-000031", "t": "Ergodicity: Time Averages Versus Ensemble Averages", "g": "Advanced"}
+{"id": "JAH-USST-000032", "t": "Imprecise Probabilities and Rival Foundations", "g": "Advanced"}
+{"id": "JAH-USST-000033", "t": "Anytime-Valid Inference for Arbitrary Models", "g": "Advanced"}
+{"id": "JAH-USST-000034", "t": "The Unification Problem: One Framework for All Inference", "g": "Advanced"}

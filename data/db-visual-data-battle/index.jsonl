@@ -1,0 +1,34 @@
+{"id": "JAH-VDB-000001", "t": "Bar vs Line: Trends", "g": "Chart Battles"}
+{"id": "JAH-VDB-000002", "t": "Pie vs Bar: Parts", "g": "Chart Battles"}
+{"id": "JAH-VDB-000003", "t": "Scatter vs Bubble: Relations", "g": "Chart Battles"}
+{"id": "JAH-VDB-000004", "t": "Histogram vs Box Plot: Distributions", "g": "Chart Battles"}
+{"id": "JAH-VDB-000005", "t": "Heatmap vs Table: Matrices", "g": "Chart Battles"}
+{"id": "JAH-VDB-000006", "t": "Area vs Line: Volumes", "g": "Chart Battles"}
+{"id": "JAH-VDB-000007", "t": "Radar vs Bar: Profiles", "g": "Chart Battles"}
+{"id": "JAH-VDB-000008", "t": "Sankey vs Pie: Flows", "g": "Chart Battles"}
+{"id": "JAH-VDB-000009", "t": "Gantt vs Kanban: Projects", "g": "Chart Battles"}
+{"id": "JAH-VDB-000010", "t": "Word Cloud vs Bar: Text", "g": "Chart Battles"}
+{"id": "JAH-VDB-000011", "t": "Treemap vs Pie: Hierarchy", "g": "Chart Battles"}
+{"id": "JAH-VDB-000012", "t": "Choropleth vs Cartogram: Maps", "g": "Map Battles"}
+{"id": "JAH-VDB-000013", "t": "Dot Map vs Heatmap: Density", "g": "Map Battles"}
+{"id": "JAH-VDB-000014", "t": "Flow Map vs Arrows: Movement", "g": "Map Battles"}
+{"id": "JAH-VDB-000015", "t": "Topographic vs Satellite: Terrain", "g": "Map Battles"}
+{"id": "JAH-VDB-000016", "t": "Subway Map vs Geographic: Transit", "g": "Map Battles"}
+{"id": "JAH-VDB-000017", "t": "Globe vs Flat Map: Earth", "g": "Map Battles"}
+{"id": "JAH-VDB-000018", "t": "Isoline vs 3D: Elevation", "g": "Map Battles"}
+{"id": "JAH-VDB-000019", "t": "Proportional Symbol vs Choropleth: Data Maps", "g": "Map Battles"}
+{"id": "JAH-VDB-000020", "t": "Night Lights vs Day: Humanity", "g": "Map Battles"}
+{"id": "JAH-VDB-000021", "t": "Timeline vs Table: History", "g": "Map Battles"}
+{"id": "JAH-VDB-000022", "t": "Dashboard vs Report: Business", "g": "Display Battles"}
+{"id": "JAH-VDB-000023", "t": "Infographic vs Article: Explain", "g": "Display Battles"}
+{"id": "JAH-VDB-000024", "t": "Slide vs Document: Present", "g": "Display Battles"}
+{"id": "JAH-VDB-000025", "t": "Video vs Text: Learn", "g": "Display Battles"}
+{"id": "JAH-VDB-000026", "t": "Photo vs Illustration: Show", "g": "Display Battles"}
+{"id": "JAH-VDB-000027", "t": "Animation vs Static: Explain", "g": "Display Battles"}
+{"id": "JAH-VDB-000028", "t": "Interactive vs Static: Explore", "g": "Display Battles"}
+{"id": "JAH-VDB-000029", "t": "Minimal vs Rich: Design", "g": "Display Battles"}
+{"id": "JAH-VDB-000030", "t": "Dark vs Light: Theme", "g": "Display Battles"}
+{"id": "JAH-VDB-000031", "t": "Serif vs Sans: Type", "g": "Display Battles"}
+{"id": "JAH-VDB-000032", "t": "Grid vs Freeform: Layout", "g": "Display Battles"}
+{"id": "JAH-VDB-000033", "t": "Icon vs Text: Labels", "g": "Display Battles"}
+{"id": "JAH-VDB-000034", "t": "Line vs Step: Changes", "g": "Chart Battles"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DQR-000001", "t": "The Six Dimensions", "g": "quality-profiling"}
+{"id": "JAH-DQR-000002", "t": "Data Profiling", "g": "validation-rules"}
+{"id": "JAH-DQR-000003", "t": "Completeness Rules", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000004", "t": "Uniqueness Rules", "g": "quality-profiling"}
+{"id": "JAH-DQR-000005", "t": "Validity Rules", "g": "validation-rules"}
+{"id": "JAH-DQR-000006", "t": "Consistency Rules", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000007", "t": "Accuracy Sampling", "g": "quality-profiling"}
+{"id": "JAH-DQR-000008", "t": "Timeliness Rules", "g": "validation-rules"}
+{"id": "JAH-DQR-000009", "t": "Schema Validation", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000010", "t": "Great Expectations Intro", "g": "quality-profiling"}
+{"id": "JAH-DQR-000011", "t": "dbt Tests", "g": "validation-rules"}
+{"id": "JAH-DQR-000012", "t": "Anomaly Detection", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000013", "t": "Data Quality Dashboards", "g": "quality-profiling"}
+{"id": "JAH-DQR-000014", "t": "SLA/SLO for Data", "g": "validation-rules"}
+{"id": "JAH-DQR-000015", "t": "Data Contracts", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000016", "t": "Quarantine Patterns", "g": "quality-profiling"}
+{"id": "JAH-DQR-000017", "t": "Root Cause Analysis", "g": "validation-rules"}
+{"id": "JAH-DQR-000018", "t": "Data Lineage", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000019", "t": "Master Data Management", "g": "quality-profiling"}
+{"id": "JAH-DQR-000020", "t": "Reference Data Management", "g": "validation-rules"}
+{"id": "JAH-DQR-000021", "t": "Data Quality Roles", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000022", "t": "Measuring Quality ROI", "g": "quality-profiling"}
+{"id": "JAH-DQR-000023", "t": "The DQ Playbook", "g": "validation-rules"}
+{"id": "JAH-DQR-000024", "t": "Null Handling Rules", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000025", "t": "Duplicate Detection Methods", "g": "quality-profiling"}
+{"id": "JAH-DQR-000026", "t": "Outlier Treatment", "g": "validation-rules"}
+{"id": "JAH-DQR-000027", "t": "Standardization Rules", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000028", "t": "Enrichment Validation", "g": "quality-profiling"}
+{"id": "JAH-DQR-000029", "t": "Pipeline Data Tests", "g": "validation-rules"}
+{"id": "JAH-DQR-000030", "t": "Backfill Quality", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000031", "t": "Streaming Quality", "g": "quality-profiling"}
+{"id": "JAH-DQR-000032", "t": "DQ in ML Pipelines", "g": "validation-rules"}
+{"id": "JAH-DQR-000033", "t": "Data Quality Scorecards", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000034", "t": "Crowdsourced Quality", "g": "quality-profiling"}

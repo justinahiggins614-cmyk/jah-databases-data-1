@@ -1,0 +1,34 @@
+{"id": "JAH-CODCHA-000001", "t": "Codebreaker: Caesar shift 3 (THE EAGLE HAS LANDED)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000002", "t": "Codebreaker: Caesar shift 3 (MEET AT DAWN)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000003", "t": "Codebreaker: Caesar shift 5 (ATTACK AT SUNRISE)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000004", "t": "Codebreaker: Caesar shift 1 (HELLO WORLD)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000005", "t": "Codebreaker: Caesar shift 7 (THE QUICK BROWN FOX)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000006", "t": "Codebreaker: Caesar shift 3 (SECRETS HIDE IN PLAI)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000007", "t": "Codebreaker: Caesar shift 10 (CODEBREAKERS NEVER Q)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000008", "t": "Codebreaker: Caesar shift 13 (ROT THIRTEEN HIDES N)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000009", "t": "Codebreaker: Caesar shift 4 (PATIENCE BREAKS CODE)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000010", "t": "Codebreaker: Caesar shift 8 (EVERY LETTER COUNTS)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000011", "t": "Codebreaker: Caesar shift 2 (SMALL STEPS WIN)", "g": "Foundations"}
+{"id": "JAH-CODCHA-000012", "t": "Codebreaker: Caesar shift 19 (THE LONG WAY ROUND)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000013", "t": "Codebreaker: Caesar shift 23 (ALMOST HOME FREE)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000014", "t": "Codebreaker: Atbash mirror (THE MIRROR CODE)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000015", "t": "Codebreaker: Atbash mirror (BACKWARDS ALPHABET)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000016", "t": "Codebreaker: Atbash mirror (ANCIENT AND ELEGANT)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000017", "t": "Codebreaker: Vigenere key KEY", "g": "Compounded"}
+{"id": "JAH-CODCHA-000018", "t": "Codebreaker: Vigenere key CODE", "g": "Compounded"}
+{"id": "JAH-CODCHA-000019", "t": "Codebreaker: Vigenere key JAH", "g": "Advanced"}
+{"id": "JAH-CODCHA-000020", "t": "Codebreaker: Vigenere key PUZZLE", "g": "Advanced"}
+{"id": "JAH-CODCHA-000021", "t": "Codebreaker: rail fence 3", "g": "Advanced"}
+{"id": "JAH-CODCHA-000022", "t": "Codebreaker: rail fence 4", "g": "Advanced"}
+{"id": "JAH-CODCHA-000023", "t": "Codebreaker: mirror writing", "g": "Compounded"}
+{"id": "JAH-CODCHA-000024", "t": "Codebreaker: double lock", "g": "Advanced"}
+{"id": "JAH-CODCHA-000025", "t": "Codebreaker: Caesar shift 15 (FIFTEEN SHIFTS DEEP)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000026", "t": "Codebreaker: Caesar shift 17 (SEVENTEEN STEPS)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000027", "t": "Codebreaker: Caesar shift 21 (TWENTY ONE GUNS)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000028", "t": "Codebreaker: Atbash mirror (THE MIRROR HAS TWO F)", "g": "Compounded"}
+{"id": "JAH-CODCHA-000029", "t": "Codebreaker: Vigenere key SIGNATURE", "g": "Advanced"}
+{"id": "JAH-CODCHA-000030", "t": "Codebreaker: Vigenere key CODEBREAKER", "g": "Advanced"}
+{"id": "JAH-CODCHA-000031", "t": "Codebreaker: rail fence 5", "g": "Advanced"}
+{"id": "JAH-CODCHA-000032", "t": "Codebreaker: Atbash + Caesar double", "g": "Advanced"}
+{"id": "JAH-CODCHA-000033", "t": "Codebreaker: reverse + Vigenere double", "g": "Advanced"}
+{"id": "JAH-CODCHA-000034", "t": "Codebreaker: Caesar + rail double", "g": "Advanced"}

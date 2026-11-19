@@ -1,0 +1,34 @@
+{"id": "JAH-RET-000001", "t": "Unique IDs", "g": "Foundations"}
+{"id": "JAH-RET-000002", "t": "Bidirectional Links", "g": "Foundations"}
+{"id": "JAH-RET-000003", "t": "Traceability Matrix", "g": "Foundations"}
+{"id": "JAH-RET-000004", "t": "Granularity", "g": "Foundations"}
+{"id": "JAH-RET-000005", "t": "Change Impact", "g": "Foundations"}
+{"id": "JAH-RET-000006", "t": "Coverage Metrics", "g": "Foundations"}
+{"id": "JAH-RET-000007", "t": "Continuous Tracing", "g": "Foundations"}
+{"id": "JAH-RET-000008", "t": "Tool Selection", "g": "Foundations"}
+{"id": "JAH-RET-000009", "t": "Baselines", "g": "Foundations"}
+{"id": "JAH-RET-000010", "t": "Suspect Links", "g": "Foundations"}
+{"id": "JAH-RET-000011", "t": "Verification Methods", "g": "Foundations"}
+{"id": "JAH-RET-000012", "t": "Audit Evidence", "g": "Compounded"}
+{"id": "JAH-RET-000013", "t": "Requirements Writing", "g": "Compounded"}
+{"id": "JAH-RET-000014", "t": "Decomposition", "g": "Compounded"}
+{"id": "JAH-RET-000015", "t": "Allocation", "g": "Compounded"}
+{"id": "JAH-RET-000016", "t": "Derived Requirements", "g": "Compounded"}
+{"id": "JAH-RET-000017", "t": "Interface Requirements", "g": "Compounded"}
+{"id": "JAH-RET-000018", "t": "Non-Functional Tracing", "g": "Compounded"}
+{"id": "JAH-RET-000019", "t": "Use Cases", "g": "Compounded"}
+{"id": "JAH-RET-000020", "t": "User Stories", "g": "Compounded"}
+{"id": "JAH-RET-000021", "t": "Acceptance Criteria", "g": "Compounded"}
+{"id": "JAH-RET-000022", "t": "Test Traceability", "g": "Compounded"}
+{"id": "JAH-RET-000023", "t": "Defect Tracing", "g": "Compounded"}
+{"id": "JAH-RET-000024", "t": "Change Control Boards", "g": "Advanced"}
+{"id": "JAH-RET-000025", "t": "Version Control", "g": "Advanced"}
+{"id": "JAH-RET-000026", "t": "Reuse Libraries", "g": "Advanced"}
+{"id": "JAH-RET-000027", "t": "Product Lines", "g": "Advanced"}
+{"id": "JAH-RET-000028", "t": "Safety-Critical", "g": "Advanced"}
+{"id": "JAH-RET-000029", "t": "Medical Devices", "g": "Advanced"}
+{"id": "JAH-RET-000030", "t": "Supplier Flow-Down", "g": "Advanced"}
+{"id": "JAH-RET-000031", "t": "Verification Planning", "g": "Advanced"}
+{"id": "JAH-RET-000032", "t": "Metrics Dashboards", "g": "Advanced"}
+{"id": "JAH-RET-000033", "t": "Training Teams", "g": "Advanced"}
+{"id": "JAH-RET-000034", "t": "Case Studies", "g": "Advanced"}

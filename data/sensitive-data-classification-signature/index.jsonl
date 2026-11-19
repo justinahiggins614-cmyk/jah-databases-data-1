@@ -1,0 +1,34 @@
+{"id": "JAH-SDCLS-000001", "t": "What Data Classification Is (Signature Edition)", "g": "Classification Basics"}
+{"id": "JAH-SDCLS-000002", "t": "Why Classify: Risk, Compliance, Cost (Signature Edition)", "g": "Classification Basics"}
+{"id": "JAH-SDCLS-000003", "t": "Public Data (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000004", "t": "Internal Data (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000005", "t": "Confidential Data (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000006", "t": "Restricted and Regulated Data (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000007", "t": "Personal Data (PII) (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000008", "t": "Special-Category Personal Data (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000009", "t": "Proprietary Data (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000010", "t": "Trade Secrets (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000011", "t": "Health Data (PHI) (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000012", "t": "Financial Data (PCI) (Signature Edition)", "g": "Data Categories"}
+{"id": "JAH-SDCLS-000013", "t": "Classification Criteria (Signature Edition)", "g": "Classification Operations"}
+{"id": "JAH-SDCLS-000014", "t": "Labeling Schemes (Signature Edition)", "g": "Classification Operations"}
+{"id": "JAH-SDCLS-000015", "t": "Automated Classification (Signature Edition)", "g": "Classification Operations"}
+{"id": "JAH-SDCLS-000016", "t": "Regex and Pattern Matching (Signature Edition)", "g": "Classification Operations"}
+{"id": "JAH-SDCLS-000017", "t": "ML Classifiers for Sensitivity (Signature Edition)", "g": "Classification Operations"}
+{"id": "JAH-SDCLS-000018", "t": "Handling Rules by Level (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000019", "t": "Access Controls by Classification (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000020", "t": "Encryption Requirements (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000021", "t": "Masking and Tokenization (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000022", "t": "Classification in Pipelines (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000023", "t": "Classification Metadata (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000024", "t": "Re-classification Workflows (Signature Edition)", "g": "Handling Rules"}
+{"id": "JAH-SDCLS-000025", "t": "Declassification (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000026", "t": "Classification Disputes (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000027", "t": "Classification for a Million-Database Network (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000028", "t": "Classification Metrics (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000029", "t": "Classification and Lineage (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000030", "t": "Classification of Derived Data (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000031", "t": "Provenance of Classifications (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000032", "t": "Classification Audits (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000033", "t": "Incident Handling for Misclassified Data (Signature Edition)", "g": "Advanced Classification"}
+{"id": "JAH-SDCLS-000034", "t": "Sensitive Data Classification Mastery Review (Signature Edition)", "g": "Advanced Classification"}

@@ -1,0 +1,34 @@
+{"id": "JAH-IMAA-000001", "t": "Reverse Search", "g": "Foundations"}
+{"id": "JAH-IMAA-000002", "t": "Date Checks", "g": "Foundations"}
+{"id": "JAH-IMAA-000003", "t": "Location Checks", "g": "Foundations"}
+{"id": "JAH-IMAA-000004", "t": "EXIF Metadata", "g": "Foundations"}
+{"id": "JAH-IMAA-000005", "t": "Manipulation Artifacts", "g": "Foundations"}
+{"id": "JAH-IMAA-000006", "t": "AI Image Tells", "g": "Foundations"}
+{"id": "JAH-IMAA-000007", "t": "Source Contact", "g": "Foundations"}
+{"id": "JAH-IMAA-000008", "t": "Corroboration", "g": "Foundations"}
+{"id": "JAH-IMAA-000009", "t": "Context Matching", "g": "Foundations"}
+{"id": "JAH-IMAA-000010", "t": "Deepfake Video", "g": "Foundations"}
+{"id": "JAH-IMAA-000011", "t": "Credit Stripping", "g": "Foundations"}
+{"id": "JAH-IMAA-000012", "t": "The Waiting Rule", "g": "Compounded"}
+{"id": "JAH-IMAA-000013", "t": "Verification Workflow", "g": "Compounded"}
+{"id": "JAH-IMAA-000014", "t": "Breaking News Images", "g": "Compounded"}
+{"id": "JAH-IMAA-000015", "t": "Disaster Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000016", "t": "War Imagery", "g": "Compounded"}
+{"id": "JAH-IMAA-000017", "t": "Protest Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000018", "t": "Weather Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000019", "t": "Celebrity Fakes", "g": "Compounded"}
+{"id": "JAH-IMAA-000020", "t": "Product Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000021", "t": "Real Estate Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000022", "t": "Dating Profile Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000023", "t": "Historical Photos", "g": "Compounded"}
+{"id": "JAH-IMAA-000024", "t": "Scientific Images", "g": "Advanced"}
+{"id": "JAH-IMAA-000025", "t": "Satellite Imagery", "g": "Advanced"}
+{"id": "JAH-IMAA-000026", "t": "Forensic Tools", "g": "Advanced"}
+{"id": "JAH-IMAA-000027", "t": "Metadata Stripping", "g": "Advanced"}
+{"id": "JAH-IMAA-000028", "t": "Chain of Custody", "g": "Advanced"}
+{"id": "JAH-IMAA-000029", "t": "Legal Admissibility", "g": "Advanced"}
+{"id": "JAH-IMAA-000030", "t": "Teaching Verification", "g": "Advanced"}
+{"id": "JAH-IMAA-000031", "t": "Platform Policies", "g": "Advanced"}
+{"id": "JAH-IMAA-000032", "t": "Labeling Standards", "g": "Advanced"}
+{"id": "JAH-IMAA-000033", "t": "Future Threats", "g": "Advanced"}
+{"id": "JAH-IMAA-000034", "t": "Staying Sharp", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DFEDS-000001", "t": "Federation Overview (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000002", "t": "Scatter-Gather Query Pattern (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000003", "t": "Broadcast Query Pattern (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000004", "t": "Chained Query Pattern (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000005", "t": "Cross-Database Join Contract (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000006", "t": "Schema Mapping Record (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000007", "t": "Identity Resolution Across Databases (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000008", "t": "Federation Membership Record (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000009", "t": "Capability Advertisement (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000010", "t": "Query Routing Rules (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DFEDS-000011", "t": "Distributed Search Architecture (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000012", "t": "Result Merging and Ranking (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000013", "t": "Consistency Models in Federation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000014", "t": "Federated Authentication Tokens (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000015", "t": "Rate Limiting Across Members (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000016", "t": "Caching Federated Results (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000017", "t": "Partial Failure Handling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000018", "t": "Federated Query Cost Estimation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000019", "t": "Schema Evolution in Federation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000020", "t": "Membership Onboarding Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000021", "t": "Membership Offboarding Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DFEDS-000022", "t": "Global Query Optimizer (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000023", "t": "Distributed Transactions (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000024", "t": "Eventual Consistency Reconciliation (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000025", "t": "Federation Governance Charter (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000026", "t": "Inter-Member SLA Contracts (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000027", "t": "Cross-Database Provenance (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000028", "t": "Federated Analytics Pipeline (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000029", "t": "Multi-Region Federation Topology (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000030", "t": "Federation Security Model (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000031", "t": "Federation Audit Record (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000032", "t": "Federation Health Dashboard (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000033", "t": "Federation Anti-Patterns Catalog (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DFEDS-000034", "t": "Federation Self-Audit and Mastery Record (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-EVSS-000001", "t": "What Is an Event (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000002", "t": "Commands, Events, and State (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000003", "t": "Event Time Versus Processing Time (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000004", "t": "The Append-Only Event Log (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000005", "t": "Event Schemas and Contracts (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000006", "t": "Ordering, Causality, and Happened-Before (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000007", "t": "Stream Partitioning (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000008", "t": "Serializing Events: Formats and Choices (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000009", "t": "Consumers and Consumer Groups (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000010", "t": "Delivery Semantics: At-Most, At-Least, Exactly-Once (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-EVSS-000011", "t": "Change Data Capture (CDC) (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000012", "t": "The Outbox Pattern (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000013", "t": "Designing an Event Store (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000014", "t": "Snapshotting Aggregates (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000015", "t": "Consumer Offsets and Seek (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000016", "t": "Event Sourcing Fundamentals (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000017", "t": "Stateful Stream Processing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000018", "t": "Windows Over Event Time (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000019", "t": "Pub-Sub and Event-Driven Architecture (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000020", "t": "Schema Evolution (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000021", "t": "Correlation and Causation IDs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000022", "t": "Projections and Read Models (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000023", "t": "Replaying and Reprocessing Events (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000024", "t": "Dead Letters and Poison Events (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000025", "t": "Watermarks and Late Data (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000026", "t": "Event Routing and Filtering (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-EVSS-000027", "t": "Sagas: Distributed Transactions Without Two-Phase Commit (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000028", "t": "End-to-End Exactly-Once Processing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000029", "t": "Compaction, Retention, and Archiving (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000030", "t": "Event Governance and the Schema Registry (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000031", "t": "Observing Event Streams: Lag, Metrics, and Alerts (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000032", "t": "Multi-Region Replication and Failover (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000033", "t": "Securing Event Data: Encryption and Redaction (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-EVSS-000034", "t": "Temporal Queries and Time Travel (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-TMDG-000001", "t": "AI Documentation Generation Database: OpenAPI: Docs from Annotations", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000002", "t": "AI Documentation Generation Database: API Reference Structure", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000003", "t": "AI Documentation Generation Database: Code Examples That Work", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000004", "t": "AI Documentation Generation Database: Changelogs for APIs", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000005", "t": "AI Documentation Generation Database: Docstrings That Teach", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000006", "t": "AI Documentation Generation Database: README as the Front Door", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000007", "t": "AI Documentation Generation Database: Architecture Decision Records", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000008", "t": "AI Documentation Generation Database: Inline Comments: When and What", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000009", "t": "AI Documentation Generation Database: User Guides That Get Read", "c": 0, "g": "user-guides"}
+{"id": "JAH-TMDG-000010", "t": "AI Documentation Generation Database: Tutorials: Learning by Doing", "c": 0, "g": "user-guides"}
+{"id": "JAH-TMDG-000011", "t": "AI Documentation Generation Database: FAQ as a Living Document", "c": 0, "g": "user-guides"}
+{"id": "JAH-TMDG-000012", "t": "AI Documentation Generation Database: Docs Site with Docusaurus/VitePress", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000013", "t": "AI Documentation Generation Database: Search That Finds Answers", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000014", "t": "AI Documentation Generation Database: Versioned Documentation", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000015", "t": "AI Documentation Generation Database: Diátaxis: Four Kinds of Docs", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000016", "t": "AI Documentation Generation Database: Docs-as-Code Workflow", "c": 0, "g": "doc-automation"}
+{"id": "JAH-TMDG-000017", "t": "AI Documentation Generation Database: Generating Reference from Code", "c": 0, "g": "doc-automation"}
+{"id": "JAH-TMDG-000018", "t": "AI Documentation Generation Database: Snippet Testing in Docs", "c": 0, "g": "doc-automation"}
+{"id": "JAH-TMDG-000019", "t": "AI Documentation Generation Database: Link Checking in CI", "c": 0, "g": "doc-automation"}
+{"id": "JAH-TMDG-000020", "t": "AI Documentation Generation Database: OpenAPI: Docs from Annotations (variant 1)", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000021", "t": "AI Documentation Generation Database: API Reference Structure (variant 1)", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000022", "t": "AI Documentation Generation Database: Code Examples That Work (variant 1)", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000023", "t": "AI Documentation Generation Database: Changelogs for APIs (variant 1)", "c": 0, "g": "api-docs"}
+{"id": "JAH-TMDG-000024", "t": "AI Documentation Generation Database: Docstrings That Teach (variant 1)", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000025", "t": "AI Documentation Generation Database: README as the Front Door (variant 1)", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000026", "t": "AI Documentation Generation Database: Architecture Decision Records (variant 1)", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000027", "t": "AI Documentation Generation Database: Inline Comments: When and What (variant 1)", "c": 0, "g": "code-docs"}
+{"id": "JAH-TMDG-000028", "t": "AI Documentation Generation Database: User Guides That Get Read (variant 1)", "c": 0, "g": "user-guides"}
+{"id": "JAH-TMDG-000029", "t": "AI Documentation Generation Database: Tutorials: Learning by Doing (variant 1)", "c": 0, "g": "user-guides"}
+{"id": "JAH-TMDG-000030", "t": "AI Documentation Generation Database: FAQ as a Living Document (variant 1)", "c": 0, "g": "user-guides"}
+{"id": "JAH-TMDG-000031", "t": "AI Documentation Generation Database: Docs Site with Docusaurus/VitePress (variant 1)", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000032", "t": "AI Documentation Generation Database: Search That Finds Answers (variant 1)", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000033", "t": "AI Documentation Generation Database: Versioned Documentation (variant 1)", "c": 0, "g": "doc-sites"}
+{"id": "JAH-TMDG-000034", "t": "AI Documentation Generation Database: Diátaxis: Four Kinds of Docs (variant 1)", "c": 0, "g": "doc-sites"}

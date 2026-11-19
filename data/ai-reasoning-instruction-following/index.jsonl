@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-IF-000001", "t": "What instruction following is: doing what is asked", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000002", "t": "Understanding instructions: reading the ask", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000003", "t": "The literal instruction: the words as given", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000004", "t": "Simple compliance: the straightforward do", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000005", "t": "The spirit and the letter: intent beyond words", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000006", "t": "Doing what was asked: the execution", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000007", "t": "Checking the work: the verification", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000008", "t": "The first instruction: a complete example", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000009", "t": "Asking when unsure: the clarification", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000010", "t": "The faithful servant: the foundation standard", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000011", "t": "Ambiguity: the unclear ask", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IF-000012", "t": "The instruction lifecycle: from ask to done", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000013", "t": "Implicit instructions: the unasked", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000014", "t": "Multi-step instructions: the sequence", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000015", "t": "Instruction hierarchies: whose instructions win", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000016", "t": "Conflicts: when instructions collide", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000017", "t": "Clarification strategies: asking well", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000018", "t": "Partial compliance: the honest part", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000019", "t": "Verification: proving the following", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000020", "t": "Instruction tuning: teaching obedience", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000021", "t": "Evaluation: measuring the following", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000022", "t": "RLHF: learning from human feedback", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000023", "t": "Constitutional obedience: principles guiding following", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IF-000024", "t": "Standing instructions: the persistent directive", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000025", "t": "Conditional instructions: the if-then ask", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000026", "t": "Autonomy vs obedience: the balance", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000027", "t": "The principal hierarchy: serving many masters", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000028", "t": "Manipulative instructions: the hostile ask", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000029", "t": "The trustworthy agent: the final standard", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000030", "t": "Instruction inference: learning preferences", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000031", "t": "The obedience audit: verifying following", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000032", "t": "Over-obedience: the literalist trap", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000033", "t": "Under-obedience: the helpful rebel", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IF-000034", "t": "The principal's intent: loyalty in following", "g": "instruction-following-advanced"}

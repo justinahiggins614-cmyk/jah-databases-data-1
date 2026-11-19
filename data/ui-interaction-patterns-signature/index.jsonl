@@ -1,0 +1,34 @@
+{"id": "JAH-UIIPS-000001", "t": "User Interface and Interaction Patterns Signature Database: Visual Hierarchy", "c": 0, "g": "layout"}
+{"id": "JAH-UIIPS-000002", "t": "User Interface and Interaction Patterns Signature Database: F and Z Reading Patterns", "c": 0, "g": "layout"}
+{"id": "JAH-UIIPS-000003", "t": "User Interface and Interaction Patterns Signature Database: Navigation Patterns", "c": 0, "g": "navigation"}
+{"id": "JAH-UIIPS-000004", "t": "User Interface and Interaction Patterns Signature Database: Form Design", "c": 0, "g": "forms"}
+{"id": "JAH-UIIPS-000005", "t": "User Interface and Interaction Patterns Signature Database: Inline Validation", "c": 0, "g": "forms"}
+{"id": "JAH-UIIPS-000006", "t": "User Interface and Interaction Patterns Signature Database: Error Message UX", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIPS-000007", "t": "User Interface and Interaction Patterns Signature Database: Empty States", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIPS-000008", "t": "User Interface and Interaction Patterns Signature Database: Loading States", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIPS-000009", "t": "User Interface and Interaction Patterns Signature Database: Buttons and CTAs", "c": 0, "g": "components"}
+{"id": "JAH-UIIPS-000010", "t": "User Interface and Interaction Patterns Signature Database: Color and Contrast", "c": 0, "g": "visual"}
+{"id": "JAH-UIIPS-000011", "t": "User Interface and Interaction Patterns Signature Database: Type Scale", "c": 0, "g": "visual"}
+{"id": "JAH-UIIPS-000012", "t": "User Interface and Interaction Patterns Signature Database: 8pt Spacing System", "c": 0, "g": "visual"}
+{"id": "JAH-UIIPS-000013", "t": "User Interface and Interaction Patterns Signature Database: Responsive Breakpoints", "c": 0, "g": "layout"}
+{"id": "JAH-UIIPS-000014", "t": "User Interface and Interaction Patterns Signature Database: Touch Targets", "c": 0, "g": "mobile"}
+{"id": "JAH-UIIPS-000015", "t": "User Interface and Interaction Patterns Signature Database: Dark Mode", "c": 0, "g": "visual"}
+{"id": "JAH-UIIPS-000016", "t": "User Interface and Interaction Patterns Signature Database: Onboarding", "c": 0, "g": "flows"}
+{"id": "JAH-UIIPS-000017", "t": "User Interface and Interaction Patterns Signature Database: Multi-Step Wizards", "c": 0, "g": "flows"}
+{"id": "JAH-UIIPS-000018", "t": "User Interface and Interaction Patterns Signature Database: Modals and Dialogs", "c": 0, "g": "components"}
+{"id": "JAH-UIIPS-000019", "t": "User Interface and Interaction Patterns Signature Database: Toasts and Notifications", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIPS-000020", "t": "User Interface and Interaction Patterns Signature Database: Search UX", "c": 0, "g": "navigation"}
+{"id": "JAH-UIIPS-000021", "t": "User Interface and Interaction Patterns Signature Database: Filters and Facets", "c": 0, "g": "navigation"}
+{"id": "JAH-UIIPS-000022", "t": "User Interface and Interaction Patterns Signature Database: Data Tables", "c": 0, "g": "components"}
+{"id": "JAH-UIIPS-000023", "t": "User Interface and Interaction Patterns Signature Database: Dashboard Design", "c": 0, "g": "layout"}
+{"id": "JAH-UIIPS-000024", "t": "User Interface and Interaction Patterns Signature Database: Chart Selection", "c": 0, "g": "visual"}
+{"id": "JAH-UIIPS-000025", "t": "User Interface and Interaction Patterns Signature Database: Settings Screens", "c": 0, "g": "flows"}
+{"id": "JAH-UIIPS-000026", "t": "User Interface and Interaction Patterns Signature Database: ARIA Practices", "c": 0, "g": "accessibility"}
+{"id": "JAH-UIIPS-000027", "t": "User Interface and Interaction Patterns Signature Database: Keyboard Navigation", "c": 0, "g": "accessibility"}
+{"id": "JAH-UIIPS-000028", "t": "User Interface and Interaction Patterns Signature Database: Focus Management", "c": 0, "g": "accessibility"}
+{"id": "JAH-UIIPS-000029", "t": "User Interface and Interaction Patterns Signature Database: Microcopy", "c": 0, "g": "content"}
+{"id": "JAH-UIIPS-000030", "t": "User Interface and Interaction Patterns Signature Database: Confirmation Patterns", "c": 0, "g": "flows"}
+{"id": "JAH-UIIPS-000031", "t": "User Interface and Interaction Patterns Signature Database: Undo Patterns", "c": 0, "g": "flows"}
+{"id": "JAH-UIIPS-000032", "t": "User Interface and Interaction Patterns Signature Database: Design Tokens", "c": 0, "g": "visual"}
+{"id": "JAH-UIIPS-000033", "t": "User Interface and Interaction Patterns Signature Database: Progressive Disclosure", "c": 0, "g": "flows"}
+{"id": "JAH-UIIPS-000034", "t": "User Interface and Interaction Patterns Signature Database: Motion and Animation", "c": 0, "g": "visual"}

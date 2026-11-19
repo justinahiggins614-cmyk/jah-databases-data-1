@@ -1,0 +1,34 @@
+{"id": "JAH-NUMTHS-000001", "t": "What Is Number Theory (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-NUMTHS-000002", "t": "Divisibility and the Division Algorithm (Signature Edition)", "g": "Divisibility"}
+{"id": "JAH-NUMTHS-000003", "t": "The Euclidean Algorithm (Signature Edition)", "g": "Divisibility"}
+{"id": "JAH-NUMTHS-000004", "t": "Prime Numbers: Introduction (Signature Edition)", "g": "Primes"}
+{"id": "JAH-NUMTHS-000005", "t": "The Fundamental Theorem of Arithmetic (Signature Edition)", "g": "Primes"}
+{"id": "JAH-NUMTHS-000006", "t": "Congruences: Introduction (Signature Edition)", "g": "Congruences"}
+{"id": "JAH-NUMTHS-000007", "t": "Fermat's Little Theorem (Signature Edition)", "g": "Congruences"}
+{"id": "JAH-NUMTHS-000008", "t": "Diophantine Equations: Introduction (Signature Edition)", "g": "Diophantine"}
+{"id": "JAH-NUMTHS-000009", "t": "Arithmetic Functions (Signature Edition)", "g": "Functions"}
+{"id": "JAH-NUMTHS-000010", "t": "Proof Techniques in Number Theory (Signature Edition)", "g": "Proof"}
+{"id": "JAH-NUMTHS-000011", "t": "History: From Euclid to Wiles (Signature Edition)", "g": "History"}
+{"id": "JAH-NUMTHS-000012", "t": "Solving Congruences (Signature Edition)", "g": "Congruences"}
+{"id": "JAH-NUMTHS-000013", "t": "Quadratic Reciprocity (Signature Edition)", "g": "Congruences"}
+{"id": "JAH-NUMTHS-000014", "t": "Prime Distribution (Signature Edition)", "g": "Primes"}
+{"id": "JAH-NUMTHS-000015", "t": "Primality Testing (Signature Edition)", "g": "Primes"}
+{"id": "JAH-NUMTHS-000016", "t": "Pythagorean Triples and Fermat's Last Theorem (Introduction) (Signature Edition)", "g": "Diophantine"}
+{"id": "JAH-NUMTHS-000017", "t": "RSA: How It Works (Signature Edition)", "g": "Crypto"}
+{"id": "JAH-NUMTHS-000018", "t": "Diffie-Hellman and Discrete Logs (Signature Edition)", "g": "Crypto"}
+{"id": "JAH-NUMTHS-000019", "t": "Continued Fractions (Signature Edition)", "g": "Continued Fractions"}
+{"id": "JAH-NUMTHS-000020", "t": "Pell Equations (Signature Edition)", "g": "Diophantine"}
+{"id": "JAH-NUMTHS-000021", "t": "Sums of Squares (Signature Edition)", "g": "Sums"}
+{"id": "JAH-NUMTHS-000022", "t": "Elliptic Curves (Introduction) (Signature Edition)", "g": "Elliptic"}
+{"id": "JAH-NUMTHS-000023", "t": "The Riemann Zeta Function (Introduction) (Signature Edition)", "g": "Zeta"}
+{"id": "JAH-NUMTHS-000024", "t": "Analytic Number Theory (Signature Edition)", "g": "Analytic"}
+{"id": "JAH-NUMTHS-000025", "t": "Algebraic Number Theory (Introduction) (Signature Edition)", "g": "Algebraic"}
+{"id": "JAH-NUMTHS-000026", "t": "Fermat's Last Theorem: The Proof (Signature Edition)", "g": "Diophantine"}
+{"id": "JAH-NUMTHS-000027", "t": "Modular Forms (Introduction) (Signature Edition)", "g": "Modular"}
+{"id": "JAH-NUMTHS-000028", "t": "Elliptic Curves: Arithmetic (Signature Edition)", "g": "Elliptic"}
+{"id": "JAH-NUMTHS-000029", "t": "Elliptic-Curve Cryptography (Signature Edition)", "g": "Crypto"}
+{"id": "JAH-NUMTHS-000030", "t": "Post-Quantum Cryptography (Signature Edition)", "g": "Crypto"}
+{"id": "JAH-NUMTHS-000031", "t": "Open Problems (Signature Edition)", "g": "Open"}
+{"id": "JAH-NUMTHS-000032", "t": "Transcendental Numbers (Signature Edition)", "g": "Transcendence"}
+{"id": "JAH-NUMTHS-000033", "t": "Arithmetic Geometry (Introduction) (Signature Edition)", "g": "Geometry"}
+{"id": "JAH-NUMTHS-000034", "t": "Computational Number Theory (Signature Edition)", "g": "Computation"}

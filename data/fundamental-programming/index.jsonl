@@ -1,0 +1,34 @@
+{"id": "JAH-FPRO-000001", "t": "What Programming Is", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000002", "t": "The Core Question of Programming", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000003", "t": "Assumptions: The Machine Is Literal", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000004", "t": "The Vocabulary: Variables, Functions, Control Flow", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000005", "t": "Correctness: The Fundamental Quantity", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000006", "t": "Decomposition: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000007", "t": "A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000008", "t": "How Programming Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000009", "t": "The Core Mechanism: Write, Run, Fix", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000010", "t": "The Simplest Law: Names Mean What You Define", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000011", "t": "Common Misconceptions in Programming", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000012", "t": "How Beginners Practice Programming", "g": "Foundations", "c": 0}
+{"id": "JAH-FPRO-000013", "t": "The Core Model: The Function", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000014", "t": "The Great Idea: Abstraction", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000015", "t": "Systems Thinking: State and Side Effects", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000016", "t": "Invariance: Loop Invariants", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000017", "t": "Approximation: Trade-offs in Code", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000018", "t": "Evidence Standards: Tests", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000019", "t": "Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000020", "t": "Core Trade-offs: Readability versus Cleverness", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000021", "t": "Handling Uncertainty: Defensive Programming", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000022", "t": "Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000023", "t": "Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000024", "t": "Teaching Programming", "g": "Compounded", "c": 0}
+{"id": "JAH-FPRO-000025", "t": "The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000026", "t": "Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000027", "t": "Computational Thinking", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000028", "t": "Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000029", "t": "The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000030", "t": "How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000031", "t": "The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000032", "t": "Failure Modes: When Programming Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000033", "t": "Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-FPRO-000034", "t": "The Signature Formulation: Programming as Executable Literacy", "g": "Advanced", "c": 0}

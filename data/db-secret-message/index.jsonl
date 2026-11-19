@@ -1,0 +1,34 @@
+{"id": "JAH-SECMES-000001", "t": "Secret message: Morse SOS", "g": "Foundations"}
+{"id": "JAH-SECMES-000002", "t": "Secret message: Morse HELLO", "g": "Foundations"}
+{"id": "JAH-SECMES-000003", "t": "Secret message: Morse HELP-ME", "g": "Foundations"}
+{"id": "JAH-SECMES-000004", "t": "Secret message: Morse JAH", "g": "Foundations"}
+{"id": "JAH-SECMES-000005", "t": "Secret message: Morse YES", "g": "Foundations"}
+{"id": "JAH-SECMES-000006", "t": "Secret message: Morse NO", "g": "Foundations"}
+{"id": "JAH-SECMES-000007", "t": "Secret message: Morse THANK-YOU", "g": "Foundations"}
+{"id": "JAH-SECMES-000008", "t": "Secret message: Morse GOOD-LUCK", "g": "Compounded"}
+{"id": "JAH-SECMES-000009", "t": "Secret message: Morse THE-QUICK-BROWN-FOX", "g": "Compounded"}
+{"id": "JAH-SECMES-000010", "t": "Secret message: Morse MEET-AT-MIDNIGHT", "g": "Compounded"}
+{"id": "JAH-SECMES-000011", "t": "Secret message: Morse CODEBREAKERS-UNITE", "g": "Compounded"}
+{"id": "JAH-SECMES-000012", "t": "Secret message: acrostic ALOH", "g": "Foundations"}
+{"id": "JAH-SECMES-000013", "t": "Secret message: acrostic SECRET", "g": "Foundations"}
+{"id": "JAH-SECMES-000014", "t": "Secret message: acrostic BELONGHT", "g": "Compounded"}
+{"id": "JAH-SECMES-000015", "t": "Secret message: acrostic DANGER", "g": "Compounded"}
+{"id": "JAH-SECMES-000016", "t": "Secret message: acrostic CODEBYE", "g": "Advanced"}
+{"id": "JAH-SECMES-000017", "t": "Secret message: first letters MEET AT DAWN", "g": "Foundations"}
+{"id": "JAH-SECMES-000018", "t": "Secret message: first letters EVERY GOOD B", "g": "Compounded"}
+{"id": "JAH-SECMES-000019", "t": "Secret message: first letters PLEASE EXCUS", "g": "Advanced"}
+{"id": "JAH-SECMES-000020", "t": "Secret message: book cipher (THE CAT SAT ON THE)", "g": "Compounded"}
+{"id": "JAH-SECMES-000021", "t": "Secret message: book cipher (WE HOLD THESE TRUT)", "g": "Advanced"}
+{"id": "JAH-SECMES-000022", "t": "Secret message: invisible ink", "g": "Foundations"}
+{"id": "JAH-SECMES-000023", "t": "Secret message: every-third-word code", "g": "Compounded"}
+{"id": "JAH-SECMES-000024", "t": "Secret message: capital-word code", "g": "Advanced"}
+{"id": "JAH-SECMES-000025", "t": "Secret message: Morse FRIEND", "g": "Compounded"}
+{"id": "JAH-SECMES-000026", "t": "Secret message: Morse STAY-CURIOUS", "g": "Compounded"}
+{"id": "JAH-SECMES-000027", "t": "Secret message: Morse THE-EAGLE-HAS-LANDED", "g": "Advanced"}
+{"id": "JAH-SECMES-000028", "t": "Secret message: acrostic KIND", "g": "Compounded"}
+{"id": "JAH-SECMES-000029", "t": "Secret message: acrostic PATIENCE", "g": "Advanced"}
+{"id": "JAH-SECMES-000030", "t": "Secret message: Morse WHAT-WE-DO-IN-LIFE", "g": "Advanced"}
+{"id": "JAH-SECMES-000031", "t": "Secret message: acrostic MYSTERY", "g": "Advanced"}
+{"id": "JAH-SECMES-000032", "t": "Secret message: Polybius square", "g": "Advanced"}
+{"id": "JAH-SECMES-000033", "t": "Secret message: tap code", "g": "Advanced"}
+{"id": "JAH-SECMES-000034", "t": "Secret message: first letters SECRETS", "g": "Advanced"}

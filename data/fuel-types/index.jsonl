@@ -1,0 +1,34 @@
+{"id": "JAH-FUEL-000001", "t": "What a fuel is: stored chemical energy", "g": "fuel-basics"}
+{"id": "JAH-FUEL-000002", "t": "Wood fuel: the original fuel", "g": "solid-fuels"}
+{"id": "JAH-FUEL-000003", "t": "Charcoal: wood concentrated by fire", "g": "solid-fuels"}
+{"id": "JAH-FUEL-000004", "t": "Coal: ancient sunlight in rock", "g": "coal-family"}
+{"id": "JAH-FUEL-000005", "t": "Coal grades: lignite, bituminous, anthracite", "g": "coal-family"}
+{"id": "JAH-FUEL-000006", "t": "Coke: coal baked for the furnace", "g": "coal-family"}
+{"id": "JAH-FUEL-000007", "t": "Peat: young coal from the bog", "g": "coal-family"}
+{"id": "JAH-FUEL-000008", "t": "Kerosene: the lamp fuel that lit the world", "g": "petroleum-distillates"}
+{"id": "JAH-FUEL-000009", "t": "Heating oil No. 2: the home heat standard", "g": "petroleum-distillates"}
+{"id": "JAH-FUEL-000010", "t": "Fuel oil grades: No. 1 through No. 6", "g": "petroleum-distillates"}
+{"id": "JAH-FUEL-000011", "t": "Natural gas: methane, the pipeline fuel", "g": "gaseous-fuels"}
+{"id": "JAH-FUEL-000012", "t": "Propane: bottled gas energy", "g": "gaseous-fuels"}
+{"id": "JAH-FUEL-000013", "t": "Gasoline and the octane number", "g": "liquid-transport-fuels"}
+{"id": "JAH-FUEL-000014", "t": "Diesel fuel and the cetane number", "g": "liquid-transport-fuels"}
+{"id": "JAH-FUEL-000015", "t": "Ethanol and E10/E15: gasoline stretched with grain", "g": "biofuels"}
+{"id": "JAH-FUEL-000016", "t": "E85: the flex-fuel blend", "g": "biofuels"}
+{"id": "JAH-FUEL-000017", "t": "Biodiesel B100: diesel from vegetable oil", "g": "biofuels"}
+{"id": "JAH-FUEL-000018", "t": "Biodiesel blends: B5 and B20", "g": "biofuels"}
+{"id": "JAH-FUEL-000019", "t": "Methanol: the simplest alcohol fuel", "g": "alternative-fuels"}
+{"id": "JAH-FUEL-000020", "t": "Aviation gasoline: 100LL for piston aircraft", "g": "aviation-fuels"}
+{"id": "JAH-FUEL-000021", "t": "Jet fuel: Jet A and Jet A-1", "g": "aviation-fuels"}
+{"id": "JAH-FUEL-000022", "t": "LNG: natural gas made liquid", "g": "gaseous-fuels"}
+{"id": "JAH-FUEL-000023", "t": "CNG: natural gas under pressure", "g": "gaseous-fuels"}
+{"id": "JAH-FUEL-000024", "t": "Hydrogen production: steam methane reforming", "g": "hydrogen"}
+{"id": "JAH-FUEL-000025", "t": "Hydrogen use: storage, handling, and fuel cells", "g": "hydrogen"}
+{"id": "JAH-FUEL-000026", "t": "Natural uranium: the nuclear fuel starting point", "g": "nuclear-fuels"}
+{"id": "JAH-FUEL-000027", "t": "Enriched uranium: pellets and fuel assemblies", "g": "nuclear-fuels"}
+{"id": "JAH-FUEL-000028", "t": "The nuclear fuel cycle: mine to reactor to storage", "g": "nuclear-fuels"}
+{"id": "JAH-FUEL-000029", "t": "Naphtha and refinery streams", "g": "refining-systems"}
+{"id": "JAH-FUEL-000030", "t": "The refinery: crude oil distilled into fuels", "g": "refining-systems"}
+{"id": "JAH-FUEL-000031", "t": "Fuel blending and additives: the finished-fuel system", "g": "refining-systems"}
+{"id": "JAH-FUEL-000032", "t": "Bunker fuel: residual oil for ships", "g": "fuel-systems"}
+{"id": "JAH-FUEL-000033", "t": "Fuel storage, transport, and safety systems", "g": "fuel-systems"}
+{"id": "JAH-FUEL-000034", "t": "Energy density: comparing every fuel on one scale", "g": "fuel-systems"}

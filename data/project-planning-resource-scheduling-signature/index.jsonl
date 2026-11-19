@@ -1,0 +1,34 @@
+{"id": "JAH-PPRSS-000001", "t": "Project Planning and Resource Scheduling Signature Database: PERT Expected Time", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000002", "t": "Project Planning and Resource Scheduling Signature Database: PERT Variance", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000003", "t": "Project Planning and Resource Scheduling Signature Database: PERT Std Dev", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000004", "t": "Project Planning and Resource Scheduling Signature Database: Slack (Float)", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000005", "t": "Project Planning and Resource Scheduling Signature Database: Early Finish", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000006", "t": "Project Planning and Resource Scheduling Signature Database: Late Start", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000007", "t": "Project Planning and Resource Scheduling Signature Database: Planned Value", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000008", "t": "Project Planning and Resource Scheduling Signature Database: Earned Value", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000009", "t": "Project Planning and Resource Scheduling Signature Database: Actual Cost", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000010", "t": "Project Planning and Resource Scheduling Signature Database: Schedule Variance", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000011", "t": "Project Planning and Resource Scheduling Signature Database: Cost Variance", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000012", "t": "Project Planning and Resource Scheduling Signature Database: SPI", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000013", "t": "Project Planning and Resource Scheduling Signature Database: CPI", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000014", "t": "Project Planning and Resource Scheduling Signature Database: EAC", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000015", "t": "Project Planning and Resource Scheduling Signature Database: ETC", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000016", "t": "Project Planning and Resource Scheduling Signature Database: VAC", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000017", "t": "Project Planning and Resource Scheduling Signature Database: TCPI", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000018", "t": "Project Planning and Resource Scheduling Signature Database: % Complete", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000019", "t": "Project Planning and Resource Scheduling Signature Database: % Spent", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000020", "t": "Project Planning and Resource Scheduling Signature Database: Burn Rate", "c": 0, "g": "evm"}
+{"id": "JAH-PPRSS-000021", "t": "Project Planning and Resource Scheduling Signature Database: Forecast Duration", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000022", "t": "Project Planning and Resource Scheduling Signature Database: Team Velocity", "c": 0, "g": "agile"}
+{"id": "JAH-PPRSS-000023", "t": "Project Planning and Resource Scheduling Signature Database: Capacity (sprint)", "c": 0, "g": "agile"}
+{"id": "JAH-PPRSS-000024", "t": "Project Planning and Resource Scheduling Signature Database: Utilization (project)", "c": 0, "g": "resources"}
+{"id": "JAH-PPRSS-000025", "t": "Project Planning and Resource Scheduling Signature Database: Risk Exposure", "c": 0, "g": "risk"}
+{"id": "JAH-PPRSS-000026", "t": "Project Planning and Resource Scheduling Signature Database: Contingency Reserve", "c": 0, "g": "risk"}
+{"id": "JAH-PPRSS-000027", "t": "Project Planning and Resource Scheduling Signature Database: Management Reserve", "c": 0, "g": "risk"}
+{"id": "JAH-PPRSS-000028", "t": "Project Planning and Resource Scheduling Signature Database: Communication Channels", "c": 0, "g": "team"}
+{"id": "JAH-PPRSS-000029", "t": "Project Planning and Resource Scheduling Signature Database: Crashing Savings", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000030", "t": "Project Planning and Resource Scheduling Signature Database: Resource Overallocation", "c": 0, "g": "resources"}
+{"id": "JAH-PPRSS-000031", "t": "Project Planning and Resource Scheduling Signature Database: Schedule Compression", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000032", "t": "Project Planning and Resource Scheduling Signature Database: Milestone Trend", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000033", "t": "Project Planning and Resource Scheduling Signature Database: Baseline Variance", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRSS-000034", "t": "Project Planning and Resource Scheduling Signature Database: Project Health Capstone", "c": 0, "g": "evm"}

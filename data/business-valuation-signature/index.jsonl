@@ -1,0 +1,34 @@
+{"id": "JAH-BVALS-000001", "t": "Signature Business Valuation Database: What Business Valuation Is", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000002", "t": "Signature Business Valuation Database: Fair Market Value", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000003", "t": "Signature Business Valuation Database: Book Value", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000004", "t": "Signature Business Valuation Database: Liquidation Value", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000005", "t": "Signature Business Valuation Database: Discounted Cash Flow (DCF)", "c": 0, "g": "dcf"}
+{"id": "JAH-BVALS-000006", "t": "Signature Business Valuation Database: Terminal Value", "c": 0, "g": "dcf"}
+{"id": "JAH-BVALS-000007", "t": "Signature Business Valuation Database: WACC: The Discount Rate", "c": 0, "g": "dcf"}
+{"id": "JAH-BVALS-000008", "t": "Signature Business Valuation Database: Free Cash Flow to Firm", "c": 0, "g": "dcf"}
+{"id": "JAH-BVALS-000009", "t": "Signature Business Valuation Database: Revenue Multiples", "c": 0, "g": "multiples"}
+{"id": "JAH-BVALS-000010", "t": "Signature Business Valuation Database: EBITDA Multiples", "c": 0, "g": "multiples"}
+{"id": "JAH-BVALS-000011", "t": "Signature Business Valuation Database: P/E Ratios", "c": 0, "g": "multiples"}
+{"id": "JAH-BVALS-000012", "t": "Signature Business Valuation Database: PEG Ratio", "c": 0, "g": "multiples"}
+{"id": "JAH-BVALS-000013", "t": "Signature Business Valuation Database: Precedent Transactions", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000014", "t": "Signature Business Valuation Database: Control Premiums", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000015", "t": "Signature Business Valuation Database: Minority Discounts (DLOM/DLOC)", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000016", "t": "Signature Business Valuation Database: Normalizing Earnings", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000017", "t": "Signature Business Valuation Database: Seller's Discretionary Earnings", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000018", "t": "Signature Business Valuation Database: Asset-Based Valuation", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000019", "t": "Signature Business Valuation Database: Valuing Intangible Assets", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000020", "t": "Signature Business Valuation Database: Valuing a Startup (Pre-Revenue)", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000021", "t": "Signature Business Valuation Database: Valuing a Professional Practice", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000022", "t": "Signature Business Valuation Database: Buy-Sell Agreements", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000023", "t": "Signature Business Valuation Database: Estate and Gift Tax Valuations", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000024", "t": "Signature Business Valuation Database: Divorce Valuations", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000025", "t": "Signature Business Valuation Database: Valuation for Fundraising", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000026", "t": "Signature Business Valuation Database: Valuation in M&A Negotiations", "c": 0, "g": "deals"}
+{"id": "JAH-BVALS-000027", "t": "Signature Business Valuation Database: Goodwill and Purchase Price Allocation", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000028", "t": "Signature Business Valuation Database: Valuation Reports That Hold Up", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000029", "t": "Signature Business Valuation Database: Industry-Specific Multiples", "c": 0, "g": "multiples"}
+{"id": "JAH-BVALS-000030", "t": "Signature Business Valuation Database: Valuing Real Estate in a Business", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000031", "t": "Signature Business Valuation Database: Recasting Financials", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000032", "t": "Signature Business Valuation Database: Choosing the Right Valuator", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000033", "t": "Signature Business Valuation Database: Valuation Mistakes to Avoid", "c": 0, "g": "methods"}
+{"id": "JAH-BVALS-000034", "t": "Signature Business Valuation Database: Capstone: The Complete Valuator", "c": 0, "g": "methods"}

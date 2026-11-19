@@ -1,0 +1,34 @@
+{"id": "JAH-SSLS-000001", "t": "Simulation and Scenario Laboratory Signature Database: Monte Carlo Mean", "c": 0, "g": "monte-carlo"}
+{"id": "JAH-SSLS-000002", "t": "Simulation and Scenario Laboratory Signature Database: Standard Error", "c": 0, "g": "monte-carlo"}
+{"id": "JAH-SSLS-000003", "t": "Simulation and Scenario Laboratory Signature Database: Confidence Margin", "c": 0, "g": "monte-carlo"}
+{"id": "JAH-SSLS-000004", "t": "Simulation and Scenario Laboratory Signature Database: Sample Size", "c": 0, "g": "monte-carlo"}
+{"id": "JAH-SSLS-000005", "t": "Simulation and Scenario Laboratory Signature Database: Expected Value", "c": 0, "g": "scenarios"}
+{"id": "JAH-SSLS-000006", "t": "Simulation and Scenario Laboratory Signature Database: Uniform Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-SSLS-000007", "t": "Simulation and Scenario Laboratory Signature Database: Triangular Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-SSLS-000008", "t": "Simulation and Scenario Laboratory Signature Database: Exponential Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-SSLS-000009", "t": "Simulation and Scenario Laboratory Signature Database: Best Case", "c": 0, "g": "scenarios"}
+{"id": "JAH-SSLS-000010", "t": "Simulation and Scenario Laboratory Signature Database: Worst Case", "c": 0, "g": "scenarios"}
+{"id": "JAH-SSLS-000011", "t": "Simulation and Scenario Laboratory Signature Database: Base Case", "c": 0, "g": "scenarios"}
+{"id": "JAH-SSLS-000012", "t": "Simulation and Scenario Laboratory Signature Database: Scenario Range", "c": 0, "g": "scenarios"}
+{"id": "JAH-SSLS-000013", "t": "Simulation and Scenario Laboratory Signature Database: Tornado Sensitivity", "c": 0, "g": "sensitivity"}
+{"id": "JAH-SSLS-000014", "t": "Simulation and Scenario Laboratory Signature Database: NPV", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000015", "t": "Simulation and Scenario Laboratory Signature Database: Payback Period", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000016", "t": "Simulation and Scenario Laboratory Signature Database: Discount Factor", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000017", "t": "Simulation and Scenario Laboratory Signature Database: Future Value", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000018", "t": "Simulation and Scenario Laboratory Signature Database: Present Value", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000019", "t": "Simulation and Scenario Laboratory Signature Database: Annuity PV", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000020", "t": "Simulation and Scenario Laboratory Signature Database: Perpetuity Value", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000021", "t": "Simulation and Scenario Laboratory Signature Database: Compound Growth", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000022", "t": "Simulation and Scenario Laboratory Signature Database: CAGR", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000023", "t": "Simulation and Scenario Laboratory Signature Database: Doubling Time", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000024", "t": "Simulation and Scenario Laboratory Signature Database: Rule of 72", "c": 0, "g": "finance"}
+{"id": "JAH-SSLS-000025", "t": "Simulation and Scenario Laboratory Signature Database: Queue Utilization", "c": 0, "g": "queues"}
+{"id": "JAH-SSLS-000026", "t": "Simulation and Scenario Laboratory Signature Database: Queue Length (M/M/1)", "c": 0, "g": "queues"}
+{"id": "JAH-SSLS-000027", "t": "Simulation and Scenario Laboratory Signature Database: Queue Wait (M/M/1)", "c": 0, "g": "queues"}
+{"id": "JAH-SSLS-000028", "t": "Simulation and Scenario Laboratory Signature Database: Little's Law", "c": 0, "g": "queues"}
+{"id": "JAH-SSLS-000029", "t": "Simulation and Scenario Laboratory Signature Database: Series Reliability", "c": 0, "g": "reliability"}
+{"id": "JAH-SSLS-000030", "t": "Simulation and Scenario Laboratory Signature Database: Parallel Reliability", "c": 0, "g": "reliability"}
+{"id": "JAH-SSLS-000031", "t": "Simulation and Scenario Laboratory Signature Database: MTBF", "c": 0, "g": "reliability"}
+{"id": "JAH-SSLS-000032", "t": "Simulation and Scenario Laboratory Signature Database: Availability", "c": 0, "g": "reliability"}
+{"id": "JAH-SSLS-000033", "t": "Simulation and Scenario Laboratory Signature Database: Failure Rate", "c": 0, "g": "reliability"}
+{"id": "JAH-SSLS-000034", "t": "Simulation and Scenario Laboratory Signature Database: Scenario Score Capstone", "c": 0, "g": "scenarios"}

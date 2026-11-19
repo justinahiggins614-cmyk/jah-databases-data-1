@@ -1,0 +1,34 @@
+{"id": "JAH-WFRS-000001", "t": "What Is a Workflow (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000002", "t": "Tasks, Cases, and Processes (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000003", "t": "Ownership and Roles (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000004", "t": "Status and the Status Lifecycle (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000005", "t": "Deadlines and Due Dates (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000006", "t": "Handoffs Between People and Teams (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000007", "t": "The Audit Trail of Status Changes (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000008", "t": "Outcomes Versus Outputs (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000009", "t": "A Day in the Life of a Simple Workflow (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-WFRS-000010", "t": "State Machines and Transition Rules (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000011", "t": "Basic Workflow Patterns: Sequence, Parallel, and Choice (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000012", "t": "The Four Dependency Types (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000013", "t": "Advanced Control-Flow Patterns (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000014", "t": "BPMN 2.0 Notation Basics (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000015", "t": "Critical Path and Schedule Math (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000016", "t": "SLA Fundamentals and Tracking (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000017", "t": "Case Management Lifecycles (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000018", "t": "Escalation Paths and Tiers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000019", "t": "Triage and Prioritization (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000020", "t": "Queues and Little's Law (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000021", "t": "Multi-Instance and Loop Patterns (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000022", "t": "Cancellation, Exceptions, and Compensation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000023", "t": "Handoff Protocols and Acceptance Criteria (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-WFRS-000024", "t": "BPMN 2.0 Execution Semantics (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000025", "t": "Orchestration Versus Choreography (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000026", "t": "Sagas and Long-Running Transactions (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000027", "t": "Deadlock Detection in Dependency Graphs (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000028", "t": "SLA Breach Prediction (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000029", "t": "Hash-Chained Audit Trails (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000030", "t": "Cycle Time and Flow Analytics (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000031", "t": "Versioning Running Workflow Instances (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000032", "t": "Dynamic Escalation Routing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000033", "t": "Workflow Engines and Durable Execution (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-WFRS-000034", "t": "Case Records at Scale (Signature Edition)", "g": "Advanced"}

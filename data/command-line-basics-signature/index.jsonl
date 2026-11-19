@@ -1,0 +1,34 @@
+{"id": "JAH-CLIS-000001", "t": "What Is the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000002", "t": "Opening a Terminal — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000003", "t": "Command Anatomy — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000004", "t": "Navigating Directories on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000005", "t": "Listing Files on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000006", "t": "Creating and Removing on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000007", "t": "Copying and Moving on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000008", "t": "Reading Files on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000009", "t": "Tab Completion on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000010", "t": "Command History on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000011", "t": "Getting Help on the Command Line — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLIS-000012", "t": "Wildcards and Globbing — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000013", "t": "Redirection Deep Dive — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000014", "t": "Pipes Deep Dive — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000015", "t": "grep in Depth — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000016", "t": "sed Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000017", "t": "awk Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000018", "t": "sort and uniq — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000019", "t": "wc Counting — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000020", "t": "find in Depth — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000021", "t": "xargs — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000022", "t": "Environment Variables in Depth — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000023", "t": "Aliases on the Command Line — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLIS-000024", "t": "Shell Scripting on the Command Line — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000025", "t": "Shell Variables and Loops — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000026", "t": "Shell Conditionals — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000027", "t": "Shell Functions — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000028", "t": "Exit Codes on the Command Line — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000029", "t": "Job Control on the Command Line — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000030", "t": "SSH on the Command Line — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000031", "t": "curl and wget Downloading — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000032", "t": "tmux and screen Terminal Multiplexers — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000033", "t": "Text Processing Pipelines — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLIS-000034", "t": "Regex Mastery on the Command Line — Signature Edition", "g": "Advanced"}

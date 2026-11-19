@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-PD-000001", "t": "What planning is: from goal to action", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000002", "t": "Goals: the destination stated well", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000003", "t": "Decomposition: the goal in pieces", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000004", "t": "Tasks: the atoms of the plan", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000005", "t": "Ordering: what comes first", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000006", "t": "Dependencies: the links between tasks", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000007", "t": "The task list: the plan on one page", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000008", "t": "Estimates: how long things take", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000009", "t": "Milestones: the plan's checkpoints", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000010", "t": "The simple plan: planning for small goals", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000011", "t": "Plan vs wish: the honesty test", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PD-000012", "t": "Critical path: the tasks that set the date", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000013", "t": "PERT: planning with uncertainty", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000014", "t": "Resource allocation: who does what when", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000015", "t": "Risk registers: naming what could go wrong", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000016", "t": "Contingency plans: the plan B", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000017", "t": "Hierarchical planning: plans within plans", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000018", "t": "Monitoring: watching the plan run", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000019", "t": "Progress tracking: are we getting there", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000020", "t": "Replanning triggers: knowing when the plan broke", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000021", "t": "Plan repair: fixing without restarting", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000022", "t": "Multi-plan comparison: choosing between futures", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000023", "t": "Planning fallacies: the classic mistakes", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PD-000024", "t": "Classical planners: STRIPS and the foundations", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000025", "t": "PDDL: the language of planning", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000026", "t": "HTN planning: tasks that decompose", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000027", "t": "Planning under uncertainty: when the world may vary", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000028", "t": "Adversarial planning: when someone opposes you", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000029", "t": "Multi-agent planning: many planners, one world", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000030", "t": "Plan verification: proving the plan works", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000031", "t": "Plan libraries: the organization's plans", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000032", "t": "Learning to plan: the planner improves", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000033", "t": "The master plan: planning at the largest scale", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PD-000034", "t": "Planning as communication: the plan as agreement", "g": "planning-decomposition-advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-CMR-000001", "t": "Process Selection", "g": "Foundations"}
+{"id": "JAH-CMR-000002", "t": "Workholding", "g": "Foundations"}
+{"id": "JAH-CMR-000003", "t": "Tool Materials", "g": "Foundations"}
+{"id": "JAH-CMR-000004", "t": "Tool Geometry", "g": "Foundations"}
+{"id": "JAH-CMR-000005", "t": "Speeds and Feeds", "g": "Foundations"}
+{"id": "JAH-CMR-000006", "t": "Cut Parameters", "g": "Foundations"}
+{"id": "JAH-CMR-000007", "t": "Coolant Strategy", "g": "Foundations"}
+{"id": "JAH-CMR-000008", "t": "Program Proving", "g": "Foundations"}
+{"id": "JAH-CMR-000009", "t": "First-Article Inspection", "g": "Foundations"}
+{"id": "JAH-CMR-000010", "t": "Tolerance Design", "g": "Foundations"}
+{"id": "JAH-CMR-000011", "t": "Surface Finish", "g": "Foundations"}
+{"id": "JAH-CMR-000012", "t": "Tool Wear", "g": "Compounded"}
+{"id": "JAH-CMR-000013", "t": "Setup Documentation", "g": "Compounded"}
+{"id": "JAH-CMR-000014", "t": "G-Code Basics", "g": "Compounded"}
+{"id": "JAH-CMR-000015", "t": "CAM Strategies", "g": "Compounded"}
+{"id": "JAH-CMR-000016", "t": "Adaptive Clearing", "g": "Compounded"}
+{"id": "JAH-CMR-000017", "t": "Finishing Passes", "g": "Compounded"}
+{"id": "JAH-CMR-000018", "t": "Threading", "g": "Compounded"}
+{"id": "JAH-CMR-000019", "t": "Holemaking", "g": "Compounded"}
+{"id": "JAH-CMR-000020", "t": "Tapping", "g": "Compounded"}
+{"id": "JAH-CMR-000021", "t": "Work Coordinates", "g": "Compounded"}
+{"id": "JAH-CMR-000022", "t": "Tool Lengths", "g": "Compounded"}
+{"id": "JAH-CMR-000023", "t": "Fixture Design", "g": "Compounded"}
+{"id": "JAH-CMR-000024", "t": "Soft Jaws", "g": "Advanced"}
+{"id": "JAH-CMR-000025", "t": "Vise Practice", "g": "Advanced"}
+{"id": "JAH-CMR-000026", "t": "4th Axis", "g": "Advanced"}
+{"id": "JAH-CMR-000027", "t": "5-Axis Basics", "g": "Advanced"}
+{"id": "JAH-CMR-000028", "t": "Probing", "g": "Advanced"}
+{"id": "JAH-CMR-000029", "t": "Lights-Out", "g": "Advanced"}
+{"id": "JAH-CMR-000030", "t": "Materials Guide", "g": "Advanced"}
+{"id": "JAH-CMR-000031", "t": "Plastics Machining", "g": "Advanced"}
+{"id": "JAH-CMR-000032", "t": "Cost Estimation", "g": "Advanced"}
+{"id": "JAH-CMR-000033", "t": "Quality Systems", "g": "Advanced"}
+{"id": "JAH-CMR-000034", "t": "Safety", "g": "Advanced"}

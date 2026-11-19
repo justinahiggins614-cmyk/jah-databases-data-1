@@ -1,0 +1,34 @@
+{"id": "JAH-CIR-000001", "t": "Reading a Parts Cross-Reference Table", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000002", "t": "Bearing Interchange Guide", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000003", "t": "Fastener Grade Interchange", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000004", "t": "Filter Element Cross-Reference", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000005", "t": "V-Belt Size Interchange", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000006", "t": "Fuse and Breaker Interchange", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000007", "t": "O-Ring Size and Material Interchange", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000008", "t": "Lamp and Indicator Interchange", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000009", "t": "Battery Size Cross-Reference", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000010", "t": "Lubricant Equivalents Table", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000011", "t": "Motor Frame Interchange", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000012", "t": "PLC Module Compatibility", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000013", "t": "Sensor Output Compatibility", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000014", "t": "Power Supply Compatibility", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000015", "t": "Hydraulic Component Interchange", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000016", "t": "Pneumatic Fitting Interchange", "g": "Interfaces & Connectors"}
+{"id": "JAH-CIR-000017", "t": "Connector and Pinout Compatibility", "g": "Interfaces & Connectors"}
+{"id": "JAH-CIR-000018", "t": "Communication Protocol Compatibility", "g": "Software & Firmware"}
+{"id": "JAH-CIR-000019", "t": "Firmware Version Compatibility Matrix", "g": "Software & Firmware"}
+{"id": "JAH-CIR-000020", "t": "Operating System and Driver Compatibility", "g": "Software & Firmware"}
+{"id": "JAH-CIR-000021", "t": "Superseded Part Number Lookup", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000022", "t": "Aftermarket vs OEM Interchange Rules", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000023", "t": "Safety-Rated Component Substitution", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000024", "t": "Hazardous-Area Equipment Compatibility", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000025", "t": "Mixed-Vendor System Integration", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000026", "t": "Legacy System Interface Adaptation", "g": "Interfaces & Connectors"}
+{"id": "JAH-CIR-000027", "t": "Software Regression Compatibility Testing", "g": "Software & Firmware"}
+{"id": "JAH-CIR-000028", "t": "Database and File Format Compatibility", "g": "Software & Firmware"}
+{"id": "JAH-CIR-000029", "t": "Cross-Platform Tool Compatibility", "g": "Software & Firmware"}
+{"id": "JAH-CIR-000030", "t": "Obsolete Part Redesign Triggers", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000031", "t": "Form-Fit-Function Equivalence Documentation", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIR-000032", "t": "Interchangeability Risk Assessment", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000033", "t": "Multi-Site Standardization Records", "g": "Systems Compatibility"}
+{"id": "JAH-CIR-000034", "t": "Compatibility Audit Procedure", "g": "Systems Compatibility"}

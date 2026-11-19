@@ -1,0 +1,34 @@
+{"id": "JAH-SFCSC-000001", "t": "Signature What Computer Science Is", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000002", "t": "Signature The Core Question of Computer Science", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000003", "t": "Signature Assumptions: The Church-Turing Thesis", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000004", "t": "Signature The Vocabulary: Algorithms, Data Structures, Complexity", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000005", "t": "Signature Time and Space: The Fundamental Quantities", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000006", "t": "Signature The Algorithm: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000007", "t": "Signature A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000008", "t": "Signature How Computer Science Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000009", "t": "Signature The Core Mechanism: Abstraction Layers", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000010", "t": "Signature The Simplest Law: The Stored Program", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000011", "t": "Signature Common Misconceptions in Computer Science", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000012", "t": "Signature How Beginners Practice Computer Science", "g": "Foundations", "c": 0}
+{"id": "JAH-SFCSC-000013", "t": "Signature The Core Model: The Turing Machine", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000014", "t": "Signature The Great Result: P versus NP", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000015", "t": "Signature Systems Thinking: Operating Systems", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000016", "t": "Signature Invariance: What Abstraction Preserves", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000017", "t": "Signature Approximation: Heuristics", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000018", "t": "Signature Evidence Standards: Proof and Benchmark", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000019", "t": "Signature Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000020", "t": "Signature Core Trade-offs: Time versus Space", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000021", "t": "Signature Handling Uncertainty: Randomization", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000022", "t": "Signature Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000023", "t": "Signature Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000024", "t": "Signature Teaching Computer Science", "g": "Compounded", "c": 0}
+{"id": "JAH-SFCSC-000025", "t": "Signature The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000026", "t": "Signature Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000027", "t": "Signature Computational Thinking About Computation", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000028", "t": "Signature Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000029", "t": "Signature The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000030", "t": "Signature How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000031", "t": "Signature The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000032", "t": "Signature Failure Modes: When Computer Science Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000033", "t": "Signature Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-SFCSC-000034", "t": "Signature The Signature Formulation: Computer Science as Executable Truth", "g": "Advanced", "c": 0}

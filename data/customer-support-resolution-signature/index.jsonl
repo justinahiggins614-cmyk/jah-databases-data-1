@@ -1,0 +1,34 @@
+{"id": "JAH-CSRS-000001", "t": "Customer Support and Service Resolution Signature Database: Ticket Triage", "c": 0, "g": "triage"}
+{"id": "JAH-CSRS-000002", "t": "Customer Support and Service Resolution Signature Database: Priority Matrix", "c": 0, "g": "triage"}
+{"id": "JAH-CSRS-000003", "t": "Customer Support and Service Resolution Signature Database: Troubleshooting Tree", "c": 0, "g": "diagnosis"}
+{"id": "JAH-CSRS-000004", "t": "Customer Support and Service Resolution Signature Database: Knowledge Base", "c": 0, "g": "self-service"}
+{"id": "JAH-CSRS-000005", "t": "Customer Support and Service Resolution Signature Database: Escalation", "c": 0, "g": "triage"}
+{"id": "JAH-CSRS-000006", "t": "Customer Support and Service Resolution Signature Database: SLA Management", "c": 0, "g": "triage"}
+{"id": "JAH-CSRS-000007", "t": "Customer Support and Service Resolution Signature Database: First Response Time", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000008", "t": "Customer Support and Service Resolution Signature Database: Resolution Time", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000009", "t": "Customer Support and Service Resolution Signature Database: CSAT", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000010", "t": "Customer Support and Service Resolution Signature Database: NPS (Support)", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000011", "t": "Customer Support and Service Resolution Signature Database: CES", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000012", "t": "Customer Support and Service Resolution Signature Database: Ticket Deflection", "c": 0, "g": "self-service"}
+{"id": "JAH-CSRS-000013", "t": "Customer Support and Service Resolution Signature Database: Chatbot (rules)", "c": 0, "g": "self-service"}
+{"id": "JAH-CSRS-000014", "t": "Customer Support and Service Resolution Signature Database: Documentation", "c": 0, "g": "self-service"}
+{"id": "JAH-CSRS-000015", "t": "Customer Support and Service Resolution Signature Database: Bug Reporting", "c": 0, "g": "diagnosis"}
+{"id": "JAH-CSRS-000016", "t": "Customer Support and Service Resolution Signature Database: Feature Requests", "c": 0, "g": "feedback"}
+{"id": "JAH-CSRS-000017", "t": "Customer Support and Service Resolution Signature Database: Complaint Handling", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000018", "t": "Customer Support and Service Resolution Signature Database: De-escalation", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000019", "t": "Customer Support and Service Resolution Signature Database: Refunds", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000020", "t": "Customer Support and Service Resolution Signature Database: Warranty Claims", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000021", "t": "Customer Support and Service Resolution Signature Database: RMA Process", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000022", "t": "Customer Support and Service Resolution Signature Database: Remote Diagnosis", "c": 0, "g": "diagnosis"}
+{"id": "JAH-CSRS-000023", "t": "Customer Support and Service Resolution Signature Database: On-Site Dispatch", "c": 0, "g": "diagnosis"}
+{"id": "JAH-CSRS-000024", "t": "Customer Support and Service Resolution Signature Database: Follow-Up", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000025", "t": "Customer Support and Service Resolution Signature Database: Closed-Loop Feedback", "c": 0, "g": "feedback"}
+{"id": "JAH-CSRS-000026", "t": "Customer Support and Service Resolution Signature Database: Ticket QA", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000027", "t": "Customer Support and Service Resolution Signature Database: Workforce Management", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000028", "t": "Customer Support and Service Resolution Signature Database: Shift Scheduling", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000029", "t": "Customer Support and Service Resolution Signature Database: Support Reporting", "c": 0, "g": "metrics"}
+{"id": "JAH-CSRS-000030", "t": "Customer Support and Service Resolution Signature Database: VIP Support", "c": 0, "g": "recovery"}
+{"id": "JAH-CSRS-000031", "t": "Customer Support and Service Resolution Signature Database: Support Automation", "c": 0, "g": "self-service"}
+{"id": "JAH-CSRS-000032", "t": "Customer Support and Service Resolution Signature Database: Community Support", "c": 0, "g": "self-service"}
+{"id": "JAH-CSRS-000033", "t": "Customer Support and Service Resolution Signature Database: Support Tiers", "c": 0, "g": "triage"}
+{"id": "JAH-CSRS-000034", "t": "Customer Support and Service Resolution Signature Database: Capstone: Support Operation", "c": 0, "g": "metrics"}

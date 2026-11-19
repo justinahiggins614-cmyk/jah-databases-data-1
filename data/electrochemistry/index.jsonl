@@ -1,0 +1,34 @@
+{"id": "JAH-ELCH-000001", "t": "Oxidation and Reduction Basics", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000002", "t": "The Electrochemical Cell", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000003", "t": "Standard Electrode Potentials", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000004", "t": "The Nernst Equation", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000005", "t": "Faraday's Laws of Electrolysis", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000006", "t": "Galvanic vs Electrolytic Cells", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000007", "t": "Conductivity and Electrolytes", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000008", "t": "The Electrochemical Series", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000009", "t": "pH and Electrochemical Measurement", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000010", "t": "Reference Electrodes", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000011", "t": "Double Layer and Capacitance", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000012", "t": "Overpotential Basics", "g": "Fundamentals"}
+{"id": "JAH-ELCH-000013", "t": "Butler-Volmer Kinetics", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000014", "t": "Mass Transport: Diffusion, Migration, Convection", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000015", "t": "Cyclic Voltammetry", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000016", "t": "Electrochemical Impedance Spectroscopy", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000017", "t": "Corrosion Mechanisms", "g": "Corrosion"}
+{"id": "JAH-ELCH-000018", "t": "Cathodic Protection", "g": "Corrosion"}
+{"id": "JAH-ELCH-000019", "t": "Electroplating Fundamentals", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000020", "t": "Anodizing", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000021", "t": "Chlor-Alkali Process", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000022", "t": "Aluminum Smelting: Hall-Heroult", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000023", "t": "Fuel Cell Principles", "g": "Energy Devices"}
+{"id": "JAH-ELCH-000024", "t": "Electrochemical Sensors", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000025", "t": "Lithium-Ion Battery Chemistry", "g": "Energy Devices"}
+{"id": "JAH-ELCH-000026", "t": "Solid-State Battery Electrochemistry", "g": "Energy Devices"}
+{"id": "JAH-ELCH-000027", "t": "Hydrogen Electrolysis at Scale", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000028", "t": "CO2 Electroreduction", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000029", "t": "Electrocatalysis and Catalyst Design", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000030", "t": "Photoelectrochemistry", "g": "Energy Devices"}
+{"id": "JAH-ELCH-000031", "t": "Bioelectrochemistry", "g": "Kinetics & Methods"}
+{"id": "JAH-ELCH-000032", "t": "Supercapacitors and Pseudocapacitance", "g": "Energy Devices"}
+{"id": "JAH-ELCH-000033", "t": "Electrochemical Machining", "g": "Industrial Processes"}
+{"id": "JAH-ELCH-000034", "t": "Pourbaix Diagrams in Practice", "g": "Corrosion"}

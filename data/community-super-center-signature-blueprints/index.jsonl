@@ -1,0 +1,34 @@
+{"id": "JAH-SCCB-000001", "t": "The District Grid and Block Template", "g": "street-grid"}
+{"id": "JAH-SCCB-000002", "t": "The Main Street Cross-Section", "g": "street-grid"}
+{"id": "JAH-SCCB-000003", "t": "The Residential Street Cross-Section", "g": "street-grid"}
+{"id": "JAH-SCCB-000004", "t": "The Alley and Service Lane Plan", "g": "street-grid"}
+{"id": "JAH-SCCB-000005", "t": "The Roundabout and Intersection Plan", "g": "street-grid"}
+{"id": "JAH-SCCB-000006", "t": "The Transit Stop Blueprint", "g": "street-grid"}
+{"id": "JAH-SCCB-000007", "t": "The Bike Lane Network Plan", "g": "street-grid"}
+{"id": "JAH-SCCB-000008", "t": "The Pedestrian Crossing Plan", "g": "street-grid"}
+{"id": "JAH-SCCB-000009", "t": "The Parking Court Layout", "g": "street-grid"}
+{"id": "JAH-SCCB-000010", "t": "The Cottage Housing Prototype", "g": "buildings"}
+{"id": "JAH-SCCB-000011", "t": "The Townhouse Row Prototype", "g": "buildings"}
+{"id": "JAH-SCCB-000012", "t": "The Apartment Building Prototype", "g": "buildings"}
+{"id": "JAH-SCCB-000013", "t": "The Co-Living House Prototype", "g": "buildings"}
+{"id": "JAH-SCCB-000014", "t": "The Mixed-Use Corner Building Plan", "g": "buildings"}
+{"id": "JAH-SCCB-000015", "t": "The Market Hall Building Plan", "g": "buildings"}
+{"id": "JAH-SCCB-000016", "t": "The Clinic Building Plan", "g": "buildings"}
+{"id": "JAH-SCCB-000017", "t": "The School Building Site Plan", "g": "buildings"}
+{"id": "JAH-SCCB-000018", "t": "The Library Building Plan", "g": "buildings"}
+{"id": "JAH-SCCB-000019", "t": "The Corner Plaza Blueprint", "g": "public-space"}
+{"id": "JAH-SCCB-000020", "t": "The Pocket Park Plan", "g": "public-space"}
+{"id": "JAH-SCCB-000021", "t": "The Community Garden Grid", "g": "public-space"}
+{"id": "JAH-SCCB-000022", "t": "The Playground Blueprint", "g": "public-space"}
+{"id": "JAH-SCCB-000023", "t": "The Sports Field Layout", "g": "public-space"}
+{"id": "JAH-SCCB-000024", "t": "The Amphitheater Plan", "g": "public-space"}
+{"id": "JAH-SCCB-000025", "t": "The Festival Street Section", "g": "public-space"}
+{"id": "JAH-SCCB-000026", "t": "The Greenway Section Blueprint", "g": "public-space"}
+{"id": "JAH-SCCB-000027", "t": "The Stormwater Management Plan", "g": "infrastructure"}
+{"id": "JAH-SCCB-000028", "t": "The Utility Corridor Map", "g": "infrastructure"}
+{"id": "JAH-SCCB-000029", "t": "The Street Lighting Plan", "g": "infrastructure"}
+{"id": "JAH-SCCB-000030", "t": "The Tree Planting Plan", "g": "infrastructure"}
+{"id": "JAH-SCCB-000031", "t": "The Fire Access and Hydrant Plan", "g": "infrastructure"}
+{"id": "JAH-SCCB-000032", "t": "The Water Distribution Plan", "g": "infrastructure"}
+{"id": "JAH-SCCB-000033", "t": "The Energy Microgrid Plan", "g": "infrastructure"}
+{"id": "JAH-SCCB-000034", "t": "The Phased Build-Out Plan", "g": "infrastructure"}

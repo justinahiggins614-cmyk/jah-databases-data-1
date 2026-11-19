@@ -1,0 +1,34 @@
+{"id": "JAH-USTO-000001", "t": "The Dose Response Extrapolation Problem", "g": "Risk Assessment"}
+{"id": "JAH-USTO-000002", "t": "The Mixture Toxicity Problem", "g": "Risk Assessment"}
+{"id": "JAH-USTO-000003", "t": "The Endocrine Disruption Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000004", "t": "The Developmental Toxicity Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000005", "t": "The Carcinogen Classification Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000006", "t": "The Genotoxicity Testing Problem", "g": "Methods"}
+{"id": "JAH-USTO-000007", "t": "The Skin Sensitization Problem", "g": "Methods"}
+{"id": "JAH-USTO-000008", "t": "The Eye Irritation Replacement Problem", "g": "Methods"}
+{"id": "JAH-USTO-000009", "t": "The Acute Toxicity Replacement Problem", "g": "Methods"}
+{"id": "JAH-USTO-000010", "t": "The Bioaccumulation Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000011", "t": "The PBT Assessment Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000012", "t": "The Adverse Outcome Pathway Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000013", "t": "The Read Across Problem", "g": "Methods"}
+{"id": "JAH-USTO-000014", "t": "The QSAR Applicability Domain Problem", "g": "Methods"}
+{"id": "JAH-USTO-000015", "t": "The In Vitro to In Vivo Extrapolation Problem", "g": "Methods"}
+{"id": "JAH-USTO-000016", "t": "The PBPK Modeling Problem", "g": "Methods"}
+{"id": "JAH-USTO-000017", "t": "The Nanomaterial Toxicity Problem", "g": "Emerging Risks"}
+{"id": "JAH-USTO-000018", "t": "The Microplastic Toxicity Problem", "g": "Emerging Risks"}
+{"id": "JAH-USTO-000019", "t": "The PFAS Toxicity Problem", "g": "Emerging Risks"}
+{"id": "JAH-USTO-000020", "t": "The Pesticide Mixture Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000021", "t": "The Heavy Metal Speciation Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000022", "t": "The Air Pollution Mixture Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000023", "t": "The Water Contaminant Mixture Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000024", "t": "The Exposome Problem", "g": "Exposure"}
+{"id": "JAH-USTO-000025", "t": "The Gene Environment Interaction Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000026", "t": "The Epigenetic Toxicity Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000027", "t": "The Transgenerational Toxicity Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000028", "t": "The Microbiome Toxicity Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000029", "t": "The Immunotoxicity Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000030", "t": "The Neurodevelopmental Toxicity Problem", "g": "Mechanisms"}
+{"id": "JAH-USTO-000031", "t": "The Endocrine Screening Problem", "g": "Methods"}
+{"id": "JAH-USTO-000032", "t": "The New Approach Methodologies Problem", "g": "Methods"}
+{"id": "JAH-USTO-000033", "t": "The Risk Assessment Uncertainty Problem", "g": "Risk Assessment"}
+{"id": "JAH-USTO-000034", "t": "The Unified Toxicology Problem", "g": "Risk Assessment"}

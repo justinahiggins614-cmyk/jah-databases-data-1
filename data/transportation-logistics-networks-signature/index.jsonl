@@ -1,0 +1,34 @@
+{"id": "JAH-TLNS-000001", "t": "Transportation and Logistics Networks Signature Database: Travel Time", "c": 0, "g": "routing"}
+{"id": "JAH-TLNS-000002", "t": "Transportation and Logistics Networks Signature Database: Average Speed", "c": 0, "g": "routing"}
+{"id": "JAH-TLNS-000003", "t": "Transportation and Logistics Networks Signature Database: Fuel Consumption", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000004", "t": "Transportation and Logistics Networks Signature Database: Fuel Cost", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000005", "t": "Transportation and Logistics Networks Signature Database: Freight Cost", "c": 0, "g": "freight"}
+{"id": "JAH-TLNS-000006", "t": "Transportation and Logistics Networks Signature Database: Fleet Capacity", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000007", "t": "Transportation and Logistics Networks Signature Database: Fleet Utilization", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000008", "t": "Transportation and Logistics Networks Signature Database: Trips Needed", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000009", "t": "Transportation and Logistics Networks Signature Database: Inventory Turns", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000010", "t": "Transportation and Logistics Networks Signature Database: Days of Supply", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000011", "t": "Transportation and Logistics Networks Signature Database: Warehouse Utilization", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000012", "t": "Transportation and Logistics Networks Signature Database: Order Fill Rate", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000013", "t": "Transportation and Logistics Networks Signature Database: On-Time Delivery", "c": 0, "g": "freight"}
+{"id": "JAH-TLNS-000014", "t": "Transportation and Logistics Networks Signature Database: Perfect Order Rate", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000015", "t": "Transportation and Logistics Networks Signature Database: Labor Productivity", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000016", "t": "Transportation and Logistics Networks Signature Database: Center of Gravity", "c": 0, "g": "network"}
+{"id": "JAH-TLNS-000017", "t": "Transportation and Logistics Networks Signature Database: Traffic Flow", "c": 0, "g": "traffic"}
+{"id": "JAH-TLNS-000018", "t": "Transportation and Logistics Networks Signature Database: Headway", "c": 0, "g": "traffic"}
+{"id": "JAH-TLNS-000019", "t": "Transportation and Logistics Networks Signature Database: Braking Distance", "c": 0, "g": "traffic"}
+{"id": "JAH-TLNS-000020", "t": "Transportation and Logistics Networks Signature Database: Reaction Distance", "c": 0, "g": "traffic"}
+{"id": "JAH-TLNS-000021", "t": "Transportation and Logistics Networks Signature Database: Total Stopping Distance", "c": 0, "g": "traffic"}
+{"id": "JAH-TLNS-000022", "t": "Transportation and Logistics Networks Signature Database: Container Utilization", "c": 0, "g": "freight"}
+{"id": "JAH-TLNS-000023", "t": "Transportation and Logistics Networks Signature Database: Lead Time Demand", "c": 0, "g": "inventory"}
+{"id": "JAH-TLNS-000024", "t": "Transportation and Logistics Networks Signature Database: Ton-Miles", "c": 0, "g": "freight"}
+{"id": "JAH-TLNS-000025", "t": "Transportation and Logistics Networks Signature Database: Cost per Ton-Mile", "c": 0, "g": "freight"}
+{"id": "JAH-TLNS-000026", "t": "Transportation and Logistics Networks Signature Database: Empty Miles Share", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000027", "t": "Transportation and Logistics Networks Signature Database: Driver Hours", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000028", "t": "Transportation and Logistics Networks Signature Database: Cube Utilization", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000029", "t": "Transportation and Logistics Networks Signature Database: Pallet Positions", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000030", "t": "Transportation and Logistics Networks Signature Database: Inventory Accuracy", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000031", "t": "Transportation and Logistics Networks Signature Database: Stockout Rate", "c": 0, "g": "inventory"}
+{"id": "JAH-TLNS-000032", "t": "Transportation and Logistics Networks Signature Database: Warehouse Cost per Unit", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLNS-000033", "t": "Transportation and Logistics Networks Signature Database: Payload Efficiency", "c": 0, "g": "fleet"}
+{"id": "JAH-TLNS-000034", "t": "Transportation and Logistics Networks Signature Database: Landed Cost Capstone", "c": 0, "g": "freight"}

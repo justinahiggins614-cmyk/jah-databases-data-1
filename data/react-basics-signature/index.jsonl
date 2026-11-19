@@ -1,0 +1,34 @@
+{"id": "JAH-RCTS-000001", "t": "What Is React — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000002", "t": "Setting Up a React Project — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000003", "t": "JSX Syntax — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000004", "t": "Components and Props — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000005", "t": "State with useState — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000006", "t": "Handling Events in React — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000007", "t": "Conditional Rendering in React — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000008", "t": "Lists and Keys in React — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000009", "t": "Styling React Components — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000010", "t": "React DevTools — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000011", "t": "The Virtual DOM Explained — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RCTS-000012", "t": "useEffect Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000013", "t": "useEffect Dependency Arrays — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000014", "t": "Fetching Data in React — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000015", "t": "Forms in React Advanced — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000016", "t": "Lifting State Up — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000017", "t": "Context API — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000018", "t": "useRef Hook — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000019", "t": "useMemo and useCallback — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000020", "t": "Custom Hooks — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000021", "t": "React Router Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000022", "t": "Component Composition Patterns — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000023", "t": "Thinking in React — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RCTS-000024", "t": "Error Boundaries in React — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000025", "t": "React Performance Optimization — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000026", "t": "React Testing Basics — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000027", "t": "React Deployment — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000028", "t": "State Management Libraries — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000029", "t": "React Server Components Intro — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000030", "t": "React Accessibility — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000031", "t": "React Code Splitting — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000032", "t": "React StrictMode and Concurrency — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000033", "t": "Migrating to React 19 and Beyond — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RCTS-000034", "t": "React Project Capstone — Signature Edition", "g": "Advanced"}

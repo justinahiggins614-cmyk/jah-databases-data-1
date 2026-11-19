@@ -1,0 +1,34 @@
+{"id": "JAH-WST-000001", "t": "Water Systems and Treatment Engineering Database: Flow Rate", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000002", "t": "Water Systems and Treatment Engineering Database: Continuity", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000003", "t": "Water Systems and Treatment Engineering Database: Hazen-Williams Loss", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000004", "t": "Water Systems and Treatment Engineering Database: Manning Velocity", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000005", "t": "Water Systems and Treatment Engineering Database: Hydraulic Radius", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000006", "t": "Water Systems and Treatment Engineering Database: Detention Time", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000007", "t": "Water Systems and Treatment Engineering Database: Surface Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000008", "t": "Water Systems and Treatment Engineering Database: Weir Flow", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000009", "t": "Water Systems and Treatment Engineering Database: Orifice Flow", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000010", "t": "Water Systems and Treatment Engineering Database: Chlorine Dose (kg/d)", "c": 0, "g": "disinfection"}
+{"id": "JAH-WST-000011", "t": "Water Systems and Treatment Engineering Database: CT Value", "c": 0, "g": "disinfection"}
+{"id": "JAH-WST-000012", "t": "Water Systems and Treatment Engineering Database: BOD Removal", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000013", "t": "Water Systems and Treatment Engineering Database: F/M Ratio", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000014", "t": "Water Systems and Treatment Engineering Database: Sludge Age (SRT)", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000015", "t": "Water Systems and Treatment Engineering Database: SVI", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000016", "t": "Water Systems and Treatment Engineering Database: Filtration Rate", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000017", "t": "Water Systems and Treatment Engineering Database: UV Dose", "c": 0, "g": "disinfection"}
+{"id": "JAH-WST-000018", "t": "Water Systems and Treatment Engineering Database: Water Hammer", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000019", "t": "Water Systems and Treatment Engineering Database: Pipe Volume", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000020", "t": "Water Systems and Treatment Engineering Database: Storage Volume", "c": 0, "g": "supply"}
+{"id": "JAH-WST-000021", "t": "Water Systems and Treatment Engineering Database: Per Capita Demand", "c": 0, "g": "supply"}
+{"id": "JAH-WST-000022", "t": "Water Systems and Treatment Engineering Database: Non-Revenue Water", "c": 0, "g": "supply"}
+{"id": "JAH-WST-000023", "t": "Water Systems and Treatment Engineering Database: Static Pressure", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WST-000024", "t": "Water Systems and Treatment Engineering Database: BOD Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000025", "t": "Water Systems and Treatment Engineering Database: TSS Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000026", "t": "Water Systems and Treatment Engineering Database: Hardness as CaCO3", "c": 0, "g": "quality"}
+{"id": "JAH-WST-000027", "t": "Water Systems and Treatment Engineering Database: Turbidity Removal", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000028", "t": "Water Systems and Treatment Engineering Database: Log Removal", "c": 0, "g": "disinfection"}
+{"id": "JAH-WST-000029", "t": "Water Systems and Treatment Engineering Database: Velocity Gradient (G)", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000030", "t": "Water Systems and Treatment Engineering Database: Camp Number", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000031", "t": "Water Systems and Treatment Engineering Database: Weir Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WST-000032", "t": "Water Systems and Treatment Engineering Database: Specific Energy", "c": 0, "g": "supply"}
+{"id": "JAH-WST-000033", "t": "Water Systems and Treatment Engineering Database: Rainfall Volume", "c": 0, "g": "supply"}
+{"id": "JAH-WST-000034", "t": "Water Systems and Treatment Engineering Database: Treatment Train Capstone", "c": 0, "g": "treatment"}

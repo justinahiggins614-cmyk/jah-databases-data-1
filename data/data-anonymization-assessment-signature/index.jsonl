@@ -1,0 +1,34 @@
+{"id": "JAH-DAA-000001", "t": "Signature Why Anonymize (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000002", "t": "Signature Identifiers Taxonomy (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000003", "t": "Signature K-Anonymity (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000004", "t": "Signature L-Diversity (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000005", "t": "Signature T-Closeness (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000006", "t": "Signature Differential Privacy (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000007", "t": "Signature Epsilon Selection (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000008", "t": "Signature Generalization Hierarchies (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000009", "t": "Signature Suppression (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000010", "t": "Signature Masking and Tokenization (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000011", "t": "Signature Perturbation (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000012", "t": "Signature Synthetic Data (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000013", "t": "Signature Re-identification Attacks (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000014", "t": "Signature Risk Assessment Method (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000015", "t": "Signature HIPAA Safe Harbor (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000016", "t": "Signature HIPAA Expert Determination (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000017", "t": "Signature GDPR Anonymization Bar (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000018", "t": "Signature Pseudonymization (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000019", "t": "Signature Data Sharing Agreements (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000020", "t": "Signature Utility Measurement (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000021", "t": "Signature Tooling (ARX, etc.) (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000022", "t": "Signature The Anonymization Playbook (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000023", "t": "Signature Aggregation as Anonymization (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000024", "t": "Signature Cell Suppression (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000025", "t": "Signature Swapping (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000026", "t": "Signature Top/Bottom Coding (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000027", "t": "Signature Date Shifting (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000028", "t": "Signature Geographic Aggregation (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000029", "t": "Signature Longitudinal Data Risks (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000030", "t": "Signature Genomic Data Caution (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000031", "t": "Signature Location Data Caution (Signature Edition)", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000032", "t": "Signature Differential Privacy in Practice (Signature Edition)", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000033", "t": "Signature Anonymization Documentation (Signature Edition)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000034", "t": "Signature Re-assessment Cadence (Signature Edition)", "g": "anonymization-techniques"}

@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-RAGS-000001", "t": "What RAG is: answering from sources (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000002", "t": "The pipeline: chunk, index, retrieve, generate (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000003", "t": "Documents: the knowledge to retrieve from (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000004", "t": "Chunking basics: pieces that can be found (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000005", "t": "Embeddings: meaning as vectors (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000006", "t": "Similarity: the retrieval score (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000007", "t": "Top-k retrieval: how many passages (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000008", "t": "The prompt with passages: generation context (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000009", "t": "Citations: showing the sources (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000010", "t": "When RAG helps: the use cases (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000011", "t": "The first RAG system: hello, grounded world (Signature Edition)", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAGS-000012", "t": "Chunking strategies: beyond fixed size (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000013", "t": "Overlap: bridging chunk boundaries (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000014", "t": "Metadata: the chunk's context (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000015", "t": "Hybrid search: dense plus sparse (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000016", "t": "Dense vs sparse: knowing the tradeoffs (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000017", "t": "Re-ranking: the second look (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000018", "t": "Query rewriting: asking better (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000019", "t": "Context assembly: building the prompt (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000020", "t": "Grounded generation: writing from sources (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000021", "t": "Citation formats: showing your work (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000022", "t": "Handling no-results: the honest empty (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000023", "t": "Evaluation basics: measuring RAG (Signature Edition)", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAGS-000024", "t": "Agentic RAG: retrieval as a tool (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000025", "t": "Multi-hop retrieval: connecting the dots (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000026", "t": "Query decomposition: splitting the hard question (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000027", "t": "Hypothetical documents: HyDE and friends (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000028", "t": "Knowledge graphs in RAG: structure meets retrieval (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000029", "t": "Freshness: RAG over changing knowledge (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000030", "t": "Scale: RAG over millions of documents (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000031", "t": "RAG evaluation suites: the full battery (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000032", "t": "RAG vs fine-tuning: choosing the path (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000033", "t": "The grounded organization: RAG everywhere (Signature Edition)", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAGS-000034", "t": "The honest answer: the final standard (Signature Edition)", "g": "rag-retrieval-advanced"}

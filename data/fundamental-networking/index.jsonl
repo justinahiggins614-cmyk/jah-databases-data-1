@@ -1,0 +1,34 @@
+{"id": "JAH-FNET-000001", "t": "What Networking Is", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000002", "t": "The Core Question of Networking", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000003", "t": "Assumptions: Unreliable Foundations", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000004", "t": "The Vocabulary: Packets, Protocols, Addresses", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000005", "t": "Bandwidth and Latency: The Fundamental Quantities", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000006", "t": "Layering: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000007", "t": "A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000008", "t": "How Networking Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000009", "t": "The Core Mechanism: Packet Switching", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000010", "t": "The Simplest Law: Best Effort", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000011", "t": "Common Misconceptions in Networking", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000012", "t": "How Beginners Practice Networking", "g": "Foundations", "c": 0}
+{"id": "JAH-FNET-000013", "t": "The Core Model: TCP/IP", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000014", "t": "The Great Idea: The End-to-End Principle", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000015", "t": "Systems Thinking: Congestion", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000016", "t": "Invariance: Protocol Contracts", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000017", "t": "Approximation: Statistical Multiplexing", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000018", "t": "Evidence Standards: The Packet Capture", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000019", "t": "Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000020", "t": "Core Trade-offs: Throughput versus Delay", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000021", "t": "Handling Uncertainty: Loss and Retransmission", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000022", "t": "Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000023", "t": "Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000024", "t": "Teaching Networking", "g": "Compounded", "c": 0}
+{"id": "JAH-FNET-000025", "t": "The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000026", "t": "Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000027", "t": "Computational Networking", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000028", "t": "Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000029", "t": "The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000030", "t": "How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000031", "t": "The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000032", "t": "Failure Modes: When Networking Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000033", "t": "Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-FNET-000034", "t": "The Signature Formulation: Networking as Traceable Path", "g": "Advanced", "c": 0}

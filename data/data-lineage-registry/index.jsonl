@@ -1,0 +1,34 @@
+{"id": "JAH-DLRG-000001", "t": "What Data Lineage Is", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000002", "t": "Why Lineage Matters: Trust, Debugging, Compliance", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000003", "t": "Source Nodes", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000004", "t": "Transformation Steps", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000005", "t": "Sink Nodes and Records", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000006", "t": "Derivation Formulas", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000007", "t": "Column-Level Lineage", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000008", "t": "Table-Level Lineage", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000009", "t": "The OpenLineage Standard", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000010", "t": "Lineage Capture Methods", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000011", "t": "Batch Lineage", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000012", "t": "Streaming Lineage", "g": "Lineage Basics"}
+{"id": "JAH-DLRG-000013", "t": "Lineage Graphs", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRG-000014", "t": "Directed Acyclic Graphs in Lineage", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRG-000015", "t": "Lineage Traversal: Upstream and Downstream", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRG-000016", "t": "Impact Analysis", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRG-000017", "t": "Root-Cause Analysis", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRG-000018", "t": "Lineage and Data Quality", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRG-000019", "t": "Lineage Metadata", "g": "Transformations and Operations"}
+{"id": "JAH-DLRG-000020", "t": "Lineage at Query Time", "g": "Transformations and Operations"}
+{"id": "JAH-DLRG-000021", "t": "Lineage in ETL Tools", "g": "Transformations and Operations"}
+{"id": "JAH-DLRG-000022", "t": "Lineage Storage", "g": "Transformations and Operations"}
+{"id": "JAH-DLRG-000023", "t": "Lineage Visualization", "g": "Transformations and Operations"}
+{"id": "JAH-DLRG-000024", "t": "Lineage APIs", "g": "Transformations and Operations"}
+{"id": "JAH-DLRG-000025", "t": "Fine-Grained Lineage", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000026", "t": "Lineage Across Organizations", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000027", "t": "Lineage for ML Features", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000028", "t": "Lineage for a Million-Database Network", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000029", "t": "Lineage Completeness Metrics", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000030", "t": "Lineage Staleness", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000031", "t": "Privacy and Lineage", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000032", "t": "Lineage Provenance", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000033", "t": "Automated Lineage Discovery", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRG-000034", "t": "Data Lineage Registry Mastery Review", "g": "Advanced Lineage Topics"}

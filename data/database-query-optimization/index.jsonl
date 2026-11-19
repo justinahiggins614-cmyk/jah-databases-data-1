@@ -1,0 +1,34 @@
+{"id": "JAH-DQO-000001", "t": "Database Schema and Query Optimization Database: B-Tree Search", "c": 0, "g": "indexing"}
+{"id": "JAH-DQO-000002", "t": "Database Schema and Query Optimization Database: Hash Index Lookup", "c": 0, "g": "indexing"}
+{"id": "JAH-DQO-000003", "t": "Database Schema and Query Optimization Database: Bitmap Index Scan", "c": 0, "g": "indexing"}
+{"id": "JAH-DQO-000004", "t": "Database Schema and Query Optimization Database: Index vs Seq Scan Cost", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000005", "t": "Database Schema and Query Optimization Database: Selectivity Estimation", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000006", "t": "Database Schema and Query Optimization Database: Nested Loop Join", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000007", "t": "Database Schema and Query Optimization Database: Hash Join", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000008", "t": "Database Schema and Query Optimization Database: Sort-Merge Join", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000009", "t": "Database Schema and Query Optimization Database: Greedy Join Ordering", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000010", "t": "Database Schema and Query Optimization Database: Missing Index Advisor", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000011", "t": "Database Schema and Query Optimization Database: Covering Index Check", "c": 0, "g": "indexing"}
+{"id": "JAH-DQO-000012", "t": "Database Schema and Query Optimization Database: 1NF Check", "c": 0, "g": "schema"}
+{"id": "JAH-DQO-000013", "t": "Database Schema and Query Optimization Database: Functional Dependency Closure", "c": 0, "g": "schema"}
+{"id": "JAH-DQO-000014", "t": "Database Schema and Query Optimization Database: Candidate Key Finder", "c": 0, "g": "schema"}
+{"id": "JAH-DQO-000015", "t": "Database Schema and Query Optimization Database: SQL Injection Detector", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000016", "t": "Database Schema and Query Optimization Database: Parameterized Query Builder", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000017", "t": "Database Schema and Query Optimization Database: Keyset Pagination", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000018", "t": "Database Schema and Query Optimization Database: Connection Pool", "c": 0, "g": "transactions"}
+{"id": "JAH-DQO-000019", "t": "Database Schema and Query Optimization Database: Dirty Read Demo", "c": 0, "g": "transactions"}
+{"id": "JAH-DQO-000020", "t": "Database Schema and Query Optimization Database: WAL Replay", "c": 0, "g": "transactions"}
+{"id": "JAH-DQO-000021", "t": "Database Schema and Query Optimization Database: MVCC Visibility", "c": 0, "g": "transactions"}
+{"id": "JAH-DQO-000022", "t": "Database Schema and Query Optimization Database: Histogram Builder", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000023", "t": "Database Schema and Query Optimization Database: HyperLogLog-lite", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000024", "t": "Database Schema and Query Optimization Database: Query Timeout Guard", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000025", "t": "Database Schema and Query Optimization Database: Batch Insert Optimizer", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000026", "t": "Database Schema and Query Optimization Database: Schema Diff", "c": 0, "g": "migrations"}
+{"id": "JAH-DQO-000027", "t": "Database Schema and Query Optimization Database: Migration Planner", "c": 0, "g": "migrations"}
+{"id": "JAH-DQO-000028", "t": "Database Schema and Query Optimization Database: Foreign Key Validator", "c": 0, "g": "schema"}
+{"id": "JAH-DQO-000029", "t": "Database Schema and Query Optimization Database: Unique Constraint Check", "c": 0, "g": "schema"}
+{"id": "JAH-DQO-000030", "t": "Database Schema and Query Optimization Database: Check Constraint Evaluator", "c": 0, "g": "schema"}
+{"id": "JAH-DQO-000031", "t": "Database Schema and Query Optimization Database: Index Fragmentation Estimate", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000032", "t": "Database Schema and Query Optimization Database: Mini Query Planner", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQO-000033", "t": "Database Schema and Query Optimization Database: Vacuum / Dead Tuple Ratio", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQO-000034", "t": "Database Schema and Query Optimization Database: Prepared Statement Cache", "c": 0, "g": "query-plans"}

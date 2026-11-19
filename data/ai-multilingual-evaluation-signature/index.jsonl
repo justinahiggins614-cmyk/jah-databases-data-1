@@ -1,0 +1,34 @@
+{"id": "JAH-AMES-000001", "t": "Native Benchmarks", "g": "Foundations"}
+{"id": "JAH-AMES-000002", "t": "Capability Coverage", "g": "Foundations"}
+{"id": "JAH-AMES-000003", "t": "Human Translation Judgment", "g": "Foundations"}
+{"id": "JAH-AMES-000004", "t": "Cultural Appropriateness", "g": "Foundations"}
+{"id": "JAH-AMES-000005", "t": "Low-Resource Focus", "g": "Foundations"}
+{"id": "JAH-AMES-000006", "t": "Code-Switching Tests", "g": "Foundations"}
+{"id": "JAH-AMES-000007", "t": "Dialect Matching", "g": "Foundations"}
+{"id": "JAH-AMES-000008", "t": "Per-Language Safety", "g": "Foundations"}
+{"id": "JAH-AMES-000009", "t": "Disaggregated Reporting", "g": "Foundations"}
+{"id": "JAH-AMES-000010", "t": "Native Evaluators", "g": "Foundations"}
+{"id": "JAH-AMES-000011", "t": "Tokenization Costs", "g": "Foundations"}
+{"id": "JAH-AMES-000012", "t": "Gap Tracking", "g": "Compounded"}
+{"id": "JAH-AMES-000013", "t": "Benchmark Suites", "g": "Compounded"}
+{"id": "JAH-AMES-000014", "t": "Translation Benchmarks", "g": "Compounded"}
+{"id": "JAH-AMES-000015", "t": "Summarization Across Languages", "g": "Compounded"}
+{"id": "JAH-AMES-000016", "t": "Question Answering", "g": "Compounded"}
+{"id": "JAH-AMES-000017", "t": "Instruction Following", "g": "Compounded"}
+{"id": "JAH-AMES-000018", "t": "Toxicity Detection", "g": "Compounded"}
+{"id": "JAH-AMES-000019", "t": "Bias Audits", "g": "Compounded"}
+{"id": "JAH-AMES-000020", "t": "Factual Knowledge", "g": "Compounded"}
+{"id": "JAH-AMES-000021", "t": "Math Reasoning", "g": "Compounded"}
+{"id": "JAH-AMES-000022", "t": "Code Generation", "g": "Compounded"}
+{"id": "JAH-AMES-000023", "t": "Speech Interfaces", "g": "Compounded"}
+{"id": "JAH-AMES-000024", "t": "OCR and Scripts", "g": "Advanced"}
+{"id": "JAH-AMES-000025", "t": "Right-to-Left", "g": "Advanced"}
+{"id": "JAH-AMES-000026", "t": "CJK Specifics", "g": "Advanced"}
+{"id": "JAH-AMES-000027", "t": "Indic Languages", "g": "Advanced"}
+{"id": "JAH-AMES-000028", "t": "African Languages", "g": "Advanced"}
+{"id": "JAH-AMES-000029", "t": "Indigenous Languages", "g": "Advanced"}
+{"id": "JAH-AMES-000030", "t": "Sign Languages", "g": "Advanced"}
+{"id": "JAH-AMES-000031", "t": "Evaluation Cost", "g": "Advanced"}
+{"id": "JAH-AMES-000032", "t": "Community Involvement", "g": "Advanced"}
+{"id": "JAH-AMES-000033", "t": "Reporting Standards", "g": "Advanced"}
+{"id": "JAH-AMES-000034", "t": "Future Directions", "g": "Advanced"}

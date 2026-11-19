@@ -1,0 +1,34 @@
+{"id": "JAH-NMEB-000001", "t": "Numerical Methods and Error Bounds Database: Bisection Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000002", "t": "Numerical Methods and Error Bounds Database: Bisection Error Bound", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000003", "t": "Numerical Methods and Error Bounds Database: Newton-Raphson Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000004", "t": "Numerical Methods and Error Bounds Database: Secant Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000005", "t": "Numerical Methods and Error Bounds Database: Fixed-Point Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000006", "t": "Numerical Methods and Error Bounds Database: Trapezoidal Rule (1 interval)", "c": 0, "g": "integration"}
+{"id": "JAH-NMEB-000007", "t": "Numerical Methods and Error Bounds Database: Simpson Rule (1 interval)", "c": 0, "g": "integration"}
+{"id": "JAH-NMEB-000008", "t": "Numerical Methods and Error Bounds Database: Euler Method Step", "c": 0, "g": "odes"}
+{"id": "JAH-NMEB-000009", "t": "Numerical Methods and Error Bounds Database: RK4 Step", "c": 0, "g": "odes"}
+{"id": "JAH-NMEB-000010", "t": "Numerical Methods and Error Bounds Database: Forward Difference", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEB-000011", "t": "Numerical Methods and Error Bounds Database: Central Difference", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEB-000012", "t": "Numerical Methods and Error Bounds Database: Second Derivative", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEB-000013", "t": "Numerical Methods and Error Bounds Database: Linear Interpolation", "c": 0, "g": "interpolation"}
+{"id": "JAH-NMEB-000014", "t": "Numerical Methods and Error Bounds Database: Least-Squares Slope", "c": 0, "g": "regression"}
+{"id": "JAH-NMEB-000015", "t": "Numerical Methods and Error Bounds Database: 2x2 Determinant", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000016", "t": "Numerical Methods and Error Bounds Database: Cramer x (2x2)", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000017", "t": "Numerical Methods and Error Bounds Database: Cramer y (2x2)", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000018", "t": "Numerical Methods and Error Bounds Database: Jacobi x-Update", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000019", "t": "Numerical Methods and Error Bounds Database: Gauss-Seidel y-Update", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000020", "t": "Numerical Methods and Error Bounds Database: Rayleigh Quotient (diagonal)", "c": 0, "g": "eigensystems"}
+{"id": "JAH-NMEB-000021", "t": "Numerical Methods and Error Bounds Database: Relative Error", "c": 0, "g": "error-analysis"}
+{"id": "JAH-NMEB-000022", "t": "Numerical Methods and Error Bounds Database: Taylor Sine Approximation", "c": 0, "g": "approximation"}
+{"id": "JAH-NMEB-000023", "t": "Numerical Methods and Error Bounds Database: Richardson Extrapolation", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEB-000024", "t": "Numerical Methods and Error Bounds Database: Composite Trapezoidal (n=2)", "c": 0, "g": "integration"}
+{"id": "JAH-NMEB-000025", "t": "Numerical Methods and Error Bounds Database: Monte Carlo π (grid)", "c": 0, "g": "monte-carlo"}
+{"id": "JAH-NMEB-000026", "t": "Numerical Methods and Error Bounds Database: Cholesky L11", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000027", "t": "Numerical Methods and Error Bounds Database: Cholesky L21", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000028", "t": "Numerical Methods and Error Bounds Database: Cholesky L22", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000029", "t": "Numerical Methods and Error Bounds Database: Thomas Forward Step", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEB-000030", "t": "Numerical Methods and Error Bounds Database: Condition Number (diagonal)", "c": 0, "g": "error-analysis"}
+{"id": "JAH-NMEB-000031", "t": "Numerical Methods and Error Bounds Database: Midpoint Method (RK2)", "c": 0, "g": "odes"}
+{"id": "JAH-NMEB-000032", "t": "Numerical Methods and Error Bounds Database: Bisection Iterations Needed", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000033", "t": "Numerical Methods and Error Bounds Database: Newton Asymptotic Constant", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEB-000034", "t": "Numerical Methods and Error Bounds Database: Composite Simpson (n=4) Capstone", "c": 0, "g": "integration"}

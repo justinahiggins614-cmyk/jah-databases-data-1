@@ -1,0 +1,34 @@
+{"id": "JAH-OPTN-000001", "t": "Options Trading Database: What Options Are", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000002", "t": "Options Trading Database: Calls: The Right to Buy", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000003", "t": "Options Trading Database: Puts: The Right to Sell", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000004", "t": "Options Trading Database: Option Premiums", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000005", "t": "Options Trading Database: Strike Prices and Moneyness", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000006", "t": "Options Trading Database: Expiration and Time Decay (Theta)", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000007", "t": "Options Trading Database: The Option Chain", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000008", "t": "Options Trading Database: Implied Volatility", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000009", "t": "Options Trading Database: The Greeks: Delta", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTN-000010", "t": "Options Trading Database: The Greeks: Gamma", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTN-000011", "t": "Options Trading Database: The Greeks: Vega", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTN-000012", "t": "Options Trading Database: The Greeks: Rho", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTN-000013", "t": "Options Trading Database: Covered Calls", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000014", "t": "Options Trading Database: Cash-Secured Puts", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000015", "t": "Options Trading Database: Protective Puts", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000016", "t": "Options Trading Database: Vertical Spreads", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000017", "t": "Options Trading Database: Iron Condors", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000018", "t": "Options Trading Database: Straddles and Strangles", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000019", "t": "Options Trading Database: Credit Spreads", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000020", "t": "Options Trading Database: Debit Spreads", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000021", "t": "Options Trading Database: LEAPS", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000022", "t": "Options Trading Database: Options on ETFs and Indexes", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000023", "t": "Options Trading Database: Earnings Plays", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000024", "t": "Options Trading Database: Position Sizing for Options", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000025", "t": "Options Trading Database: Assignment Risk", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000026", "t": "Options Trading Database: Rolling Positions", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTN-000027", "t": "Options Trading Database: Paper Trading Options", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000028", "t": "Options Trading Database: Taxes on Options", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000029", "t": "Options Trading Database: Volatility Crush", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000030", "t": "Options Trading Database: Choosing a Broker for Options", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000031", "t": "Options Trading Database: Options Trading Journal", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000032", "t": "Options Trading Database: Common Options Mistakes", "c": 0, "g": "risk"}
+{"id": "JAH-OPTN-000033", "t": "Options Trading Database: Weekly Options", "c": 0, "g": "basics"}
+{"id": "JAH-OPTN-000034", "t": "Options Trading Database: Capstone: The Complete Options Trader", "c": 0, "g": "strategies"}

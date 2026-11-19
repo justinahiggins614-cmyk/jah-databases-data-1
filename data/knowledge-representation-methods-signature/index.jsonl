@@ -1,0 +1,34 @@
+{"id": "JAH-KRMS-000001", "t": "Knowledge Representation Methods (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-KRMS-000002", "t": "Knowledge Representation Methods (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-KRMS-000003", "t": "Knowledge Representation Methods (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-KRMS-000004", "t": "Knowledge Representation Methods (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-KRMS-000005", "t": "Knowledge Representation Methods (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-KRMS-000006", "t": "Knowledge Representation Methods (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-KRMS-000007", "t": "Knowledge Representation Methods (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-KRMS-000008", "t": "Knowledge Representation Methods (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-KRMS-000009", "t": "Knowledge Representation Methods (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-KRMS-000010", "t": "Knowledge Representation Methods (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-KRMS-000011", "t": "Knowledge Representation Methods (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-KRMS-000012", "t": "Knowledge Representation Methods (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-KRMS-000013", "t": "Knowledge Representation Methods (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-KRMS-000014", "t": "Knowledge Representation Methods (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-KRMS-000015", "t": "Knowledge Representation Methods (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-KRMS-000016", "t": "Knowledge Representation Methods (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-KRMS-000017", "t": "Knowledge Representation Methods (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-KRMS-000018", "t": "Knowledge Representation Methods (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-KRMS-000019", "t": "Knowledge Representation Methods (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-KRMS-000020", "t": "Knowledge Representation Methods (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-KRMS-000021", "t": "Knowledge Representation Methods (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-KRMS-000022", "t": "Knowledge Representation Methods (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-KRMS-000023", "t": "Knowledge Representation Methods (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-KRMS-000024", "t": "Knowledge Representation Methods (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-KRMS-000025", "t": "Knowledge Representation Methods (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-KRMS-000026", "t": "Knowledge Representation Methods (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-KRMS-000027", "t": "Knowledge Representation Methods (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-KRMS-000028", "t": "Knowledge Representation Methods (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-KRMS-000029", "t": "Knowledge Representation Methods (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-KRMS-000030", "t": "Knowledge Representation Methods (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-KRMS-000031", "t": "Knowledge Representation Methods (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-KRMS-000032", "t": "Knowledge Representation Methods (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-KRMS-000033", "t": "Knowledge Representation Methods (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-KRMS-000034", "t": "Knowledge Representation Methods (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

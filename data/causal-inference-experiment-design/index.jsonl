@@ -1,0 +1,34 @@
+{"id": "JAH-CIED-000001", "t": "Causal Inference and Experiment Design Database: Correlation vs Causation", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000002", "t": "Causal Inference and Experiment Design Database: Randomized Controlled Trial", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000003", "t": "Causal Inference and Experiment Design Database: Confounding Adjustment", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000004", "t": "Causal Inference and Experiment Design Database: Simpson Paradox Check", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000005", "t": "Causal Inference and Experiment Design Database: Backdoor Criterion", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000006", "t": "Causal Inference and Experiment Design Database: Frontdoor Criterion", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000007", "t": "Causal Inference and Experiment Design Database: Instrumental Variables", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000008", "t": "Causal Inference and Experiment Design Database: Difference-in-Differences", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000009", "t": "Causal Inference and Experiment Design Database: Regression Discontinuity", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000010", "t": "Causal Inference and Experiment Design Database: Propensity Score Matching", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000011", "t": "Causal Inference and Experiment Design Database: DAG Construction", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000012", "t": "Causal Inference and Experiment Design Database: Collider Bias", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000013", "t": "Causal Inference and Experiment Design Database: Mediator Analysis", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000014", "t": "Causal Inference and Experiment Design Database: d-Separation Check", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000015", "t": "Causal Inference and Experiment Design Database: Counterfactual Definition", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000016", "t": "Causal Inference and Experiment Design Database: ATE Estimation", "c": 0, "g": "estimation"}
+{"id": "JAH-CIED-000017", "t": "Causal Inference and Experiment Design Database: Intent-to-Treat", "c": 0, "g": "estimation"}
+{"id": "JAH-CIED-000018", "t": "Causal Inference and Experiment Design Database: Placebo Test", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000019", "t": "Causal Inference and Experiment Design Database: Pre-Trends Check", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000020", "t": "Causal Inference and Experiment Design Database: Stratification", "c": 0, "g": "estimation"}
+{"id": "JAH-CIED-000021", "t": "Causal Inference and Experiment Design Database: Regression Adjustment", "c": 0, "g": "estimation"}
+{"id": "JAH-CIED-000022", "t": "Causal Inference and Experiment Design Database: Natural Experiment", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000023", "t": "Causal Inference and Experiment Design Database: Selection Bias Audit", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000024", "t": "Causal Inference and Experiment Design Database: Power Analysis", "c": 0, "g": "estimation"}
+{"id": "JAH-CIED-000025", "t": "Causal Inference and Experiment Design Database: Moderation vs Mediation", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000026", "t": "Causal Inference and Experiment Design Database: Interventions vs Observations", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000027", "t": "Causal Inference and Experiment Design Database: Transportability", "c": 0, "g": "foundations"}
+{"id": "JAH-CIED-000028", "t": "Causal Inference and Experiment Design Database: Sequential Ignorability", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000029", "t": "Causal Inference and Experiment Design Database: Causal Capstone: Study Design", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000030", "t": "Causal Inference and Experiment Design Database: Synthetic Control", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000031", "t": "Causal Inference and Experiment Design Database: Interrupted Time Series", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000032", "t": "Causal Inference and Experiment Design Database: Inverse Propensity Weighting", "c": 0, "g": "estimation"}
+{"id": "JAH-CIED-000033", "t": "Causal Inference and Experiment Design Database: Negative Controls", "c": 0, "g": "identification"}
+{"id": "JAH-CIED-000034", "t": "Causal Inference and Experiment Design Database: Causal Discovery (PC Skeleton)", "c": 0, "g": "foundations"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ALGEB-000001", "t": "What Is Algebra", "g": "Fundamentals"}
+{"id": "JAH-ALGEB-000002", "t": "Linear Equations", "g": "Equations"}
+{"id": "JAH-ALGEB-000003", "t": "Quadratic Equations", "g": "Equations"}
+{"id": "JAH-ALGEB-000004", "t": "Polynomials", "g": "Polynomials"}
+{"id": "JAH-ALGEB-000005", "t": "Functions and Graphs", "g": "Functions"}
+{"id": "JAH-ALGEB-000006", "t": "Exponents and Logarithms", "g": "Exponents"}
+{"id": "JAH-ALGEB-000007", "t": "Inequalities", "g": "Inequalities"}
+{"id": "JAH-ALGEB-000008", "t": "Sequences and Series", "g": "Sequences"}
+{"id": "JAH-ALGEB-000009", "t": "Complex Numbers (Introduction)", "g": "Complex"}
+{"id": "JAH-ALGEB-000010", "t": "Matrices (Introduction)", "g": "Matrices"}
+{"id": "JAH-ALGEB-000011", "t": "History: From al-Khwarizmi to Galois", "g": "History"}
+{"id": "JAH-ALGEB-000012", "t": "Complex Numbers: Polar Form and Euler's Formula", "g": "Complex"}
+{"id": "JAH-ALGEB-000013", "t": "Systems of Linear Equations (Matrix Methods)", "g": "Linear Algebra"}
+{"id": "JAH-ALGEB-000014", "t": "Vector Spaces", "g": "Linear Algebra"}
+{"id": "JAH-ALGEB-000015", "t": "Eigenvalues and Eigenvectors", "g": "Linear Algebra"}
+{"id": "JAH-ALGEB-000016", "t": "Factoring and Root-Finding", "g": "Polynomials"}
+{"id": "JAH-ALGEB-000017", "t": "The Binomial Theorem", "g": "Polynomials"}
+{"id": "JAH-ALGEB-000018", "t": "Groups: First Look", "g": "Structures"}
+{"id": "JAH-ALGEB-000019", "t": "Rings and Fields: First Look", "g": "Structures"}
+{"id": "JAH-ALGEB-000020", "t": "Modular Arithmetic", "g": "Number Theory Link"}
+{"id": "JAH-ALGEB-000021", "t": "Linear Programming", "g": "Applications"}
+{"id": "JAH-ALGEB-000022", "t": "Algebra in Cryptography (Introduction)", "g": "Applications"}
+{"id": "JAH-ALGEB-000023", "t": "Boolean Algebra", "g": "Logic"}
+{"id": "JAH-ALGEB-000024", "t": "Group Theory: Subgroups, Cosets, Lagrange", "g": "Groups"}
+{"id": "JAH-ALGEB-000025", "t": "Group Actions and Symmetry", "g": "Groups"}
+{"id": "JAH-ALGEB-000026", "t": "Ring Theory: Ideals and Quotients", "g": "Rings"}
+{"id": "JAH-ALGEB-000027", "t": "Field Theory and Extensions", "g": "Fields"}
+{"id": "JAH-ALGEB-000028", "t": "Galois Theory", "g": "Fields"}
+{"id": "JAH-ALGEB-000029", "t": "Linear Algebra: Advanced Topics", "g": "Linear Algebra"}
+{"id": "JAH-ALGEB-000030", "t": "Polynomial Rings and Algebraic Geometry (Introduction)", "g": "Polynomials"}
+{"id": "JAH-ALGEB-000031", "t": "Algebraic Number Theory (Introduction)", "g": "Number Theory Link"}
+{"id": "JAH-ALGEB-000032", "t": "Homological Algebra (Introduction)", "g": "Homological"}
+{"id": "JAH-ALGEB-000033", "t": "Algebra in Coding Theory", "g": "Applications"}
+{"id": "JAH-ALGEB-000034", "t": "Computational Algebra", "g": "Frontiers"}

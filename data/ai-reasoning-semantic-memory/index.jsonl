@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-SEM-000001", "t": "What semantic memory is: knowledge of what things are", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000002", "t": "Concepts: the atoms of meaning", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000003", "t": "Categories: grouping the world", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000004", "t": "Definitions: saying what you mean", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000005", "t": "Is-a relations: the taxonomy backbone", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000006", "t": "Part-of relations: composition and structure", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000007", "t": "Instances: the particulars under the concepts", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000008", "t": "Attributes: the properties things have", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000009", "t": "Prototypes: the typical example", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000010", "t": "Basic taxonomies: the tree of kinds", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000011", "t": "Semantic vs episodic: two memories, one mind", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEM-000012", "t": "Ontologies: the formal map of a domain", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000013", "t": "Semantic networks: meaning as a graph", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000014", "t": "Knowledge graphs: the web of facts", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000015", "t": "Distributional semantics: meaning from usage", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000016", "t": "Embeddings as meaning: the geometry of concepts", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000017", "t": "Word senses: one word, many meanings", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000018", "t": "Relation extraction: reading facts from text", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000019", "t": "Entity linking: this mention means that entity", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000020", "t": "Fact verification: is it true", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000021", "t": "Consistency checking: the graph must agree with itself", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000022", "t": "Merging sources: one world from many", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000023", "t": "Semantic search: finding by meaning", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEM-000024", "t": "Large knowledge bases: millions of facts that hold together", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000025", "t": "Temporal facts: true then, false now", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000026", "t": "Uncertain knowledge: shades of true", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000027", "t": "Causal relations: what causes what", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000028", "t": "Commonsense knowledge: the obvious that is not obvious to machines", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000029", "t": "Multilingual concepts: meaning across languages", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000030", "t": "Ontology alignment: merging maps of the world", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000031", "t": "Knowledge completion: filling the gaps", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000032", "t": "Hallucination defense: when the memory must say it does not know", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000033", "t": "The living encyclopedia: knowledge that never stops growing", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEM-000034", "t": "Meaning at planetary scale: the final horizon", "g": "semantic-memory-advanced"}

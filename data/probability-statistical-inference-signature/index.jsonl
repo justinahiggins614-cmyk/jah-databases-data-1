@@ -1,0 +1,34 @@
+{"id": "JAH-PSIS-000001", "t": "Probability and Statistical Inference Signature Database: Basic Probability", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000002", "t": "Probability and Statistical Inference Signature Database: Complement Rule", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000003", "t": "Probability and Statistical Inference Signature Database: Union (Independent)", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000004", "t": "Probability and Statistical Inference Signature Database: Intersection (Independent)", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000005", "t": "Probability and Statistical Inference Signature Database: Conditional Probability", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000006", "t": "Probability and Statistical Inference Signature Database: Bayes Theorem", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000007", "t": "Probability and Statistical Inference Signature Database: Binomial PMF", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000008", "t": "Probability and Statistical Inference Signature Database: Binomial Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000009", "t": "Probability and Statistical Inference Signature Database: Binomial Variance", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000010", "t": "Probability and Statistical Inference Signature Database: Poisson PMF", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000011", "t": "Probability and Statistical Inference Signature Database: Geometric PMF", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000012", "t": "Probability and Statistical Inference Signature Database: Geometric Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000013", "t": "Probability and Statistical Inference Signature Database: Exponential CDF", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000014", "t": "Probability and Statistical Inference Signature Database: Normal PDF at Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000015", "t": "Probability and Statistical Inference Signature Database: Uniform Mean", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000016", "t": "Probability and Statistical Inference Signature Database: Uniform Variance", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000017", "t": "Probability and Statistical Inference Signature Database: Standard Deviation", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000018", "t": "Probability and Statistical Inference Signature Database: Z-Score", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000019", "t": "Probability and Statistical Inference Signature Database: Permutations P(n,k)", "c": 0, "g": "counting"}
+{"id": "JAH-PSIS-000020", "t": "Probability and Statistical Inference Signature Database: Combinations C(n,k)", "c": 0, "g": "counting"}
+{"id": "JAH-PSIS-000021", "t": "Probability and Statistical Inference Signature Database: Law of Total Probability", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000022", "t": "Probability and Statistical Inference Signature Database: Markov Inequality", "c": 0, "g": "bounds"}
+{"id": "JAH-PSIS-000023", "t": "Probability and Statistical Inference Signature Database: Chebyshev Inequality", "c": 0, "g": "bounds"}
+{"id": "JAH-PSIS-000024", "t": "Probability and Statistical Inference Signature Database: Odds to Probability", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000025", "t": "Probability and Statistical Inference Signature Database: Probability to Odds", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000026", "t": "Probability and Statistical Inference Signature Database: At Least One", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000027", "t": "Probability and Statistical Inference Signature Database: Expected Count", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000028", "t": "Probability and Statistical Inference Signature Database: Poisson Approx to Binomial", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000029", "t": "Probability and Statistical Inference Signature Database: Joint Independent (3)", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000030", "t": "Probability and Statistical Inference Signature Database: Chain Rule", "c": 0, "g": "foundations"}
+{"id": "JAH-PSIS-000031", "t": "Probability and Statistical Inference Signature Database: Linear Expectation", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000032", "t": "Probability and Statistical Inference Signature Database: Scaled Variance", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000033", "t": "Probability and Statistical Inference Signature Database: Binomial Mode", "c": 0, "g": "distributions"}
+{"id": "JAH-PSIS-000034", "t": "Probability and Statistical Inference Signature Database: Bayes Double Update Capstone", "c": 0, "g": "foundations"}

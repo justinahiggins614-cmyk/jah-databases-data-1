@@ -1,0 +1,34 @@
+{"id": "JAH-JAVA-000001", "t": "Java JDK JVM and JRE Explained", "g": "Foundations"}
+{"id": "JAH-JAVA-000002", "t": "Java First Program Anatomy", "g": "Foundations"}
+{"id": "JAH-JAVA-000003", "t": "Java Variables and Primitive Types", "g": "Foundations"}
+{"id": "JAH-JAVA-000004", "t": "Java Operators", "g": "Foundations"}
+{"id": "JAH-JAVA-000005", "t": "Java Strings", "g": "Foundations"}
+{"id": "JAH-JAVA-000006", "t": "Java if else and switch", "g": "Foundations"}
+{"id": "JAH-JAVA-000007", "t": "Java Loops", "g": "Foundations"}
+{"id": "JAH-JAVA-000008", "t": "Java Arrays", "g": "Foundations"}
+{"id": "JAH-JAVA-000009", "t": "Java Methods", "g": "Foundations"}
+{"id": "JAH-JAVA-000010", "t": "Java Classes and Objects", "g": "Foundations"}
+{"id": "JAH-JAVA-000011", "t": "Java Packages and Imports", "g": "Foundations"}
+{"id": "JAH-JAVA-000012", "t": "Java Constructors", "g": "Compounded"}
+{"id": "JAH-JAVA-000013", "t": "Java Inheritance", "g": "Compounded"}
+{"id": "JAH-JAVA-000014", "t": "Java Polymorphism", "g": "Compounded"}
+{"id": "JAH-JAVA-000015", "t": "Java Encapsulation and Access Modifiers", "g": "Compounded"}
+{"id": "JAH-JAVA-000016", "t": "Java Abstract Classes", "g": "Compounded"}
+{"id": "JAH-JAVA-000017", "t": "Java Interfaces", "g": "Compounded"}
+{"id": "JAH-JAVA-000018", "t": "Java Exception Handling", "g": "Compounded"}
+{"id": "JAH-JAVA-000019", "t": "Java Collections: ArrayList", "g": "Compounded"}
+{"id": "JAH-JAVA-000020", "t": "Java Collections: HashMap", "g": "Compounded"}
+{"id": "JAH-JAVA-000021", "t": "Java StringBuilder", "g": "Compounded"}
+{"id": "JAH-JAVA-000022", "t": "Java Static Members", "g": "Compounded"}
+{"id": "JAH-JAVA-000023", "t": "Java Enums", "g": "Compounded"}
+{"id": "JAH-JAVA-000024", "t": "Java Generics", "g": "Advanced"}
+{"id": "JAH-JAVA-000025", "t": "Java Lambda Expressions", "g": "Advanced"}
+{"id": "JAH-JAVA-000026", "t": "Java Streams API", "g": "Advanced"}
+{"id": "JAH-JAVA-000027", "t": "Java File IO with NIO", "g": "Advanced"}
+{"id": "JAH-JAVA-000028", "t": "Java Multithreading Basics", "g": "Advanced"}
+{"id": "JAH-JAVA-000029", "t": "Java Synchronization", "g": "Advanced"}
+{"id": "JAH-JAVA-000030", "t": "Java Annotations", "g": "Advanced"}
+{"id": "JAH-JAVA-000031", "t": "Java JUnit Testing", "g": "Advanced"}
+{"id": "JAH-JAVA-000032", "t": "Java Build Tools: Maven and Gradle", "g": "Advanced"}
+{"id": "JAH-JAVA-000033", "t": "Java JVM Memory Model", "g": "Advanced"}
+{"id": "JAH-JAVA-000034", "t": "Java Garbage Collection", "g": "Advanced"}

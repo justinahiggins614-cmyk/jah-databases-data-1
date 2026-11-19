@@ -1,0 +1,34 @@
+{"id": "JAH-CPCMS-000001", "t": "What Compatibility Means (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000002", "t": "Reading and Writing a Compatibility Matrix (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000003", "t": "The Five Dimensions of a Pairing (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000004", "t": "Voltage-Level Compatibility (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000005", "t": "Logic Families and Their Pairings (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000006", "t": "Current and Power Delivery Compatibility (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000007", "t": "Connector Mechanical Fit and Mating (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000008", "t": "Protocol Compatibility: UART, SPI, I2C, CAN, USB, Ethernet (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000009", "t": "Signal Integrity and Impedance Matching (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000010", "t": "Tolerance and Clearance for Mating Parts (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000011", "t": "Reading Two Datasheets Side by Side (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000012", "t": "Material Compatibility Basics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPCMS-000013", "t": "Galvanic Corrosion Pairings (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000014", "t": "Thermal Expansion Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000015", "t": "Chemical and Environmental Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000016", "t": "Solder and Joining Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000017", "t": "Power Supply Interoperability (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000018", "t": "Grounding and Shielding Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000019", "t": "Battery Chemistry Pairings (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000020", "t": "RF Module Interoperability (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000021", "t": "Firmware and API Version Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000022", "t": "Memory and Storage Interface Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000023", "t": "Display and Camera Interface Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000024", "t": "Sensor Module Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000025", "t": "Motor and Driver Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000026", "t": "Network Stack and Middleware Compatibility (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPCMS-000027", "t": "EMC Compatibility Between Modules (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000028", "t": "Timing Closure Across Interfaces (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000029", "t": "Derating and Reliability of Pairings (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000030", "t": "Cross-Reference Substitution Matrices (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000031", "t": "Full System Integration Matrices (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000032", "t": "Compatibility Testing and Verification (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000033", "t": "Lifecycle and Obsolescence in Pairings (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPCMS-000034", "t": "Building Your Own Compatibility Matrix (Signature Edition)", "g": "Advanced"}

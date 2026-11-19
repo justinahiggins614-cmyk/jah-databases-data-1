@@ -1,0 +1,34 @@
+{"id": "JAH-ATER-000001", "t": "Audit Trails and Tamper-Evident Records Database: Append-Only Log", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000002", "t": "Audit Trails and Tamper-Evident Records Database: Hash Chain", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000003", "t": "Audit Trails and Tamper-Evident Records Database: Tamper Detection", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000004", "t": "Audit Trails and Tamper-Evident Records Database: Merkle Root", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000005", "t": "Audit Trails and Tamper-Evident Records Database: Signed Log Entry", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000006", "t": "Audit Trails and Tamper-Evident Records Database: Sequence Gap Detection", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000007", "t": "Audit Trails and Tamper-Evident Records Database: Trusted Timestamp", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000008", "t": "Audit Trails and Tamper-Evident Records Database: Log Integrity Verify", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000009", "t": "Audit Trails and Tamper-Evident Records Database: Provenance Record", "c": 0, "g": "provenance"}
+{"id": "JAH-ATER-000010", "t": "Audit Trails and Tamper-Evident Records Database: Change History (diff)", "c": 0, "g": "provenance"}
+{"id": "JAH-ATER-000011", "t": "Audit Trails and Tamper-Evident Records Database: Actor Attribution", "c": 0, "g": "provenance"}
+{"id": "JAH-ATER-000012", "t": "Audit Trails and Tamper-Evident Records Database: Structured Logging", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000013", "t": "Audit Trails and Tamper-Evident Records Database: Correlation IDs", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000014", "t": "Audit Trails and Tamper-Evident Records Database: Audit Query", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000015", "t": "Audit Trails and Tamper-Evident Records Database: Retention Enforcement", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000016", "t": "Audit Trails and Tamper-Evident Records Database: Signed Export", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000017", "t": "Audit Trails and Tamper-Evident Records Database: Checkpoint", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000018", "t": "Audit Trails and Tamper-Evident Records Database: WORM Storage", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000019", "t": "Audit Trails and Tamper-Evident Records Database: Log Forwarding", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000020", "t": "Audit Trails and Tamper-Evident Records Database: Immutable Snapshot", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000021", "t": "Audit Trails and Tamper-Evident Records Database: Redaction (audit-safe)", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000022", "t": "Audit Trails and Tamper-Evident Records Database: Admin Action Log", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000023", "t": "Audit Trails and Tamper-Evident Records Database: Data Access Log", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000024", "t": "Audit Trails and Tamper-Evident Records Database: Consent Log", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000025", "t": "Audit Trails and Tamper-Evident Records Database: Key Rotation Log", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000026", "t": "Audit Trails and Tamper-Evident Records Database: Incident Log", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000027", "t": "Audit Trails and Tamper-Evident Records Database: Clock Skew Check", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000028", "t": "Audit Trails and Tamper-Evident Records Database: Verify on Export", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000029", "t": "Audit Trails and Tamper-Evident Records Database: Compliance Report", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000030", "t": "Audit Trails and Tamper-Evident Records Database: Attestation", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000031", "t": "Audit Trails and Tamper-Evident Records Database: External Witness", "c": 0, "g": "integrity"}
+{"id": "JAH-ATER-000032", "t": "Audit Trails and Tamper-Evident Records Database: Dual Control Log", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000033", "t": "Audit Trails and Tamper-Evident Records Database: Log Sampling", "c": 0, "g": "logging"}
+{"id": "JAH-ATER-000034", "t": "Audit Trails and Tamper-Evident Records Database: Capstone: Audit System", "c": 0, "g": "integrity"}

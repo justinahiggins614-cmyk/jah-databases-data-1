@@ -1,0 +1,34 @@
+{"id": "JAH-BTESS-000001", "t": "Battery and Energy Storage Intelligence Signature Database: Capacity (Ah)", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000002", "t": "Battery and Energy Storage Intelligence Signature Database: Energy (Wh)", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000003", "t": "Battery and Energy Storage Intelligence Signature Database: Specific Energy", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000004", "t": "Battery and Energy Storage Intelligence Signature Database: Energy Density", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000005", "t": "Battery and Energy Storage Intelligence Signature Database: C-Rate", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000006", "t": "Battery and Energy Storage Intelligence Signature Database: Charge Time", "c": 0, "g": "charging"}
+{"id": "JAH-BTESS-000007", "t": "Battery and Energy Storage Intelligence Signature Database: Depth of Discharge", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000008", "t": "Battery and Energy Storage Intelligence Signature Database: State of Charge", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000009", "t": "Battery and Energy Storage Intelligence Signature Database: Capacity Fade", "c": 0, "g": "aging"}
+{"id": "JAH-BTESS-000010", "t": "Battery and Energy Storage Intelligence Signature Database: Self-Discharge", "c": 0, "g": "aging"}
+{"id": "JAH-BTESS-000011", "t": "Battery and Energy Storage Intelligence Signature Database: Internal Resistance", "c": 0, "g": "electrical"}
+{"id": "JAH-BTESS-000012", "t": "Battery and Energy Storage Intelligence Signature Database: Resistive Loss", "c": 0, "g": "electrical"}
+{"id": "JAH-BTESS-000013", "t": "Battery and Energy Storage Intelligence Signature Database: Charging Efficiency", "c": 0, "g": "charging"}
+{"id": "JAH-BTESS-000014", "t": "Battery and Energy Storage Intelligence Signature Database: Peukert Time", "c": 0, "g": "capacity"}
+{"id": "JAH-BTESS-000015", "t": "Battery and Energy Storage Intelligence Signature Database: Coulombic Efficiency", "c": 0, "g": "charging"}
+{"id": "JAH-BTESS-000016", "t": "Battery and Energy Storage Intelligence Signature Database: Voltage Efficiency", "c": 0, "g": "charging"}
+{"id": "JAH-BTESS-000017", "t": "Battery and Energy Storage Intelligence Signature Database: Round-Trip Efficiency", "c": 0, "g": "charging"}
+{"id": "JAH-BTESS-000018", "t": "Battery and Energy Storage Intelligence Signature Database: Parallel Capacity", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000019", "t": "Battery and Energy Storage Intelligence Signature Database: Series Voltage", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000020", "t": "Battery and Energy Storage Intelligence Signature Database: Pack Energy", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000021", "t": "Battery and Energy Storage Intelligence Signature Database: Max Discharge Current", "c": 0, "g": "electrical"}
+{"id": "JAH-BTESS-000022", "t": "Battery and Energy Storage Intelligence Signature Database: Lifetime Throughput", "c": 0, "g": "aging"}
+{"id": "JAH-BTESS-000023", "t": "Battery and Energy Storage Intelligence Signature Database: Cost per kWh Throughput", "c": 0, "g": "economics"}
+{"id": "JAH-BTESS-000024", "t": "Battery and Energy Storage Intelligence Signature Database: EV Range", "c": 0, "g": "ev"}
+{"id": "JAH-BTESS-000025", "t": "Battery and Energy Storage Intelligence Signature Database: EV Consumption", "c": 0, "g": "ev"}
+{"id": "JAH-BTESS-000026", "t": "Battery and Energy Storage Intelligence Signature Database: DC Fast Charge Power", "c": 0, "g": "ev"}
+{"id": "JAH-BTESS-000027", "t": "Battery and Energy Storage Intelligence Signature Database: Fast Charge Time (0-80%)", "c": 0, "g": "ev"}
+{"id": "JAH-BTESS-000028", "t": "Battery and Energy Storage Intelligence Signature Database: Battery Mass from Energy", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000029", "t": "Battery and Energy Storage Intelligence Signature Database: Battery Volume", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000030", "t": "Battery and Energy Storage Intelligence Signature Database: Cells in Series", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000031", "t": "Battery and Energy Storage Intelligence Signature Database: Cells in Parallel", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000032", "t": "Battery and Energy Storage Intelligence Signature Database: Total Cells", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000033", "t": "Battery and Energy Storage Intelligence Signature Database: Pack Nominal Voltage", "c": 0, "g": "pack-design"}
+{"id": "JAH-BTESS-000034", "t": "Battery and Energy Storage Intelligence Signature Database: Home Battery Sizing Capstone", "c": 0, "g": "storage"}

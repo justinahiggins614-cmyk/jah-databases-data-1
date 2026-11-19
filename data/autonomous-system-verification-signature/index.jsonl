@@ -1,0 +1,34 @@
+{"id": "JAH-ASV-000001", "t": "Signature Why Autonomy Needs Proof (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000002", "t": "Signature Safety Cases (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000003", "t": "Signature Formal Verification (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000004", "t": "Signature The Verification Playbook (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000005", "t": "Signature Model Checking (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000006", "t": "Signature Theorem Proving (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000007", "t": "Signature Runtime Verification (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000008", "t": "Signature Simulation Testing (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000009", "t": "Signature Scenario Libraries (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000010", "t": "Signature Edge Case Discovery (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000011", "t": "Signature Fuzz Testing (Autonomy) (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000012", "t": "Signature Metamorphic Testing (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000013", "t": "Signature Digital Twins (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000014", "t": "Signature Hardware-in-the-Loop (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000015", "t": "Signature Operational Design Domain (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000016", "t": "Signature ODD Monitoring (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000017", "t": "Signature Minimal Risk Condition (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000018", "t": "Signature Redundancy (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000019", "t": "Signature Diverse Redundancy (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000020", "t": "Signature SOTIF (ISO 21448) (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000021", "t": "Signature ISO 26262 (Functional Safety) (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000022", "t": "Signature UL 4600 (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000023", "t": "Signature Regulatory Approval (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000024", "t": "Signature Incident Investigation (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000025", "t": "Signature Disengagement Analysis (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000026", "t": "Signature Safety Metrics (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000027", "t": "Signature Continuous Monitoring (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000028", "t": "Signature OTA Update Safety (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000029", "t": "Signature Cybersecurity (Autonomy) (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000030", "t": "Signature Human Factors (Autonomy) (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000031", "t": "Signature Ethics (Trolley Problems) (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-ASV-000032", "t": "Signature Public Trust (Signature Edition)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000033", "t": "Signature Insurance and Liability (Signature Edition)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000034", "t": "Signature The Verified Autonomous System (Signature Edition)", "g": "verification-methods"}

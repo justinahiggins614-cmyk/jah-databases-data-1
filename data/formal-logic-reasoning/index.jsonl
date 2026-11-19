@@ -1,0 +1,34 @@
+{"id": "JAH-FLR-000001", "t": "Formal Logic and Automated Reasoning Database: Truth Table Evaluation", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000002", "t": "Formal Logic and Automated Reasoning Database: De Morgan Laws", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000003", "t": "Formal Logic and Automated Reasoning Database: Modus Ponens", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000004", "t": "Formal Logic and Automated Reasoning Database: Modus Tollens", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000005", "t": "Formal Logic and Automated Reasoning Database: Hypothetical Syllogism", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000006", "t": "Formal Logic and Automated Reasoning Database: Disjunctive Syllogism", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000007", "t": "Formal Logic and Automated Reasoning Database: Proof by Contradiction", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000008", "t": "Formal Logic and Automated Reasoning Database: Proof by Induction", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000009", "t": "Formal Logic and Automated Reasoning Database: Contrapositive", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000010", "t": "Formal Logic and Automated Reasoning Database: Implication Rewriting", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000011", "t": "Formal Logic and Automated Reasoning Database: CNF Conversion", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000012", "t": "Formal Logic and Automated Reasoning Database: Propositional Resolution", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000013", "t": "Formal Logic and Automated Reasoning Database: Unification", "c": 0, "g": "predicate"}
+{"id": "JAH-FLR-000014", "t": "Formal Logic and Automated Reasoning Database: Brute-Force SAT (n=2)", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000015", "t": "Formal Logic and Automated Reasoning Database: Tautology Check", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000016", "t": "Formal Logic and Automated Reasoning Database: Syllogism Validity", "c": 0, "g": "predicate"}
+{"id": "JAH-FLR-000017", "t": "Formal Logic and Automated Reasoning Database: Quantifier Negation", "c": 0, "g": "predicate"}
+{"id": "JAH-FLR-000018", "t": "Formal Logic and Automated Reasoning Database: NAND Completeness", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000019", "t": "Formal Logic and Automated Reasoning Database: Exclusive-Or Properties", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000020", "t": "Formal Logic and Automated Reasoning Database: Distributive Laws", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000021", "t": "Formal Logic and Automated Reasoning Database: Absorption Laws", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000022", "t": "Formal Logic and Automated Reasoning Database: Exportation", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000023", "t": "Formal Logic and Automated Reasoning Database: Constructive Dilemma", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000024", "t": "Formal Logic and Automated Reasoning Database: Proof by Cases", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000025", "t": "Formal Logic and Automated Reasoning Database: Natural Deduction (→Elim/Intro)", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000026", "t": "Formal Logic and Automated Reasoning Database: Existential Instantiation", "c": 0, "g": "predicate"}
+{"id": "JAH-FLR-000027", "t": "Formal Logic and Automated Reasoning Database: Universal Generalization", "c": 0, "g": "predicate"}
+{"id": "JAH-FLR-000028", "t": "Formal Logic and Automated Reasoning Database: Soundness Check", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000029", "t": "Formal Logic and Automated Reasoning Database: Biconditional Split", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000030", "t": "Formal Logic and Automated Reasoning Database: Proof Checker (MP Chain)", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000031", "t": "Formal Logic and Automated Reasoning Database: DPLL Unit Propagation", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000032", "t": "Formal Logic and Automated Reasoning Database: Horn Clause Inference", "c": 0, "g": "propositional"}
+{"id": "JAH-FLR-000033", "t": "Formal Logic and Automated Reasoning Database: Capstone: Full Proof Verification", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLR-000034", "t": "Formal Logic and Automated Reasoning Database: Double Negation", "c": 0, "g": "propositional"}

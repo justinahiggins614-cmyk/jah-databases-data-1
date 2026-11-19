@@ -1,0 +1,34 @@
+{"id": "JAH-CONS-000001", "t": "Constraint Solving and Optimization Database: Greedy Coin Change (Canonical Coins)", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000002", "t": "Constraint Solving and Optimization Database: 0/1 Knapsack via Dynamic Programming", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000003", "t": "Constraint Solving and Optimization Database: Dijkstra's Shortest Path", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000004", "t": "Constraint Solving and Optimization Database: Topological Sort (Kahn)", "c": 0, "g": "scheduling"}
+{"id": "JAH-CONS-000005", "t": "Constraint Solving and Optimization Database: Critical Path Method", "c": 0, "g": "scheduling"}
+{"id": "JAH-CONS-000006", "t": "Constraint Solving and Optimization Database: Interval Scheduling (Greedy)", "c": 0, "g": "scheduling"}
+{"id": "JAH-CONS-000007", "t": "Constraint Solving and Optimization Database: Bin Packing (First Fit Decreasing)", "c": 0, "g": "allocation"}
+{"id": "JAH-CONS-000008", "t": "Constraint Solving and Optimization Database: Assignment via Brute Force (Small n)", "c": 0, "g": "allocation"}
+{"id": "JAH-CONS-000009", "t": "Constraint Solving and Optimization Database: N-Queens Backtracking", "c": 0, "g": "constraint-programming"}
+{"id": "JAH-CONS-000010", "t": "Constraint Solving and Optimization Database: Graph Coloring (Greedy)", "c": 0, "g": "constraint-programming"}
+{"id": "JAH-CONS-000011", "t": "Constraint Solving and Optimization Database: Sudoku Solver (Backtracking)", "c": 0, "g": "constraint-programming"}
+{"id": "JAH-CONS-000012", "t": "Constraint Solving and Optimization Database: Linear Programming (Graphical 2D)", "c": 0, "g": "linear"}
+{"id": "JAH-CONS-000013", "t": "Constraint Solving and Optimization Database: Simulated Annealing (1D)", "c": 0, "g": "metaheuristic"}
+{"id": "JAH-CONS-000014", "t": "Constraint Solving and Optimization Database: Genetic Algorithm (OneMax)", "c": 0, "g": "metaheuristic"}
+{"id": "JAH-CONS-000015", "t": "Constraint Solving and Optimization Database: Hill Climbing with Restarts", "c": 0, "g": "metaheuristic"}
+{"id": "JAH-CONS-000016", "t": "Constraint Solving and Optimization Database: Breadth-First Search Shortest Path", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000017", "t": "Constraint Solving and Optimization Database: A* Pathfinding (Grid)", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000018", "t": "Constraint Solving and Optimization Database: Minimum Spanning Tree (Kruskal)", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000019", "t": "Constraint Solving and Optimization Database: Longest Increasing Subsequence", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000020", "t": "Constraint Solving and Optimization Database: Edit Distance (Levenshtein)", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000021", "t": "Constraint Solving and Optimization Database: Maximum Flow (Edmonds-Karp)", "c": 0, "g": "linear"}
+{"id": "JAH-CONS-000022", "t": "Constraint Solving and Optimization Database: Stable Matching (Gale-Shapley)", "c": 0, "g": "allocation"}
+{"id": "JAH-CONS-000023", "t": "Constraint Solving and Optimization Database: Job Shop: Johnson Rule (2 machines)", "c": 0, "g": "scheduling"}
+{"id": "JAH-CONS-000024", "t": "Constraint Solving and Optimization Database: Vehicle Routing (Nearest Neighbor)", "c": 0, "g": "allocation"}
+{"id": "JAH-CONS-000025", "t": "Constraint Solving and Optimization Database: Resource Allocation (Fractional Knapsack)", "c": 0, "g": "allocation"}
+{"id": "JAH-CONS-000026", "t": "Constraint Solving and Optimization Database: Min-Cost Flow (Successive Shortest Path)", "c": 0, "g": "linear"}
+{"id": "JAH-CONS-000027", "t": "Constraint Solving and Optimization Database: Constraint Propagation (AC-3 Sketch)", "c": 0, "g": "constraint-programming"}
+{"id": "JAH-CONS-000028", "t": "Constraint Solving and Optimization Database: Branch and Bound (0/1 Knapsack)", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000029", "t": "Constraint Solving and Optimization Database: Two-SAT (Implication Graph)", "c": 0, "g": "constraint-programming"}
+{"id": "JAH-CONS-000030", "t": "Constraint Solving and Optimization Database: Earliest Deadline First Scheduling", "c": 0, "g": "scheduling"}
+{"id": "JAH-CONS-000031", "t": "Constraint Solving and Optimization Database: Paging: LRU Page Replacement", "c": 0, "g": "allocation"}
+{"id": "JAH-CONS-000032", "t": "Constraint Solving and Optimization Database: Huffman Coding", "c": 0, "g": "search"}
+{"id": "JAH-CONS-000033", "t": "Constraint Solving and Optimization Database: Gradient Descent (Quadratic)", "c": 0, "g": "linear"}
+{"id": "JAH-CONS-000034", "t": "Constraint Solving and Optimization Database: Subset Sum via Dynamic Programming", "c": 0, "g": "search"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DAA-000001", "t": "Why Anonymize", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000002", "t": "Identifiers Taxonomy", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000003", "t": "K-Anonymity", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000004", "t": "L-Diversity", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000005", "t": "T-Closeness", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000006", "t": "Differential Privacy", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000007", "t": "Epsilon Selection", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000008", "t": "Generalization Hierarchies", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000009", "t": "Suppression", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000010", "t": "Masking and Tokenization", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000011", "t": "Perturbation", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000012", "t": "Synthetic Data", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000013", "t": "Re-identification Attacks", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000014", "t": "Risk Assessment Method", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000015", "t": "HIPAA Safe Harbor", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000016", "t": "HIPAA Expert Determination", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000017", "t": "GDPR Anonymization Bar", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000018", "t": "Pseudonymization", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000019", "t": "Data Sharing Agreements", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000020", "t": "Utility Measurement", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000021", "t": "Tooling (ARX, etc.)", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000022", "t": "The Anonymization Playbook", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000023", "t": "Aggregation as Anonymization", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000024", "t": "Cell Suppression", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000025", "t": "Swapping", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000026", "t": "Top/Bottom Coding", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000027", "t": "Date Shifting", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000028", "t": "Geographic Aggregation", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000029", "t": "Longitudinal Data Risks", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000030", "t": "Genomic Data Caution", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000031", "t": "Location Data Caution", "g": "anonymization-techniques"}
+{"id": "JAH-DAA-000032", "t": "Differential Privacy in Practice", "g": "reidentification-risk"}
+{"id": "JAH-DAA-000033", "t": "Anonymization Documentation", "g": "compliant-sharing"}
+{"id": "JAH-DAA-000034", "t": "Re-assessment Cadence", "g": "anonymization-techniques"}

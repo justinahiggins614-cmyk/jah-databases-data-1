@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-COTS-000001", "t": "What chain-of-thought is: thinking out loud (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000002", "t": "Breaking problems into steps: the decomposition (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000003", "t": "Writing out intermediates: the visible work (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000004", "t": "Small checkable steps: the link standard (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000005", "t": "Worked examples: learning chains from examples (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000006", "t": "Arithmetic chains: step-by-step calculation (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000007", "t": "Logic chains: step-by-step deduction (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000008", "t": "Reading chains: reasoning over text (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000009", "t": "When not to chain: the cost of steps (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000010", "t": "Chain length: how many steps is right (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000011", "t": "The final answer step: concluding the chain (Signature Edition)", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COTS-000012", "t": "Step verification: checking each link (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000013", "t": "Finding the broken link: debugging chains (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000014", "t": "Self-consistency: many chains, one answer (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000015", "t": "Least-to-most prompting: easy first (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000016", "t": "Backward chaining: reasoning from the goal (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000017", "t": "Forward chaining: reasoning from the facts (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000018", "t": "Chain repair: fixing chains mid-flight (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000019", "t": "Intermediate variables: naming the middle (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000020", "t": "Program-aided chains: computing the hard parts (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000021", "t": "Decomposition strategies: ways to split problems (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000022", "t": "Chain evaluation: judging the reasoning (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000023", "t": "Cost of chaining: tokens, time, and attention (Signature Edition)", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COTS-000024", "t": "Tree of thoughts: branching the reasoning (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000025", "t": "Graph of thoughts: the networked chain (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000026", "t": "Faithful vs post-hoc traces: does the chain reflect the thought (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000027", "t": "Process supervision: rewarding the steps, not just the answer (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000028", "t": "Verifiers: the second mind on the chain (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000029", "t": "Chain distillation: teaching the pattern (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000030", "t": "Latent reasoning: thinking without writing (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000031", "t": "Multi-agent chains: reasoning as a team (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000032", "t": "Adversarial chains: stress-testing the reasoning (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000033", "t": "The honest chain: the final standard (Signature Edition)", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COTS-000034", "t": "The reflective chain: thinking about the thinking (Signature Edition)", "g": "chain-of-thought-advanced"}

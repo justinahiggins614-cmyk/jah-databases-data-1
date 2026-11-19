@@ -1,0 +1,34 @@
+{"id": "JAH-PDG-000001", "t": "CAD and Parametric Design Generator Database: Parametric Bolt Circle (SVG)", "c": 0, "g": "2d-profile"}
+{"id": "JAH-PDG-000002", "t": "CAD and Parametric Design Generator Database: Parametric Washer (SVG)", "c": 0, "g": "2d-profile"}
+{"id": "JAH-PDG-000003", "t": "CAD and Parametric Design Generator Database: Parametric Bracket (SVG)", "c": 0, "g": "2d-profile"}
+{"id": "JAH-PDG-000004", "t": "CAD and Parametric Design Generator Database: Parametric Gear (Involute Approx, SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000005", "t": "CAD and Parametric Design Generator Database: Parametric Box Enclosure (SVG Net)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000006", "t": "CAD and Parametric Design Generator Database: Parametric Hex Nut (SVG)", "c": 0, "g": "fastener"}
+{"id": "JAH-PDG-000007", "t": "CAD and Parametric Design Generator Database: Parametric Shaft with Keyway (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000008", "t": "CAD and Parametric Design Generator Database: Parametric Dovetail Joint (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000009", "t": "CAD and Parametric Design Generator Database: Parametric Flange (SVG)", "c": 0, "g": "2d-profile"}
+{"id": "JAH-PDG-000010", "t": "CAD and Parametric Design Generator Database: Parametric Slot (SVG)", "c": 0, "g": "2d-profile"}
+{"id": "JAH-PDG-000011", "t": "CAD and Parametric Design Generator Database: Parametric Triangle Gusset (SVG)", "c": 0, "g": "structures"}
+{"id": "JAH-PDG-000012", "t": "CAD and Parametric Design Generator Database: Parametric PCB Standoff (3D Params)", "c": 0, "g": "3d-solid"}
+{"id": "JAH-PDG-000013", "t": "CAD and Parametric Design Generator Database: Parametric Pulley (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000014", "t": "CAD and Parametric Design Generator Database: Parametric Spring (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000015", "t": "CAD and Parametric Design Generator Database: Parametric Rack (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000016", "t": "CAD and Parametric Design Generator Database: Parametric Hinge (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000017", "t": "CAD and Parametric Design Generator Database: Parametric Pipe Elbow (SVG)", "c": 0, "g": "3d-solid"}
+{"id": "JAH-PDG-000018", "t": "CAD and Parametric Design Generator Database: Parametric Vent Hole Pattern (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000019", "t": "CAD and Parametric Design Generator Database: Parametric Nameplate (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000020", "t": "CAD and Parametric Design Generator Database: Parametric Cam (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000021", "t": "CAD and Parametric Design Generator Database: Parametric Chain Link (SVG)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000022", "t": "CAD and Parametric Design Generator Database: Parametric Fin Array (SVG)", "c": 0, "g": "thermal"}
+{"id": "JAH-PDG-000023", "t": "CAD and Parametric Design Generator Database: Parametric Knob (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000024", "t": "CAD and Parametric Design Generator Database: Parametric Retaining Ring Groove (SVG)", "c": 0, "g": "fastener"}
+{"id": "JAH-PDG-000025", "t": "CAD and Parametric Design Generator Database: Parametric Motor Mount (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000026", "t": "CAD and Parametric Design Generator Database: Parametric Cable Gland Hole (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000027", "t": "CAD and Parametric Design Generator Database: Parametric Standoff Pattern (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000028", "t": "CAD and Parametric Design Generator Database: Parametric DIN Rail Clip (SVG)", "c": 0, "g": "enclosure"}
+{"id": "JAH-PDG-000029", "t": "CAD and Parametric Design Generator Database: Parametric Lead Screw Nut (3D Params)", "c": 0, "g": "3d-solid"}
+{"id": "JAH-PDG-000030", "t": "CAD and Parametric Design Generator Database: Parametric Belt Length (Calculator)", "c": 0, "g": "mechanism"}
+{"id": "JAH-PDG-000031", "t": "CAD and Parametric Design Generator Database: Parametric Sheet Metal Bend (Calculator)", "c": 0, "g": "structures"}
+{"id": "JAH-PDG-000032", "t": "CAD and Parametric Design Generator Database: Parametric O-Ring Groove (SVG)", "c": 0, "g": "fastener"}
+{"id": "JAH-PDG-000033", "t": "CAD and Parametric Design Generator Database: Parametric Export Manifest", "c": 0, "g": "export"}
+{"id": "JAH-PDG-000034", "t": "CAD and Parametric Design Generator Database: Parametric Spacer (SVG)", "c": 0, "g": "2d-profile"}

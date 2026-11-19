@@ -1,0 +1,34 @@
+{"id": "JAH-TMDH-000001", "t": "AI Deployment and Hosting Database: Static Hosting: Ship in Minutes", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000002", "t": "AI Deployment and Hosting Database: Jamstack Architecture", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000003", "t": "AI Deployment and Hosting Database: Custom Domains and TLS", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000004", "t": "AI Deployment and Hosting Database: Preview Deployments per PR", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000005", "t": "AI Deployment and Hosting Database: VPS Deployment from Scratch", "c": 0, "g": "server-hosting"}
+{"id": "JAH-TMDH-000006", "t": "AI Deployment and Hosting Database: Platform-as-a-Service (Render/Railway/Fly)", "c": 0, "g": "server-hosting"}
+{"id": "JAH-TMDH-000007", "t": "AI Deployment and Hosting Database: Docker in Production", "c": 0, "g": "containers"}
+{"id": "JAH-TMDH-000008", "t": "AI Deployment and Hosting Database: Kubernetes Essentials", "c": 0, "g": "containers"}
+{"id": "JAH-TMDH-000009", "t": "AI Deployment and Hosting Database: Container Registries and Image Hygiene", "c": 0, "g": "containers"}
+{"id": "JAH-TMDH-000010", "t": "AI Deployment and Hosting Database: Blue-Green Deployments", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000011", "t": "AI Deployment and Hosting Database: Canary Releases", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000012", "t": "AI Deployment and Hosting Database: Feature Flags for Safe Releases", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000013", "t": "AI Deployment and Hosting Database: Database Migrations in Deploys", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000014", "t": "AI Deployment and Hosting Database: Rollback Plans That Work", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000015", "t": "AI Deployment and Hosting Database: Health Checks and Readiness", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000016", "t": "AI Deployment and Hosting Database: CDN Configuration Deep Dive", "c": 0, "g": "cdn-edge"}
+{"id": "JAH-TMDH-000017", "t": "AI Deployment and Hosting Database: Edge Functions and Middleware", "c": 0, "g": "cdn-edge"}
+{"id": "JAH-TMDH-000018", "t": "AI Deployment and Hosting Database: DDoS Protection Basics", "c": 0, "g": "cdn-edge"}
+{"id": "JAH-TMDH-000019", "t": "AI Deployment and Hosting Database: Global Latency Optimization", "c": 0, "g": "cdn-edge"}
+{"id": "JAH-TMDH-000020", "t": "AI Deployment and Hosting Database: Static Hosting: Ship in Minutes (variant 1)", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000021", "t": "AI Deployment and Hosting Database: Jamstack Architecture (variant 1)", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000022", "t": "AI Deployment and Hosting Database: Custom Domains and TLS (variant 1)", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000023", "t": "AI Deployment and Hosting Database: Preview Deployments per PR (variant 1)", "c": 0, "g": "static-hosting"}
+{"id": "JAH-TMDH-000024", "t": "AI Deployment and Hosting Database: VPS Deployment from Scratch (variant 1)", "c": 0, "g": "server-hosting"}
+{"id": "JAH-TMDH-000025", "t": "AI Deployment and Hosting Database: Platform-as-a-Service (Render/Railway/Fly) (variant 1)", "c": 0, "g": "server-hosting"}
+{"id": "JAH-TMDH-000026", "t": "AI Deployment and Hosting Database: Docker in Production (variant 1)", "c": 0, "g": "containers"}
+{"id": "JAH-TMDH-000027", "t": "AI Deployment and Hosting Database: Kubernetes Essentials (variant 1)", "c": 0, "g": "containers"}
+{"id": "JAH-TMDH-000028", "t": "AI Deployment and Hosting Database: Container Registries and Image Hygiene (variant 1)", "c": 0, "g": "containers"}
+{"id": "JAH-TMDH-000029", "t": "AI Deployment and Hosting Database: Blue-Green Deployments (variant 1)", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000030", "t": "AI Deployment and Hosting Database: Canary Releases (variant 1)", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000031", "t": "AI Deployment and Hosting Database: Feature Flags for Safe Releases (variant 1)", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000032", "t": "AI Deployment and Hosting Database: Database Migrations in Deploys (variant 1)", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000033", "t": "AI Deployment and Hosting Database: Rollback Plans That Work (variant 1)", "c": 0, "g": "release-strategies"}
+{"id": "JAH-TMDH-000034", "t": "AI Deployment and Hosting Database: Health Checks and Readiness (variant 1)", "c": 0, "g": "release-strategies"}

@@ -1,0 +1,34 @@
+{"id": "JAH-TMWS-000001", "t": "AI Web Security Practices Database: OWASP Top 10 for Builders", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000002", "t": "AI Web Security Practices Database: Brute-Force Protection", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000003", "t": "AI Web Security Practices Database: Session Fixation and Hijacking Defense", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000004", "t": "AI Web Security Practices Database: Passwordless Auth (Passkeys/WebAuthn)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000005", "t": "AI Web Security Practices Database: OAuth Scope Hygiene", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000006", "t": "AI Web Security Practices Database: API Authorization Pitfalls (IDOR/BOLA)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000007", "t": "AI Web Security Practices Database: CSRF Defense", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000008", "t": "AI Web Security Practices Database: SQL Injection Prevention", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000009", "t": "AI Web Security Practices Database: XSS Prevention", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000010", "t": "AI Web Security Practices Database: Command Injection Prevention", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000011", "t": "AI Web Security Practices Database: Path Traversal Prevention", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000012", "t": "AI Web Security Practices Database: SSRF Prevention", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000013", "t": "AI Web Security Practices Database: Deserialization Defenses", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000014", "t": "AI Web Security Practices Database: TLS Configuration", "c": 0, "g": "transport-security"}
+{"id": "JAH-TMWS-000015", "t": "AI Web Security Practices Database: HSTS and Secure Cookies", "c": 0, "g": "transport-security"}
+{"id": "JAH-TMWS-000016", "t": "AI Web Security Practices Database: Certificate Pinning (When Needed)", "c": 0, "g": "transport-security"}
+{"id": "JAH-TMWS-000017", "t": "AI Web Security Practices Database: Encrypting Data at Rest", "c": 0, "g": "transport-security"}
+{"id": "JAH-TMWS-000018", "t": "AI Web Security Practices Database: Secrets Management", "c": 0, "g": "transport-security"}
+{"id": "JAH-TMWS-000019", "t": "AI Web Security Practices Database: npm Audit and Fixing Vulnerabilities", "c": 0, "g": "dependency-safety"}
+{"id": "JAH-TMWS-000020", "t": "AI Web Security Practices Database: Lockfiles: The Whole Tree, Pinned", "c": 0, "g": "dependency-safety"}
+{"id": "JAH-TMWS-000021", "t": "AI Web Security Practices Database: Supply Chain Attacks Defense", "c": 0, "g": "dependency-safety"}
+{"id": "JAH-TMWS-000022", "t": "AI Web Security Practices Database: Content Security Policy (CSP)", "c": 0, "g": "security-headers"}
+{"id": "JAH-TMWS-000023", "t": "AI Web Security Practices Database: Clickjacking Defense", "c": 0, "g": "security-headers"}
+{"id": "JAH-TMWS-000024", "t": "AI Web Security Practices Database: Security Headers Checklist", "c": 0, "g": "security-headers"}
+{"id": "JAH-TMWS-000025", "t": "AI Web Security Practices Database: OWASP Top 10 for Builders (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000026", "t": "AI Web Security Practices Database: Brute-Force Protection (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000027", "t": "AI Web Security Practices Database: Session Fixation and Hijacking Defense (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000028", "t": "AI Web Security Practices Database: Passwordless Auth (Passkeys/WebAuthn) (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000029", "t": "AI Web Security Practices Database: OAuth Scope Hygiene (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000030", "t": "AI Web Security Practices Database: API Authorization Pitfalls (IDOR/BOLA) (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000031", "t": "AI Web Security Practices Database: CSRF Defense (variant 1)", "c": 0, "g": "auth-hardening"}
+{"id": "JAH-TMWS-000032", "t": "AI Web Security Practices Database: SQL Injection Prevention (variant 1)", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000033", "t": "AI Web Security Practices Database: XSS Prevention (variant 1)", "c": 0, "g": "input-validation"}
+{"id": "JAH-TMWS-000034", "t": "AI Web Security Practices Database: Command Injection Prevention (variant 1)", "c": 0, "g": "input-validation"}

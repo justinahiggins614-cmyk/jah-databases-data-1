@@ -1,0 +1,34 @@
+{"id": "JAH-SCID-000001", "t": "What a Scientific Dataset Is: Observations, Not Conclusions", "g": "Foundations"}
+{"id": "JAH-SCID-000002", "t": "Measurement Basics: Variables, Units, and Instruments", "g": "Foundations"}
+{"id": "JAH-SCID-000003", "t": "Experimental Conditions: Recording the Context of Every Reading", "g": "Foundations"}
+{"id": "JAH-SCID-000004", "t": "Sampling: How Often, How Many, How Representative", "g": "Foundations"}
+{"id": "JAH-SCID-000005", "t": "Data Formats: CSV, NetCDF, HDF5, and Plain Text", "g": "Foundations"}
+{"id": "JAH-SCID-000006", "t": "Metadata: Describing Data So Others Can Use It", "g": "Foundations"}
+{"id": "JAH-SCID-000007", "t": "The Lab Notebook: The Original Processing History", "g": "Foundations"}
+{"id": "JAH-SCID-000008", "t": "Calibration Records: Tying Measurements to Standards", "g": "Foundations"}
+{"id": "JAH-SCID-000009", "t": "Uncertainty and Error Bars: Honest Measurements", "g": "Foundations"}
+{"id": "JAH-SCID-000010", "t": "Time Series: Ordering Observations in Time", "g": "Foundations"}
+{"id": "JAH-SCID-000011", "t": "Replication: Repeating Measurements, Recording Repeats", "g": "Foundations"}
+{"id": "JAH-SCID-000012", "t": "Data Cleaning: Documenting What Was Removed and Why", "g": "Foundations"}
+{"id": "JAH-SCID-000013", "t": "Controlled Experiments: Treatment, Control, Randomization", "g": "Compounded"}
+{"id": "JAH-SCID-000014", "t": "Field Observations: Messy Real-World Data Collection", "g": "Compounded"}
+{"id": "JAH-SCID-000015", "t": "Sensor Networks: Streaming Observations at Scale", "g": "Compounded"}
+{"id": "JAH-SCID-000016", "t": "Survey Data: Questions, Respondents, Response Rates", "g": "Compounded"}
+{"id": "JAH-SCID-000017", "t": "Imaging Datasets: Pixels as Measurements", "g": "Compounded"}
+{"id": "JAH-SCID-000018", "t": "Spectral Data: Wavelength-Resolved Observations", "g": "Compounded"}
+{"id": "JAH-SCID-000019", "t": "Genomic Sequence Reads: Base Calls and Quality Scores", "g": "Compounded"}
+{"id": "JAH-SCID-000020", "t": "Climate Station Records: Long Baselines, Homogenization", "g": "Compounded"}
+{"id": "JAH-SCID-000021", "t": "Astronomical Catalogs: Positions, Magnitudes, Redshifts", "g": "Compounded"}
+{"id": "JAH-SCID-000022", "t": "Particle Detector Event Data: Triggers and Reconstructions", "g": "Compounded"}
+{"id": "JAH-SCID-000023", "t": "Processing Pipelines: From Raw to Analysis-Ready", "g": "Compounded"}
+{"id": "JAH-SCID-000024", "t": "Versioning Datasets: DOIs and Immutable Snapshots", "g": "Compounded"}
+{"id": "JAH-SCID-000025", "t": "Provenance Graphs: Every Transformation Traced", "g": "Advanced"}
+{"id": "JAH-SCID-000026", "t": "FAIR Data: Findable, Accessible, Interoperable, Reusable", "g": "Advanced"}
+{"id": "JAH-SCID-000027", "t": "Statistical Power and Design of Experiments", "g": "Advanced"}
+{"id": "JAH-SCID-000028", "t": "Missing Data: Mechanisms and Principled Handling", "g": "Advanced"}
+{"id": "JAH-SCID-000029", "t": "Data Fusion: Combining Heterogeneous Observations", "g": "Advanced"}
+{"id": "JAH-SCID-000030", "t": "Uncertainty Propagation Through Pipelines", "g": "Advanced"}
+{"id": "JAH-SCID-000031", "t": "Reproducibility Audits: Re-running the Analysis", "g": "Advanced"}
+{"id": "JAH-SCID-000032", "t": "Long-Term Archiving: Bit Preservation of Datasets", "g": "Advanced"}
+{"id": "JAH-SCID-000033", "t": "Synthetic and Simulated Datasets: Labeled as Such", "g": "Advanced"}
+{"id": "JAH-SCID-000034", "t": "Dataset Publication: Data Papers and Citations", "g": "Advanced"}

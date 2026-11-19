@@ -1,0 +1,34 @@
+{"id": "JAH-SAR-000001", "t": "Specialist AI Routing Intelligence Database: Route: Simple Factual Question", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000002", "t": "Specialist AI Routing Intelligence Database: Route: Multi-Step Reasoning Problem", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000003", "t": "Specialist AI Routing Intelligence Database: Route: Code Task", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000004", "t": "Specialist AI Routing Intelligence Database: Route: Creative Writing", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000005", "t": "Specialist AI Routing Intelligence Database: Route: Current Events Question", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000006", "t": "Specialist AI Routing Intelligence Database: Route: Medical or Legal Question", "c": 0, "g": "escalation"}
+{"id": "JAH-SAR-000007", "t": "Specialist AI Routing Intelligence Database: Route: Image Input Task", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000008", "t": "Specialist AI Routing Intelligence Database: Route: Long Document Analysis", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000009", "t": "Specialist AI Routing Intelligence Database: Route: Tool/API Action", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000010", "t": "Specialist AI Routing Intelligence Database: Route: Ambiguous Request", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000011", "t": "Specialist AI Routing Intelligence Database: Route: Complaint or Angry User", "c": 0, "g": "escalation"}
+{"id": "JAH-SAR-000012", "t": "Specialist AI Routing Intelligence Database: Route: Repeated Failure Loop", "c": 0, "g": "fallback"}
+{"id": "JAH-SAR-000013", "t": "Specialist AI Routing Intelligence Database: Route: High-Cost Model Request", "c": 0, "g": "cost"}
+{"id": "JAH-SAR-000014", "t": "Specialist AI Routing Intelligence Database: Route: Latency-Critical Request", "c": 0, "g": "latency"}
+{"id": "JAH-SAR-000015", "t": "Specialist AI Routing Intelligence Database: Route: Batch Processing Job", "c": 0, "g": "cost"}
+{"id": "JAH-SAR-000016", "t": "Specialist AI Routing Intelligence Database: Route: Contradictory Sources", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000017", "t": "Specialist AI Routing Intelligence Database: Route: Multilingual Request", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000018", "t": "Specialist AI Routing Intelligence Database: Route: Math with Exact Answer Needed", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000019", "t": "Specialist AI Routing Intelligence Database: Route: Database Lookup", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000020", "t": "Specialist AI Routing Intelligence Database: Route: Summarization Request", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000021", "t": "Specialist AI Routing Intelligence Database: Route: Comparison or Recommendation", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000022", "t": "Specialist AI Routing Intelligence Database: Route: Debugging Help", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000023", "t": "Specialist AI Routing Intelligence Database: Route: Planning a Project", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000024", "t": "Specialist AI Routing Intelligence Database: Route: Sensitive Personal Data", "c": 0, "g": "escalation"}
+{"id": "JAH-SAR-000025", "t": "Specialist AI Routing Intelligence Database: Route: Disallowed Content", "c": 0, "g": "escalation"}
+{"id": "JAH-SAR-000026", "t": "Specialist AI Routing Intelligence Database: Route: Ensemble for High Stakes", "c": 0, "g": "ensemble"}
+{"id": "JAH-SAR-000027", "t": "Specialist AI Routing Intelligence Database: Route: Critic and Red-Team Pass", "c": 0, "g": "ensemble"}
+{"id": "JAH-SAR-000028", "t": "Specialist AI Routing Intelligence Database: Route: Human Handoff", "c": 0, "g": "fallback"}
+{"id": "JAH-SAR-000029", "t": "Specialist AI Routing Intelligence Database: Route: Cached Answer Reuse", "c": 0, "g": "latency"}
+{"id": "JAH-SAR-000030", "t": "Specialist AI Routing Intelligence Database: Route: Streaming Partial Results", "c": 0, "g": "latency"}
+{"id": "JAH-SAR-000031", "t": "Specialist AI Routing Intelligence Database: Route: Low-Confidence Abstention", "c": 0, "g": "fallback"}
+{"id": "JAH-SAR-000032", "t": "Specialist AI Routing Intelligence Database: Route: Personalization Request", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000033", "t": "Specialist AI Routing Intelligence Database: Route: Evaluation Request", "c": 0, "g": "routing-rule"}
+{"id": "JAH-SAR-000034", "t": "Specialist AI Routing Intelligence Database: Route: Translation Request", "c": 0, "g": "routing-rule"}

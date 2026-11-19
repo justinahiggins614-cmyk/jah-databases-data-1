@@ -1,0 +1,34 @@
+{"id": "JAH-DCRG-000001", "t": "What a Data Contract Is", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000002", "t": "Producer and Consumer Roles", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000003", "t": "The Open Data Contract Standard", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000004", "t": "Schema Guarantees", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000005", "t": "Field Definitions and Types", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000006", "t": "Required vs Optional Fields", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000007", "t": "Semantic Descriptions", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000008", "t": "Data Quality Promises", "g": "Contract Basics"}
+{"id": "JAH-DCRG-000009", "t": "Freshness SLAs", "g": "SLAs and Promises"}
+{"id": "JAH-DCRG-000010", "t": "Availability SLAs", "g": "SLAs and Promises"}
+{"id": "JAH-DCRG-000011", "t": "Schema Compatibility Rules", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRG-000012", "t": "Backward vs Forward Compatibility", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRG-000013", "t": "Schema Evolution Histories", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRG-000014", "t": "Versioning Contracts", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRG-000015", "t": "Deprecation Notices", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRG-000016", "t": "Breaking Change Policies", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRG-000017", "t": "Contract Testing", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000018", "t": "Contract Linting and CI", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000019", "t": "Contract Negotiation Workflows", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000020", "t": "Sign-off and Approval", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000021", "t": "Contract Enforcement at Runtime", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000022", "t": "Contract Schema Registries", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000023", "t": "Contract-Driven Pipelines", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000024", "t": "Consumer Impact Analysis", "g": "Evolution and Governance"}
+{"id": "JAH-DCRG-000025", "t": "Multi-Consumer Contracts", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000026", "t": "Contract Inheritance and Templates", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000027", "t": "Data Products and Contracts", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000028", "t": "Contract Metrics", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000029", "t": "Contract Breach Handling", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000030", "t": "Contracts for a Million-Database Network", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000031", "t": "Legal Terms in Contracts", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000032", "t": "Contract Provenance", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000033", "t": "Automated Contract Generation", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRG-000034", "t": "Data Contract Registry Mastery Review", "g": "Advanced Contract Topics"}

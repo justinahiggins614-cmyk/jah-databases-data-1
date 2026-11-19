@@ -1,0 +1,34 @@
+{"id": "JAH-XDRP-000001", "t": "Cross-Database Reasoning Patterns Database: Evidence Triangulation", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRP-000002", "t": "Cross-Database Reasoning Patterns Database: Procedure Chaining", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRP-000003", "t": "Cross-Database Reasoning Patterns Database: Analogical Transfer", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRP-000004", "t": "Cross-Database Reasoning Patterns Database: Conflict Adjudication", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRP-000005", "t": "Cross-Database Reasoning Patterns Database: Abstraction Ladder", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRP-000006", "t": "Cross-Database Reasoning Patterns Database: Cross-Verification", "c": 0, "g": "verification"}
+{"id": "JAH-XDRP-000007", "t": "Cross-Database Reasoning Patterns Database: Evidence Weighting", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRP-000008", "t": "Cross-Database Reasoning Patterns Database: Causal Chaining", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRP-000009", "t": "Cross-Database Reasoning Patterns Database: Precedent Matching", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRP-000010", "t": "Cross-Database Reasoning Patterns Database: Dissent Preservation", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRP-000011", "t": "Cross-Database Reasoning Patterns Database: Conceptual Blending", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRP-000012", "t": "Cross-Database Reasoning Patterns Database: Independent Replication", "c": 0, "g": "verification"}
+{"id": "JAH-XDRP-000013", "t": "Cross-Database Reasoning Patterns Database: Convergent Validation", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRP-000014", "t": "Cross-Database Reasoning Patterns Database: Workflow Composition", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRP-000015", "t": "Cross-Database Reasoning Patterns Database: Structural Mapping", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRP-000016", "t": "Cross-Database Reasoning Patterns Database: Temporal Reconciliation", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRP-000017", "t": "Cross-Database Reasoning Patterns Database: Hierarchical Decomposition", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRP-000018", "t": "Cross-Database Reasoning Patterns Database: Source Triangulation", "c": 0, "g": "verification"}
+{"id": "JAH-XDRP-000019", "t": "Cross-Database Reasoning Patterns Database: Bayesian Updating", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRP-000020", "t": "Cross-Database Reasoning Patterns Database: Pipeline Assembly", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRP-000021", "t": "Cross-Database Reasoning Patterns Database: Metaphorical Reasoning", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRP-000022", "t": "Cross-Database Reasoning Patterns Database: Unit Reconciliation", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRP-000023", "t": "Cross-Database Reasoning Patterns Database: Pattern Generalization", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRP-000024", "t": "Cross-Database Reasoning Patterns Database: Fact Checking", "c": 0, "g": "verification"}
+{"id": "JAH-XDRP-000025", "t": "Cross-Database Reasoning Patterns Database: Evidence Synthesis", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRP-000026", "t": "Cross-Database Reasoning Patterns Database: Recursive Decomposition", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRP-000027", "t": "Cross-Database Reasoning Patterns Database: Case-Based Reasoning", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRP-000028", "t": "Cross-Database Reasoning Patterns Database: Definition Alignment", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRP-000029", "t": "Cross-Database Reasoning Patterns Database: Systems Thinking", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRP-000030", "t": "Cross-Database Reasoning Patterns Database: Provenance Verification", "c": 0, "g": "verification"}
+{"id": "JAH-XDRP-000031", "t": "Cross-Database Reasoning Patterns Database: Multi-Criteria Decision", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRP-000032", "t": "Cross-Database Reasoning Patterns Database: Handoff Protocol", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRP-000033", "t": "Cross-Database Reasoning Patterns Database: Dialectical Synthesis", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRP-000034", "t": "Cross-Database Reasoning Patterns Database: Capstone: Reasoning Pattern", "c": 0, "g": "verification"}

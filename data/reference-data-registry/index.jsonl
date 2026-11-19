@@ -1,0 +1,34 @@
+{"id": "JAH-RDRG-000001", "t": "What Reference Data Is", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000002", "t": "Code Lists and Code Values", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000003", "t": "Controlled Vocabularies", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000004", "t": "Taxonomies", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000005", "t": "Hierarchies and Parent-Child Codes", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000006", "t": "Units of Measure", "g": "Measures and Standards"}
+{"id": "JAH-RDRG-000007", "t": "Currency Codes: ISO 4217", "g": "Measures and Standards"}
+{"id": "JAH-RDRG-000008", "t": "Country Codes: ISO 3166", "g": "Measures and Standards"}
+{"id": "JAH-RDRG-000009", "t": "Language Codes: ISO 639", "g": "Measures and Standards"}
+{"id": "JAH-RDRG-000010", "t": "Date, Time, and Calendar Conventions", "g": "Measures and Standards"}
+{"id": "JAH-RDRG-000011", "t": "Status and Lifecycle Codes", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000012", "t": "Mapping Tables Between Code Sets", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRG-000013", "t": "Crosswalks Between Standards", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000014", "t": "Versioning Reference Data", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000015", "t": "Deprecation and Supersession", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000016", "t": "Effective Dating", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000017", "t": "Canonical vs Local Codes", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000018", "t": "Reference Data Stewardship", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000019", "t": "Change Requests and Approval", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000020", "t": "Publication and Distribution", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000021", "t": "Reference Data APIs", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000022", "t": "Caching and Fallback Copies", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000023", "t": "Reference Data Quality Monitoring", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000024", "t": "Multilingual Reference Data", "g": "Registry Governance"}
+{"id": "JAH-RDRG-000025", "t": "Multi-Standard Harmonization", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000026", "t": "Semantic Mapping with SKOS and OWL", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000027", "t": "Multilingual Labels", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000028", "t": "Reference Data Quality Metrics", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000029", "t": "Federation of Registries", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000030", "t": "Reference Data for a Million-Database Network", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000031", "t": "Emergency Code Extensions", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000032", "t": "Provenance of Reference Lists", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000033", "t": "Audit and Compliance Reporting", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRG-000034", "t": "Reference Data Registry Mastery Review", "g": "Advanced Registry Topics"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ACC-000001", "t": "What Is Calibration", "g": "calibration-methods"}
+{"id": "JAH-ACC-000002", "t": "Measuring Calibration (ECE)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000003", "t": "Overconfidence Problem", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000004", "t": "Temperature Scaling", "g": "calibration-methods"}
+{"id": "JAH-ACC-000005", "t": "Platt Scaling", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000006", "t": "Isotonic Regression", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000007", "t": "Calibration During Training", "g": "calibration-methods"}
+{"id": "JAH-ACC-000008", "t": "Ensembles and Calibration", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000009", "t": "Conformal Prediction", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000010", "t": "Selective Prediction", "g": "calibration-methods"}
+{"id": "JAH-ACC-000011", "t": "Confidence in LLMs", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000012", "t": "Hallucination and Confidence", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000013", "t": "Decision Thresholds", "g": "calibration-methods"}
+{"id": "JAH-ACC-000014", "t": "Cost-Sensitive Calibration", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000015", "t": "Calibration for Regression", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000016", "t": "Out-of-Distribution Detection", "g": "calibration-methods"}
+{"id": "JAH-ACC-000017", "t": "Human-AI Teaming", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000018", "t": "Explaining Uncertainty", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000019", "t": "Calibration Datasets", "g": "calibration-methods"}
+{"id": "JAH-ACC-000020", "t": "Monitoring Calibration Live", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000021", "t": "Recalibration Cadence", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000022", "t": "Multi-Class Calibration", "g": "calibration-methods"}
+{"id": "JAH-ACC-000023", "t": "Calibration and Fairness", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000024", "t": "Bayesian Approaches", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000025", "t": "Evidential Deep Learning", "g": "calibration-methods"}
+{"id": "JAH-ACC-000026", "t": "Calibration in Production ML", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000027", "t": "Testing Calibration", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000028", "t": "Common Pitfalls", "g": "calibration-methods"}
+{"id": "JAH-ACC-000029", "t": "The Honest AI Checklist", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000030", "t": "Proper Scoring Rules", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000031", "t": "Calibration for Ranking", "g": "calibration-methods"}
+{"id": "JAH-ACC-000032", "t": "When Not to Trust Confidence", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000033", "t": "Calibration Case Study", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000034", "t": "Calibration Leaderboard", "g": "calibration-methods"}

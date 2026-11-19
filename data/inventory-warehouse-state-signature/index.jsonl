@@ -1,0 +1,34 @@
+{"id": "JAH-INVS-000001", "t": "What Inventory Is and What a Warehouse Holds (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000002", "t": "The SKU: The Inventory Atom (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000003", "t": "Stock States: On Hand, Reserved, and Available to Promise (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000004", "t": "The Location Address: Aisles, Bays, and Bins (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000005", "t": "Units of Measure and the Pack Hierarchy (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000006", "t": "Inventory Valuation Basics: FIFO and LIFO (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000007", "t": "Lead Time: The Clock That Drives Everything (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000008", "t": "Goods Receipt: Receiving and Putaway Records (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000009", "t": "The Pick-Pack-Ship Flow (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000010", "t": "Lots, Batches, and Expiry: The Basics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INVS-000011", "t": "Cycle Counting: Counting Without Stopping (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000012", "t": "ABC Analysis: Ranking Stock by Value and Motion (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000013", "t": "Reorder Point Math (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000014", "t": "The Economic Order Quantity (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000015", "t": "Safety Stock Math (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000016", "t": "FEFO: Issuing by Expiry (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000017", "t": "Reservations and Allocation Logic (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000018", "t": "Putaway Strategies (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000019", "t": "Picking Strategies: Wave, Zone, Batch, Discrete (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000020", "t": "Packing Records and Shipment Integrity (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000021", "t": "Movement Records: Transfers, Adjustments, and Audits (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000022", "t": "Warehouse Layout and Slotting Basics (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INVS-000023", "t": "Multi-Echelon Inventory (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000024", "t": "MRP: Materials Requirements Planning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000025", "t": "Inventory Accuracy: Causes and Cures (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000026", "t": "Perpetual and Periodic Inventory Systems (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000027", "t": "Advanced Slotting: Cube, Velocity, and the Golden Zone (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000028", "t": "Dynamic Safety Stock and Service Levels (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000029", "t": "Replenishment Systems: Kanban, Min-Max, and DRP (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000030", "t": "Returns, RMAs, and Reverse Logistics (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000031", "t": "Serialized Inventory and Traceability (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000032", "t": "The Full Physical Inventory (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000033", "t": "Inventory Analytics: Turns, Days of Supply, and Stockouts (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INVS-000034", "t": "The Inventory Health Program (Signature Edition)", "g": "Advanced"}

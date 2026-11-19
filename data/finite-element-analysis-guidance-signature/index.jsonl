@@ -1,0 +1,34 @@
+{"id": "JAH-FEAG-000001", "t": "Signature What FEA Does (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000002", "t": "Signature When to Use FEA (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000003", "t": "Signature Meshing Basics (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000004", "t": "Signature Element Types (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000005", "t": "Signature Boundary Conditions (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000006", "t": "Signature Material Models (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000007", "t": "Signature Convergence Studies (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000008", "t": "Signature Stress Singularities (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000009", "t": "Signature Validating Results (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000010", "t": "Signature The FEA Playbook (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000011", "t": "Signature Linear Static Analysis (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000012", "t": "Signature Nonlinear Analysis (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000013", "t": "Signature Buckling Analysis (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000014", "t": "Signature Modal (Vibration) Analysis (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000015", "t": "Signature Harmonic Response (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000016", "t": "Signature Thermal Analysis (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000017", "t": "Signature Thermal-Stress Coupling (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000018", "t": "Signature Contact Modeling (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000019", "t": "Signature Bolt Preload Modeling (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000020", "t": "Signature Symmetry in FEA (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000021", "t": "Signature Submodeling (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000022", "t": "Signature Topology Optimization (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000023", "t": "Signature Fatigue Analysis (FEA) (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000024", "t": "Signature Composite Modeling (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000025", "t": "Signature Explicit Dynamics (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000026", "t": "Signature CFD Coupling Basics (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000027", "t": "Signature Mesh Quality Metrics (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000028", "t": "Signature Solver Choices (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000029", "t": "Signature Units Consistency (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000030", "t": "Signature Result Interpretation (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000031", "t": "Signature Safety Factors from FEA (Signature Edition)", "g": "fea-fundamentals"}
+{"id": "JAH-FEAG-000032", "t": "Signature FEA Report Writing (Signature Edition)", "g": "meshing-and-solving"}
+{"id": "JAH-FEAG-000033", "t": "Signature Common FEA Mistakes (Signature Edition)", "g": "result-validation"}
+{"id": "JAH-FEAG-000034", "t": "Signature Free FEA Tools (Signature Edition)", "g": "fea-fundamentals"}

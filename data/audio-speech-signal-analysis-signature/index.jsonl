@@ -1,0 +1,34 @@
+{"id": "JAH-ASIGS-000001", "t": "Audio, Speech, and Signal Analysis Signature Database: Frequency from Period", "c": 0, "g": "basics"}
+{"id": "JAH-ASIGS-000002", "t": "Audio, Speech, and Signal Analysis Signature Database: Period from Frequency", "c": 0, "g": "basics"}
+{"id": "JAH-ASIGS-000003", "t": "Audio, Speech, and Signal Analysis Signature Database: Wavelength", "c": 0, "g": "basics"}
+{"id": "JAH-ASIGS-000004", "t": "Audio, Speech, and Signal Analysis Signature Database: dB (power)", "c": 0, "g": "levels"}
+{"id": "JAH-ASIGS-000005", "t": "Audio, Speech, and Signal Analysis Signature Database: dB (amplitude)", "c": 0, "g": "levels"}
+{"id": "JAH-ASIGS-000006", "t": "Audio, Speech, and Signal Analysis Signature Database: SPL", "c": 0, "g": "levels"}
+{"id": "JAH-ASIGS-000007", "t": "Audio, Speech, and Signal Analysis Signature Database: Nyquist Frequency", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000008", "t": "Audio, Speech, and Signal Analysis Signature Database: Sample Interval", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000009", "t": "Audio, Speech, and Signal Analysis Signature Database: Bit Rate (audio)", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000010", "t": "Audio, Speech, and Signal Analysis Signature Database: Audio File Size", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000011", "t": "Audio, Speech, and Signal Analysis Signature Database: RMS", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000012", "t": "Audio, Speech, and Signal Analysis Signature Database: Sine RMS", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000013", "t": "Audio, Speech, and Signal Analysis Signature Database: Crest Factor", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000014", "t": "Audio, Speech, and Signal Analysis Signature Database: SNR", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000015", "t": "Audio, Speech, and Signal Analysis Signature Database: FFT Bins", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000016", "t": "Audio, Speech, and Signal Analysis Signature Database: Bin Frequency", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000017", "t": "Audio, Speech, and Signal Analysis Signature Database: Beat Frequency", "c": 0, "g": "basics"}
+{"id": "JAH-ASIGS-000018", "t": "Audio, Speech, and Signal Analysis Signature Database: Sabine Reverb Time", "c": 0, "g": "acoustics"}
+{"id": "JAH-ASIGS-000019", "t": "Audio, Speech, and Signal Analysis Signature Database: MIDI to Frequency", "c": 0, "g": "music"}
+{"id": "JAH-ASIGS-000020", "t": "Audio, Speech, and Signal Analysis Signature Database: Cents Between", "c": 0, "g": "music"}
+{"id": "JAH-ASIGS-000021", "t": "Audio, Speech, and Signal Analysis Signature Database: Beat Interval", "c": 0, "g": "music"}
+{"id": "JAH-ASIGS-000022", "t": "Audio, Speech, and Signal Analysis Signature Database: Sample Count", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000023", "t": "Audio, Speech, and Signal Analysis Signature Database: Quantization Levels", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000024", "t": "Audio, Speech, and Signal Analysis Signature Database: Quantization SNR", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIGS-000025", "t": "Audio, Speech, and Signal Analysis Signature Database: Echo Delay", "c": 0, "g": "acoustics"}
+{"id": "JAH-ASIGS-000026", "t": "Audio, Speech, and Signal Analysis Signature Database: Sound Intensity", "c": 0, "g": "acoustics"}
+{"id": "JAH-ASIGS-000027", "t": "Audio, Speech, and Signal Analysis Signature Database: Intensity Level", "c": 0, "g": "levels"}
+{"id": "JAH-ASIGS-000028", "t": "Audio, Speech, and Signal Analysis Signature Database: Mic Sensitivity (dBV)", "c": 0, "g": "transducers"}
+{"id": "JAH-ASIGS-000029", "t": "Audio, Speech, and Signal Analysis Signature Database: Gain (dB)", "c": 0, "g": "levels"}
+{"id": "JAH-ASIGS-000030", "t": "Audio, Speech, and Signal Analysis Signature Database: Headroom", "c": 0, "g": "levels"}
+{"id": "JAH-ASIGS-000031", "t": "Audio, Speech, and Signal Analysis Signature Database: THD", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIGS-000032", "t": "Audio, Speech, and Signal Analysis Signature Database: Delay (tempo ms)", "c": 0, "g": "music"}
+{"id": "JAH-ASIGS-000033", "t": "Audio, Speech, and Signal Analysis Signature Database: Octave Ratio", "c": 0, "g": "music"}
+{"id": "JAH-ASIGS-000034", "t": "Audio, Speech, and Signal Analysis Signature Database: Audio Chain Capstone", "c": 0, "g": "levels"}

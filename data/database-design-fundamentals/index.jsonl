@@ -1,0 +1,34 @@
+{"id": "JAH-DATADF-000001", "t": "Entities and Relationships", "g": "Foundations"}
+{"id": "JAH-DATADF-000002", "t": "Primary Keys", "g": "Foundations"}
+{"id": "JAH-DATADF-000003", "t": "Foreign Keys", "g": "Foundations"}
+{"id": "JAH-DATADF-000004", "t": "Normalization", "g": "Foundations"}
+{"id": "JAH-DATADF-000005", "t": "Denormalization", "g": "Foundations"}
+{"id": "JAH-DATADF-000006", "t": "Data Types", "g": "Foundations"}
+{"id": "JAH-DATADF-000007", "t": "Constraints", "g": "Foundations"}
+{"id": "JAH-DATADF-000008", "t": "Indexing Basics", "g": "Foundations"}
+{"id": "JAH-DATADF-000009", "t": "Views", "g": "Foundations"}
+{"id": "JAH-DATADF-000010", "t": "Transactions", "g": "Foundations"}
+{"id": "JAH-DATADF-000011", "t": "Migrations", "g": "Foundations"}
+{"id": "JAH-DATADF-000012", "t": "Choosing a Database", "g": "Compounded"}
+{"id": "JAH-DATADF-000013", "t": "Teaching Database Design", "g": "Compounded"}
+{"id": "JAH-DATADF-000014", "t": "The Schema Review", "g": "Compounded"}
+{"id": "JAH-DATADF-000015", "t": "Many-to-Many Relationships", "g": "Compounded"}
+{"id": "JAH-DATADF-000016", "t": "Hierarchies", "g": "Compounded"}
+{"id": "JAH-DATADF-000017", "t": "Temporal Data", "g": "Compounded"}
+{"id": "JAH-DATADF-000018", "t": "Soft Deletes", "g": "Compounded"}
+{"id": "JAH-DATADF-000019", "t": "Naming Conventions", "g": "Compounded"}
+{"id": "JAH-DATADF-000020", "t": "Documentation", "g": "Compounded"}
+{"id": "JAH-DATADF-000021", "t": "Security Design", "g": "Compounded"}
+{"id": "JAH-DATADF-000022", "t": "Backup and Recovery", "g": "Compounded"}
+{"id": "JAH-DATADF-000023", "t": "Performance Tuning", "g": "Compounded"}
+{"id": "JAH-DATADF-000024", "t": "Partitioning", "g": "Advanced"}
+{"id": "JAH-DATADF-000025", "t": "Replication", "g": "Advanced"}
+{"id": "JAH-DATADF-000026", "t": "NoSQL Patterns", "g": "Advanced"}
+{"id": "JAH-DATADF-000027", "t": "Graph Modeling", "g": "Advanced"}
+{"id": "JAH-DATADF-000028", "t": "Data Warehousing", "g": "Advanced"}
+{"id": "JAH-DATADF-000029", "t": "Schema Evolution", "g": "Advanced"}
+{"id": "JAH-DATADF-000030", "t": "Testing Databases", "g": "Advanced"}
+{"id": "JAH-DATADF-000031", "t": "Cloud Databases", "g": "Advanced"}
+{"id": "JAH-DATADF-000032", "t": "Polyglot Persistence", "g": "Advanced"}
+{"id": "JAH-DATADF-000033", "t": "The Design Review", "g": "Advanced"}
+{"id": "JAH-DATADF-000034", "t": "Learning Resources", "g": "Advanced"}

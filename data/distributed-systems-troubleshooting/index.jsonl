@@ -1,0 +1,34 @@
+{"id": "JAH-DST-000001", "t": "Trace IDs", "g": "Foundations"}
+{"id": "JAH-DST-000002", "t": "Structured Logging", "g": "Foundations"}
+{"id": "JAH-DST-000003", "t": "Metrics First", "g": "Foundations"}
+{"id": "JAH-DST-000004", "t": "Deploy Markers", "g": "Foundations"}
+{"id": "JAH-DST-000005", "t": "Retry Discipline", "g": "Foundations"}
+{"id": "JAH-DST-000006", "t": "Timeouts", "g": "Foundations"}
+{"id": "JAH-DST-000007", "t": "Circuit Breakers", "g": "Foundations"}
+{"id": "JAH-DST-000008", "t": "Idempotency", "g": "Foundations"}
+{"id": "JAH-DST-000009", "t": "Partition Handling", "g": "Foundations"}
+{"id": "JAH-DST-000010", "t": "Clock Realities", "g": "Foundations"}
+{"id": "JAH-DST-000011", "t": "Load Shedding", "g": "Foundations"}
+{"id": "JAH-DST-000012", "t": "Blameless Postmortems", "g": "Compounded"}
+{"id": "JAH-DST-000013", "t": "Consensus Basics", "g": "Compounded"}
+{"id": "JAH-DST-000014", "t": "Leader Election", "g": "Compounded"}
+{"id": "JAH-DST-000015", "t": "Replication Lag", "g": "Compounded"}
+{"id": "JAH-DST-000016", "t": "Sharding Strategies", "g": "Compounded"}
+{"id": "JAH-DST-000017", "t": "Service Discovery", "g": "Compounded"}
+{"id": "JAH-DST-000018", "t": "Load Balancing", "g": "Compounded"}
+{"id": "JAH-DST-000019", "t": "Health Checks", "g": "Compounded"}
+{"id": "JAH-DST-000020", "t": "Graceful Degradation", "g": "Compounded"}
+{"id": "JAH-DST-000021", "t": "Backpressure", "g": "Compounded"}
+{"id": "JAH-DST-000022", "t": "Queue Depths", "g": "Compounded"}
+{"id": "JAH-DST-000023", "t": "Database Failover", "g": "Compounded"}
+{"id": "JAH-DST-000024", "t": "Cache Stampedes", "g": "Advanced"}
+{"id": "JAH-DST-000025", "t": "Thundering Herds", "g": "Advanced"}
+{"id": "JAH-DST-000026", "t": "Chaos Testing", "g": "Advanced"}
+{"id": "JAH-DST-000027", "t": "Observability Costs", "g": "Advanced"}
+{"id": "JAH-DST-000028", "t": "Alert Fatigue", "g": "Advanced"}
+{"id": "JAH-DST-000029", "t": "Runbooks", "g": "Advanced"}
+{"id": "JAH-DST-000030", "t": "Incident Roles", "g": "Advanced"}
+{"id": "JAH-DST-000031", "t": "Status Communication", "g": "Advanced"}
+{"id": "JAH-DST-000032", "t": "Capacity Planning", "g": "Advanced"}
+{"id": "JAH-DST-000033", "t": "Multi-Region", "g": "Advanced"}
+{"id": "JAH-DST-000034", "t": "Debugging Stories", "g": "Advanced"}

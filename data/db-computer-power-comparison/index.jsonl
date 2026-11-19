@@ -1,0 +1,34 @@
+{"id": "JAH-CPC-000001", "t": "Phone vs Laptop: Daily Power", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000002", "t": "Tablet vs Laptop: Portable Work", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000003", "t": "Desktop vs Laptop: Power", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000004", "t": "Chromebook vs Laptop: Simple", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000005", "t": "Mac vs PC: Platforms", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000006", "t": "Raspberry Pi vs Desktop: Tiny", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000007", "t": "Smartwatch vs Phone: Wrist", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000008", "t": "E-Reader vs Tablet: Computing Power", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000009", "t": "Calculator vs Phone: Math", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000010", "t": "Server vs Desktop: Always-On", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000011", "t": "Thin Client vs PC: Office", "g": "Everyday Computing"}
+{"id": "JAH-CPC-000012", "t": "PS5 vs Xbox: Consoles", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000013", "t": "Console vs PC: Gaming", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000014", "t": "GPU: NVIDIA vs AMD", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000015", "t": "CPU: Intel vs AMD", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000016", "t": "Integrated vs Dedicated GPU", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000017", "t": "SSD vs HDD: Storage", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000018", "t": "RAM: More vs Faster", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000019", "t": "Monitor: 4K vs 144Hz", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000020", "t": "VR Headset vs Monitor: Immersion", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000021", "t": "Cloud Gaming vs Local: Play", "g": "Gaming & Graphics"}
+{"id": "JAH-CPC-000022", "t": "Supercomputer vs Quantum: Peak", "g": "Supercomputing"}
+{"id": "JAH-CPC-000023", "t": "CPU vs GPU: Compute", "g": "Supercomputing"}
+{"id": "JAH-CPC-000024", "t": "On-Prem vs Cloud: HPC", "g": "Supercomputing"}
+{"id": "JAH-CPC-000025", "t": "Then vs Now: 1990 vs 2025", "g": "Supercomputing"}
+{"id": "JAH-CPC-000026", "t": "Analog vs Digital: Compute", "g": "Supercomputing"}
+{"id": "JAH-CPC-000027", "t": "Mainframe vs Cloud: Enterprise", "g": "Supercomputing"}
+{"id": "JAH-CPC-000028", "t": "Edge vs Cloud: Where Compute", "g": "Supercomputing"}
+{"id": "JAH-CPC-000029", "t": "Open vs Closed: Supercomputing", "g": "Supercomputing"}
+{"id": "JAH-CPC-000030", "t": "Wetware vs Hardware: Future", "g": "Supercomputing"}
+{"id": "JAH-CPC-000031", "t": "Abacus vs Phone: Full Circle", "g": "Supercomputing"}
+{"id": "JAH-CPC-000032", "t": "ENIAC vs Watch: Origin vs Now", "g": "Supercomputing"}
+{"id": "JAH-CPC-000033", "t": "Data Center vs Basement: Hosting", "g": "Supercomputing"}
+{"id": "JAH-CPC-000034", "t": "Smart TV vs Monitor: Big Screen", "g": "Everyday Computing"}

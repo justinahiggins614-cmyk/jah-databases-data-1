@@ -1,0 +1,34 @@
+{"id": "JAH-EFS-000001", "t": "LED vs Incandescent: Lighting", "g": "Energy Efficiency"}
+{"id": "JAH-EFS-000002", "t": "EV vs Gas Car: Driving", "g": "Energy Efficiency"}
+{"id": "JAH-EFS-000003", "t": "Heat Pump vs Furnace: Heating", "g": "Energy Efficiency"}
+{"id": "JAH-EFS-000004", "t": "Induction vs Gas: Cooking", "g": "Energy Efficiency"}
+{"id": "JAH-EFS-000005", "t": "Dishwasher vs Hand Wash: Dishes", "g": "Energy Efficiency"}
+{"id": "JAH-EFS-000006", "t": "Front-Load vs Top-Load: Laundry", "g": "Energy Efficiency"}
+{"id": "JAH-EFS-000007", "t": "Train vs Plane: Travel", "g": "Transport Efficiency"}
+{"id": "JAH-EFS-000008", "t": "Bus vs Car: Commute", "g": "Transport Efficiency"}
+{"id": "JAH-EFS-000009", "t": "Bike vs E-Bike: Cycling", "g": "Transport Efficiency"}
+{"id": "JAH-EFS-000010", "t": "Ship vs Truck: Freight", "g": "Transport Efficiency"}
+{"id": "JAH-EFS-000011", "t": "Walking vs Running: Human", "g": "Transport Efficiency"}
+{"id": "JAH-EFS-000012", "t": "Sail vs Motor: Boats", "g": "Transport Efficiency"}
+{"id": "JAH-EFS-000013", "t": "Insulation vs Heating: Homes", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000014", "t": "Cold Water vs Hot: Laundry", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000015", "t": "Air-Dry vs Dryer: Clothes", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000016", "t": "Reusable vs Disposable: Cups", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000017", "t": "Shower: Short vs Long", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000018", "t": "Thermostat: 68 vs 72", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000019", "t": "LED TV vs Plasma: Screens", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000020", "t": "Laptop vs Desktop: Computing", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000021", "t": "Pressure Cooker vs Pot: Cooking", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000022", "t": "Microwave vs Oven: Reheating", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000023", "t": "Compost vs Trash: Food Waste", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000024", "t": "Repair vs Replace: Stuff", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000025", "t": "Library vs Buying: Books", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000026", "t": "Public Transit vs Car: City", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000027", "t": "Tap vs Bottled: Water", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000028", "t": "Garden vs Store: Vegetables", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000029", "t": "Bike Commute vs Drive: Work Trip", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000030", "t": "Heat Pump Dryer vs Vented Dryer: Laundry", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000031", "t": "Solar Water vs Gas Water: Heating Water", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000032", "t": "Smart Thermostat vs Manual: Control", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000033", "t": "CFL vs LED: Bulb Generations", "g": "Everyday Efficiency"}
+{"id": "JAH-EFS-000034", "t": "Double-Pane vs Single-Pane: Windows", "g": "Everyday Efficiency"}

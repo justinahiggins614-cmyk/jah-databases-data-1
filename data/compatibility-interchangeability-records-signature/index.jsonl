@@ -1,0 +1,34 @@
+{"id": "JAH-CIRS-000001", "t": "Reading a Parts Cross-Reference Table (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000002", "t": "Bearing Interchange Guide (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000003", "t": "Fastener Grade Interchange (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000004", "t": "Filter Element Cross-Reference (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000005", "t": "V-Belt Size Interchange (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000006", "t": "Fuse and Breaker Interchange (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000007", "t": "O-Ring Size and Material Interchange (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000008", "t": "Lamp and Indicator Interchange (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000009", "t": "Battery Size Cross-Reference (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000010", "t": "Lubricant Equivalents Table (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000011", "t": "Motor Frame Interchange (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000012", "t": "PLC Module Compatibility (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000013", "t": "Sensor Output Compatibility (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000014", "t": "Power Supply Compatibility (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000015", "t": "Hydraulic Component Interchange (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000016", "t": "Pneumatic Fitting Interchange (Signature Edition)", "g": "Interfaces & Connectors"}
+{"id": "JAH-CIRS-000017", "t": "Connector and Pinout Compatibility (Signature Edition)", "g": "Interfaces & Connectors"}
+{"id": "JAH-CIRS-000018", "t": "Communication Protocol Compatibility (Signature Edition)", "g": "Software & Firmware"}
+{"id": "JAH-CIRS-000019", "t": "Firmware Version Compatibility Matrix (Signature Edition)", "g": "Software & Firmware"}
+{"id": "JAH-CIRS-000020", "t": "Operating System and Driver Compatibility (Signature Edition)", "g": "Software & Firmware"}
+{"id": "JAH-CIRS-000021", "t": "Superseded Part Number Lookup (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000022", "t": "Aftermarket vs OEM Interchange Rules (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000023", "t": "Safety-Rated Component Substitution (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000024", "t": "Hazardous-Area Equipment Compatibility (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000025", "t": "Mixed-Vendor System Integration (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000026", "t": "Legacy System Interface Adaptation (Signature Edition)", "g": "Interfaces & Connectors"}
+{"id": "JAH-CIRS-000027", "t": "Software Regression Compatibility Testing (Signature Edition)", "g": "Software & Firmware"}
+{"id": "JAH-CIRS-000028", "t": "Database and File Format Compatibility (Signature Edition)", "g": "Software & Firmware"}
+{"id": "JAH-CIRS-000029", "t": "Cross-Platform Tool Compatibility (Signature Edition)", "g": "Software & Firmware"}
+{"id": "JAH-CIRS-000030", "t": "Obsolete Part Redesign Triggers (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000031", "t": "Form-Fit-Function Equivalence Documentation (Signature Edition)", "g": "Parts Cross-Reference"}
+{"id": "JAH-CIRS-000032", "t": "Interchangeability Risk Assessment (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000033", "t": "Multi-Site Standardization Records (Signature Edition)", "g": "Systems Compatibility"}
+{"id": "JAH-CIRS-000034", "t": "Compatibility Audit Procedure (Signature Edition)", "g": "Systems Compatibility"}

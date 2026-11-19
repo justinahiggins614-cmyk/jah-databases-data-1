@@ -1,0 +1,34 @@
+{"id": "JAH-KVS-000001", "t": "Knowledge Versioning Overview (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000002", "t": "Semantic Versioning for Knowledge (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000003", "t": "Concept Change History (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000004", "t": "Definition Versioning (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000005", "t": "Rule Versioning (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000006", "t": "Relationship Versioning (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000007", "t": "Version Identifiers and Labels (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000008", "t": "Change Types: Major, Minor, Patch (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000009", "t": "Version Timestamps and Provenance (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000010", "t": "Reading a Version Diff (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-KVS-000011", "t": "Concept Diff Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000012", "t": "Definition Diff Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000013", "t": "Rule Diff Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000014", "t": "Relationship Diff Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000015", "t": "Deprecation Notice (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000016", "t": "Supersession Chains (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000017", "t": "Version Branching (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000018", "t": "Merging Divergent Versions (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000019", "t": "Rollback Procedures (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000020", "t": "Versioned Query: Time Travel (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000021", "t": "Change Notification System (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-KVS-000022", "t": "Ontology Version Migration (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000023", "t": "Breaking Change Policy (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000024", "t": "Version Compatibility Matrix (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000025", "t": "Knowledge Graph Snapshots (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000026", "t": "Cryptographic Version Sealing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000027", "t": "Distributed Version Consensus (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000028", "t": "Versioned API Contracts (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000029", "t": "Deprecation Analytics (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000030", "t": "Knowledge Lineage Graph (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000031", "t": "Version Audit Record (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000032", "t": "Version Dashboard (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000033", "t": "Versioning Anti-Patterns Catalog (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-KVS-000034", "t": "Versioning Self-Audit and Mastery Record (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-SCH-000001", "t": "What Is a Schedule and a Resource Calendar", "g": "Foundations"}
+{"id": "JAH-SCH-000002", "t": "Calendar Data Models: Events, Slots, and Resources", "g": "Foundations"}
+{"id": "JAH-SCH-000003", "t": "Time, Duration, and the Interval", "g": "Foundations"}
+{"id": "JAH-SCH-000004", "t": "Recurrence Rules: RRULE and Recurring Events", "g": "Foundations"}
+{"id": "JAH-SCH-000005", "t": "Time Zones, DST, and the True Instant", "g": "Foundations"}
+{"id": "JAH-SCH-000006", "t": "Appointments and Booking Slots", "g": "Foundations"}
+{"id": "JAH-SCH-000007", "t": "Personnel Shifts and Rotation Plans", "g": "Foundations"}
+{"id": "JAH-SCH-000008", "t": "Equipment Availability and Reservations", "g": "Foundations"}
+{"id": "JAH-SCH-000009", "t": "Facilities and Room Scheduling", "g": "Foundations"}
+{"id": "JAH-SCH-000010", "t": "Maintenance Windows and Change Control", "g": "Foundations"}
+{"id": "JAH-SCH-000011", "t": "iCalendar RFC 5545: The Interchange Standard", "g": "Foundations"}
+{"id": "JAH-SCH-000012", "t": "Interval Overlap and Conflict Detection", "g": "Compounded"}
+{"id": "JAH-SCH-000013", "t": "Constraint Satisfaction for Scheduling", "g": "Compounded"}
+{"id": "JAH-SCH-000014", "t": "Shift-Rotation Rules and Circadian Planning", "g": "Compounded"}
+{"id": "JAH-SCH-000015", "t": "Scheduling Algorithms: Greedy, Backtracking, and the Hungarian Method", "g": "Compounded"}
+{"id": "JAH-SCH-000016", "t": "Resource Allocation and Bin Packing", "g": "Compounded"}
+{"id": "JAH-SCH-000017", "t": "Queueing Theory for Service Capacity", "g": "Compounded"}
+{"id": "JAH-SCH-000018", "t": "Lead Times, Setup, and Teardown Buffers", "g": "Compounded"}
+{"id": "JAH-SCH-000019", "t": "Multi-Resource and Team Scheduling", "g": "Compounded"}
+{"id": "JAH-SCH-000020", "t": "Calendar Synchronization: CalDAV and Federation", "g": "Compounded"}
+{"id": "JAH-SCH-000021", "t": "Preventive Maintenance Scheduling", "g": "Compounded"}
+{"id": "JAH-SCH-000022", "t": "Downtime Windows and Availability SLAs", "g": "Compounded"}
+{"id": "JAH-SCH-000023", "t": "Scheduling Under Uncertainty: Stochastic Models", "g": "Compounded"}
+{"id": "JAH-SCH-000024", "t": "Linear Programming for Workforce Scheduling", "g": "Advanced"}
+{"id": "JAH-SCH-000025", "t": "Timetabling by Graph Coloring", "g": "Advanced"}
+{"id": "JAH-SCH-000026", "t": "Job-Shop Scheduling and Makespan", "g": "Advanced"}
+{"id": "JAH-SCH-000027", "t": "Priority Scheduling and Real-Time Deadlines", "g": "Advanced"}
+{"id": "JAH-SCH-000028", "t": "Distributed Calendars: Consensus and Conflict Resolution", "g": "Advanced"}
+{"id": "JAH-SCH-000029", "t": "Scheduling Fairness and Load Balancing", "g": "Advanced"}
+{"id": "JAH-SCH-000030", "t": "Master Production Scheduling and MRP", "g": "Advanced"}
+{"id": "JAH-SCH-000031", "t": "Predictive Maintenance and Condition-Based Windows", "g": "Advanced"}
+{"id": "JAH-SCH-000032", "t": "The Scheduling System Architecture", "g": "Advanced"}
+{"id": "JAH-SCH-000033", "t": "Schedule Audit, Compliance, and Forensics", "g": "Advanced"}
+{"id": "JAH-SCH-000034", "t": "The Resource Calendar Operating Picture", "g": "Advanced"}

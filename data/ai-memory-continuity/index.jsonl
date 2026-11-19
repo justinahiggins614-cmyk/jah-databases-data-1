@@ -1,0 +1,34 @@
+{"id": "JAH-AIMC-000001", "t": "AI Memory and Knowledge Continuity Database: Session Summary Capture", "c": 0, "g": "task-history"}
+{"id": "JAH-AIMC-000002", "t": "AI Memory and Knowledge Continuity Database: Permissioned Memory Scopes", "c": 0, "g": "permissions"}
+{"id": "JAH-AIMC-000003", "t": "AI Memory and Knowledge Continuity Database: Task History Log", "c": 0, "g": "task-history"}
+{"id": "JAH-AIMC-000004", "t": "AI Memory and Knowledge Continuity Database: Reusable Project State Snapshot", "c": 0, "g": "project-state"}
+{"id": "JAH-AIMC-000005", "t": "AI Memory and Knowledge Continuity Database: Approved Lessons Archive", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000006", "t": "AI Memory and Knowledge Continuity Database: Context Window Packing", "c": 0, "g": "context"}
+{"id": "JAH-AIMC-000007", "t": "AI Memory and Knowledge Continuity Database: Memory Consent and Revocation", "c": 0, "g": "permissions"}
+{"id": "JAH-AIMC-000008", "t": "AI Memory and Knowledge Continuity Database: Entity Memory", "c": 0, "g": "context"}
+{"id": "JAH-AIMC-000009", "t": "AI Memory and Knowledge Continuity Database: Procedural Memory", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000010", "t": "AI Memory and Knowledge Continuity Database: Episodic Task Recall", "c": 0, "g": "recall"}
+{"id": "JAH-AIMC-000011", "t": "AI Memory and Knowledge Continuity Database: Semantic Knowledge Pinning", "c": 0, "g": "context"}
+{"id": "JAH-AIMC-000012", "t": "AI Memory and Knowledge Continuity Database: Memory Conflict Resolution", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000013", "t": "AI Memory and Knowledge Continuity Database: Forgetting Policies", "c": 0, "g": "permissions"}
+{"id": "JAH-AIMC-000014", "t": "AI Memory and Knowledge Continuity Database: Cross-Session Identity Continuity", "c": 0, "g": "context"}
+{"id": "JAH-AIMC-000015", "t": "AI Memory and Knowledge Continuity Database: Handoff Packets", "c": 0, "g": "project-state"}
+{"id": "JAH-AIMC-000016", "t": "AI Memory and Knowledge Continuity Database: Checkpoint and Resume", "c": 0, "g": "project-state"}
+{"id": "JAH-AIMC-000017", "t": "AI Memory and Knowledge Continuity Database: Lesson Extraction From Failures", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000018", "t": "AI Memory and Knowledge Continuity Database: Lesson Extraction From Successes", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000019", "t": "AI Memory and Knowledge Continuity Database: Memory Indexing and Retrieval", "c": 0, "g": "recall"}
+{"id": "JAH-AIMC-000020", "t": "AI Memory and Knowledge Continuity Database: Temporal Scoping", "c": 0, "g": "recall"}
+{"id": "JAH-AIMC-000021", "t": "AI Memory and Knowledge Continuity Database: Provenance of Memories", "c": 0, "g": "task-history"}
+{"id": "JAH-AIMC-000022", "t": "AI Memory and Knowledge Continuity Database: Memory Correction Workflow", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000023", "t": "AI Memory and Knowledge Continuity Database: Shared Team Memory", "c": 0, "g": "permissions"}
+{"id": "JAH-AIMC-000024", "t": "AI Memory and Knowledge Continuity Database: Private vs Shared Boundaries", "c": 0, "g": "permissions"}
+{"id": "JAH-AIMC-000025", "t": "AI Memory and Knowledge Continuity Database: Memory Audit Trail", "c": 0, "g": "task-history"}
+{"id": "JAH-AIMC-000026", "t": "AI Memory and Knowledge Continuity Database: Context Drift Detection", "c": 0, "g": "context"}
+{"id": "JAH-AIMC-000027", "t": "AI Memory and Knowledge Continuity Database: Summarization Chains", "c": 0, "g": "context"}
+{"id": "JAH-AIMC-000028", "t": "AI Memory and Knowledge Continuity Database: Memory-Backed Personalization", "c": 0, "g": "recall"}
+{"id": "JAH-AIMC-000029", "t": "AI Memory and Knowledge Continuity Database: Long-Horizon Goal Tracking", "c": 0, "g": "project-state"}
+{"id": "JAH-AIMC-000030", "t": "AI Memory and Knowledge Continuity Database: Skill Memory", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000031", "t": "AI Memory and Knowledge Continuity Database: Contradiction Quarantine in Memory", "c": 0, "g": "lessons"}
+{"id": "JAH-AIMC-000032", "t": "AI Memory and Knowledge Continuity Database: Memory Export and Portability", "c": 0, "g": "project-state"}
+{"id": "JAH-AIMC-000033", "t": "AI Memory and Knowledge Continuity Database: Emergency Memory Wipe", "c": 0, "g": "permissions"}
+{"id": "JAH-AIMC-000034", "t": "AI Memory and Knowledge Continuity Database: Continuity Verification Protocol", "c": 0, "g": "verification"}

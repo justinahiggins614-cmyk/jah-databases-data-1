@@ -1,0 +1,34 @@
+{"id": "JAH-FTST-000001", "t": "Signature How Full-Text Search Works (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000002", "t": "Signature BM25 Ranking (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000003", "t": "Signature Analyzers and Tokenizers (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000004", "t": "Signature Stemming vs Lemmatization (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000005", "t": "Signature Stop Words (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000006", "t": "Signature Synonyms (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000007", "t": "Signature Relevance Feedback Loop (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000008", "t": "Signature Measuring Relevance (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000009", "t": "Signature Query Understanding (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000010", "t": "Signature Faceted Search (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000011", "t": "Signature Autocomplete/Suggest (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000012", "t": "Signature Typo Tolerance (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000013", "t": "Signature Multi-language Search (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000014", "t": "Signature Elasticsearch Basics (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000015", "t": "Signature OpenSearch Alternative (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000016", "t": "Signature Postgres Full-Text (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000017", "t": "Signature Vector/Hybrid Search (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000018", "t": "Signature Indexing Performance (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000019", "t": "Signature Search at Scale (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000020", "t": "Signature The Search Tuning Playbook (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000021", "t": "Signature Field Boosting (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000022", "t": "Signature Phrase Matching (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000023", "t": "Signature Boolean Queries (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000024", "t": "Signature Function Score (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000025", "t": "Signature Learning to Rank (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000026", "t": "Signature Personalization (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000027", "t": "Signature Search UI Patterns (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000028", "t": "Signature Zero-Result Handling (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000029", "t": "Signature Search Analytics (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000030", "t": "Signature A/B Testing Search (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000031", "t": "Signature Index Lifecycle (Signature Edition)", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000032", "t": "Signature Security for Search (Signature Edition)", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000033", "t": "Signature Multitenant Search (Signature Edition)", "g": "search-operations"}
+{"id": "JAH-FTST-000034", "t": "Signature Search Ops Runbook (Signature Edition)", "g": "relevance-tuning"}

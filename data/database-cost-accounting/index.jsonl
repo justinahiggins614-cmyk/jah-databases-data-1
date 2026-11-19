@@ -1,0 +1,34 @@
+{"id": "JAH-DCA-000001", "t": "Cost Accounting Overview", "g": "Foundations"}
+{"id": "JAH-DCA-000002", "t": "Storage Cost Model", "g": "Foundations"}
+{"id": "JAH-DCA-000003", "t": "Compute Cost Model", "g": "Foundations"}
+{"id": "JAH-DCA-000004", "t": "Bandwidth and Egress Cost Model", "g": "Foundations"}
+{"id": "JAH-DCA-000005", "t": "Indexing Cost Model", "g": "Foundations"}
+{"id": "JAH-DCA-000006", "t": "Generation Cost Model", "g": "Foundations"}
+{"id": "JAH-DCA-000007", "t": "Retrieval Cost Model", "g": "Foundations"}
+{"id": "JAH-DCA-000008", "t": "Fixed vs Variable Costs", "g": "Foundations"}
+{"id": "JAH-DCA-000009", "t": "Cost Allocation Principles", "g": "Foundations"}
+{"id": "JAH-DCA-000010", "t": "Per-Record Cost Unit", "g": "Foundations"}
+{"id": "JAH-DCA-000011", "t": "Per-Database Cost Ledger", "g": "Compounded"}
+{"id": "JAH-DCA-000012", "t": "Shared-Cost Allocation Models", "g": "Compounded"}
+{"id": "JAH-DCA-000013", "t": "Storage Tiering Costs", "g": "Compounded"}
+{"id": "JAH-DCA-000014", "t": "Index Rebuild Costs", "g": "Compounded"}
+{"id": "JAH-DCA-000015", "t": "Generation Batch Costing", "g": "Compounded"}
+{"id": "JAH-DCA-000016", "t": "Retrieval SLA Cost Tradeoffs", "g": "Compounded"}
+{"id": "JAH-DCA-000017", "t": "Cache Cost-Benefit Analysis", "g": "Compounded"}
+{"id": "JAH-DCA-000018", "t": "Compression Savings Record", "g": "Compounded"}
+{"id": "JAH-DCA-000019", "t": "Backup and Disaster Recovery Costs", "g": "Compounded"}
+{"id": "JAH-DCA-000020", "t": "Inter-Shard Transfer Costs", "g": "Compounded"}
+{"id": "JAH-DCA-000021", "t": "Cost Anomaly Detection", "g": "Compounded"}
+{"id": "JAH-DCA-000022", "t": "Total Cost of Ownership at Scale", "g": "Advanced"}
+{"id": "JAH-DCA-000023", "t": "Forecasting-Driven Budgeting", "g": "Advanced"}
+{"id": "JAH-DCA-000024", "t": "Chargeback and Showback Models", "g": "Advanced"}
+{"id": "JAH-DCA-000025", "t": "Cost of Data Quality", "g": "Advanced"}
+{"id": "JAH-DCA-000026", "t": "Cost of Governance Overhead", "g": "Advanced"}
+{"id": "JAH-DCA-000027", "t": "Marginal Cost per Million Records", "g": "Advanced"}
+{"id": "JAH-DCA-000028", "t": "Public vs Signature Pipeline Cost Comparison", "g": "Advanced"}
+{"id": "JAH-DCA-000029", "t": "Energy and Carbon Cost Accounting", "g": "Advanced"}
+{"id": "JAH-DCA-000030", "t": "Cost Audit Record", "g": "Advanced"}
+{"id": "JAH-DCA-000031", "t": "Budget Variance Record", "g": "Advanced"}
+{"id": "JAH-DCA-000032", "t": "Cost Optimization Playbook", "g": "Advanced"}
+{"id": "JAH-DCA-000033", "t": "Cost Dashboard Exemplar", "g": "Advanced"}
+{"id": "JAH-DCA-000034", "t": "Cost Self-Audit and Mastery Record", "g": "Advanced"}

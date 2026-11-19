@@ -1,0 +1,34 @@
+{"id": "JAH-SSDVS-000001", "t": "Secure Software Development Signature Database: Parameterized Queries", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000002", "t": "Secure Software Development Signature Database: Output Encoding (XSS)", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000003", "t": "Secure Software Development Signature Database: Password Hashing (scrypt)", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000004", "t": "Secure Software Development Signature Database: Secure Random", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDVS-000005", "t": "Secure Software Development Signature Database: Timing-Safe Compare", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDVS-000006", "t": "Secure Software Development Signature Database: Allowlist Input Validation", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000007", "t": "Secure Software Development Signature Database: Path Traversal Fix", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000008", "t": "Secure Software Development Signature Database: Command Injection Fix", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000009", "t": "Secure Software Development Signature Database: JWT Verify (HMAC)", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000010", "t": "Secure Software Development Signature Database: CSRF Token", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000011", "t": "Secure Software Development Signature Database: Security Headers (CSP)", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000012", "t": "Secure Software Development Signature Database: Rate Limiting", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000013", "t": "Secure Software Development Signature Database: File Upload Validation", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000014", "t": "Secure Software Development Signature Database: SSRF Allowlist", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000015", "t": "Secure Software Development Signature Database: Open Redirect Fix", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000016", "t": "Secure Software Development Signature Database: Mass Assignment Guard", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000017", "t": "Secure Software Development Signature Database: Secure Cookie Flags", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000018", "t": "Secure Software Development Signature Database: HMAC Webhook Verify", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDVS-000019", "t": "Secure Software Development Signature Database: Password Strength", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000020", "t": "Secure Software Development Signature Database: Account Lockout", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000021", "t": "Secure Software Development Signature Database: Secure Reset Token", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000022", "t": "Secure Software Development Signature Database: SRI Hash", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000023", "t": "Secure Software Development Signature Database: Audit Log Entry", "c": 0, "g": "logging"}
+{"id": "JAH-SSDVS-000024", "t": "Secure Software Development Signature Database: Log Injection Fix", "c": 0, "g": "logging"}
+{"id": "JAH-SSDVS-000025", "t": "Secure Software Development Signature Database: Safe Deserialization", "c": 0, "g": "injection"}
+{"id": "JAH-SSDVS-000026", "t": "Secure Software Development Signature Database: Error Handling", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000027", "t": "Secure Software Development Signature Database: API Key Compare", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000028", "t": "Secure Software Development Signature Database: Encrypt (AES-GCM)", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDVS-000029", "t": "Secure Software Development Signature Database: Key Derivation (scrypt)", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDVS-000030", "t": "Secure Software Development Signature Database: Session Fixation Guard", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000031", "t": "Secure Software Development Signature Database: Content Type Guard", "c": 0, "g": "web"}
+{"id": "JAH-SSDVS-000032", "t": "Secure Software Development Signature Database: PBKDF2 Verify", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000033", "t": "Secure Software Development Signature Database: TOTP Verify (RFC 6238)", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDVS-000034", "t": "Secure Software Development Signature Database: Capstone: Secure Login Flow", "c": 0, "g": "authentication"}

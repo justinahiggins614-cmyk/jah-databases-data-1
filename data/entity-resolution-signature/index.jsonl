@@ -1,0 +1,34 @@
+{"id": "JAH-ERS-000001", "t": "Entity Resolution (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-ERS-000002", "t": "Entity Resolution (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-ERS-000003", "t": "Entity Resolution (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-ERS-000004", "t": "Entity Resolution (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-ERS-000005", "t": "Entity Resolution (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-ERS-000006", "t": "Entity Resolution (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-ERS-000007", "t": "Entity Resolution (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-ERS-000008", "t": "Entity Resolution (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-ERS-000009", "t": "Entity Resolution (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-ERS-000010", "t": "Entity Resolution (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-ERS-000011", "t": "Entity Resolution (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-ERS-000012", "t": "Entity Resolution (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-ERS-000013", "t": "Entity Resolution (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-ERS-000014", "t": "Entity Resolution (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-ERS-000015", "t": "Entity Resolution (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-ERS-000016", "t": "Entity Resolution (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-ERS-000017", "t": "Entity Resolution (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-ERS-000018", "t": "Entity Resolution (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-ERS-000019", "t": "Entity Resolution (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-ERS-000020", "t": "Entity Resolution (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-ERS-000021", "t": "Entity Resolution (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-ERS-000022", "t": "Entity Resolution (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-ERS-000023", "t": "Entity Resolution (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-ERS-000024", "t": "Entity Resolution (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-ERS-000025", "t": "Entity Resolution (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-ERS-000026", "t": "Entity Resolution (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-ERS-000027", "t": "Entity Resolution (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-ERS-000028", "t": "Entity Resolution (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-ERS-000029", "t": "Entity Resolution (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-ERS-000030", "t": "Entity Resolution (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-ERS-000031", "t": "Entity Resolution (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-ERS-000032", "t": "Entity Resolution (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-ERS-000033", "t": "Entity Resolution (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-ERS-000034", "t": "Entity Resolution (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

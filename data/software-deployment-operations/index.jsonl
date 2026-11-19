@@ -1,0 +1,34 @@
+{"id": "JAH-SDO-000001", "t": "Software Deployment and Operations Database: Blue-Green Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000002", "t": "Software Deployment and Operations Database: Canary Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000003", "t": "Software Deployment and Operations Database: Rolling Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000004", "t": "Software Deployment and Operations Database: Feature Flags", "c": 0, "g": "config"}
+{"id": "JAH-SDO-000005", "t": "Software Deployment and Operations Database: Automated Rollback", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000006", "t": "Software Deployment and Operations Database: Readiness and Liveness Probes", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000007", "t": "Software Deployment and Operations Database: Configuration Management", "c": 0, "g": "config"}
+{"id": "JAH-SDO-000008", "t": "Software Deployment and Operations Database: Secrets Management", "c": 0, "g": "config"}
+{"id": "JAH-SDO-000009", "t": "Software Deployment and Operations Database: Pipeline Stages", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000010", "t": "Software Deployment and Operations Database: Artifact Versioning", "c": 0, "g": "packaging"}
+{"id": "JAH-SDO-000011", "t": "Software Deployment and Operations Database: Immutable Infrastructure", "c": 0, "g": "packaging"}
+{"id": "JAH-SDO-000012", "t": "Software Deployment and Operations Database: SLOs and Error Budgets", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000013", "t": "Software Deployment and Operations Database: Alert Routing", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000014", "t": "Software Deployment and Operations Database: Runbooks", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000015", "t": "Software Deployment and Operations Database: Incident Response", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000016", "t": "Software Deployment and Operations Database: Blameless Postmortem", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000017", "t": "Software Deployment and Operations Database: Capacity Planning", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000018", "t": "Software Deployment and Operations Database: Autoscaling Policy", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000019", "t": "Software Deployment and Operations Database: Database Migration Safety", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000020", "t": "Software Deployment and Operations Database: Secret Rotation in Deploy", "c": 0, "g": "config"}
+{"id": "JAH-SDO-000021", "t": "Software Deployment and Operations Database: Progressive Delivery", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000022", "t": "Software Deployment and Operations Database: Disaster Recovery Drill", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000023", "t": "Software Deployment and Operations Database: Log Aggregation", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000024", "t": "Software Deployment and Operations Database: Deployment Freeze Calendar", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000025", "t": "Software Deployment and Operations Database: GitOps Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000026", "t": "Software Deployment and Operations Database: Multi-Region Failover", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000027", "t": "Software Deployment and Operations Database: Cost Monitoring (FinOps)", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDO-000028", "t": "Software Deployment and Operations Database: Zero-Downtime Restarts", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000029", "t": "Software Deployment and Operations Database: Rollback Drills", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000030", "t": "Software Deployment and Operations Database: Deployment Verification (Smoke)", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000031", "t": "Software Deployment and Operations Database: Environment Parity", "c": 0, "g": "config"}
+{"id": "JAH-SDO-000032", "t": "Software Deployment and Operations Database: Safe Dependency Updates", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDO-000033", "t": "Software Deployment and Operations Database: Incident Command", "c": 0, "g": "recovery"}
+{"id": "JAH-SDO-000034", "t": "Software Deployment and Operations Database: Deployment Audit Trail", "c": 0, "g": "pipelines"}

@@ -1,0 +1,34 @@
+{"id": "JAH-CDC-000001", "t": "Cybersecurity Knowledge and Defense Controls Database: Asset Inventory", "c": 0, "g": "foundations"}
+{"id": "JAH-CDC-000002", "t": "Cybersecurity Knowledge and Defense Controls Database: Threat Modeling (STRIDE)", "c": 0, "g": "foundations"}
+{"id": "JAH-CDC-000003", "t": "Cybersecurity Knowledge and Defense Controls Database: Risk Assessment", "c": 0, "g": "foundations"}
+{"id": "JAH-CDC-000004", "t": "Cybersecurity Knowledge and Defense Controls Database: Defense in Depth", "c": 0, "g": "architecture"}
+{"id": "JAH-CDC-000005", "t": "Cybersecurity Knowledge and Defense Controls Database: Network Segmentation", "c": 0, "g": "architecture"}
+{"id": "JAH-CDC-000006", "t": "Cybersecurity Knowledge and Defense Controls Database: Firewall Rules", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000007", "t": "Cybersecurity Knowledge and Defense Controls Database: IDS/IPS Tuning", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000008", "t": "Cybersecurity Knowledge and Defense Controls Database: Endpoint Protection", "c": 0, "g": "endpoint"}
+{"id": "JAH-CDC-000009", "t": "Cybersecurity Knowledge and Defense Controls Database: Patch Management", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000010", "t": "Cybersecurity Knowledge and Defense Controls Database: Vulnerability Scanning", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000011", "t": "Cybersecurity Knowledge and Defense Controls Database: Penetration Testing", "c": 0, "g": "assurance"}
+{"id": "JAH-CDC-000012", "t": "Cybersecurity Knowledge and Defense Controls Database: Security Awareness", "c": 0, "g": "people"}
+{"id": "JAH-CDC-000013", "t": "Cybersecurity Knowledge and Defense Controls Database: Phishing Simulation", "c": 0, "g": "people"}
+{"id": "JAH-CDC-000014", "t": "Cybersecurity Knowledge and Defense Controls Database: Incident Response Plan", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000015", "t": "Cybersecurity Knowledge and Defense Controls Database: Backup 3-2-1", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000016", "t": "Cybersecurity Knowledge and Defense Controls Database: System Hardening (CIS)", "c": 0, "g": "hardening"}
+{"id": "JAH-CDC-000017", "t": "Cybersecurity Knowledge and Defense Controls Database: MFA Enforcement", "c": 0, "g": "identity"}
+{"id": "JAH-CDC-000018", "t": "Cybersecurity Knowledge and Defense Controls Database: Encryption at Rest", "c": 0, "g": "data"}
+{"id": "JAH-CDC-000019", "t": "Cybersecurity Knowledge and Defense Controls Database: TLS Everywhere", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000020", "t": "Cybersecurity Knowledge and Defense Controls Database: Email Authentication", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000021", "t": "Cybersecurity Knowledge and Defense Controls Database: WAF Deployment", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000022", "t": "Cybersecurity Knowledge and Defense Controls Database: DDoS Mitigation", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000023", "t": "Cybersecurity Knowledge and Defense Controls Database: SIEM Deployment", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000024", "t": "Cybersecurity Knowledge and Defense Controls Database: Log Management", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000025", "t": "Cybersecurity Knowledge and Defense Controls Database: Zero Trust", "c": 0, "g": "architecture"}
+{"id": "JAH-CDC-000026", "t": "Cybersecurity Knowledge and Defense Controls Database: Change Management", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000027", "t": "Cybersecurity Knowledge and Defense Controls Database: Security Metrics", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000028", "t": "Cybersecurity Knowledge and Defense Controls Database: Secure DNS", "c": 0, "g": "network"}
+{"id": "JAH-CDC-000029", "t": "Cybersecurity Knowledge and Defense Controls Database: Physical Security", "c": 0, "g": "people"}
+{"id": "JAH-CDC-000030", "t": "Cybersecurity Knowledge and Defense Controls Database: Threat Intelligence", "c": 0, "g": "operations"}
+{"id": "JAH-CDC-000031", "t": "Cybersecurity Knowledge and Defense Controls Database: Deception Technology", "c": 0, "g": "detection"}
+{"id": "JAH-CDC-000032", "t": "Cybersecurity Knowledge and Defense Controls Database: Data Loss Prevention", "c": 0, "g": "data"}
+{"id": "JAH-CDC-000033", "t": "Cybersecurity Knowledge and Defense Controls Database: Browser Isolation", "c": 0, "g": "endpoint"}
+{"id": "JAH-CDC-000034", "t": "Cybersecurity Knowledge and Defense Controls Database: Capstone: Security Program", "c": 0, "g": "operations"}

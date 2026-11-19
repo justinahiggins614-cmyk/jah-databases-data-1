@@ -1,0 +1,34 @@
+{"id": "JAH-SFDSC-000001", "t": "Signature What Data Science Is", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000002", "t": "Signature The Core Question of Data Science", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000003", "t": "Signature Assumptions: Data Reflects Reality (Imperfectly)", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000004", "t": "Signature The Vocabulary: Features, Labels, Pipelines", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000005", "t": "Signature Data Quality: The Fundamental Quantity", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000006", "t": "Signature The Pipeline: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000007", "t": "Signature A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000008", "t": "Signature How Data Science Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000009", "t": "Signature The Core Mechanism: From Question to Decision", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000010", "t": "Signature The Simplest Law: Garbage In, Garbage Out", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000011", "t": "Signature Common Misconceptions in Data Science", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000012", "t": "Signature How Beginners Practice Data Science", "g": "Foundations", "c": 0}
+{"id": "JAH-SFDSC-000013", "t": "Signature The Core Model: Regression", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000014", "t": "Signature The Great Technique: Cross-Validation", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000015", "t": "Signature Systems Thinking: The Data Organization", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000016", "t": "Signature Invariance: Reproducibility", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000017", "t": "Signature Approximation: Sampling the Data", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000018", "t": "Signature Evidence Standards: Honest Validation", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000019", "t": "Signature Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000020", "t": "Signature Core Trade-offs: Accuracy versus Interpretability", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000021", "t": "Signature Handling Uncertainty: Prediction Intervals", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000022", "t": "Signature Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000023", "t": "Signature Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000024", "t": "Signature Teaching Data Science", "g": "Compounded", "c": 0}
+{"id": "JAH-SFDSC-000025", "t": "Signature The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000026", "t": "Signature Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000027", "t": "Signature Computational Data Science", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000028", "t": "Signature Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000029", "t": "Signature The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000030", "t": "Signature How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000031", "t": "Signature The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000032", "t": "Signature Failure Modes: When Data Science Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000033", "t": "Signature Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-SFDSC-000034", "t": "Signature The Signature Formulation: Data Science as Network Craft", "g": "Advanced", "c": 0}

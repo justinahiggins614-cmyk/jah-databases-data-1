@@ -1,0 +1,34 @@
+{"id": "JAH-ELECBG-000001", "t": "Voltage, Current, Resistance", "g": "Foundations"}
+{"id": "JAH-ELECBG-000002", "t": "Ohm's Law", "g": "Foundations"}
+{"id": "JAH-ELECBG-000003", "t": "Resistors", "g": "Foundations"}
+{"id": "JAH-ELECBG-000004", "t": "Capacitors", "g": "Foundations"}
+{"id": "JAH-ELECBG-000005", "t": "Diodes and LEDs", "g": "Foundations"}
+{"id": "JAH-ELECBG-000006", "t": "Transistors", "g": "Foundations"}
+{"id": "JAH-ELECBG-000007", "t": "Integrated Circuits", "g": "Foundations"}
+{"id": "JAH-ELECBG-000008", "t": "Breadboarding", "g": "Foundations"}
+{"id": "JAH-ELECBG-000009", "t": "Multimeters", "g": "Foundations"}
+{"id": "JAH-ELECBG-000010", "t": "Power Supplies", "g": "Foundations"}
+{"id": "JAH-ELECBG-000011", "t": "Schematics", "g": "Foundations"}
+{"id": "JAH-ELECBG-000012", "t": "Soldering", "g": "Compounded"}
+{"id": "JAH-ELECBG-000013", "t": "Arduino Basics", "g": "Compounded"}
+{"id": "JAH-ELECBG-000014", "t": "Sensors", "g": "Compounded"}
+{"id": "JAH-ELECBG-000015", "t": "Troubleshooting", "g": "Compounded"}
+{"id": "JAH-ELECBG-000016", "t": "Safety", "g": "Compounded"}
+{"id": "JAH-ELECBG-000017", "t": "Teaching Electronics", "g": "Compounded"}
+{"id": "JAH-ELECBG-000018", "t": "The Project Habit", "g": "Compounded"}
+{"id": "JAH-ELECBG-000019", "t": "Digital Logic", "g": "Compounded"}
+{"id": "JAH-ELECBG-000020", "t": "Microcontrollers vs Microprocessors", "g": "Compounded"}
+{"id": "JAH-ELECBG-000021", "t": "Power Basics", "g": "Compounded"}
+{"id": "JAH-ELECBG-000022", "t": "Oscillators", "g": "Compounded"}
+{"id": "JAH-ELECBG-000023", "t": "Amplifiers", "g": "Compounded"}
+{"id": "JAH-ELECBG-000024", "t": "Filters", "g": "Advanced"}
+{"id": "JAH-ELECBG-000025", "t": "Relays", "g": "Advanced"}
+{"id": "JAH-ELECBG-000026", "t": "Motors", "g": "Advanced"}
+{"id": "JAH-ELECBG-000027", "t": "Displays", "g": "Advanced"}
+{"id": "JAH-ELECBG-000028", "t": "Wireless Basics", "g": "Advanced"}
+{"id": "JAH-ELECBG-000029", "t": "PCB Design", "g": "Advanced"}
+{"id": "JAH-ELECBG-000030", "t": "Test Equipment", "g": "Advanced"}
+{"id": "JAH-ELECBG-000031", "t": "Component Sourcing", "g": "Advanced"}
+{"id": "JAH-ELECBG-000032", "t": "Project Enclosures", "g": "Advanced"}
+{"id": "JAH-ELECBG-000033", "t": "Documentation", "g": "Advanced"}
+{"id": "JAH-ELECBG-000034", "t": "The Learning Path", "g": "Advanced"}

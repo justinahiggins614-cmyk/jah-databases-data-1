@@ -1,0 +1,34 @@
+{"id": "JAH-CGF-000001", "t": "Growth Forecasting Overview", "g": "Foundations"}
+{"id": "JAH-CGF-000002", "t": "Record Count Projection Model", "g": "Foundations"}
+{"id": "JAH-CGF-000003", "t": "Storage Requirement Forecasting", "g": "Foundations"}
+{"id": "JAH-CGF-000004", "t": "Throughput Estimation", "g": "Foundations"}
+{"id": "JAH-CGF-000005", "t": "Hardware Constraint Mapping", "g": "Foundations"}
+{"id": "JAH-CGF-000006", "t": "Growth Rate Measurement", "g": "Foundations"}
+{"id": "JAH-CGF-000007", "t": "Linear Projection Model", "g": "Foundations"}
+{"id": "JAH-CGF-000008", "t": "Compounding Growth Model", "g": "Foundations"}
+{"id": "JAH-CGF-000009", "t": "Seasonal Growth Patterns", "g": "Foundations"}
+{"id": "JAH-CGF-000010", "t": "Forecast Horizon Selection", "g": "Foundations"}
+{"id": "JAH-CGF-000011", "t": "Forecast History Record", "g": "Compounded"}
+{"id": "JAH-CGF-000012", "t": "Forecast Accuracy Tracking", "g": "Compounded"}
+{"id": "JAH-CGF-000013", "t": "Capacity Headroom Policy", "g": "Compounded"}
+{"id": "JAH-CGF-000014", "t": "Ingestion Pipeline Capacity", "g": "Compounded"}
+{"id": "JAH-CGF-000015", "t": "Query Load Forecasting", "g": "Compounded"}
+{"id": "JAH-CGF-000016", "t": "Index Growth Projection", "g": "Compounded"}
+{"id": "JAH-CGF-000017", "t": "Shard Split Forecasting", "g": "Compounded"}
+{"id": "JAH-CGF-000018", "t": "Backfill Capacity Planning", "g": "Compounded"}
+{"id": "JAH-CGF-000019", "t": "Burst Capacity Reserves", "g": "Compounded"}
+{"id": "JAH-CGF-000020", "t": "Multi-Database Fleet Forecasting", "g": "Compounded"}
+{"id": "JAH-CGF-000021", "t": "Forecast-Driven Procurement", "g": "Compounded"}
+{"id": "JAH-CGF-000022", "t": "Million-Database Scale Projection", "g": "Advanced"}
+{"id": "JAH-CGF-000023", "t": "Logistic S-Curve Growth Model", "g": "Advanced"}
+{"id": "JAH-CGF-000024", "t": "Constraint-Bound Forecasting", "g": "Advanced"}
+{"id": "JAH-CGF-000025", "t": "Monte Carlo Capacity Simulation", "g": "Advanced"}
+{"id": "JAH-CGF-000026", "t": "What-If Scenario Modeling", "g": "Advanced"}
+{"id": "JAH-CGF-000027", "t": "Forecast Confidence Intervals", "g": "Advanced"}
+{"id": "JAH-CGF-000028", "t": "Capacity Cliff Detection", "g": "Advanced"}
+{"id": "JAH-CGF-000029", "t": "Decommissioning and Shrinkage Forecasts", "g": "Advanced"}
+{"id": "JAH-CGF-000030", "t": "Cost-Linked Capacity Planning", "g": "Advanced"}
+{"id": "JAH-CGF-000031", "t": "Forecast Governance Record", "g": "Advanced"}
+{"id": "JAH-CGF-000032", "t": "Capacity Dashboard Exemplar", "g": "Advanced"}
+{"id": "JAH-CGF-000033", "t": "Forecast Model Selection Guide", "g": "Advanced"}
+{"id": "JAH-CGF-000034", "t": "Forecasting Self-Audit and Mastery Record", "g": "Advanced"}

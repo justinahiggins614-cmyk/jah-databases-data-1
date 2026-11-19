@@ -1,0 +1,34 @@
+{"id": "JAH-GBS-000001", "t": "Genomics and Bioinformatics Signature Database: DNA Complement", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000002", "t": "Genomics and Bioinformatics Signature Database: Reverse Complement", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000003", "t": "Genomics and Bioinformatics Signature Database: Transcription", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000004", "t": "Genomics and Bioinformatics Signature Database: Translation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000005", "t": "Genomics and Bioinformatics Signature Database: GC Content", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000006", "t": "Genomics and Bioinformatics Signature Database: Hamming Distance", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000007", "t": "Genomics and Bioinformatics Signature Database: K-mer Counter", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000008", "t": "Genomics and Bioinformatics Signature Database: Motif Finder", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000009", "t": "Genomics and Bioinformatics Signature Database: ORF Finder", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000010", "t": "Genomics and Bioinformatics Signature Database: Sequence Validation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000011", "t": "Genomics and Bioinformatics Signature Database: FASTA Parser", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000012", "t": "Genomics and Bioinformatics Signature Database: Mean Base Quality", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000013", "t": "Genomics and Bioinformatics Signature Database: Needleman-Wunsch (tiny)", "c": 0, "g": "alignment"}
+{"id": "JAH-GBS-000014", "t": "Genomics and Bioinformatics Signature Database: Seeded Random DNA", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000015", "t": "Genomics and Bioinformatics Signature Database: Point Mutation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000016", "t": "Genomics and Bioinformatics Signature Database: CpG Counter", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000017", "t": "Genomics and Bioinformatics Signature Database: Melting Temp (Wallace)", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000018", "t": "Genomics and Bioinformatics Signature Database: Restriction Site Finder", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000019", "t": "Genomics and Bioinformatics Signature Database: Consensus Sequence", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000020", "t": "Genomics and Bioinformatics Signature Database: Pairwise Identity", "c": 0, "g": "alignment"}
+{"id": "JAH-GBS-000021", "t": "Genomics and Bioinformatics Signature Database: Levenshtein (tiny)", "c": 0, "g": "alignment"}
+{"id": "JAH-GBS-000022", "t": "Genomics and Bioinformatics Signature Database: Sequence Shuffler", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000023", "t": "Genomics and Bioinformatics Signature Database: Base Counter", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000024", "t": "Genomics and Bioinformatics Signature Database: Read Trimmer", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000025", "t": "Genomics and Bioinformatics Signature Database: VCF Parser (lite)", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000026", "t": "Genomics and Bioinformatics Signature Database: Allele Frequency", "c": 0, "g": "genetics"}
+{"id": "JAH-GBS-000027", "t": "Genomics and Bioinformatics Signature Database: Hardy-Weinberg Chi-Square", "c": 0, "g": "genetics"}
+{"id": "JAH-GBS-000028", "t": "Genomics and Bioinformatics Signature Database: Jukes-Cantor Distance", "c": 0, "g": "genetics"}
+{"id": "JAH-GBS-000029", "t": "Genomics and Bioinformatics Signature Database: Codon Lookup", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000030", "t": "Genomics and Bioinformatics Signature Database: Six-Frame Translation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000031", "t": "Genomics and Bioinformatics Signature Database: GC Skew", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000032", "t": "Genomics and Bioinformatics Signature Database: Genomics Pipeline Capstone", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000033", "t": "Genomics and Bioinformatics Signature Database: Splice Site Check", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GBS-000034", "t": "Genomics and Bioinformatics Signature Database: Primer Tm Match", "c": 0, "g": "sequence-ops"}

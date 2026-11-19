@@ -1,0 +1,34 @@
+{"id": "JAH-ACB-000001", "t": "Universal AI Capability Benchmark Database: Accuracy: Capital Cities", "c": 0, "g": "accuracy"}
+{"id": "JAH-ACB-000002", "t": "Universal AI Capability Benchmark Database: Accuracy: Arithmetic", "c": 0, "g": "accuracy"}
+{"id": "JAH-ACB-000003", "t": "Universal AI Capability Benchmark Database: Accuracy: Unit Conversion", "c": 0, "g": "accuracy"}
+{"id": "JAH-ACB-000004", "t": "Universal AI Capability Benchmark Database: Accuracy: Historical Date", "c": 0, "g": "accuracy"}
+{"id": "JAH-ACB-000005", "t": "Universal AI Capability Benchmark Database: Accuracy: Chemical Formula", "c": 0, "g": "accuracy"}
+{"id": "JAH-ACB-000006", "t": "Universal AI Capability Benchmark Database: Task Completion: Write the Email", "c": 0, "g": "task-completion"}
+{"id": "JAH-ACB-000007", "t": "Universal AI Capability Benchmark Database: Task Completion: Summarize the Thread", "c": 0, "g": "task-completion"}
+{"id": "JAH-ACB-000008", "t": "Universal AI Capability Benchmark Database: Task Completion: Extract Action Items", "c": 0, "g": "task-completion"}
+{"id": "JAH-ACB-000009", "t": "Universal AI Capability Benchmark Database: Task Completion: Format the Table", "c": 0, "g": "task-completion"}
+{"id": "JAH-ACB-000010", "t": "Universal AI Capability Benchmark Database: Task Completion: Follow Multi-Step Instructions", "c": 0, "g": "task-completion"}
+{"id": "JAH-ACB-000011", "t": "Universal AI Capability Benchmark Database: Reasoning: Train Word Problem", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACB-000012", "t": "Universal AI Capability Benchmark Database: Reasoning: Logic Puzzle", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACB-000013", "t": "Universal AI Capability Benchmark Database: Reasoning: Proportional Reasoning", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACB-000014", "t": "Universal AI Capability Benchmark Database: Reasoning: Sequence Next Term", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACB-000015", "t": "Universal AI Capability Benchmark Database: Reasoning: Counterexample", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACB-000016", "t": "Universal AI Capability Benchmark Database: Evidence Quality: Cite the Claim", "c": 0, "g": "evidence-quality"}
+{"id": "JAH-ACB-000017", "t": "Universal AI Capability Benchmark Database: Evidence Quality: Abstain When Unknown", "c": 0, "g": "evidence-quality"}
+{"id": "JAH-ACB-000018", "t": "Universal AI Capability Benchmark Database: Evidence Quality: Distinguish Fact from Opinion", "c": 0, "g": "evidence-quality"}
+{"id": "JAH-ACB-000019", "t": "Universal AI Capability Benchmark Database: Evidence Quality: Handle Contradiction", "c": 0, "g": "evidence-quality"}
+{"id": "JAH-ACB-000020", "t": "Universal AI Capability Benchmark Database: Evidence Quality: Qualify Uncertainty", "c": 0, "g": "evidence-quality"}
+{"id": "JAH-ACB-000021", "t": "Universal AI Capability Benchmark Database: Tool Execution: Calculator Call", "c": 0, "g": "tool-execution"}
+{"id": "JAH-ACB-000022", "t": "Universal AI Capability Benchmark Database: Tool Execution: Search Then Answer", "c": 0, "g": "tool-execution"}
+{"id": "JAH-ACB-000023", "t": "Universal AI Capability Benchmark Database: Tool Execution: Lookup Then Use", "c": 0, "g": "tool-execution"}
+{"id": "JAH-ACB-000024", "t": "Universal AI Capability Benchmark Database: Tool Execution: Chained Calls", "c": 0, "g": "tool-execution"}
+{"id": "JAH-ACB-000025", "t": "Universal AI Capability Benchmark Database: Tool Execution: Handle Tool Error", "c": 0, "g": "tool-execution"}
+{"id": "JAH-ACB-000026", "t": "Universal AI Capability Benchmark Database: Reliability: Consistent Answers", "c": 0, "g": "reliability"}
+{"id": "JAH-ACB-000027", "t": "Universal AI Capability Benchmark Database: Reliability: Refuse the Harmful", "c": 0, "g": "reliability"}
+{"id": "JAH-ACB-000028", "t": "Universal AI Capability Benchmark Database: Reliability: No Sycophancy", "c": 0, "g": "reliability"}
+{"id": "JAH-ACB-000029", "t": "Universal AI Capability Benchmark Database: Reliability: Stable Under Rephrase", "c": 0, "g": "reliability"}
+{"id": "JAH-ACB-000030", "t": "Universal AI Capability Benchmark Database: Reliability: Admit Mistake", "c": 0, "g": "reliability"}
+{"id": "JAH-ACB-000031", "t": "Universal AI Capability Benchmark Database: Accuracy: Multi-Hop Fact", "c": 0, "g": "accuracy"}
+{"id": "JAH-ACB-000032", "t": "Universal AI Capability Benchmark Database: Reasoning: Fermi Estimate", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACB-000033", "t": "Universal AI Capability Benchmark Database: Task Completion: Convert Formats", "c": 0, "g": "task-completion"}
+{"id": "JAH-ACB-000034", "t": "Universal AI Capability Benchmark Database: Evidence Quality: Source Hierarchy", "c": 0, "g": "evidence-quality"}

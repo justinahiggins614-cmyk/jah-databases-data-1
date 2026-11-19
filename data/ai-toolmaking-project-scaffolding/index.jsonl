@@ -1,0 +1,34 @@
+{"id": "JAH-TMSCF-000001", "t": "AI Project Scaffolding Database: Choosing a Project Template Engine", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000002", "t": "AI Project Scaffolding Database: Monorepo Template with pnpm Workspaces", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000003", "t": "AI Project Scaffolding Database: Microservice Template with Docker", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000004", "t": "AI Project Scaffolding Database: CLI Tool Template (Node)", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000005", "t": "AI Project Scaffolding Database: Python Package Template (pyproject)", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000006", "t": "AI Project Scaffolding Database: Static Site Template", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000007", "t": "AI Project Scaffolding Database: Full-Stack Template (API + SPA)", "c": 0, "g": "project-templates"}
+{"id": "JAH-TMSCF-000008", "t": "AI Project Scaffolding Database: pnpm Workspace Layout", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000009", "t": "AI Project Scaffolding Database: npm Workspaces Layout", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000010", "t": "AI Project Scaffolding Database: Turborepo Pipeline Layout", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000011", "t": "AI Project Scaffolding Database: Nx Integrated Repo Layout", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000012", "t": "AI Project Scaffolding Database: Shared Library Packages Layout", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000013", "t": "AI Project Scaffolding Database: Versioning in Monorepos (Changesets)", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000014", "t": "AI Project Scaffolding Database: Monorepo CI Layout", "c": 0, "g": "monorepo-layouts"}
+{"id": "JAH-TMSCF-000015", "t": "AI Project Scaffolding Database: SaaS Starter Kit Anatomy", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000016", "t": "AI Project Scaffolding Database: Blog Starter Kit", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000017", "t": "AI Project Scaffolding Database: E-commerce Starter Kit", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000018", "t": "AI Project Scaffolding Database: Dashboard/Admin Starter Kit", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000019", "t": "AI Project Scaffolding Database: Mobile App Starter (React Native)", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000020", "t": "AI Project Scaffolding Database: API-Only Starter Kit", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000021", "t": "AI Project Scaffolding Database: Chrome Extension Starter Kit", "c": 0, "g": "starter-kits"}
+{"id": "JAH-TMSCF-000022", "t": "AI Project Scaffolding Database: Vite Build Config from Scratch", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000023", "t": "AI Project Scaffolding Database: Webpack Config Essentials", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000024", "t": "AI Project Scaffolding Database: TypeScript Config (tsconfig) Done Right", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000025", "t": "AI Project Scaffolding Database: ESLint + Prettier Config", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000026", "t": "AI Project Scaffolding Database: Babel vs SWC vs esbuild Choice", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000027", "t": "AI Project Scaffolding Database: Environment-Based Build Modes", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000028", "t": "AI Project Scaffolding Database: Build Output Analysis", "c": 0, "g": "build-configs"}
+{"id": "JAH-TMSCF-000029", "t": "AI Project Scaffolding Database: .env Strategy: Local vs Staging vs Prod", "c": 0, "g": "env-setup"}
+{"id": "JAH-TMSCF-000030", "t": "AI Project Scaffolding Database: Dev Container Setup (VS Code)", "c": 0, "g": "env-setup"}
+{"id": "JAH-TMSCF-000031", "t": "AI Project Scaffolding Database: direnv + asdf Version Pinning", "c": 0, "g": "env-setup"}
+{"id": "JAH-TMSCF-000032", "t": "AI Project Scaffolding Database: Makefile for Common Tasks", "c": 0, "g": "env-setup"}
+{"id": "JAH-TMSCF-000033", "t": "AI Project Scaffolding Database: Git Hooks via Husky", "c": 0, "g": "env-setup"}
+{"id": "JAH-TMSCF-000034", "t": "AI Project Scaffolding Database: README-Driven Setup (Onboarding in 5 Minutes)", "c": 0, "g": "env-setup"}

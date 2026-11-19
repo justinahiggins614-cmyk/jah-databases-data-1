@@ -1,0 +1,34 @@
+{"id": "JAH-PPTP-000001", "t": "Signature Prototype Levels (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000002", "t": "Signature Test Planning Basics (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000003", "t": "Signature Risk-Driven Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000004", "t": "Signature The Prototype Test Playbook (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000005", "t": "Signature Paper Prototypes (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000006", "t": "Signature 3D Printing for Prototypes (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000007", "t": "Signature Breadboard Prototypes (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000008", "t": "Signature Wizard of Oz Testing (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000009", "t": "Signature Functional Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000010", "t": "Signature Usability Testing (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000011", "t": "Signature Durability Testing (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000012", "t": "Signature Environmental Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000013", "t": "Signature Drop and Shock Testing (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000014", "t": "Signature Ingress Protection (IP) (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000015", "t": "Signature EMC Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000016", "t": "Signature Safety Testing (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000017", "t": "Signature Beta Testing (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000018", "t": "Signature A/B Product Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000019", "t": "Signature Failure Analysis (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000020", "t": "Signature HALT Testing (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000021", "t": "Signature Reliability Demonstration (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000022", "t": "Signature Test Fixtures (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000023", "t": "Signature Test Automation (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000024", "t": "Signature Regression Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000025", "t": "Signature User Acceptance Testing (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000026", "t": "Signature Test Documentation (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000027", "t": "Signature Bug Tracking (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000028", "t": "Signature Design of Experiments (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000029", "t": "Signature Tolerance Testing (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000030", "t": "Signature Human Factors Testing (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000031", "t": "Signature Packaging Testing (Signature Edition)", "g": "test-strategy"}
+{"id": "JAH-PPTP-000032", "t": "Signature Launch Readiness (Signature Edition)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000033", "t": "Signature Post-Launch Monitoring (Signature Edition)", "g": "validation-systems"}
+{"id": "JAH-PPTP-000034", "t": "Signature The Test Master Plan (Signature Edition)", "g": "test-strategy"}

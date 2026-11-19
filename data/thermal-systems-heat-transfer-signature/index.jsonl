@@ -1,0 +1,34 @@
+{"id": "JAH-THSTS-000001", "t": "Thermal Systems and Heat Transfer Signature Database: Conduction", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000002", "t": "Thermal Systems and Heat Transfer Signature Database: Convection", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000003", "t": "Thermal Systems and Heat Transfer Signature Database: Radiation Exchange", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000004", "t": "Thermal Systems and Heat Transfer Signature Database: R-Value", "c": 0, "g": "insulation"}
+{"id": "JAH-THSTS-000005", "t": "Thermal Systems and Heat Transfer Signature Database: U-Value", "c": 0, "g": "insulation"}
+{"id": "JAH-THSTS-000006", "t": "Thermal Systems and Heat Transfer Signature Database: Building Heat Loss", "c": 0, "g": "insulation"}
+{"id": "JAH-THSTS-000007", "t": "Thermal Systems and Heat Transfer Signature Database: LMTD", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THSTS-000008", "t": "Thermal Systems and Heat Transfer Signature Database: Heat Exchanger Duty", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THSTS-000009", "t": "Thermal Systems and Heat Transfer Signature Database: NTU", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THSTS-000010", "t": "Thermal Systems and Heat Transfer Signature Database: COP (Cooling)", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THSTS-000011", "t": "Thermal Systems and Heat Transfer Signature Database: COP (Heating)", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THSTS-000012", "t": "Thermal Systems and Heat Transfer Signature Database: Carnot COP", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THSTS-000013", "t": "Thermal Systems and Heat Transfer Signature Database: Carnot Efficiency", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THSTS-000014", "t": "Thermal Systems and Heat Transfer Signature Database: Sensible Heat", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THSTS-000015", "t": "Thermal Systems and Heat Transfer Signature Database: Latent Heat", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THSTS-000016", "t": "Thermal Systems and Heat Transfer Signature Database: Thermal Expansion", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THSTS-000017", "t": "Thermal Systems and Heat Transfer Signature Database: Reynolds Number", "c": 0, "g": "fluid-flow"}
+{"id": "JAH-THSTS-000018", "t": "Thermal Systems and Heat Transfer Signature Database: Sensible Cooling Load", "c": 0, "g": "hvac"}
+{"id": "JAH-THSTS-000019", "t": "Thermal Systems and Heat Transfer Signature Database: Air Changes per Hour", "c": 0, "g": "hvac"}
+{"id": "JAH-THSTS-000020", "t": "Thermal Systems and Heat Transfer Signature Database: Refrigeration Tons", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THSTS-000021", "t": "Thermal Systems and Heat Transfer Signature Database: Series Thermal Resistance", "c": 0, "g": "insulation"}
+{"id": "JAH-THSTS-000022", "t": "Thermal Systems and Heat Transfer Signature Database: Overall U from R", "c": 0, "g": "insulation"}
+{"id": "JAH-THSTS-000023", "t": "Thermal Systems and Heat Transfer Signature Database: Insulation Thickness", "c": 0, "g": "insulation"}
+{"id": "JAH-THSTS-000024", "t": "Thermal Systems and Heat Transfer Signature Database: Darcy Pressure Drop", "c": 0, "g": "fluid-flow"}
+{"id": "JAH-THSTS-000025", "t": "Thermal Systems and Heat Transfer Signature Database: Pump Power", "c": 0, "g": "fluid-flow"}
+{"id": "JAH-THSTS-000026", "t": "Thermal Systems and Heat Transfer Signature Database: Heat Capacity Rate", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THSTS-000027", "t": "Thermal Systems and Heat Transfer Signature Database: Capacity Ratio", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THSTS-000028", "t": "Thermal Systems and Heat Transfer Signature Database: Thermal Diffusivity", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000029", "t": "Thermal Systems and Heat Transfer Signature Database: Biot Number", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000030", "t": "Thermal Systems and Heat Transfer Signature Database: Fourier Number", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000031", "t": "Thermal Systems and Heat Transfer Signature Database: Emissive Power", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THSTS-000032", "t": "Thermal Systems and Heat Transfer Signature Database: Chiller kW per Ton", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THSTS-000033", "t": "Thermal Systems and Heat Transfer Signature Database: Air Enthalpy Change", "c": 0, "g": "hvac"}
+{"id": "JAH-THSTS-000034", "t": "Thermal Systems and Heat Transfer Signature Database: Home Heat Loss Capstone", "c": 0, "g": "insulation"}

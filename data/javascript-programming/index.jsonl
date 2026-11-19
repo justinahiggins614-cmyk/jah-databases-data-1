@@ -1,0 +1,34 @@
+{"id": "JAH-JS-000001", "t": "Running JavaScript: Browser and Node", "g": "Foundations"}
+{"id": "JAH-JS-000002", "t": "JavaScript Variables: var let const", "g": "Foundations"}
+{"id": "JAH-JS-000003", "t": "JavaScript Data Types and typeof", "g": "Foundations"}
+{"id": "JAH-JS-000004", "t": "JavaScript Numbers and Math", "g": "Foundations"}
+{"id": "JAH-JS-000005", "t": "JavaScript Strings and Template Literals", "g": "Foundations"}
+{"id": "JAH-JS-000006", "t": "JavaScript Truthy Falsy and Comparisons", "g": "Foundations"}
+{"id": "JAH-JS-000007", "t": "JavaScript if else and Ternaries", "g": "Foundations"}
+{"id": "JAH-JS-000008", "t": "JavaScript Loops", "g": "Foundations"}
+{"id": "JAH-JS-000009", "t": "JavaScript Functions", "g": "Foundations"}
+{"id": "JAH-JS-000010", "t": "JavaScript Arrays", "g": "Foundations"}
+{"id": "JAH-JS-000011", "t": "JavaScript Objects", "g": "Foundations"}
+{"id": "JAH-JS-000012", "t": "JavaScript Array Methods: map filter reduce", "g": "Compounded"}
+{"id": "JAH-JS-000013", "t": "JavaScript Destructuring", "g": "Compounded"}
+{"id": "JAH-JS-000014", "t": "JavaScript Spread and Rest", "g": "Compounded"}
+{"id": "JAH-JS-000015", "t": "JavaScript Arrow Functions", "g": "Compounded"}
+{"id": "JAH-JS-000016", "t": "JavaScript String Methods", "g": "Compounded"}
+{"id": "JAH-JS-000017", "t": "JavaScript Date and Time", "g": "Compounded"}
+{"id": "JAH-JS-000018", "t": "JavaScript JSON", "g": "Compounded"}
+{"id": "JAH-JS-000019", "t": "JavaScript DOM Basics", "g": "Compounded"}
+{"id": "JAH-JS-000020", "t": "JavaScript Events", "g": "Compounded"}
+{"id": "JAH-JS-000021", "t": "JavaScript Error Handling", "g": "Compounded"}
+{"id": "JAH-JS-000022", "t": "JavaScript Scope and Closures Intro", "g": "Compounded"}
+{"id": "JAH-JS-000023", "t": "JavaScript this Keyword", "g": "Compounded"}
+{"id": "JAH-JS-000024", "t": "JavaScript Closures Deep Dive", "g": "Advanced"}
+{"id": "JAH-JS-000025", "t": "JavaScript Prototypes and Inheritance", "g": "Advanced"}
+{"id": "JAH-JS-000026", "t": "JavaScript Classes", "g": "Advanced"}
+{"id": "JAH-JS-000027", "t": "JavaScript Async: Callbacks", "g": "Advanced"}
+{"id": "JAH-JS-000028", "t": "JavaScript Promises", "g": "Advanced"}
+{"id": "JAH-JS-000029", "t": "JavaScript async await", "g": "Advanced"}
+{"id": "JAH-JS-000030", "t": "JavaScript Modules: import export", "g": "Advanced"}
+{"id": "JAH-JS-000031", "t": "JavaScript Fetch API", "g": "Advanced"}
+{"id": "JAH-JS-000032", "t": "JavaScript Event Loop", "g": "Advanced"}
+{"id": "JAH-JS-000033", "t": "JavaScript Memory and Performance", "g": "Advanced"}
+{"id": "JAH-JS-000034", "t": "JavaScript Testing Basics", "g": "Advanced"}

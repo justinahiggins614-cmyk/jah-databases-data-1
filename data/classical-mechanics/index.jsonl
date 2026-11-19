@@ -1,0 +1,34 @@
+{"id": "JAH-CLMEC-000001", "t": "What Is Classical Mechanics", "g": "Fundamentals"}
+{"id": "JAH-CLMEC-000002", "t": "Kinematics: Position, Velocity, Acceleration", "g": "Kinematics"}
+{"id": "JAH-CLMEC-000003", "t": "Newton's Laws of Motion", "g": "Dynamics"}
+{"id": "JAH-CLMEC-000004", "t": "Forces: Friction, Tension, Normal", "g": "Dynamics"}
+{"id": "JAH-CLMEC-000005", "t": "Work and Kinetic Energy", "g": "Energy"}
+{"id": "JAH-CLMEC-000006", "t": "Potential Energy and Conservation", "g": "Energy"}
+{"id": "JAH-CLMEC-000007", "t": "Momentum and Impulse", "g": "Momentum"}
+{"id": "JAH-CLMEC-000008", "t": "Collisions: Elastic and Inelastic", "g": "Momentum"}
+{"id": "JAH-CLMEC-000009", "t": "Circular Motion and Centripetal Force", "g": "Rotation"}
+{"id": "JAH-CLMEC-000010", "t": "Newton's Law of Universal Gravitation", "g": "Gravity"}
+{"id": "JAH-CLMEC-000011", "t": "Kepler's Laws", "g": "Gravity"}
+{"id": "JAH-CLMEC-000012", "t": "Rotational Kinematics", "g": "Rotation"}
+{"id": "JAH-CLMEC-000013", "t": "Torque and Angular Momentum", "g": "Rotation"}
+{"id": "JAH-CLMEC-000014", "t": "Moment of Inertia", "g": "Rotation"}
+{"id": "JAH-CLMEC-000015", "t": "Static Equilibrium", "g": "Statics"}
+{"id": "JAH-CLMEC-000016", "t": "Simple Harmonic Motion", "g": "Oscillations"}
+{"id": "JAH-CLMEC-000017", "t": "The Pendulum: Harmonic Motion", "g": "Oscillations"}
+{"id": "JAH-CLMEC-000018", "t": "Damped and Driven Oscillations", "g": "Oscillations"}
+{"id": "JAH-CLMEC-000019", "t": "Waves on Strings", "g": "Waves"}
+{"id": "JAH-CLMEC-000020", "t": "Mechanical Waves: Sound and Beyond", "g": "Waves"}
+{"id": "JAH-CLMEC-000021", "t": "Fluid Statics: Pressure and Buoyancy", "g": "Fluids"}
+{"id": "JAH-CLMEC-000022", "t": "Non-Inertial Frames and Fictitious Forces", "g": "Frames"}
+{"id": "JAH-CLMEC-000023", "t": "Central Forces and Orbits", "g": "Orbits"}
+{"id": "JAH-CLMEC-000024", "t": "Lagrangian Mechanics", "g": "Analytical"}
+{"id": "JAH-CLMEC-000025", "t": "The Principle of Least Action", "g": "Analytical"}
+{"id": "JAH-CLMEC-000026", "t": "Hamiltonian Mechanics", "g": "Analytical"}
+{"id": "JAH-CLMEC-000027", "t": "Canonical Transformations (Introduction)", "g": "Analytical"}
+{"id": "JAH-CLMEC-000028", "t": "Rigid Body Dynamics", "g": "Rotation"}
+{"id": "JAH-CLMEC-000029", "t": "Euler Angles and Tops", "g": "Rotation"}
+{"id": "JAH-CLMEC-000030", "t": "Coupled Oscillators and Normal Modes", "g": "Oscillations"}
+{"id": "JAH-CLMEC-000031", "t": "Chaos in Classical Systems", "g": "Chaos"}
+{"id": "JAH-CLMEC-000032", "t": "Special Relativity as Mechanics Extended", "g": "Relativity"}
+{"id": "JAH-CLMEC-000033", "t": "Noether's Theorem", "g": "Symmetry"}
+{"id": "JAH-CLMEC-000034", "t": "Continuum Mechanics Overview", "g": "Continuum"}

@@ -1,0 +1,34 @@
+{"id": "JAH-AWCG-000001", "t": "AI Workflow Composition Generator Database: Capability Inventory", "c": 0, "g": "foundations"}
+{"id": "JAH-AWCG-000002", "t": "AI Workflow Composition Generator Database: Workflow Sketch", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000003", "t": "AI Workflow Composition Generator Database: Tool Selection", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000004", "t": "AI Workflow Composition Generator Database: Parameter Binding", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000005", "t": "AI Workflow Composition Generator Database: Dependency Ordering", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000006", "t": "AI Workflow Composition Generator Database: Workflow Validation", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000007", "t": "AI Workflow Composition Generator Database: Dry Run", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000008", "t": "AI Workflow Composition Generator Database: Error Handling", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCG-000009", "t": "AI Workflow Composition Generator Database: Retry Policy", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCG-000010", "t": "AI Workflow Composition Generator Database: Timeout Policy", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCG-000011", "t": "AI Workflow Composition Generator Database: Parallel Branches", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000012", "t": "AI Workflow Composition Generator Database: Conditional Branches", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000013", "t": "AI Workflow Composition Generator Database: Loop Constructs", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000014", "t": "AI Workflow Composition Generator Database: Human in the Loop", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000015", "t": "AI Workflow Composition Generator Database: Result Merging", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000016", "t": "AI Workflow Composition Generator Database: Provenance Tracking", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000017", "t": "AI Workflow Composition Generator Database: Cost Estimation", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000018", "t": "AI Workflow Composition Generator Database: Latency Estimation", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000019", "t": "AI Workflow Composition Generator Database: Fallback Strategy", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCG-000020", "t": "AI Workflow Composition Generator Database: Rollback Plan", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCG-000021", "t": "AI Workflow Composition Generator Database: Workflow Testing", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000022", "t": "AI Workflow Composition Generator Database: Monitoring", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCG-000023", "t": "AI Workflow Composition Generator Database: Versioning", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000024", "t": "AI Workflow Composition Generator Database: Approval Gate", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000025", "t": "AI Workflow Composition Generator Database: Documentation", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000026", "t": "AI Workflow Composition Generator Database: Reuse Library", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000027", "t": "AI Workflow Composition Generator Database: Composition Search", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000028", "t": "AI Workflow Composition Generator Database: Type Checking", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000029", "t": "AI Workflow Composition Generator Database: Security Review", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000030", "t": "AI Workflow Composition Generator Database: Constraint Solving", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000031", "t": "AI Workflow Composition Generator Database: Template Library", "c": 0, "g": "design"}
+{"id": "JAH-AWCG-000032", "t": "AI Workflow Composition Generator Database: Deployment", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000033", "t": "AI Workflow Composition Generator Database: Sandbox Execution", "c": 0, "g": "validation"}
+{"id": "JAH-AWCG-000034", "t": "AI Workflow Composition Generator Database: Capstone: Workflow Engine", "c": 0, "g": "design"}

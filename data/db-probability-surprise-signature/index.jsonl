@@ -1,0 +1,34 @@
+{"id": "JAH-PROSURS-000001", "t": "Probability: coin flip heads", "g": "Foundations"}
+{"id": "JAH-PROSURS-000002", "t": "Probability: two heads in a row", "g": "Foundations"}
+{"id": "JAH-PROSURS-000003", "t": "Probability: die shows 6", "g": "Foundations"}
+{"id": "JAH-PROSURS-000004", "t": "Probability: die shows even", "g": "Foundations"}
+{"id": "JAH-PROSURS-000005", "t": "Probability: two dice sum to 7", "g": "Foundations"}
+{"id": "JAH-PROSURS-000006", "t": "Probability: drawing an ace", "g": "Foundations"}
+{"id": "JAH-PROSURS-000007", "t": "Probability: heads then tails", "g": "Foundations"}
+{"id": "JAH-PROSURS-000008", "t": "Probability: at least one head in two flips", "g": "Foundations"}
+{"id": "JAH-PROSURS-000009", "t": "Probability: die sum of two dice is 2", "g": "Foundations"}
+{"id": "JAH-PROSURS-000010", "t": "Probability: red card", "g": "Foundations"}
+{"id": "JAH-PROSURS-000011", "t": "Probability: three heads in a row", "g": "Foundations"}
+{"id": "JAH-PROSURS-000012", "t": "Probability: birthday match in 23", "g": "Compounded"}
+{"id": "JAH-PROSURS-000013", "t": "Probability: Monty Hall switch", "g": "Compounded"}
+{"id": "JAH-PROSURS-000014", "t": "Probability: birthday match in 70", "g": "Compounded"}
+{"id": "JAH-PROSURS-000015", "t": "Probability: two dice doubles", "g": "Compounded"}
+{"id": "JAH-PROSURS-000016", "t": "Probability: flush draw?", "g": "Compounded"}
+{"id": "JAH-PROSURS-000017", "t": "Probability: boy or girl paradox intro", "g": "Compounded"}
+{"id": "JAH-PROSURS-000018", "t": "Probability: dice sum 7 vs 8", "g": "Compounded"}
+{"id": "JAH-PROSURS-000019", "t": "Probability: coin streak of 5", "g": "Compounded"}
+{"id": "JAH-PROSURS-000020", "t": "Probability: same birthday as YOU", "g": "Compounded"}
+{"id": "JAH-PROSURS-000021", "t": "Probability: three dice all different", "g": "Compounded"}
+{"id": "JAH-PROSURS-000022", "t": "Probability: at least one six in 4 rolls", "g": "Compounded"}
+{"id": "JAH-PROSURS-000023", "t": "Probability: matching socks", "g": "Compounded"}
+{"id": "JAH-PROSURS-000024", "t": "Probability: birthday match in 50", "g": "Advanced"}
+{"id": "JAH-PROSURS-000025", "t": "Probability: Monty Hall 100 doors", "g": "Advanced"}
+{"id": "JAH-PROSURS-000026", "t": "Probability: dice game - 4 rolls vs 24", "g": "Advanced"}
+{"id": "JAH-PROSURS-000027", "t": "Probability: gambler's streak fallacy", "g": "Advanced"}
+{"id": "JAH-PROSURS-000028", "t": "Probability: three children, two boys?", "g": "Advanced"}
+{"id": "JAH-PROSURS-000029", "t": "Probability: poker pair?", "g": "Advanced"}
+{"id": "JAH-PROSURS-000030", "t": "Probability: lottery vs lightning", "g": "Advanced"}
+{"id": "JAH-PROSURS-000031", "t": "Probability: false positive paradox", "g": "Advanced"}
+{"id": "JAH-PROSURS-000032", "t": "Probability: birthday trio?", "g": "Advanced"}
+{"id": "JAH-PROSURS-000033", "t": "Probability: dice expected value", "g": "Advanced"}
+{"id": "JAH-PROSURS-000034", "t": "Probability: secretary problem", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-KRM-000001", "t": "Knowledge Representation Methods: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-KRM-000002", "t": "Knowledge Representation Methods: How It Actually Works", "g": "foundations"}
+{"id": "JAH-KRM-000003", "t": "Knowledge Representation Methods: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-KRM-000004", "t": "Knowledge Representation Methods: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-KRM-000005", "t": "Knowledge Representation Methods: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-KRM-000006", "t": "Knowledge Representation Methods: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-KRM-000007", "t": "Knowledge Representation Methods: Prompting and Control", "g": "foundations"}
+{"id": "JAH-KRM-000008", "t": "Knowledge Representation Methods: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-KRM-000009", "t": "Knowledge Representation Methods: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-KRM-000010", "t": "Knowledge Representation Methods: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-KRM-000011", "t": "Knowledge Representation Methods: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-KRM-000012", "t": "Knowledge Representation Methods: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-KRM-000013", "t": "Knowledge Representation Methods: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-KRM-000014", "t": "Knowledge Representation Methods: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-KRM-000015", "t": "Knowledge Representation Methods: Deployment Realities", "g": "compounded"}
+{"id": "JAH-KRM-000016", "t": "Knowledge Representation Methods: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-KRM-000017", "t": "Knowledge Representation Methods: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-KRM-000018", "t": "Knowledge Representation Methods: Documentation for AI", "g": "compounded"}
+{"id": "JAH-KRM-000019", "t": "Knowledge Representation Methods: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-KRM-000020", "t": "Knowledge Representation Methods: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-KRM-000021", "t": "Knowledge Representation Methods: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-KRM-000022", "t": "Knowledge Representation Methods: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-KRM-000023", "t": "Knowledge Representation Methods: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-KRM-000024", "t": "Knowledge Representation Methods: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-KRM-000025", "t": "Knowledge Representation Methods: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-KRM-000026", "t": "Knowledge Representation Methods: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-KRM-000027", "t": "Knowledge Representation Methods: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-KRM-000028", "t": "Knowledge Representation Methods: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-KRM-000029", "t": "Knowledge Representation Methods: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-KRM-000030", "t": "Knowledge Representation Methods: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-KRM-000031", "t": "Knowledge Representation Methods: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-KRM-000032", "t": "Knowledge Representation Methods: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-KRM-000033", "t": "Knowledge Representation Methods: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-KRM-000034", "t": "Knowledge Representation Methods: Advanced: Teaching AI Systems", "g": "advanced"}

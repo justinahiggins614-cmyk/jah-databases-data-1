@@ -1,0 +1,34 @@
+{"id": "JAH-LADS-000001", "t": "Local AI Deployment (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-LADS-000002", "t": "Local AI Deployment (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-LADS-000003", "t": "Local AI Deployment (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-LADS-000004", "t": "Local AI Deployment (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-LADS-000005", "t": "Local AI Deployment (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-LADS-000006", "t": "Local AI Deployment (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-LADS-000007", "t": "Local AI Deployment (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-LADS-000008", "t": "Local AI Deployment (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-LADS-000009", "t": "Local AI Deployment (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-LADS-000010", "t": "Local AI Deployment (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-LADS-000011", "t": "Local AI Deployment (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-LADS-000012", "t": "Local AI Deployment (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-LADS-000013", "t": "Local AI Deployment (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-LADS-000014", "t": "Local AI Deployment (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-LADS-000015", "t": "Local AI Deployment (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-LADS-000016", "t": "Local AI Deployment (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-LADS-000017", "t": "Local AI Deployment (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-LADS-000018", "t": "Local AI Deployment (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-LADS-000019", "t": "Local AI Deployment (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-LADS-000020", "t": "Local AI Deployment (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-LADS-000021", "t": "Local AI Deployment (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-LADS-000022", "t": "Local AI Deployment (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-LADS-000023", "t": "Local AI Deployment (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-LADS-000024", "t": "Local AI Deployment (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-LADS-000025", "t": "Local AI Deployment (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-LADS-000026", "t": "Local AI Deployment (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-LADS-000027", "t": "Local AI Deployment (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-LADS-000028", "t": "Local AI Deployment (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-LADS-000029", "t": "Local AI Deployment (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-LADS-000030", "t": "Local AI Deployment (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-LADS-000031", "t": "Local AI Deployment (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-LADS-000032", "t": "Local AI Deployment (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-LADS-000033", "t": "Local AI Deployment (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-LADS-000034", "t": "Local AI Deployment (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

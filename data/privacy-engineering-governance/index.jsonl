@@ -1,0 +1,34 @@
+{"id": "JAH-PRVG-000001", "t": "Privacy Engineering and Data Governance Database: Data Classification", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000002", "t": "Privacy Engineering and Data Governance Database: ROPA (Records of Processing)", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000003", "t": "Privacy Engineering and Data Governance Database: Consent Management", "c": 0, "g": "consent"}
+{"id": "JAH-PRVG-000004", "t": "Privacy Engineering and Data Governance Database: Purpose Limitation", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000005", "t": "Privacy Engineering and Data Governance Database: Data Minimization", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000006", "t": "Privacy Engineering and Data Governance Database: Retention Schedule", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000007", "t": "Privacy Engineering and Data Governance Database: Right to Erasure", "c": 0, "g": "rights"}
+{"id": "JAH-PRVG-000008", "t": "Privacy Engineering and Data Governance Database: DSR (Access Request)", "c": 0, "g": "rights"}
+{"id": "JAH-PRVG-000009", "t": "Privacy Engineering and Data Governance Database: Data Portability", "c": 0, "g": "rights"}
+{"id": "JAH-PRVG-000010", "t": "Privacy Engineering and Data Governance Database: Anonymization", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000011", "t": "Privacy Engineering and Data Governance Database: Pseudonymization", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000012", "t": "Privacy Engineering and Data Governance Database: k-Anonymity", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000013", "t": "Privacy Engineering and Data Governance Database: Differential Privacy (basic)", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000014", "t": "Privacy Engineering and Data Governance Database: DPIA", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000015", "t": "Privacy Engineering and Data Governance Database: Privacy by Design", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000016", "t": "Privacy Engineering and Data Governance Database: Cookie Consent", "c": 0, "g": "consent"}
+{"id": "JAH-PRVG-000017", "t": "Privacy Engineering and Data Governance Database: Cross-Border Transfer", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000018", "t": "Privacy Engineering and Data Governance Database: Vendor DPA", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000019", "t": "Privacy Engineering and Data Governance Database: Breach Notification", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000020", "t": "Privacy Engineering and Data Governance Database: Privacy Notices", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000021", "t": "Privacy Engineering and Data Governance Database: Children Data", "c": 0, "g": "consent"}
+{"id": "JAH-PRVG-000022", "t": "Privacy Engineering and Data Governance Database: Employee Monitoring", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000023", "t": "Privacy Engineering and Data Governance Database: Biometric Data", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000024", "t": "Privacy Engineering and Data Governance Database: Health Data", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000025", "t": "Privacy Engineering and Data Governance Database: Backup Deletion", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000026", "t": "Privacy Engineering and Data Governance Database: Retention Enforcement", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000027", "t": "Privacy Engineering and Data Governance Database: Privacy Training", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000028", "t": "Privacy Engineering and Data Governance Database: Privacy Metrics", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000029", "t": "Privacy Engineering and Data Governance Database: De-identification Review", "c": 0, "g": "techniques"}
+{"id": "JAH-PRVG-000030", "t": "Privacy Engineering and Data Governance Database: Data Subject Rights Portal", "c": 0, "g": "rights"}
+{"id": "JAH-PRVG-000031", "t": "Privacy Engineering and Data Governance Database: Records Disposition", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000032", "t": "Privacy Engineering and Data Governance Database: Privacy Incident Response", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000033", "t": "Privacy Engineering and Data Governance Database: Third-Party Sharing", "c": 0, "g": "governance"}
+{"id": "JAH-PRVG-000034", "t": "Privacy Engineering and Data Governance Database: Capstone: Privacy Program", "c": 0, "g": "governance"}

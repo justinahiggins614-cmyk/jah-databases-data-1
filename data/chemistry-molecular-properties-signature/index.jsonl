@@ -1,0 +1,34 @@
+{"id": "JAH-CHMPS-000001", "t": "Chemistry and Molecular Properties Signature Database: Molar Mass (Water)", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMPS-000002", "t": "Chemistry and Molecular Properties Signature Database: Moles from Mass", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMPS-000003", "t": "Chemistry and Molecular Properties Signature Database: Molarity", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000004", "t": "Chemistry and Molecular Properties Signature Database: Dilution", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000005", "t": "Chemistry and Molecular Properties Signature Database: Ideal Gas Moles", "c": 0, "g": "gases"}
+{"id": "JAH-CHMPS-000006", "t": "Chemistry and Molecular Properties Signature Database: pH", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMPS-000007", "t": "Chemistry and Molecular Properties Signature Database: pOH", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMPS-000008", "t": "Chemistry and Molecular Properties Signature Database: Hydrogen Ion from pH", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMPS-000009", "t": "Chemistry and Molecular Properties Signature Database: Henderson-Hasselbalch", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMPS-000010", "t": "Chemistry and Molecular Properties Signature Database: Rate Law", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMPS-000011", "t": "Chemistry and Molecular Properties Signature Database: Arrhenius Equation", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMPS-000012", "t": "Chemistry and Molecular Properties Signature Database: First-Order Half-Life", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMPS-000013", "t": "Chemistry and Molecular Properties Signature Database: First-Order Remaining", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMPS-000014", "t": "Chemistry and Molecular Properties Signature Database: Second-Order Half-Life", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMPS-000015", "t": "Chemistry and Molecular Properties Signature Database: Gibbs Free Energy", "c": 0, "g": "thermochemistry"}
+{"id": "JAH-CHMPS-000016", "t": "Chemistry and Molecular Properties Signature Database: Equilibrium Constant", "c": 0, "g": "thermochemistry"}
+{"id": "JAH-CHMPS-000017", "t": "Chemistry and Molecular Properties Signature Database: Nernst Equation", "c": 0, "g": "electrochemistry"}
+{"id": "JAH-CHMPS-000018", "t": "Chemistry and Molecular Properties Signature Database: Cell Potential", "c": 0, "g": "electrochemistry"}
+{"id": "JAH-CHMPS-000019", "t": "Chemistry and Molecular Properties Signature Database: Faraday Electrolysis", "c": 0, "g": "electrochemistry"}
+{"id": "JAH-CHMPS-000020", "t": "Chemistry and Molecular Properties Signature Database: Percent Yield", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMPS-000021", "t": "Chemistry and Molecular Properties Signature Database: Percent Composition", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMPS-000022", "t": "Chemistry and Molecular Properties Signature Database: Molality", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000023", "t": "Chemistry and Molecular Properties Signature Database: Mole Fraction", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000024", "t": "Chemistry and Molecular Properties Signature Database: Freezing Point Depression", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000025", "t": "Chemistry and Molecular Properties Signature Database: Boiling Point Elevation", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000026", "t": "Chemistry and Molecular Properties Signature Database: Osmotic Pressure", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000027", "t": "Chemistry and Molecular Properties Signature Database: Graham Effusion", "c": 0, "g": "gases"}
+{"id": "JAH-CHMPS-000028", "t": "Chemistry and Molecular Properties Signature Database: Gas Density", "c": 0, "g": "gases"}
+{"id": "JAH-CHMPS-000029", "t": "Chemistry and Molecular Properties Signature Database: Combined Gas Law", "c": 0, "g": "gases"}
+{"id": "JAH-CHMPS-000030", "t": "Chemistry and Molecular Properties Signature Database: Charles Law", "c": 0, "g": "gases"}
+{"id": "JAH-CHMPS-000031", "t": "Chemistry and Molecular Properties Signature Database: Boyle Law", "c": 0, "g": "gases"}
+{"id": "JAH-CHMPS-000032", "t": "Chemistry and Molecular Properties Signature Database: Titration Volume", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMPS-000033", "t": "Chemistry and Molecular Properties Signature Database: Solubility from Ksp", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMPS-000034", "t": "Chemistry and Molecular Properties Signature Database: Combustion CO2 Capstone", "c": 0, "g": "stoichiometry"}

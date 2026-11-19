@@ -1,0 +1,34 @@
+{"id": "JAH-AIPE-000001", "t": "Prompt Anatomy", "g": "Foundations"}
+{"id": "JAH-AIPE-000002", "t": "Being Specific", "g": "Foundations"}
+{"id": "JAH-AIPE-000003", "t": "Context Setting", "g": "Foundations"}
+{"id": "JAH-AIPE-000004", "t": "Few-Shot Examples", "g": "Foundations"}
+{"id": "JAH-AIPE-000005", "t": "Zero-Shot Instructions", "g": "Foundations"}
+{"id": "JAH-AIPE-000006", "t": "Chain of Thought", "g": "Foundations"}
+{"id": "JAH-AIPE-000007", "t": "Role Prompting", "g": "Foundations"}
+{"id": "JAH-AIPE-000008", "t": "Format Constraints", "g": "Foundations"}
+{"id": "JAH-AIPE-000009", "t": "Decomposing Tasks", "g": "Foundations"}
+{"id": "JAH-AIPE-000010", "t": "Iterative Refinement", "g": "Foundations"}
+{"id": "JAH-AIPE-000011", "t": "System Prompts", "g": "Foundations"}
+{"id": "JAH-AIPE-000012", "t": "Prompt Templates", "g": "Compounded"}
+{"id": "JAH-AIPE-000013", "t": "Image Prompting", "g": "Compounded"}
+{"id": "JAH-AIPE-000014", "t": "Code Prompting", "g": "Compounded"}
+{"id": "JAH-AIPE-000015", "t": "Prompt Injection Awareness", "g": "Compounded"}
+{"id": "JAH-AIPE-000016", "t": "Evaluating Outputs", "g": "Compounded"}
+{"id": "JAH-AIPE-000017", "t": "Prompt Libraries", "g": "Compounded"}
+{"id": "JAH-AIPE-000018", "t": "Collaborative Prompting", "g": "Compounded"}
+{"id": "JAH-AIPE-000019", "t": "Domain Prompting", "g": "Compounded"}
+{"id": "JAH-AIPE-000020", "t": "Multilingual Prompting", "g": "Compounded"}
+{"id": "JAH-AIPE-000021", "t": "Long Context Use", "g": "Compounded"}
+{"id": "JAH-AIPE-000022", "t": "Prompt Chaining", "g": "Compounded"}
+{"id": "JAH-AIPE-000023", "t": "Negative Prompts", "g": "Compounded"}
+{"id": "JAH-AIPE-000024", "t": "Tone and Style Control", "g": "Advanced"}
+{"id": "JAH-AIPE-000025", "t": "Prompt Testing", "g": "Advanced"}
+{"id": "JAH-AIPE-000026", "t": "Cost Awareness", "g": "Advanced"}
+{"id": "JAH-AIPE-000027", "t": "Teaching Prompting", "g": "Advanced"}
+{"id": "JAH-AIPE-000028", "t": "Prompt Anti-Patterns", "g": "Advanced"}
+{"id": "JAH-AIPE-000029", "t": "Staying Current", "g": "Advanced"}
+{"id": "JAH-AIPE-000030", "t": "The Prompt Audit", "g": "Advanced"}
+{"id": "JAH-AIPE-000031", "t": "Prompt Versioning", "g": "Advanced"}
+{"id": "JAH-AIPE-000032", "t": "Few-Shot Selection", "g": "Advanced"}
+{"id": "JAH-AIPE-000033", "t": "Instruction Hierarchy", "g": "Advanced"}
+{"id": "JAH-AIPE-000034", "t": "Prompt Debugging", "g": "Advanced"}

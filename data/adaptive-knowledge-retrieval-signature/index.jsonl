@@ -1,0 +1,34 @@
+{"id": "JAH-AKRS-000001", "t": "Chunking", "g": "Foundations"}
+{"id": "JAH-AKRS-000002", "t": "Embeddings", "g": "Foundations"}
+{"id": "JAH-AKRS-000003", "t": "Hybrid Retrieval", "g": "Foundations"}
+{"id": "JAH-AKRS-000004", "t": "Reranking", "g": "Foundations"}
+{"id": "JAH-AKRS-000005", "t": "Query Rewriting", "g": "Foundations"}
+{"id": "JAH-AKRS-000006", "t": "Feedback Loops", "g": "Foundations"}
+{"id": "JAH-AKRS-000007", "t": "Evaluation Sets", "g": "Foundations"}
+{"id": "JAH-AKRS-000008", "t": "Freshness", "g": "Foundations"}
+{"id": "JAH-AKRS-000009", "t": "Attribution", "g": "Foundations"}
+{"id": "JAH-AKRS-000010", "t": "Confidence Gating", "g": "Foundations"}
+{"id": "JAH-AKRS-000011", "t": "Personalization", "g": "Foundations"}
+{"id": "JAH-AKRS-000012", "t": "Cost Control", "g": "Compounded"}
+{"id": "JAH-AKRS-000013", "t": "Vector Databases", "g": "Compounded"}
+{"id": "JAH-AKRS-000014", "t": "Indexing Pipelines", "g": "Compounded"}
+{"id": "JAH-AKRS-000015", "t": "Metadata Filtering", "g": "Compounded"}
+{"id": "JAH-AKRS-000016", "t": "Multi-Modal", "g": "Compounded"}
+{"id": "JAH-AKRS-000017", "t": "Table Retrieval", "g": "Compounded"}
+{"id": "JAH-AKRS-000018", "t": "Long Context", "g": "Compounded"}
+{"id": "JAH-AKRS-000019", "t": "Agentic Retrieval", "g": "Compounded"}
+{"id": "JAH-AKRS-000020", "t": "Self-RAG", "g": "Compounded"}
+{"id": "JAH-AKRS-000021", "t": "Corrective RAG", "g": "Compounded"}
+{"id": "JAH-AKRS-000022", "t": "Knowledge Graphs", "g": "Compounded"}
+{"id": "JAH-AKRS-000023", "t": "Hybrid Search Tuning", "g": "Compounded"}
+{"id": "JAH-AKRS-000024", "t": "Query Classification", "g": "Advanced"}
+{"id": "JAH-AKRS-000025", "t": "Conversation Context", "g": "Advanced"}
+{"id": "JAH-AKRS-000026", "t": "Enterprise Search", "g": "Advanced"}
+{"id": "JAH-AKRS-000027", "t": "Security", "g": "Advanced"}
+{"id": "JAH-AKRS-000028", "t": "Evaluation Metrics", "g": "Advanced"}
+{"id": "JAH-AKRS-000029", "t": "Hallucination Reduction", "g": "Advanced"}
+{"id": "JAH-AKRS-000030", "t": "Latency Budgets", "g": "Advanced"}
+{"id": "JAH-AKRS-000031", "t": "Observability", "g": "Advanced"}
+{"id": "JAH-AKRS-000032", "t": "A/B Testing", "g": "Advanced"}
+{"id": "JAH-AKRS-000033", "t": "User Studies", "g": "Advanced"}
+{"id": "JAH-AKRS-000034", "t": "Research Frontiers", "g": "Advanced"}

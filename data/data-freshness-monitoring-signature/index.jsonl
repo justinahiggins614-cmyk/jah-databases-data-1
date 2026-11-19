@@ -1,0 +1,34 @@
+{"id": "JAH-DFMS-000001", "t": "Data Freshness Monitoring (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-DFMS-000002", "t": "Data Freshness Monitoring (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-DFMS-000003", "t": "Data Freshness Monitoring (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-DFMS-000004", "t": "Data Freshness Monitoring (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-DFMS-000005", "t": "Data Freshness Monitoring (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-DFMS-000006", "t": "Data Freshness Monitoring (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-DFMS-000007", "t": "Data Freshness Monitoring (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-DFMS-000008", "t": "Data Freshness Monitoring (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-DFMS-000009", "t": "Data Freshness Monitoring (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-DFMS-000010", "t": "Data Freshness Monitoring (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-DFMS-000011", "t": "Data Freshness Monitoring (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-DFMS-000012", "t": "Data Freshness Monitoring (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-DFMS-000013", "t": "Data Freshness Monitoring (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-DFMS-000014", "t": "Data Freshness Monitoring (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-DFMS-000015", "t": "Data Freshness Monitoring (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-DFMS-000016", "t": "Data Freshness Monitoring (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-DFMS-000017", "t": "Data Freshness Monitoring (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-DFMS-000018", "t": "Data Freshness Monitoring (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-DFMS-000019", "t": "Data Freshness Monitoring (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-DFMS-000020", "t": "Data Freshness Monitoring (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-DFMS-000021", "t": "Data Freshness Monitoring (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-DFMS-000022", "t": "Data Freshness Monitoring (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-DFMS-000023", "t": "Data Freshness Monitoring (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-DFMS-000024", "t": "Data Freshness Monitoring (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-DFMS-000025", "t": "Data Freshness Monitoring (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-DFMS-000026", "t": "Data Freshness Monitoring (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-DFMS-000027", "t": "Data Freshness Monitoring (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-DFMS-000028", "t": "Data Freshness Monitoring (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-DFMS-000029", "t": "Data Freshness Monitoring (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-DFMS-000030", "t": "Data Freshness Monitoring (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-DFMS-000031", "t": "Data Freshness Monitoring (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-DFMS-000032", "t": "Data Freshness Monitoring (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-DFMS-000033", "t": "Data Freshness Monitoring (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-DFMS-000034", "t": "Data Freshness Monitoring (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

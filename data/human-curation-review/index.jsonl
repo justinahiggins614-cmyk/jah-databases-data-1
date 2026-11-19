@@ -1,0 +1,34 @@
+{"id": "JAH-HCR-000001", "t": "Human Curation Overview", "g": "Foundations"}
+{"id": "JAH-HCR-000002", "t": "Editorial Workflow Stages", "g": "Foundations"}
+{"id": "JAH-HCR-000003", "t": "Subject-Matter-Expert Review Queues", "g": "Foundations"}
+{"id": "JAH-HCR-000004", "t": "Correction Records", "g": "Foundations"}
+{"id": "JAH-HCR-000005", "t": "Approval Chains", "g": "Foundations"}
+{"id": "JAH-HCR-000006", "t": "Reviewer Roles and Permissions", "g": "Foundations"}
+{"id": "JAH-HCR-000007", "t": "Review Service Levels", "g": "Foundations"}
+{"id": "JAH-HCR-000008", "t": "Correction Taxonomy", "g": "Foundations"}
+{"id": "JAH-HCR-000009", "t": "Editorial Standards", "g": "Foundations"}
+{"id": "JAH-HCR-000010", "t": "Reviewer Onboarding", "g": "Foundations"}
+{"id": "JAH-HCR-000011", "t": "Review Item Triage Scoring", "g": "Compounded"}
+{"id": "JAH-HCR-000012", "t": "Fact-Check Procedures", "g": "Compounded"}
+{"id": "JAH-HCR-000013", "t": "Copyediting Standards", "g": "Compounded"}
+{"id": "JAH-HCR-000014", "t": "SME Disagreement Resolution", "g": "Compounded"}
+{"id": "JAH-HCR-000015", "t": "Correction Verification", "g": "Compounded"}
+{"id": "JAH-HCR-000016", "t": "Approval Chain Analytics", "g": "Compounded"}
+{"id": "JAH-HCR-000017", "t": "Reviewer Workload Balancing", "g": "Compounded"}
+{"id": "JAH-HCR-000018", "t": "Quality Sampling", "g": "Compounded"}
+{"id": "JAH-HCR-000019", "t": "Escalation Procedures", "g": "Compounded"}
+{"id": "JAH-HCR-000020", "t": "Reviewer Feedback Loops", "g": "Compounded"}
+{"id": "JAH-HCR-000021", "t": "Curation Metrics Dashboard", "g": "Compounded"}
+{"id": "JAH-HCR-000022", "t": "Editorial Governance Board", "g": "Advanced"}
+{"id": "JAH-HCR-000023", "t": "Bias Detection in Reviews", "g": "Advanced"}
+{"id": "JAH-HCR-000024", "t": "Inter-Rater Reliability", "g": "Advanced"}
+{"id": "JAH-HCR-000025", "t": "Calibration Sessions", "g": "Advanced"}
+{"id": "JAH-HCR-000026", "t": "Review Automation Boundaries", "g": "Advanced"}
+{"id": "JAH-HCR-000027", "t": "Controversial Topic Handling", "g": "Advanced"}
+{"id": "JAH-HCR-000028", "t": "Correction Propagation", "g": "Advanced"}
+{"id": "JAH-HCR-000029", "t": "Reviewer Reputation System", "g": "Advanced"}
+{"id": "JAH-HCR-000030", "t": "Curation Audit Record", "g": "Advanced"}
+{"id": "JAH-HCR-000031", "t": "Editorial Incident Response", "g": "Advanced"}
+{"id": "JAH-HCR-000032", "t": "Curation Cost Model", "g": "Advanced"}
+{"id": "JAH-HCR-000033", "t": "Curation Anti-Patterns Catalog", "g": "Advanced"}
+{"id": "JAH-HCR-000034", "t": "Curation Self-Audit and Mastery Record", "g": "Advanced"}

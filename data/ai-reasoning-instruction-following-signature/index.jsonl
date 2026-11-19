@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-IFS-000001", "t": "What instruction following is: doing what is asked (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000002", "t": "Understanding instructions: reading the ask (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000003", "t": "The literal instruction: the words as given (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000004", "t": "Simple compliance: the straightforward do (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000005", "t": "The spirit and the letter: intent beyond words (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000006", "t": "Doing what was asked: the execution (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000007", "t": "Checking the work: the verification (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000008", "t": "The first instruction: a complete example (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000009", "t": "Asking when unsure: the clarification (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000010", "t": "The faithful servant: the foundation standard (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000011", "t": "Ambiguity: the unclear ask (Signature Edition)", "g": "instruction-following-foundations"}
+{"id": "JAH-AIR-IFS-000012", "t": "The instruction lifecycle: from ask to done (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000013", "t": "Implicit instructions: the unasked (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000014", "t": "Multi-step instructions: the sequence (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000015", "t": "Instruction hierarchies: whose instructions win (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000016", "t": "Conflicts: when instructions collide (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000017", "t": "Clarification strategies: asking well (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000018", "t": "Partial compliance: the honest part (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000019", "t": "Verification: proving the following (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000020", "t": "Instruction tuning: teaching obedience (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000021", "t": "Evaluation: measuring the following (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000022", "t": "RLHF: learning from human feedback (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000023", "t": "Constitutional obedience: principles guiding following (Signature Edition)", "g": "instruction-following-compounded"}
+{"id": "JAH-AIR-IFS-000024", "t": "Standing instructions: the persistent directive (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000025", "t": "Conditional instructions: the if-then ask (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000026", "t": "Autonomy vs obedience: the balance (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000027", "t": "The principal hierarchy: serving many masters (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000028", "t": "Manipulative instructions: the hostile ask (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000029", "t": "The trustworthy agent: the final standard (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000030", "t": "Instruction inference: learning preferences (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000031", "t": "The obedience audit: verifying following (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000032", "t": "Over-obedience: the literalist trap (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000033", "t": "Under-obedience: the helpful rebel (Signature Edition)", "g": "instruction-following-advanced"}
+{"id": "JAH-AIR-IFS-000034", "t": "The principal's intent: loyalty in following (Signature Edition)", "g": "instruction-following-advanced"}

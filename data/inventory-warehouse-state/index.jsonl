@@ -1,0 +1,34 @@
+{"id": "JAH-INV-000001", "t": "What Inventory Is and What a Warehouse Holds", "g": "Foundations"}
+{"id": "JAH-INV-000002", "t": "The SKU: The Inventory Atom", "g": "Foundations"}
+{"id": "JAH-INV-000003", "t": "Stock States: On Hand, Reserved, and Available to Promise", "g": "Foundations"}
+{"id": "JAH-INV-000004", "t": "The Location Address: Aisles, Bays, and Bins", "g": "Foundations"}
+{"id": "JAH-INV-000005", "t": "Units of Measure and the Pack Hierarchy", "g": "Foundations"}
+{"id": "JAH-INV-000006", "t": "Inventory Valuation Basics: FIFO and LIFO", "g": "Foundations"}
+{"id": "JAH-INV-000007", "t": "Lead Time: The Clock That Drives Everything", "g": "Foundations"}
+{"id": "JAH-INV-000008", "t": "Goods Receipt: Receiving and Putaway Records", "g": "Foundations"}
+{"id": "JAH-INV-000009", "t": "The Pick-Pack-Ship Flow", "g": "Foundations"}
+{"id": "JAH-INV-000010", "t": "Lots, Batches, and Expiry: The Basics", "g": "Foundations"}
+{"id": "JAH-INV-000011", "t": "Cycle Counting: Counting Without Stopping", "g": "Compounded"}
+{"id": "JAH-INV-000012", "t": "ABC Analysis: Ranking Stock by Value and Motion", "g": "Compounded"}
+{"id": "JAH-INV-000013", "t": "Reorder Point Math", "g": "Compounded"}
+{"id": "JAH-INV-000014", "t": "The Economic Order Quantity", "g": "Compounded"}
+{"id": "JAH-INV-000015", "t": "Safety Stock Math", "g": "Compounded"}
+{"id": "JAH-INV-000016", "t": "FEFO: Issuing by Expiry", "g": "Compounded"}
+{"id": "JAH-INV-000017", "t": "Reservations and Allocation Logic", "g": "Compounded"}
+{"id": "JAH-INV-000018", "t": "Putaway Strategies", "g": "Compounded"}
+{"id": "JAH-INV-000019", "t": "Picking Strategies: Wave, Zone, Batch, Discrete", "g": "Compounded"}
+{"id": "JAH-INV-000020", "t": "Packing Records and Shipment Integrity", "g": "Compounded"}
+{"id": "JAH-INV-000021", "t": "Movement Records: Transfers, Adjustments, and Audits", "g": "Compounded"}
+{"id": "JAH-INV-000022", "t": "Warehouse Layout and Slotting Basics", "g": "Compounded"}
+{"id": "JAH-INV-000023", "t": "Multi-Echelon Inventory", "g": "Advanced"}
+{"id": "JAH-INV-000024", "t": "MRP: Materials Requirements Planning", "g": "Advanced"}
+{"id": "JAH-INV-000025", "t": "Inventory Accuracy: Causes and Cures", "g": "Advanced"}
+{"id": "JAH-INV-000026", "t": "Perpetual and Periodic Inventory Systems", "g": "Advanced"}
+{"id": "JAH-INV-000027", "t": "Advanced Slotting: Cube, Velocity, and the Golden Zone", "g": "Advanced"}
+{"id": "JAH-INV-000028", "t": "Dynamic Safety Stock and Service Levels", "g": "Advanced"}
+{"id": "JAH-INV-000029", "t": "Replenishment Systems: Kanban, Min-Max, and DRP", "g": "Advanced"}
+{"id": "JAH-INV-000030", "t": "Returns, RMAs, and Reverse Logistics", "g": "Advanced"}
+{"id": "JAH-INV-000031", "t": "Serialized Inventory and Traceability", "g": "Advanced"}
+{"id": "JAH-INV-000032", "t": "The Full Physical Inventory", "g": "Advanced"}
+{"id": "JAH-INV-000033", "t": "Inventory Analytics: Turns, Days of Supply, and Stockouts", "g": "Advanced"}
+{"id": "JAH-INV-000034", "t": "The Inventory Health Program", "g": "Advanced"}

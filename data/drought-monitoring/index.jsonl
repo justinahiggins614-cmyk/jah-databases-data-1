@@ -1,0 +1,34 @@
+{"id": "JAH-DMR-000001", "t": "Drought Indicators", "g": "Foundations"}
+{"id": "JAH-DMR-000002", "t": "US Drought Monitor", "g": "Foundations"}
+{"id": "JAH-DMR-000003", "t": "SPI and SPEI", "g": "Foundations"}
+{"id": "JAH-DMR-000004", "t": "Soil Signals", "g": "Foundations"}
+{"id": "JAH-DMR-000005", "t": "Crop Signals", "g": "Foundations"}
+{"id": "JAH-DMR-000006", "t": "Response Stages", "g": "Foundations"}
+{"id": "JAH-DMR-000007", "t": "Water Triage", "g": "Foundations"}
+{"id": "JAH-DMR-000008", "t": "Early Conservation", "g": "Foundations"}
+{"id": "JAH-DMR-000009", "t": "Assistance Triggers", "g": "Foundations"}
+{"id": "JAH-DMR-000010", "t": "Documentation", "g": "Foundations"}
+{"id": "JAH-DMR-000011", "t": "Wet-Year Planning", "g": "Foundations"}
+{"id": "JAH-DMR-000012", "t": "Community Rules", "g": "Compounded"}
+{"id": "JAH-DMR-000013", "t": "Rain Gauges", "g": "Compounded"}
+{"id": "JAH-DMR-000014", "t": "Soil Probes", "g": "Compounded"}
+{"id": "JAH-DMR-000015", "t": "Well Monitoring", "g": "Compounded"}
+{"id": "JAH-DMR-000016", "t": "Stream Gauges", "g": "Compounded"}
+{"id": "JAH-DMR-000017", "t": "Forecast Use", "g": "Compounded"}
+{"id": "JAH-DMR-000018", "t": "El Nino/La Nina", "g": "Compounded"}
+{"id": "JAH-DMR-000019", "t": "Irrigation Cutbacks", "g": "Compounded"}
+{"id": "JAH-DMR-000020", "t": "Dryland Tactics", "g": "Compounded"}
+{"id": "JAH-DMR-000021", "t": "Livestock Water", "g": "Compounded"}
+{"id": "JAH-DMR-000022", "t": "Feed Planning", "g": "Compounded"}
+{"id": "JAH-DMR-000023", "t": "Crop Insurance", "g": "Compounded"}
+{"id": "JAH-DMR-000024", "t": "Emergency Grazing", "g": "Advanced"}
+{"id": "JAH-DMR-000025", "t": "Soil Health", "g": "Advanced"}
+{"id": "JAH-DMR-000026", "t": "Cover Crops", "g": "Advanced"}
+{"id": "JAH-DMR-000027", "t": "Mulching", "g": "Advanced"}
+{"id": "JAH-DMR-000028", "t": "Deficit Irrigation", "g": "Advanced"}
+{"id": "JAH-DMR-000029", "t": "Variety Selection", "g": "Advanced"}
+{"id": "JAH-DMR-000030", "t": "Planting Dates", "g": "Advanced"}
+{"id": "JAH-DMR-000031", "t": "Insurance Records", "g": "Advanced"}
+{"id": "JAH-DMR-000032", "t": "Recovery Planning", "g": "Advanced"}
+{"id": "JAH-DMR-000033", "t": "Climate Trends", "g": "Advanced"}
+{"id": "JAH-DMR-000034", "t": "Policy Engagement", "g": "Advanced"}

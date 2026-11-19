@@ -1,0 +1,34 @@
+{"id": "JAH-FTST-000001", "t": "How Full-Text Search Works", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000002", "t": "BM25 Ranking", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000003", "t": "Analyzers and Tokenizers", "g": "search-operations"}
+{"id": "JAH-FTST-000004", "t": "Stemming vs Lemmatization", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000005", "t": "Stop Words", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000006", "t": "Synonyms", "g": "search-operations"}
+{"id": "JAH-FTST-000007", "t": "Relevance Feedback Loop", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000008", "t": "Measuring Relevance", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000009", "t": "Query Understanding", "g": "search-operations"}
+{"id": "JAH-FTST-000010", "t": "Faceted Search", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000011", "t": "Autocomplete/Suggest", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000012", "t": "Typo Tolerance", "g": "search-operations"}
+{"id": "JAH-FTST-000013", "t": "Multi-language Search", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000014", "t": "Elasticsearch Basics", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000015", "t": "OpenSearch Alternative", "g": "search-operations"}
+{"id": "JAH-FTST-000016", "t": "Postgres Full-Text", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000017", "t": "Vector/Hybrid Search", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000018", "t": "Indexing Performance", "g": "search-operations"}
+{"id": "JAH-FTST-000019", "t": "Search at Scale", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000020", "t": "The Search Tuning Playbook", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000021", "t": "Field Boosting", "g": "search-operations"}
+{"id": "JAH-FTST-000022", "t": "Phrase Matching", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000023", "t": "Boolean Queries", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000024", "t": "Function Score", "g": "search-operations"}
+{"id": "JAH-FTST-000025", "t": "Learning to Rank", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000026", "t": "Personalization", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000027", "t": "Search UI Patterns", "g": "search-operations"}
+{"id": "JAH-FTST-000028", "t": "Zero-Result Handling", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000029", "t": "Search Analytics", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000030", "t": "A/B Testing Search", "g": "search-operations"}
+{"id": "JAH-FTST-000031", "t": "Index Lifecycle", "g": "relevance-tuning"}
+{"id": "JAH-FTST-000032", "t": "Security for Search", "g": "analyzer-configuration"}
+{"id": "JAH-FTST-000033", "t": "Multitenant Search", "g": "search-operations"}
+{"id": "JAH-FTST-000034", "t": "Search Ops Runbook", "g": "relevance-tuning"}

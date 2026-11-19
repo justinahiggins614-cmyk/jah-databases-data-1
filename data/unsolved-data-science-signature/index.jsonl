@@ -1,0 +1,34 @@
+{"id": "JAH-USDSS-000001", "t": "The Reproducibility Problem in Data Science (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000002", "t": "Causation Against Correlation in Observational Data (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000003", "t": "The Missing Data Mechanism Problem (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000004", "t": "The Curse of Dimensionality in Practice (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000005", "t": "Overfitting Against Generalization (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000006", "t": "The Class Imbalance Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000007", "t": "The Data Leakage Problem (Signature Edition)", "g": "Data Engineering"}
+{"id": "JAH-USDSS-000008", "t": "The Label Noise Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000009", "t": "The Concept Drift Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000010", "t": "The Interpretability Gap in Machine Learning (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000011", "t": "The Fairness Impossibility in Automated Decisions (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000012", "t": "The Privacy Against Utility Tradeoff (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000013", "t": "The Out of Distribution Generalization Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000014", "t": "Adversarial Examples and Model Robustness (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000015", "t": "The Uncertainty Calibration Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000016", "t": "The Automated Feature Engineering Problem (Signature Edition)", "g": "Data Engineering"}
+{"id": "JAH-USDSS-000017", "t": "The Small Data Problem in Deep Learning (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000018", "t": "The Time Series Causality Problem (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000019", "t": "The Recommender Feedback Loop Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000020", "t": "The Graph Learning Expressivity Limit (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000021", "t": "The Synthetic Data Fidelity Problem (Signature Edition)", "g": "Data Engineering"}
+{"id": "JAH-USDSS-000022", "t": "The Federated Learning Non-IID Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000023", "t": "The Benchmark Saturation Problem (Signature Edition)", "g": "Data Engineering"}
+{"id": "JAH-USDSS-000024", "t": "Why Overparameterized Models Generalize (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000025", "t": "The Scaling Laws Theoretical Basis (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000026", "t": "The Computational Against Statistical Tradeoff (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000027", "t": "The Optimal Transport Curse in High Dimensions (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000028", "t": "The Manifold Hypothesis Validation Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000029", "t": "The AutoML Meta Learning Theory Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000030", "t": "The Streaming Memory Lower Bound Problem (Signature Edition)", "g": "Data Engineering"}
+{"id": "JAH-USDSS-000031", "t": "The Anomaly Detection Guarantee Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000032", "t": "The Data Valuation Problem (Signature Edition)", "g": "Statistics"}
+{"id": "JAH-USDSS-000033", "t": "The Metric Learning Geometry Problem (Signature Edition)", "g": "Machine Learning"}
+{"id": "JAH-USDSS-000034", "t": "The Unified Theory of Data Science Problem (Signature Edition)", "g": "Statistics"}

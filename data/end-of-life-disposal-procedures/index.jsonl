@@ -1,0 +1,34 @@
+{"id": "JAH-EOLD-000001", "t": "Decommissioning Planning Checklist", "g": "Disassembly"}
+{"id": "JAH-EOLD-000002", "t": "Safe Electrical Isolation for Disposal", "g": "Disassembly"}
+{"id": "JAH-EOLD-000003", "t": "Fluid Draining and Capture", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000004", "t": "Battery Removal and Handling", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000005", "t": "Sorting Metals for Recycling", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000006", "t": "Cable and Wire Recovery", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000007", "t": "Packaging Material Disposal", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000008", "t": "Data Sanitization Before Disposal", "g": "Disassembly"}
+{"id": "JAH-EOLD-000009", "t": "Donation and Reuse Assessment", "g": "Reuse & Refurbishment"}
+{"id": "JAH-EOLD-000010", "t": "General Waste Segregation", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000011", "t": "Motor Disassembly for Material Recovery", "g": "Disassembly"}
+{"id": "JAH-EOLD-000012", "t": "Refrigerant Recovery Procedure", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000013", "t": "Oil and Lubricant Disposal", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000014", "t": "Mercury Device Handling", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000015", "t": "PCB and Electronics Recycling", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000016", "t": "Plastic Identification and Sorting", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000017", "t": "Glass and Ceramic Streams", "g": "Recycling Streams"}
+{"id": "JAH-EOLD-000018", "t": "Refurbishment for Resale", "g": "Reuse & Refurbishment"}
+{"id": "JAH-EOLD-000019", "t": "Parts Harvesting for Spares", "g": "Reuse & Refurbishment"}
+{"id": "JAH-EOLD-000020", "t": "Toner and Ink Cartridge Handling", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000021", "t": "Aerosol Can Disposal", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000022", "t": "Lead-Acid Battery Recycling", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000023", "t": "Lithium Battery Thermal Runaway Precautions", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000024", "t": "Asbestos Identification and Response", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000025", "t": "Transformer Oil (PCB) Assessment", "g": "Hazardous Materials"}
+{"id": "JAH-EOLD-000026", "t": "Pressure Vessel Decommissioning", "g": "Disassembly"}
+{"id": "JAH-EOLD-000027", "t": "Large Equipment Dismantling Plan", "g": "Disassembly"}
+{"id": "JAH-EOLD-000028", "t": "IT Asset Disposition Chain of Custody", "g": "Disassembly"}
+{"id": "JAH-EOLD-000029", "t": "Export and Transboundary Shipment Rules", "g": "Compliant Disposal"}
+{"id": "JAH-EOLD-000030", "t": "Landfill Diversion Reporting", "g": "Compliant Disposal"}
+{"id": "JAH-EOLD-000031", "t": "Extended Producer Responsibility Programs", "g": "Compliant Disposal"}
+{"id": "JAH-EOLD-000032", "t": "Destruction Certificates and Documentation", "g": "Compliant Disposal"}
+{"id": "JAH-EOLD-000033", "t": "Site Remediation After Removal", "g": "Compliant Disposal"}
+{"id": "JAH-EOLD-000034", "t": "Circular Economy Assessment", "g": "Reuse & Refurbishment"}

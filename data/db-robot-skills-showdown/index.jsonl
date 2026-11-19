@@ -1,0 +1,34 @@
+{"id": "JAH-RBSS-000001", "t": "Humanoid vs Quadruped: Legged Robots", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000002", "t": "Atlas vs Spot: Boston Dynamics Duel", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000003", "t": "Biped vs Wheeled: Indoor Robots", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000004", "t": "Exoskeleton vs Prosthetic: Wearable Robots", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000005", "t": "Snake Robot vs Crawler: Confined Spaces", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000006", "t": "Jumping Robot vs Flying: Getting Up", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000007", "t": "Ball Bot vs Biped: Balance", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000008", "t": "Soft Robot vs Rigid: Bodies", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000009", "t": "Swarm vs Single: Many vs One", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000010", "t": "Climbing Robot vs Drone: Walls", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000011", "t": "Running Robot vs Cheetah Bot: Speed", "g": "Walking Robots"}
+{"id": "JAH-RBSS-000012", "t": "Industrial Arm vs Collaborative Arm: Factory", "g": "Working Robots"}
+{"id": "JAH-RBSS-000013", "t": "Gripper: Suction vs Fingers", "g": "Working Robots"}
+{"id": "JAH-RBSS-000014", "t": "Welding Robot vs Human Welder", "g": "Working Robots"}
+{"id": "JAH-RBSS-000015", "t": "Ag Robot vs Tractor: Farming", "g": "Working Robots"}
+{"id": "JAH-RBSS-000016", "t": "Surgical Robot vs Steady Hand", "g": "Working Robots"}
+{"id": "JAH-RBSS-000017", "t": "Warehouse Robot vs Forklift", "g": "Working Robots"}
+{"id": "JAH-RBSS-000018", "t": "Painting Robot vs Painter", "g": "Working Robots"}
+{"id": "JAH-RBSS-000019", "t": "3D Printer vs CNC: Making", "g": "Working Robots"}
+{"id": "JAH-RBSS-000020", "t": "Barista Robot vs Barista", "g": "Working Robots"}
+{"id": "JAH-RBSS-000021", "t": "Delivery Robot vs Courier", "g": "Working Robots"}
+{"id": "JAH-RBSS-000022", "t": "Drone vs Helicopter: Inspection", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000023", "t": "Fixed-Wing vs Quadcopter: Drones", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000024", "t": "Underwater ROV vs Diver", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000025", "t": "Space Rover vs Astronaut", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000026", "t": "Firefighting Drone vs Fire Truck", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000027", "t": "Pollination Drone vs Bee", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000028", "t": "Window Washer Robot vs Human", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000029", "t": "Lawn Robot vs Mower", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000030", "t": "Security Robot vs Guard", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000031", "t": "Companion Robot vs Pet", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000032", "t": "Bartender Robot vs Bartender", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000033", "t": "Dishwasher Robot vs Human: Kitchen", "g": "Flying & Specialty"}
+{"id": "JAH-RBSS-000034", "t": "Exosuit vs Forklift: Lifting", "g": "Flying & Specialty"}

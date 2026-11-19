@@ -1,0 +1,34 @@
+{"id": "JAH-SPECCS-000001", "t": "What Is Spectroscopy (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-SPECCS-000002", "t": "The Electromagnetic Spectrum (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-SPECCS-000003", "t": "Light-Matter Interaction Basics (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-SPECCS-000004", "t": "Absorption, Emission, and Scattering (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-SPECCS-000005", "t": "Wavelength, Frequency, Energy Relations (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-SPECCS-000006", "t": "Spectrometers: How Instruments Work (Signature Edition)", "g": "Instruments"}
+{"id": "JAH-SPECCS-000007", "t": "Beer-Lambert Law (Signature Edition)", "g": "Quantitative"}
+{"id": "JAH-SPECCS-000008", "t": "Spectral Lines and Broadening (Signature Edition)", "g": "Theory"}
+{"id": "JAH-SPECCS-000009", "t": "Selection Rules (Introduction) (Signature Edition)", "g": "Theory"}
+{"id": "JAH-SPECCS-000010", "t": "Units and Spectral Regions (Signature Edition)", "g": "Units"}
+{"id": "JAH-SPECCS-000011", "t": "Laser Safety and Light-Source Hazards (Signature Edition)", "g": "Safety"}
+{"id": "JAH-SPECCS-000012", "t": "UV-Visible Spectroscopy (Signature Edition)", "g": "Electronic"}
+{"id": "JAH-SPECCS-000013", "t": "Infrared Spectroscopy and Vibrations (Signature Edition)", "g": "Vibrational"}
+{"id": "JAH-SPECCS-000014", "t": "Raman Spectroscopy (Signature Edition)", "g": "Vibrational"}
+{"id": "JAH-SPECCS-000015", "t": "Fluorescence and Phosphorescence (Signature Edition)", "g": "Electronic"}
+{"id": "JAH-SPECCS-000016", "t": "Atomic Absorption Spectroscopy (Signature Edition)", "g": "Atomic"}
+{"id": "JAH-SPECCS-000017", "t": "Atomic Emission and ICP (Signature Edition)", "g": "Atomic"}
+{"id": "JAH-SPECCS-000018", "t": "NMR: Principles (Signature Edition)", "g": "Magnetic"}
+{"id": "JAH-SPECCS-000019", "t": "NMR: Chemical Shift and Coupling (Signature Edition)", "g": "Magnetic"}
+{"id": "JAH-SPECCS-000020", "t": "Mass Spectrometry: Ionization (Signature Edition)", "g": "Mass"}
+{"id": "JAH-SPECCS-000021", "t": "Mass Spec: Fragmentation and Interpretation (Signature Edition)", "g": "Mass"}
+{"id": "JAH-SPECCS-000022", "t": "X-ray Spectroscopy: Diffraction and Fluorescence (Signature Edition)", "g": "X-ray"}
+{"id": "JAH-SPECCS-000023", "t": "Microwave and Rotational Spectroscopy (Signature Edition)", "g": "Rotational"}
+{"id": "JAH-SPECCS-000024", "t": "2D NMR Techniques (Signature Edition)", "g": "NMR"}
+{"id": "JAH-SPECCS-000025", "t": "FTIR and Interferometry (Signature Edition)", "g": "Vibrational"}
+{"id": "JAH-SPECCS-000026", "t": "Laser Spectroscopy (Signature Edition)", "g": "Lasers"}
+{"id": "JAH-SPECCS-000027", "t": "Time-Resolved Spectroscopy (Signature Edition)", "g": "Time-resolved"}
+{"id": "JAH-SPECCS-000028", "t": "Surface Spectroscopies (XPS, AES) (Signature Edition)", "g": "Surface"}
+{"id": "JAH-SPECCS-000029", "t": "Mössbauer Spectroscopy (Signature Edition)", "g": "Magnetic"}
+{"id": "JAH-SPECCS-000030", "t": "EPR/ESR Spectroscopy (Signature Edition)", "g": "Magnetic"}
+{"id": "JAH-SPECCS-000031", "t": "Circular Dichroism (Signature Edition)", "g": "Chiroptical"}
+{"id": "JAH-SPECCS-000032", "t": "Hyphenated Methods (GC-MS, LC-MS, CE-MS) (Signature Edition)", "g": "Hyphenated"}
+{"id": "JAH-SPECCS-000033", "t": "Astronomical Spectroscopy (Signature Edition)", "g": "Astro"}
+{"id": "JAH-SPECCS-000034", "t": "Quantum Theory of Spectra (Signature Edition)", "g": "Theory"}

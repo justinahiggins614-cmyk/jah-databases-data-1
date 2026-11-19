@@ -1,0 +1,34 @@
+{"id": "JAH-HLDN-000001", "t": "What the Human Likeness Method Is", "g": "Foundations"}
+{"id": "JAH-HLDN-000002", "t": "The Deterministic Pipeline: Sequence to Representation", "g": "Foundations"}
+{"id": "JAH-HLDN-000003", "t": "DNA Sequence Basics for This Database", "g": "Foundations"}
+{"id": "JAH-HLDN-000004", "t": "Seeded Randomness: Same Input, Same Output", "g": "Foundations"}
+{"id": "JAH-HLDN-000005", "t": "Reading a Synthetic Sequence", "g": "Foundations"}
+{"id": "JAH-HLDN-000006", "t": "The Trait-Parameter Vector", "g": "Foundations"}
+{"id": "JAH-HLDN-000007", "t": "The Abstract Visualization Spec", "g": "Foundations"}
+{"id": "JAH-HLDN-000008", "t": "What This Method Cannot Do: The Limits Record", "g": "Foundations"}
+{"id": "JAH-HLDN-000009", "t": "Sequence Hygiene and Validation", "g": "Foundations"}
+{"id": "JAH-HLDN-000010", "t": "The Determinism Verification Procedure", "g": "Foundations"}
+{"id": "JAH-HLDN-000011", "t": "Deriving the Height Band from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000012", "t": "Deriving the Build Band from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000013", "t": "Deriving the Skin-Tone Band from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000014", "t": "Deriving Hair Texture from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000015", "t": "Deriving Hair Shade from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000016", "t": "Deriving Eye Color from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000017", "t": "Deriving the Face Width Ratio from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000018", "t": "Deriving the Jaw Angle from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000019", "t": "Deriving Nose Bridge Geometry from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000020", "t": "Deriving Brow Density from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000021", "t": "Deriving Lip Fullness from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000022", "t": "Deriving Freckle Density from a Sequence", "g": "Compounded"}
+{"id": "JAH-HLDN-000023", "t": "Combining All Traits into One Representation", "g": "Advanced"}
+{"id": "JAH-HLDN-000024", "t": "Full Likeness Derivation A: Sequence HLX-0001", "g": "Advanced"}
+{"id": "JAH-HLDN-000025", "t": "Full Likeness Derivation B: Sequence HLX-0002", "g": "Advanced"}
+{"id": "JAH-HLDN-000026", "t": "Full Likeness Derivation C: Sequence HLX-0003", "g": "Advanced"}
+{"id": "JAH-HLDN-000027", "t": "Full Likeness Derivation D: Sequence HLX-0004", "g": "Advanced"}
+{"id": "JAH-HLDN-000028", "t": "Full Likeness Derivation E: Sequence HLX-0005", "g": "Advanced"}
+{"id": "JAH-HLDN-000029", "t": "Full Likeness Derivation F: Sequence HLX-0006", "g": "Advanced"}
+{"id": "JAH-HLDN-000030", "t": "Full Likeness Derivation G: Sequence HLX-0007", "g": "Advanced"}
+{"id": "JAH-HLDN-000031", "t": "Full Likeness Derivation H: Sequence HLX-0008", "g": "Advanced"}
+{"id": "JAH-HLDN-000032", "t": "The Determinism Proof: Same Sequence, Byte-Identical Representation", "g": "Advanced"}
+{"id": "JAH-HLDN-000033", "t": "The Sensitivity Check: One Base Changed, a Different Representation", "g": "Advanced"}
+{"id": "JAH-HLDN-000034", "t": "The Generator Record: The Working Pipeline", "g": "Advanced"}

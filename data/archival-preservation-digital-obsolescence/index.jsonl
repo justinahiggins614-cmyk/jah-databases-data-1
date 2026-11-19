@@ -1,0 +1,34 @@
+{"id": "JAH-APDO-000001", "t": "What Digital Preservation Is: Keeping Bits Meaningful", "g": "Foundations"}
+{"id": "JAH-APDO-000002", "t": "Bit Rot and Media Decay: The Slow Enemies", "g": "Foundations"}
+{"id": "JAH-APDO-000003", "t": "Checksums and Fixity: Proving Nothing Changed", "g": "Foundations"}
+{"id": "JAH-APDO-000004", "t": "The Checksum Manifest: SHA-256 Inventories", "g": "Foundations"}
+{"id": "JAH-APDO-000005", "t": "File Formats: Open Beats Proprietary", "g": "Foundations"}
+{"id": "JAH-APDO-000006", "t": "Format Registries: PRONOM and Identification", "g": "Foundations"}
+{"id": "JAH-APDO-000007", "t": "The OAIS Model: ISO 14721 Reference", "g": "Foundations"}
+{"id": "JAH-APDO-000008", "t": "SIPs, AIPs, DIPs: Packages Through the Lifecycle", "g": "Foundations"}
+{"id": "JAH-APDO-000009", "t": "Redundancy: Multiple Copies, Multiple Places", "g": "Foundations"}
+{"id": "JAH-APDO-000010", "t": "Backup vs Archiving: Last Tuesday vs 2076", "g": "Foundations"}
+{"id": "JAH-APDO-000011", "t": "Metadata for Preservation: PREMIS Basics", "g": "Foundations"}
+{"id": "JAH-APDO-000012", "t": "The Designated Community: Preserving For Whom", "g": "Foundations"}
+{"id": "JAH-APDO-000013", "t": "Format Obsolescence: How Formats Die", "g": "Compounded"}
+{"id": "JAH-APDO-000014", "t": "Obsolescence Risk Scoring", "g": "Compounded"}
+{"id": "JAH-APDO-000015", "t": "Migration: Moving Content to New Formats", "g": "Compounded"}
+{"id": "JAH-APDO-000016", "t": "Emulation: Running Old Software Forever", "g": "Compounded"}
+{"id": "JAH-APDO-000017", "t": "Normalization: One Archival Format Per Type", "g": "Compounded"}
+{"id": "JAH-APDO-000018", "t": "Fixity Checking Schedules", "g": "Compounded"}
+{"id": "JAH-APDO-000019", "t": "Repair from Redundant Copies", "g": "Compounded"}
+{"id": "JAH-APDO-000020", "t": "LOCKSS: Lots of Copies Keep Stuff Safe", "g": "Compounded"}
+{"id": "JAH-APDO-000021", "t": "PREMIS in Depth: Objects, Events, Agents, Rights", "g": "Compounded"}
+{"id": "JAH-APDO-000022", "t": "Preservation Metadata in Practice", "g": "Compounded"}
+{"id": "JAH-APDO-000023", "t": "Disaster Planning for Archives", "g": "Compounded"}
+{"id": "JAH-APDO-000024", "t": "Succession Planning: Surviving the Founders", "g": "Compounded"}
+{"id": "JAH-APDO-000025", "t": "Format-Migration Plans: The Full Playbook", "g": "Advanced"}
+{"id": "JAH-APDO-000026", "t": "Significant Properties: What Must Survive Migration", "g": "Advanced"}
+{"id": "JAH-APDO-000027", "t": "Validation After Migration: Proving Fidelity", "g": "Advanced"}
+{"id": "JAH-APDO-000028", "t": "Checksum Manifests at Scale", "g": "Advanced"}
+{"id": "JAH-APDO-000029", "t": "Recovery Procedures: The Full Drill", "g": "Advanced"}
+{"id": "JAH-APDO-000030", "t": "Forensic Recovery: Reading Dead Media", "g": "Advanced"}
+{"id": "JAH-APDO-000031", "t": "Cryptographic Timestamping: Proving When", "g": "Advanced"}
+{"id": "JAH-APDO-000032", "t": "Preservation Cost Modeling", "g": "Advanced"}
+{"id": "JAH-APDO-000033", "t": "Auditing Archives: TRAC and ISO 16363", "g": "Advanced"}
+{"id": "JAH-APDO-000034", "t": "The 100-Year Archive: Designing for Deep Time", "g": "Advanced"}

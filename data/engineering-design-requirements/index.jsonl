@@ -1,0 +1,34 @@
+{"id": "JAH-EDR-000001", "t": "What Makes a Good Requirement", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000002", "t": "Functional vs Non-Functional", "g": "specification-writing"}
+{"id": "JAH-EDR-000003", "t": "Stakeholder Elicitation", "g": "verification-planning"}
+{"id": "JAH-EDR-000004", "t": "Writing Shall Statements", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000005", "t": "Quantifying Requirements", "g": "specification-writing"}
+{"id": "JAH-EDR-000006", "t": "Traceability Matrix", "g": "verification-planning"}
+{"id": "JAH-EDR-000007", "t": "Verification Methods", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000008", "t": "Validation vs Verification", "g": "specification-writing"}
+{"id": "JAH-EDR-000009", "t": "Requirements Reviews", "g": "verification-planning"}
+{"id": "JAH-EDR-000010", "t": "Managing Changes", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000011", "t": "The Requirements Playbook", "g": "specification-writing"}
+{"id": "JAH-EDR-000012", "t": "SMART Requirements", "g": "verification-planning"}
+{"id": "JAH-EDR-000013", "t": "Use Cases", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000014", "t": "User Stories (Agile)", "g": "specification-writing"}
+{"id": "JAH-EDR-000015", "t": "Acceptance Criteria", "g": "verification-planning"}
+{"id": "JAH-EDR-000016", "t": "Constraint Requirements", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000017", "t": "Interface Requirements", "g": "specification-writing"}
+{"id": "JAH-EDR-000018", "t": "Safety Requirements", "g": "verification-planning"}
+{"id": "JAH-EDR-000019", "t": "Reliability Requirements", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000020", "t": "Environmental Requirements", "g": "specification-writing"}
+{"id": "JAH-EDR-000021", "t": "Regulatory Requirements", "g": "verification-planning"}
+{"id": "JAH-EDR-000022", "t": "Derived Requirements", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000023", "t": "Assumptions and Dependencies", "g": "specification-writing"}
+{"id": "JAH-EDR-000024", "t": "Glossary and Definitions", "g": "verification-planning"}
+{"id": "JAH-EDR-000025", "t": "Requirements Tools", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000026", "t": "Baselining", "g": "specification-writing"}
+{"id": "JAH-EDR-000027", "t": "Bidirectional Traceability", "g": "verification-planning"}
+{"id": "JAH-EDR-000028", "t": "Coverage Analysis", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000029", "t": "Requirements Metrics", "g": "specification-writing"}
+{"id": "JAH-EDR-000030", "t": "Prototyping Requirements", "g": "verification-planning"}
+{"id": "JAH-EDR-000031", "t": "A/B Requirements", "g": "requirements-elicitation"}
+{"id": "JAH-EDR-000032", "t": "Legacy Requirements Mining", "g": "specification-writing"}
+{"id": "JAH-EDR-000033", "t": "Requirements Reuse", "g": "verification-planning"}
+{"id": "JAH-EDR-000034", "t": "The Elicitation Workshop", "g": "requirements-elicitation"}

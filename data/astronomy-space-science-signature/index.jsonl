@@ -1,0 +1,34 @@
+{"id": "JAH-ASSS-000001", "t": "Astronomy and Space Science Signature Database: Light Travel Time (1 AU)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000002", "t": "Astronomy and Space Science Signature Database: Parsec to Light-Years", "c": 0, "g": "distances"}
+{"id": "JAH-ASSS-000003", "t": "Astronomy and Space Science Signature Database: Kepler Third Law (solar)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000004", "t": "Astronomy and Space Science Signature Database: Orbital Period (Earth)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000005", "t": "Astronomy and Space Science Signature Database: Distance Modulus", "c": 0, "g": "distances"}
+{"id": "JAH-ASSS-000006", "t": "Astronomy and Space Science Signature Database: Absolute Magnitude", "c": 0, "g": "distances"}
+{"id": "JAH-ASSS-000007", "t": "Astronomy and Space Science Signature Database: Stellar Luminosity (Sun)", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000008", "t": "Astronomy and Space Science Signature Database: Stefan-Boltzmann Flux", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000009", "t": "Astronomy and Space Science Signature Database: Wien Displacement", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000010", "t": "Astronomy and Space Science Signature Database: Hubble Law", "c": 0, "g": "cosmology"}
+{"id": "JAH-ASSS-000011", "t": "Astronomy and Space Science Signature Database: Redshift", "c": 0, "g": "cosmology"}
+{"id": "JAH-ASSS-000012", "t": "Astronomy and Space Science Signature Database: Roche Limit (fluid)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000013", "t": "Astronomy and Space Science Signature Database: Synodic Period", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000014", "t": "Astronomy and Space Science Signature Database: Hill Sphere (Earth)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000015", "t": "Astronomy and Space Science Signature Database: Magnitude Difference", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000016", "t": "Astronomy and Space Science Signature Database: Flux Ratio", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000017", "t": "Astronomy and Space Science Signature Database: Angular Size (Moon)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000018", "t": "Astronomy and Space Science Signature Database: Parallax Distance", "c": 0, "g": "distances"}
+{"id": "JAH-ASSS-000019", "t": "Astronomy and Space Science Signature Database: Main-Sequence Lifetime", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000020", "t": "Astronomy and Space Science Signature Database: Mass-Luminosity", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000021", "t": "Astronomy and Space Science Signature Database: Surface Gravity (Sun)", "c": 0, "g": "stars"}
+{"id": "JAH-ASSS-000022", "t": "Astronomy and Space Science Signature Database: Planet Density (Earth)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000023", "t": "Astronomy and Space Science Signature Database: Geostationary Radius", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000024", "t": "Astronomy and Space Science Signature Database: Redshift Velocity", "c": 0, "g": "cosmology"}
+{"id": "JAH-ASSS-000025", "t": "Astronomy and Space Science Signature Database: Solar Flux at Mars", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000026", "t": "Astronomy and Space Science Signature Database: Equilibrium Temperature", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000027", "t": "Astronomy and Space Science Signature Database: Escape Velocity (Moon)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000028", "t": "Astronomy and Space Science Signature Database: Orbital Period (Moon)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000029", "t": "Astronomy and Space Science Signature Database: Orbital Angular Momentum", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000030", "t": "Astronomy and Space Science Signature Database: Schwarzschild Radius (Earth)", "c": 0, "g": "modern"}
+{"id": "JAH-ASSS-000031", "t": "Astronomy and Space Science Signature Database: Roche Limit (rigid)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000032", "t": "Astronomy and Space Science Signature Database: Light Travel (Sun-Pluto)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASSS-000033", "t": "Astronomy and Space Science Signature Database: Orbital Velocity (Earth)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASSS-000034", "t": "Astronomy and Space Science Signature Database: Hubble Time Capstone", "c": 0, "g": "cosmology"}

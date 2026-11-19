@@ -1,0 +1,34 @@
+{"id": "JAH-MPIS-000001", "t": "Manufacturing Process Intelligence Signature Database: Turning Material Removal Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000002", "t": "Manufacturing Process Intelligence Signature Database: Cutting Speed From RPM", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000003", "t": "Manufacturing Process Intelligence Signature Database: Spindle RPM From Cutting Speed", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000004", "t": "Manufacturing Process Intelligence Signature Database: Milling Material Removal Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000005", "t": "Manufacturing Process Intelligence Signature Database: Feed Per Tooth", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000006", "t": "Manufacturing Process Intelligence Signature Database: Drilling Material Removal Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000007", "t": "Manufacturing Process Intelligence Signature Database: Drilling Time", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000008", "t": "Manufacturing Process Intelligence Signature Database: Tapping Feed Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000009", "t": "Manufacturing Process Intelligence Signature Database: Grinding Wheel Surface Speed", "c": 0, "g": "machining"}
+{"id": "JAH-MPIS-000010", "t": "Manufacturing Process Intelligence Signature Database: 3D Print Time Estimate", "c": 0, "g": "additive"}
+{"id": "JAH-MPIS-000011", "t": "Manufacturing Process Intelligence Signature Database: Filament Volume Used", "c": 0, "g": "additive"}
+{"id": "JAH-MPIS-000012", "t": "Manufacturing Process Intelligence Signature Database: Injection Molding Clamp Force", "c": 0, "g": "molding"}
+{"id": "JAH-MPIS-000013", "t": "Manufacturing Process Intelligence Signature Database: Injection Shot Volume", "c": 0, "g": "molding"}
+{"id": "JAH-MPIS-000014", "t": "Manufacturing Process Intelligence Signature Database: Molding Cooling Time (Rule of Thumb)", "c": 0, "g": "molding"}
+{"id": "JAH-MPIS-000015", "t": "Manufacturing Process Intelligence Signature Database: Casting Solidification (Chvorinov)", "c": 0, "g": "molding"}
+{"id": "JAH-MPIS-000016", "t": "Manufacturing Process Intelligence Signature Database: Welding Heat Input", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000017", "t": "Manufacturing Process Intelligence Signature Database: Sheet Metal Bend Allowance", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000018", "t": "Manufacturing Process Intelligence Signature Database: Air Bending Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000019", "t": "Manufacturing Process Intelligence Signature Database: Punching Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000020", "t": "Manufacturing Process Intelligence Signature Database: Deep Drawing Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000021", "t": "Manufacturing Process Intelligence Signature Database: Extrusion Pressure", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000022", "t": "Manufacturing Process Intelligence Signature Database: Rolling Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000023", "t": "Manufacturing Process Intelligence Signature Database: Rolling Power", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000024", "t": "Manufacturing Process Intelligence Signature Database: Laser Power Density", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000025", "t": "Manufacturing Process Intelligence Signature Database: Waterjet Orifice Velocity", "c": 0, "g": "joining"}
+{"id": "JAH-MPIS-000026", "t": "Manufacturing Process Intelligence Signature Database: Manufacturing Cycle Time", "c": 0, "g": "workflow"}
+{"id": "JAH-MPIS-000027", "t": "Manufacturing Process Intelligence Signature Database: OEE", "c": 0, "g": "workflow"}
+{"id": "JAH-MPIS-000028", "t": "Manufacturing Process Intelligence Signature Database: Takt Time", "c": 0, "g": "workflow"}
+{"id": "JAH-MPIS-000029", "t": "Manufacturing Process Intelligence Signature Database: Kanban Quantity", "c": 0, "g": "workflow"}
+{"id": "JAH-MPIS-000030", "t": "Manufacturing Process Intelligence Signature Database: EOQ", "c": 0, "g": "workflow"}
+{"id": "JAH-MPIS-000031", "t": "Manufacturing Process Intelligence Signature Database: Process Capability Cpk", "c": 0, "g": "quality"}
+{"id": "JAH-MPIS-000032", "t": "Manufacturing Process Intelligence Signature Database: X-Bar Control Limits", "c": 0, "g": "quality"}
+{"id": "JAH-MPIS-000033", "t": "Manufacturing Process Intelligence Signature Database: Theoretical Surface Roughness (Turning)", "c": 0, "g": "quality"}
+{"id": "JAH-MPIS-000034", "t": "Manufacturing Process Intelligence Signature Database: Rolled Throughput Yield", "c": 0, "g": "quality"}

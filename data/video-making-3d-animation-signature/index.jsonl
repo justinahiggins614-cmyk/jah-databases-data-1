@@ -1,0 +1,34 @@
+{"id": "JAH-VM3DS-0001", "t": "Polygonal Modeling Basics", "g": "Foundations"}
+{"id": "JAH-VM3DS-0002", "t": "Topology: Edge Flow That Deforms", "g": "Foundations"}
+{"id": "JAH-VM3DS-0003", "t": "UV Unwrapping Without Tears", "g": "Foundations"}
+{"id": "JAH-VM3DS-0004", "t": "PBR Texturing: Albedo to Roughness", "g": "Foundations"}
+{"id": "JAH-VM3DS-0005", "t": "Lighting a 3D Scene", "g": "Foundations"}
+{"id": "JAH-VM3DS-0006", "t": "Cameras in 3D: Lenses That Match", "g": "Foundations"}
+{"id": "JAH-VM3DS-0007", "t": "Keyframe Animation in 3D", "g": "Foundations"}
+{"id": "JAH-VM3DS-0008", "t": "Rigging: Bones That Bend Right", "g": "Foundations"}
+{"id": "JAH-VM3DS-0009", "t": "Rendering Basics: Samples and Noise", "g": "Foundations"}
+{"id": "JAH-VM3DS-0010", "t": "Materials and Shaders", "g": "Foundations"}
+{"id": "JAH-VM3DS-0011", "t": "Layout and Previs in 3D", "g": "Foundations"}
+{"id": "JAH-VM3DS-0012", "t": "Facial Rigging and Blend Shapes", "g": "Compounded"}
+{"id": "JAH-VM3DS-0013", "t": "Cloth Simulation", "g": "Compounded"}
+{"id": "JAH-VM3DS-0014", "t": "Fluid and Destruction FX", "g": "Compounded"}
+{"id": "JAH-VM3DS-0015", "t": "Character Animation: Body Mechanics", "g": "Compounded"}
+{"id": "JAH-VM3DS-0016", "t": "Character Animation: Acting Shots", "g": "Compounded"}
+{"id": "JAH-VM3DS-0017", "t": "Crowds and Instancing", "g": "Compounded"}
+{"id": "JAH-VM3DS-0018", "t": "Real-Time Rendering (Game Engines)", "g": "Compounded"}
+{"id": "JAH-VM3DS-0019", "t": "Look Development (Lookdev)", "g": "Compounded"}
+{"id": "JAH-VM3DS-0020", "t": "The 3D Production Pipeline (USD)", "g": "Compounded"}
+{"id": "JAH-VM3DS-0021", "t": "Sculpting and Retopology", "g": "Advanced"}
+{"id": "JAH-VM3DS-0022", "t": "Groom: Hair, Fur, Feathers", "g": "Advanced"}
+{"id": "JAH-VM3DS-0023", "t": "Advanced Character Rigs", "g": "Advanced"}
+{"id": "JAH-VM3DS-0024", "t": "Lighting for Animation (Stylized)", "g": "Advanced"}
+{"id": "JAH-VM3DS-0025", "t": "Render Optimization at Scale", "g": "Advanced"}
+{"id": "JAH-VM3DS-0026", "t": "Building a 3D Reel and Career", "g": "Advanced"}
+{"id": "JAH-VM3DS-0027", "t": "Navigating 3D Software: Viewports and Interface", "g": "Foundations"}
+{"id": "JAH-VM3DS-0028", "t": "Procedural Modeling and Modifiers", "g": "Compounded"}
+{"id": "JAH-VM3DS-0029", "t": "Texture Painting and Detail Passes", "g": "Compounded"}
+{"id": "JAH-VM3DS-0030", "t": "Volumetrics: Smoke, Clouds, and Fog", "g": "Advanced"}
+{"id": "JAH-VM3DS-0031", "t": "Facial Performance Capture", "g": "Advanced"}
+{"id": "JAH-VM3DS-0032", "t": "Rigid Body Destruction Workflows", "g": "Advanced"}
+{"id": "JAH-VM3DS-0033", "t": "AOVs and the Lighting Pipeline", "g": "Advanced"}
+{"id": "JAH-VM3DS-0034", "t": "Stylized Rendering: NPR Techniques", "g": "Advanced"}

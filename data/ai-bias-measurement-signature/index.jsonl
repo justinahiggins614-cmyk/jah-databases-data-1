@@ -1,0 +1,34 @@
+{"id": "JAH-ABM-000001", "t": "Signature What Counts as AI Bias (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000002", "t": "Signature Disparate Impact (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000003", "t": "Signature Demographic Parity (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000004", "t": "Signature Equalized Odds (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000005", "t": "Signature Equal Opportunity (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000006", "t": "Signature Calibration Across Groups (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000007", "t": "Signature Individual Fairness (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000008", "t": "Signature Counterfactual Fairness (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000009", "t": "Signature Bias in Training Data (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000010", "t": "Signature Representation Analysis (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000011", "t": "Signature Label Bias Detection (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000012", "t": "Signature NLP Bias Tests (WEAT/SEAT) (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000013", "t": "Signature LLM Bias Benchmarks (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000014", "t": "Signature Vision Model Bias (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000015", "t": "Signature Speech Model Bias (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000016", "t": "Signature Recommender Bias (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000017", "t": "Signature Hiring AI Audits (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000018", "t": "Signature Lending Fairness Tests (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000019", "t": "Signature Healthcare AI Bias (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000020", "t": "Signature Intersectional Analysis (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000021", "t": "Signature Bias Dashboards (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000022", "t": "Signature A/B Testing for Fairness (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000023", "t": "Signature Mitigation: Pre-processing (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000024", "t": "Signature Mitigation: In-processing (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000025", "t": "Signature Mitigation: Post-processing (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000026", "t": "Signature Documenting Bias Findings (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000027", "t": "Signature Stakeholder Review (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000028", "t": "Signature The Bias Measurement Playbook (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000029", "t": "Signature Fairness Toolkits (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000030", "t": "Signature Bias in Human Labels (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000031", "t": "Signature Temporal Bias Drift (Signature Edition)", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000032", "t": "Signature Proxy Discrimination (Signature Edition)", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000033", "t": "Signature Explainability for Bias (Signature Edition)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000034", "t": "Signature Red-Teaming for Bias (Signature Edition)", "g": "bias-detection-methods"}

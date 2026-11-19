@@ -1,0 +1,34 @@
+{"id": "JAH-IMNF-000001", "t": "What Neural Radiance Fields Are", "g": "Foundations"}
+{"id": "JAH-IMNF-000002", "t": "Capturing for NeRF", "g": "Foundations"}
+{"id": "JAH-IMNF-000003", "t": "Training: What Happens", "g": "Foundations"}
+{"id": "JAH-IMNF-000004", "t": "Instant-NGP: NeRFs in Minutes", "g": "Foundations"}
+{"id": "JAH-IMNF-000005", "t": "NeRF vs Photogrammetry", "g": "Foundations"}
+{"id": "JAH-IMNF-000006", "t": "Rendering Novel Views", "g": "Foundations"}
+{"id": "JAH-IMNF-000007", "t": "Dynamic NeRFs: Moving Scenes", "g": "Foundations"}
+{"id": "JAH-IMNF-000008", "t": "NeRFs for VFX Production", "g": "Foundations"}
+{"id": "JAH-IMNF-000009", "t": "3D Gaussian Splatting: The Challenger", "g": "Foundations"}
+{"id": "JAH-IMNF-000010", "t": "Editing NeRF Scenes", "g": "Foundations"}
+{"id": "JAH-IMNF-000011", "t": "NeRFs on Mobile", "g": "Foundations"}
+{"id": "JAH-IMNF-000012", "t": "The Business of Volumetric Capture", "g": "Compounded"}
+{"id": "JAH-IMNF-000013", "t": "Ethics of Navigable Captures", "g": "Compounded"}
+{"id": "JAH-IMNF-000014", "t": "COLMAP Deep Dive", "g": "Compounded"}
+{"id": "JAH-IMNF-000015", "t": "Camera Pose Troubleshooting", "g": "Compounded"}
+{"id": "JAH-IMNF-000016", "t": "Lighting for NeRF Capture", "g": "Compounded"}
+{"id": "JAH-IMNF-000017", "t": "Reflective Surfaces in NeRF", "g": "Compounded"}
+{"id": "JAH-IMNF-000018", "t": "Outdoor Scene Capture", "g": "Compounded"}
+{"id": "JAH-IMNF-000019", "t": "Indoor Room Capture", "g": "Compounded"}
+{"id": "JAH-IMNF-000020", "t": "Object Turntable Capture", "g": "Compounded"}
+{"id": "JAH-IMNF-000021", "t": "Drone Capture for NeRF", "g": "Compounded"}
+{"id": "JAH-IMNF-000022", "t": "Mesh Extraction from NeRF", "g": "Compounded"}
+{"id": "JAH-IMNF-000023", "t": "Depth Map Export", "g": "Compounded"}
+{"id": "JAH-IMNF-000024", "t": "Dynamic Scene Frontiers", "g": "Advanced"}
+{"id": "JAH-IMNF-000025", "t": "Relighting NeRFs", "g": "Advanced"}
+{"id": "JAH-IMNF-000026", "t": "Semantic Segmentation in NeRF", "g": "Advanced"}
+{"id": "JAH-IMNF-000027", "t": "Large-Scale Scene Tiling", "g": "Advanced"}
+{"id": "JAH-IMNF-000028", "t": "Real-Time Viewers Compared", "g": "Advanced"}
+{"id": "JAH-IMNF-000029", "t": "Web Delivery of Volumetric", "g": "Advanced"}
+{"id": "JAH-IMNF-000030", "t": "NeRFs in Unreal/Unity", "g": "Advanced"}
+{"id": "JAH-IMNF-000031", "t": "Commercial Licensing of Captures", "g": "Advanced"}
+{"id": "JAH-IMNF-000032", "t": "Privacy Law for Volumetric Capture", "g": "Advanced"}
+{"id": "JAH-IMNF-000033", "t": "Teaching Volumetric Capture", "g": "Advanced"}
+{"id": "JAH-IMNF-000034", "t": "The Volumetric Studio Business", "g": "Advanced"}

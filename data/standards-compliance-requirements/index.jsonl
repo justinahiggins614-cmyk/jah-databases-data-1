@@ -1,0 +1,34 @@
+{"id": "JAH-SCR-000001", "t": "Standards and Compliance Requirements Database: Standard Identification", "c": 0, "g": "standards"}
+{"id": "JAH-SCR-000002", "t": "Standards and Compliance Requirements Database: Version Tracking", "c": 0, "g": "standards"}
+{"id": "JAH-SCR-000003", "t": "Standards and Compliance Requirements Database: Gap Assessment", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000004", "t": "Standards and Compliance Requirements Database: Implementation Plan", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000005", "t": "Standards and Compliance Requirements Database: Test Procedures", "c": 0, "g": "testing"}
+{"id": "JAH-SCR-000006", "t": "Standards and Compliance Requirements Database: ISO 9001", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000007", "t": "Standards and Compliance Requirements Database: ISO 27001", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000008", "t": "Standards and Compliance Requirements Database: SOC 2", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000009", "t": "Standards and Compliance Requirements Database: CE Marking", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000010", "t": "Standards and Compliance Requirements Database: UL Listing", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000011", "t": "Standards and Compliance Requirements Database: FCC Compliance", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000012", "t": "Standards and Compliance Requirements Database: PCI DSS", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000013", "t": "Standards and Compliance Requirements Database: NIST CSF", "c": 0, "g": "frameworks"}
+{"id": "JAH-SCR-000014", "t": "Standards and Compliance Requirements Database: CIS Benchmarks", "c": 0, "g": "frameworks"}
+{"id": "JAH-SCR-000015", "t": "Standards and Compliance Requirements Database: GDPR Compliance", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000016", "t": "Standards and Compliance Requirements Database: CCPA Compliance", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000017", "t": "Standards and Compliance Requirements Database: RoHS", "c": 0, "g": "environmental"}
+{"id": "JAH-SCR-000018", "t": "Standards and Compliance Requirements Database: REACH", "c": 0, "g": "environmental"}
+{"id": "JAH-SCR-000019", "t": "Standards and Compliance Requirements Database: WCAG Accessibility", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000020", "t": "Standards and Compliance Requirements Database: OSHA Safety", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000021", "t": "Standards and Compliance Requirements Database: Audit Preparation", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000022", "t": "Standards and Compliance Requirements Database: Evidence Collection", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000023", "t": "Standards and Compliance Requirements Database: Corrective Actions", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000024", "t": "Standards and Compliance Requirements Database: Management Review", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000025", "t": "Standards and Compliance Requirements Database: Internal Audit", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000026", "t": "Standards and Compliance Requirements Database: Surveillance Audit", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000027", "t": "Standards and Compliance Requirements Database: Recertification", "c": 0, "g": "certification"}
+{"id": "JAH-SCR-000028", "t": "Standards and Compliance Requirements Database: Energy Star", "c": 0, "g": "environmental"}
+{"id": "JAH-SCR-000029", "t": "Standards and Compliance Requirements Database: Document Control", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000030", "t": "Standards and Compliance Requirements Database: Training Records", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000031", "t": "Standards and Compliance Requirements Database: Calibration", "c": 0, "g": "testing"}
+{"id": "JAH-SCR-000032", "t": "Standards and Compliance Requirements Database: Supplier Compliance", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000033", "t": "Standards and Compliance Requirements Database: Regulatory Change", "c": 0, "g": "compliance"}
+{"id": "JAH-SCR-000034", "t": "Standards and Compliance Requirements Database: Capstone: Compliance Program", "c": 0, "g": "compliance"}

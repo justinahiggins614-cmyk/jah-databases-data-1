@@ -1,0 +1,34 @@
+{"id": "JAH-ACC-000001", "t": "Signature What Is Calibration (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000002", "t": "Signature Measuring Calibration (ECE) (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000003", "t": "Signature Overconfidence Problem (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000004", "t": "Signature Temperature Scaling (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000005", "t": "Signature Platt Scaling (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000006", "t": "Signature Isotonic Regression (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000007", "t": "Signature Calibration During Training (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000008", "t": "Signature Ensembles and Calibration (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000009", "t": "Signature Conformal Prediction (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000010", "t": "Signature Selective Prediction (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000011", "t": "Signature Confidence in LLMs (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000012", "t": "Signature Hallucination and Confidence (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000013", "t": "Signature Decision Thresholds (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000014", "t": "Signature Cost-Sensitive Calibration (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000015", "t": "Signature Calibration for Regression (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000016", "t": "Signature Out-of-Distribution Detection (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000017", "t": "Signature Human-AI Teaming (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000018", "t": "Signature Explaining Uncertainty (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000019", "t": "Signature Calibration Datasets (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000020", "t": "Signature Monitoring Calibration Live (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000021", "t": "Signature Recalibration Cadence (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000022", "t": "Signature Multi-Class Calibration (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000023", "t": "Signature Calibration and Fairness (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000024", "t": "Signature Bayesian Approaches (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000025", "t": "Signature Evidential Deep Learning (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000026", "t": "Signature Calibration in Production ML (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000027", "t": "Signature Testing Calibration (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000028", "t": "Signature Common Pitfalls (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000029", "t": "Signature The Honest AI Checklist (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000030", "t": "Signature Proper Scoring Rules (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000031", "t": "Signature Calibration for Ranking (Signature Edition)", "g": "calibration-methods"}
+{"id": "JAH-ACC-000032", "t": "Signature When Not to Trust Confidence (Signature Edition)", "g": "uncertainty-quantification"}
+{"id": "JAH-ACC-000033", "t": "Signature Calibration Case Study (Signature Edition)", "g": "trustworthy-deployment"}
+{"id": "JAH-ACC-000034", "t": "Signature Calibration Leaderboard (Signature Edition)", "g": "calibration-methods"}

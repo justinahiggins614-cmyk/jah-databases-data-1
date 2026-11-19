@@ -1,0 +1,34 @@
+{"id": "JAH-UBS-000001", "t": "What Is a Build Specification", "g": "Foundations"}
+{"id": "JAH-UBS-000002", "t": "The Request-to-Specification Pipeline", "g": "Foundations"}
+{"id": "JAH-UBS-000003", "t": "Anatomy of a Complete Build Specification", "g": "Foundations"}
+{"id": "JAH-UBS-000004", "t": "Writing Objectives That Mean Something", "g": "Foundations"}
+{"id": "JAH-UBS-000005", "t": "Deliverables: Defining What Done Looks Like", "g": "Foundations"}
+{"id": "JAH-UBS-000006", "t": "Functional Requirements: What the System Must Do", "g": "Foundations"}
+{"id": "JAH-UBS-000007", "t": "Non-Functional Requirements: How Well It Must Do It", "g": "Foundations"}
+{"id": "JAH-UBS-000008", "t": "Constraints: Budget, Time, Physics, and Law", "g": "Foundations"}
+{"id": "JAH-UBS-000009", "t": "Assumptions, Dependencies, and External Interfaces", "g": "Foundations"}
+{"id": "JAH-UBS-000010", "t": "Acceptance Criteria: The Rules of Sign-Off", "g": "Foundations"}
+{"id": "JAH-UBS-000011", "t": "Verification Plans: Proving the Build", "g": "Foundations"}
+{"id": "JAH-UBS-000012", "t": "Stakeholder Mapping and Requirements Elicitation", "g": "Compounded"}
+{"id": "JAH-UBS-000013", "t": "Scope Control: Change Requests and Creep", "g": "Compounded"}
+{"id": "JAH-UBS-000014", "t": "Requirements Traceability Matrices", "g": "Compounded"}
+{"id": "JAH-UBS-000015", "t": "Risk Registers Inside the Specification", "g": "Compounded"}
+{"id": "JAH-UBS-000016", "t": "Interface Specifications and Control Documents", "g": "Compounded"}
+{"id": "JAH-UBS-000017", "t": "Software Build Specifications", "g": "Compounded"}
+{"id": "JAH-UBS-000018", "t": "Hardware Build Specifications", "g": "Compounded"}
+{"id": "JAH-UBS-000019", "t": "Device and Embedded Build Specifications", "g": "Compounded"}
+{"id": "JAH-UBS-000020", "t": "Systems Integration Specifications", "g": "Compounded"}
+{"id": "JAH-UBS-000021", "t": "Safety and Regulatory Compliance in Specifications", "g": "Compounded"}
+{"id": "JAH-UBS-000022", "t": "Specification Versioning and Baselines", "g": "Compounded"}
+{"id": "JAH-UBS-000023", "t": "Cost Estimation and Resource Planning", "g": "Compounded"}
+{"id": "JAH-UBS-000024", "t": "Prototypes, MVPs, and Phase Gates", "g": "Compounded"}
+{"id": "JAH-UBS-000025", "t": "Model-Based Systems Engineering Specifications", "g": "Advanced"}
+{"id": "JAH-UBS-000026", "t": "Specification Standards: IEEE 29148 and Friends", "g": "Advanced"}
+{"id": "JAH-UBS-000027", "t": "AI-Assisted Specification Generation and Review", "g": "Advanced"}
+{"id": "JAH-UBS-000028", "t": "Specifying Machine Learning Systems", "g": "Advanced"}
+{"id": "JAH-UBS-000029", "t": "Specifying Cyber-Physical Systems", "g": "Advanced"}
+{"id": "JAH-UBS-000030", "t": "Contracts and Statements of Work", "g": "Advanced"}
+{"id": "JAH-UBS-000031", "t": "Executable Specifications and Digital Twins", "g": "Advanced"}
+{"id": "JAH-UBS-000032", "t": "Failure Analysis in Specifications: FMEA and FTA", "g": "Advanced"}
+{"id": "JAH-UBS-000033", "t": "Formal Specification Reviews and Inspections", "g": "Advanced"}
+{"id": "JAH-UBS-000034", "t": "From Specification to Manufacture: The Build Handoff", "g": "Advanced"}

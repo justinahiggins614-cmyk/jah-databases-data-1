@@ -1,0 +1,34 @@
+{"id": "JAH-APDOS-000001", "t": "What Digital Preservation Is: Keeping Bits Meaningful (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000002", "t": "Bit Rot and Media Decay: The Slow Enemies (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000003", "t": "Checksums and Fixity: Proving Nothing Changed (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000004", "t": "The Checksum Manifest: SHA-256 Inventories (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000005", "t": "File Formats: Open Beats Proprietary (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000006", "t": "Format Registries: PRONOM and Identification (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000007", "t": "The OAIS Model: ISO 14721 Reference (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000008", "t": "SIPs, AIPs, DIPs: Packages Through the Lifecycle (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000009", "t": "Redundancy: Multiple Copies, Multiple Places (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000010", "t": "Backup vs Archiving: Last Tuesday vs 2076 (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000011", "t": "Metadata for Preservation: PREMIS Basics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000012", "t": "The Designated Community: Preserving For Whom (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-APDOS-000013", "t": "Format Obsolescence: How Formats Die (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000014", "t": "Obsolescence Risk Scoring (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000015", "t": "Migration: Moving Content to New Formats (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000016", "t": "Emulation: Running Old Software Forever (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000017", "t": "Normalization: One Archival Format Per Type (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000018", "t": "Fixity Checking Schedules (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000019", "t": "Repair from Redundant Copies (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000020", "t": "LOCKSS: Lots of Copies Keep Stuff Safe (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000021", "t": "PREMIS in Depth: Objects, Events, Agents, Rights (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000022", "t": "Preservation Metadata in Practice (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000023", "t": "Disaster Planning for Archives (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000024", "t": "Succession Planning: Surviving the Founders (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-APDOS-000025", "t": "Format-Migration Plans: The Full Playbook (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000026", "t": "Significant Properties: What Must Survive Migration (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000027", "t": "Validation After Migration: Proving Fidelity (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000028", "t": "Checksum Manifests at Scale (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000029", "t": "Recovery Procedures: The Full Drill (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000030", "t": "Forensic Recovery: Reading Dead Media (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000031", "t": "Cryptographic Timestamping: Proving When (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000032", "t": "Preservation Cost Modeling (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000033", "t": "Auditing Archives: TRAC and ISO 16363 (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-APDOS-000034", "t": "The 100-Year Archive: Designing for Deep Time (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-AFMS-000001", "t": "Accounting and Financial Modeling Signature Database: Revenue", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000002", "t": "Accounting and Financial Modeling Signature Database: COGS", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000003", "t": "Accounting and Financial Modeling Signature Database: Gross Profit", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000004", "t": "Accounting and Financial Modeling Signature Database: Gross Margin", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000005", "t": "Accounting and Financial Modeling Signature Database: Operating Expenses", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000006", "t": "Accounting and Financial Modeling Signature Database: Operating Income", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000007", "t": "Accounting and Financial Modeling Signature Database: Net Income", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000008", "t": "Accounting and Financial Modeling Signature Database: Net Margin", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000009", "t": "Accounting and Financial Modeling Signature Database: EBITDA", "c": 0, "g": "income-statement"}
+{"id": "JAH-AFMS-000010", "t": "Accounting and Financial Modeling Signature Database: Current Ratio", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000011", "t": "Accounting and Financial Modeling Signature Database: Quick Ratio", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000012", "t": "Accounting and Financial Modeling Signature Database: Debt-to-Equity", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000013", "t": "Accounting and Financial Modeling Signature Database: ROE", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000014", "t": "Accounting and Financial Modeling Signature Database: ROA", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000015", "t": "Accounting and Financial Modeling Signature Database: Asset Turnover", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000016", "t": "Accounting and Financial Modeling Signature Database: DSO", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000017", "t": "Accounting and Financial Modeling Signature Database: Working Capital", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-AFMS-000018", "t": "Accounting and Financial Modeling Signature Database: Free Cash Flow", "c": 0, "g": "cash-flow"}
+{"id": "JAH-AFMS-000019", "t": "Accounting and Financial Modeling Signature Database: NPV", "c": 0, "g": "valuation"}
+{"id": "JAH-AFMS-000020", "t": "Accounting and Financial Modeling Signature Database: Payback Period", "c": 0, "g": "valuation"}
+{"id": "JAH-AFMS-000021", "t": "Accounting and Financial Modeling Signature Database: ROI", "c": 0, "g": "valuation"}
+{"id": "JAH-AFMS-000022", "t": "Accounting and Financial Modeling Signature Database: Budget Variance", "c": 0, "g": "budgeting"}
+{"id": "JAH-AFMS-000023", "t": "Accounting and Financial Modeling Signature Database: Variance %", "c": 0, "g": "budgeting"}
+{"id": "JAH-AFMS-000024", "t": "Accounting and Financial Modeling Signature Database: Cash Runway", "c": 0, "g": "cash-flow"}
+{"id": "JAH-AFMS-000025", "t": "Accounting and Financial Modeling Signature Database: Burn Multiple", "c": 0, "g": "cash-flow"}
+{"id": "JAH-AFMS-000026", "t": "Accounting and Financial Modeling Signature Database: CAC", "c": 0, "g": "saas"}
+{"id": "JAH-AFMS-000027", "t": "Accounting and Financial Modeling Signature Database: LTV", "c": 0, "g": "saas"}
+{"id": "JAH-AFMS-000028", "t": "Accounting and Financial Modeling Signature Database: LTV/CAC", "c": 0, "g": "saas"}
+{"id": "JAH-AFMS-000029", "t": "Accounting and Financial Modeling Signature Database: Rule of 40", "c": 0, "g": "saas"}
+{"id": "JAH-AFMS-000030", "t": "Accounting and Financial Modeling Signature Database: Cash Conversion Cycle", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000031", "t": "Accounting and Financial Modeling Signature Database: Interest Coverage", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000032", "t": "Accounting and Financial Modeling Signature Database: Dividend Payout", "c": 0, "g": "ratios"}
+{"id": "JAH-AFMS-000033", "t": "Accounting and Financial Modeling Signature Database: Book Value per Share", "c": 0, "g": "valuation"}
+{"id": "JAH-AFMS-000034", "t": "Accounting and Financial Modeling Signature Database: Financial Health Capstone", "c": 0, "g": "analysis"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DOBS-000001", "t": "What Data Observability Is", "g": "Observability Basics"}
+{"id": "JAH-DOBS-000002", "t": "The Five Pillars of Observability", "g": "Observability Basics"}
+{"id": "JAH-DOBS-000003", "t": "Freshness Tracking", "g": "Freshness and Volume"}
+{"id": "JAH-DOBS-000004", "t": "SLA Clocks and Watermarks", "g": "Freshness and Volume"}
+{"id": "JAH-DOBS-000005", "t": "Staleness Detection", "g": "Freshness and Volume"}
+{"id": "JAH-DOBS-000006", "t": "Volume Monitoring", "g": "Freshness and Volume"}
+{"id": "JAH-DOBS-000007", "t": "Row-Count Anomalies", "g": "Freshness and Volume"}
+{"id": "JAH-DOBS-000008", "t": "Schema Drift Detection", "g": "Distribution and Drift"}
+{"id": "JAH-DOBS-000009", "t": "Distribution Shift Detection", "g": "Distribution and Drift"}
+{"id": "JAH-DOBS-000010", "t": "Statistical Tests for Drift: KS and PSI", "g": "Distribution and Drift"}
+{"id": "JAH-DOBS-000011", "t": "Missing-Value Reports", "g": "Distribution and Drift"}
+{"id": "JAH-DOBS-000012", "t": "Null-Rate Monitoring", "g": "Distribution and Drift"}
+{"id": "JAH-DOBS-000013", "t": "Anomaly Detection Basics", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBS-000014", "t": "Threshold Alerts vs ML Alerts", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBS-000015", "t": "Alert Routing and On-Call", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBS-000016", "t": "Alert Fatigue and Tuning", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBS-000017", "t": "Pipeline-Failure Records", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000018", "t": "Retry and Backfill Records", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000019", "t": "Data Quality Scores", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000020", "t": "Quality Trend Dashboards", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000021", "t": "Profiling Schedules", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000022", "t": "Freshness for Streaming Data", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000023", "t": "Observability Metadata", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000024", "t": "Incident Timelines", "g": "Pipeline Health"}
+{"id": "JAH-DOBS-000025", "t": "Root-Cause Correlation", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000026", "t": "Multi-Table Observability", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000027", "t": "Observability for ML Pipelines", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000028", "t": "Observability for a Million-Database Network", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000029", "t": "Cost of Observability", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000030", "t": "Observability SLAs for Observability", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000031", "t": "Provenance of Alerts", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000032", "t": "Automated Remediation Hooks", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000033", "t": "Observability Maturity Model", "g": "Advanced Observability"}
+{"id": "JAH-DOBS-000034", "t": "Data Observability Mastery Review", "g": "Advanced Observability"}

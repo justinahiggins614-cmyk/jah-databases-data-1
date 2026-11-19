@@ -1,0 +1,34 @@
+{"id": "JAH-TRXS-000001", "t": "What Is a Transaction Record (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000002", "t": "The Anatomy of a Transaction Record (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000003", "t": "Transaction Lifecycle States: Pending, Settled, Reversed (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000004", "t": "Orders, Purchases, Payments, and Transfers (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000005", "t": "Double-Entry Bookkeeping in One Lesson (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000006", "t": "Reading a Receipt Like a Record (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000007", "t": "Money in Minor Units: Cents, Rounding, and Precision (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000008", "t": "Timestamps, Time Zones, and Value Dates (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000009", "t": "The Parties to a Transaction (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000010", "t": "Transaction Identifiers and Reference Numbers (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TRXS-000011", "t": "Order Records: Carts, Line Items, and Order States (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000012", "t": "Authorization and Capture: The Two-Step Card Payment (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000013", "t": "Payment Methods Compared: Cards, ACH, Wires, Wallets (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000014", "t": "Idempotency Keys and Exactly-Once Processing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000015", "t": "Refunds: Full, Partial, and How They Post (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000016", "t": "Returns and Reverse Logistics Records (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000017", "t": "Chargebacks and the Dispute Lifecycle (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000018", "t": "Bank Transfers: ACH Batches and Wire Records (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000019", "t": "The Card Transaction Flow: Authorization to Clearing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000020", "t": "Reconciliation: Matching Two Ledgers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000021", "t": "Clearing and Settlement (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000022", "t": "The Anatomy of a Fee: Interchange, Assessment, Markup (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TRXS-000023", "t": "Double-Entry Reconciliation at Scale (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000024", "t": "ISO 20022: The MX Message Grammar (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000025", "t": "SWIFT MT and MX Messages for Cross-Border Payments (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000026", "t": "NACHA and the ACH Record Layout (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000027", "t": "PCI DSS and Protecting Card Data (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000028", "t": "Fraud Signals Hidden in Transaction Records (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000029", "t": "Audit Trails: Hash Chains and Immutable History (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000030", "t": "Multi-Currency Transactions and FX (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000031", "t": "Designing an Append-Only Transaction Ledger (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000032", "t": "Reversal Records and Compensating Transactions (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000033", "t": "Real-Time Payments: RTP and FedNow Records (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TRXS-000034", "t": "The Full Transaction Lifecycle, End to End (Signature Edition)", "g": "Advanced"}

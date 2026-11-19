@@ -1,0 +1,34 @@
+{"id": "JAH-MDCES-000001", "t": "Medicine and Clinical Evidence Signature Database: ABCDE Assessment", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000002", "t": "Medicine and Clinical Evidence Signature Database: Vital Signs Interpretation", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000003", "t": "Medicine and Clinical Evidence Signature Database: Pain Assessment (OPQRST)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000004", "t": "Medicine and Clinical Evidence Signature Database: Differential Diagnosis", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000005", "t": "Medicine and Clinical Evidence Signature Database: Pre-Test Probability", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000006", "t": "Medicine and Clinical Evidence Signature Database: Sensitivity and Specificity", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000007", "t": "Medicine and Clinical Evidence Signature Database: Positive Predictive Value", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000008", "t": "Medicine and Clinical Evidence Signature Database: Likelihood Ratios", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000009", "t": "Medicine and Clinical Evidence Signature Database: Number Needed to Treat", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000010", "t": "Medicine and Clinical Evidence Signature Database: Blood Pressure Staging", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000011", "t": "Medicine and Clinical Evidence Signature Database: Diabetes Diagnosis (HbA1c)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000012", "t": "Medicine and Clinical Evidence Signature Database: Sepsis Recognition (qSOFA)", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000013", "t": "Medicine and Clinical Evidence Signature Database: Stroke Recognition (BEFAST)", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000014", "t": "Medicine and Clinical Evidence Signature Database: Anaphylaxis Management", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000015", "t": "Medicine and Clinical Evidence Signature Database: CPR Steps", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000016", "t": "Medicine and Clinical Evidence Signature Database: Burn Assessment (Rule of Nines)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000017", "t": "Medicine and Clinical Evidence Signature Database: Dehydration Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000018", "t": "Medicine and Clinical Evidence Signature Database: Medication Reconciliation", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000019", "t": "Medicine and Clinical Evidence Signature Database: Informed Consent", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000020", "t": "Medicine and Clinical Evidence Signature Database: Hand Hygiene", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000021", "t": "Medicine and Clinical Evidence Signature Database: Fall Risk Assessment", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000022", "t": "Medicine and Clinical Evidence Signature Database: Delirium Screening (CAM)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000023", "t": "Medicine and Clinical Evidence Signature Database: Wound Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000024", "t": "Medicine and Clinical Evidence Signature Database: Fracture Assessment", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000025", "t": "Medicine and Clinical Evidence Signature Database: Allergy Documentation", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000026", "t": "Medicine and Clinical Evidence Signature Database: Isolation Precautions", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000027", "t": "Medicine and Clinical Evidence Signature Database: Pressure Injury Prevention", "c": 0, "g": "safety"}
+{"id": "JAH-MDCES-000028", "t": "Medicine and Clinical Evidence Signature Database: Chest Pain Workup", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCES-000029", "t": "Medicine and Clinical Evidence Signature Database: Anemia Workup", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCES-000030", "t": "Medicine and Clinical Evidence Signature Database: Capstone: Full Patient Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000031", "t": "Medicine and Clinical Evidence Signature Database: Glasgow Coma Scale", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000032", "t": "Medicine and Clinical Evidence Signature Database: BMI Interpretation", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000033", "t": "Medicine and Clinical Evidence Signature Database: Fever Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCES-000034", "t": "Medicine and Clinical Evidence Signature Database: Urine Output Monitoring", "c": 0, "g": "assessment"}

@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-CR-000001", "t": "What code reasoning is: thinking that runs", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000002", "t": "Reading code: understanding the machine's text", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000003", "t": "Writing code: from intent to program", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000004", "t": "Running code: the ground truth", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000005", "t": "The error message: the machine talking", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000006", "t": "Simple debugging: find and fix", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000007", "t": "Tests as specification: the executable contract", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000008", "t": "The REPL loop: conversational coding", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000009", "t": "Code reading strategies: the systematic eye", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000010", "t": "Naming: the code's vocabulary", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000011", "t": "The first program: a complete example", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CR-000012", "t": "Debugging systematically: the method", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000013", "t": "Test-driven generation: tests first", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000014", "t": "Code review: the second pair of eyes", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000015", "t": "Refactoring reasoning: improving without breaking", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000016", "t": "API reasoning: using others' code", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000017", "t": "Error handling: the robust program", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000018", "t": "Edge cases: the boundaries", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000019", "t": "Performance reasoning: the fast enough program", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000020", "t": "Reading others' code: the archaeology", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000021", "t": "Documentation: the code's story", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000022", "t": "Version control reasoning: the history", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000023", "t": "Evaluation: measuring code reasoning", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CR-000024", "t": "Program synthesis: generating from specs", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000025", "t": "Verified code: proofs with programs", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000026", "t": "Static analysis: reading without running", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000027", "t": "Symbolic execution: all paths at once", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000028", "t": "Repository-scale reasoning: the whole codebase", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000029", "t": "Self-debugging agents: the loop automated", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000030", "t": "Secure code reasoning: the safe program", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000031", "t": "Concurrency reasoning: the parallel program", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000032", "t": "The senior engineer: the complete craft", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000033", "t": "The proven program: the final standard", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CR-000034", "t": "The legacy rescue: reasoning about old code", "g": "code-reasoning-advanced"}

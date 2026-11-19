@@ -1,0 +1,34 @@
+{"id": "JAH-THST-000001", "t": "Thermal Systems and Heat Transfer Database: Conduction", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000002", "t": "Thermal Systems and Heat Transfer Database: Convection", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000003", "t": "Thermal Systems and Heat Transfer Database: Radiation Exchange", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000004", "t": "Thermal Systems and Heat Transfer Database: R-Value", "c": 0, "g": "insulation"}
+{"id": "JAH-THST-000005", "t": "Thermal Systems and Heat Transfer Database: U-Value", "c": 0, "g": "insulation"}
+{"id": "JAH-THST-000006", "t": "Thermal Systems and Heat Transfer Database: Building Heat Loss", "c": 0, "g": "insulation"}
+{"id": "JAH-THST-000007", "t": "Thermal Systems and Heat Transfer Database: LMTD", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THST-000008", "t": "Thermal Systems and Heat Transfer Database: Heat Exchanger Duty", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THST-000009", "t": "Thermal Systems and Heat Transfer Database: NTU", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THST-000010", "t": "Thermal Systems and Heat Transfer Database: COP (Cooling)", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THST-000011", "t": "Thermal Systems and Heat Transfer Database: COP (Heating)", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THST-000012", "t": "Thermal Systems and Heat Transfer Database: Carnot COP", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THST-000013", "t": "Thermal Systems and Heat Transfer Database: Carnot Efficiency", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THST-000014", "t": "Thermal Systems and Heat Transfer Database: Sensible Heat", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THST-000015", "t": "Thermal Systems and Heat Transfer Database: Latent Heat", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THST-000016", "t": "Thermal Systems and Heat Transfer Database: Thermal Expansion", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-THST-000017", "t": "Thermal Systems and Heat Transfer Database: Reynolds Number", "c": 0, "g": "fluid-flow"}
+{"id": "JAH-THST-000018", "t": "Thermal Systems and Heat Transfer Database: Sensible Cooling Load", "c": 0, "g": "hvac"}
+{"id": "JAH-THST-000019", "t": "Thermal Systems and Heat Transfer Database: Air Changes per Hour", "c": 0, "g": "hvac"}
+{"id": "JAH-THST-000020", "t": "Thermal Systems and Heat Transfer Database: Refrigeration Tons", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THST-000021", "t": "Thermal Systems and Heat Transfer Database: Series Thermal Resistance", "c": 0, "g": "insulation"}
+{"id": "JAH-THST-000022", "t": "Thermal Systems and Heat Transfer Database: Overall U from R", "c": 0, "g": "insulation"}
+{"id": "JAH-THST-000023", "t": "Thermal Systems and Heat Transfer Database: Insulation Thickness", "c": 0, "g": "insulation"}
+{"id": "JAH-THST-000024", "t": "Thermal Systems and Heat Transfer Database: Darcy Pressure Drop", "c": 0, "g": "fluid-flow"}
+{"id": "JAH-THST-000025", "t": "Thermal Systems and Heat Transfer Database: Pump Power", "c": 0, "g": "fluid-flow"}
+{"id": "JAH-THST-000026", "t": "Thermal Systems and Heat Transfer Database: Heat Capacity Rate", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THST-000027", "t": "Thermal Systems and Heat Transfer Database: Capacity Ratio", "c": 0, "g": "heat-exchangers"}
+{"id": "JAH-THST-000028", "t": "Thermal Systems and Heat Transfer Database: Thermal Diffusivity", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000029", "t": "Thermal Systems and Heat Transfer Database: Biot Number", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000030", "t": "Thermal Systems and Heat Transfer Database: Fourier Number", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000031", "t": "Thermal Systems and Heat Transfer Database: Emissive Power", "c": 0, "g": "heat-transfer"}
+{"id": "JAH-THST-000032", "t": "Thermal Systems and Heat Transfer Database: Chiller kW per Ton", "c": 0, "g": "refrigeration"}
+{"id": "JAH-THST-000033", "t": "Thermal Systems and Heat Transfer Database: Air Enthalpy Change", "c": 0, "g": "hvac"}
+{"id": "JAH-THST-000034", "t": "Thermal Systems and Heat Transfer Database: Home Heat Loss Capstone", "c": 0, "g": "insulation"}

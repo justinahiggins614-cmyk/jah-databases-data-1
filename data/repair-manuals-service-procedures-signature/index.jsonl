@@ -1,0 +1,34 @@
+{"id": "JAH-RMSPS-000001", "t": "Visual Inspection Procedure (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000002", "t": "Reading and Interpreting Fault Codes (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000003", "t": "Power Supply Verification Sequence (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000004", "t": "Continuity and Resistance Testing (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000005", "t": "Fastener Identification and Torque Basics (Signature Edition)", "g": "Disassembly"}
+{"id": "JAH-RMSPS-000006", "t": "Safe Disassembly Order Planning (Signature Edition)", "g": "Disassembly"}
+{"id": "JAH-RMSPS-000007", "t": "Cable and Connector Handling (Signature Edition)", "g": "Disassembly"}
+{"id": "JAH-RMSPS-000008", "t": "Cleaning Procedures for Service (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000009", "t": "Lubrication Basics in Service (Signature Edition)", "g": "Adjustment"}
+{"id": "JAH-RMSPS-000010", "t": "Reassembly Verification Checklist (Signature Edition)", "g": "Verification"}
+{"id": "JAH-RMSPS-000011", "t": "Board-Level Diagnostic Procedure (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000012", "t": "Electrolytic Capacitor Replacement (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000013", "t": "Belt and Chain Replacement (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000014", "t": "Bearing Replacement Procedure (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000015", "t": "Sensor Recalibration After Repair (Signature Edition)", "g": "Adjustment"}
+{"id": "JAH-RMSPS-000016", "t": "Firmware Reflash Service Procedure (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000017", "t": "Hydraulic Seal Replacement (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000018", "t": "DC Motor Brush Replacement (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000019", "t": "Gasket Replacement and Sealing (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000020", "t": "Shaft Alignment After Repair (Signature Edition)", "g": "Adjustment"}
+{"id": "JAH-RMSPS-000021", "t": "Thermal Paste Renewal on Power Electronics (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000022", "t": "Battery Pack Servicing Procedure (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000023", "t": "Intermittent Fault Hunting Method (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000024", "t": "Gearbox Overhaul Procedure (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000025", "t": "Spindle Rebuild Procedure (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000026", "t": "BGA Rework Outline for Service Shops (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000027", "t": "Root-Cause Failure Analysis Writeup (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000028", "t": "Calibration Restoration After Major Repair (Signature Edition)", "g": "Adjustment"}
+{"id": "JAH-RMSPS-000029", "t": "EMC Re-Verification After Repair (Signature Edition)", "g": "Verification"}
+{"id": "JAH-RMSPS-000030", "t": "Safety Interlock Restoration and Test (Signature Edition)", "g": "Verification"}
+{"id": "JAH-RMSPS-000031", "t": "Pressure System Repair Documentation (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000032", "t": "Field Repair Under Constraints (Signature Edition)", "g": "Repair"}
+{"id": "JAH-RMSPS-000033", "t": "Repair-Versus-Replace Decision Record (Signature Edition)", "g": "Diagnostics"}
+{"id": "JAH-RMSPS-000034", "t": "Final Acceptance Test Protocol (Signature Edition)", "g": "Verification"}

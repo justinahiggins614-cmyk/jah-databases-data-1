@@ -1,0 +1,34 @@
+{"id": "JAH-GB-000001", "t": "Genomics and Bioinformatics Database: DNA Complement", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000002", "t": "Genomics and Bioinformatics Database: Reverse Complement", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000003", "t": "Genomics and Bioinformatics Database: Transcription", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000004", "t": "Genomics and Bioinformatics Database: Translation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000005", "t": "Genomics and Bioinformatics Database: GC Content", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000006", "t": "Genomics and Bioinformatics Database: Hamming Distance", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000007", "t": "Genomics and Bioinformatics Database: K-mer Counter", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000008", "t": "Genomics and Bioinformatics Database: Motif Finder", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000009", "t": "Genomics and Bioinformatics Database: ORF Finder", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000010", "t": "Genomics and Bioinformatics Database: Sequence Validation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000011", "t": "Genomics and Bioinformatics Database: FASTA Parser", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000012", "t": "Genomics and Bioinformatics Database: Mean Base Quality", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000013", "t": "Genomics and Bioinformatics Database: Needleman-Wunsch (tiny)", "c": 0, "g": "alignment"}
+{"id": "JAH-GB-000014", "t": "Genomics and Bioinformatics Database: Seeded Random DNA", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000015", "t": "Genomics and Bioinformatics Database: Point Mutation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000016", "t": "Genomics and Bioinformatics Database: CpG Counter", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000017", "t": "Genomics and Bioinformatics Database: Melting Temp (Wallace)", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000018", "t": "Genomics and Bioinformatics Database: Restriction Site Finder", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000019", "t": "Genomics and Bioinformatics Database: Consensus Sequence", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000020", "t": "Genomics and Bioinformatics Database: Pairwise Identity", "c": 0, "g": "alignment"}
+{"id": "JAH-GB-000021", "t": "Genomics and Bioinformatics Database: Levenshtein (tiny)", "c": 0, "g": "alignment"}
+{"id": "JAH-GB-000022", "t": "Genomics and Bioinformatics Database: Sequence Shuffler", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000023", "t": "Genomics and Bioinformatics Database: Base Counter", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000024", "t": "Genomics and Bioinformatics Database: Read Trimmer", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000025", "t": "Genomics and Bioinformatics Database: VCF Parser (lite)", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000026", "t": "Genomics and Bioinformatics Database: Allele Frequency", "c": 0, "g": "genetics"}
+{"id": "JAH-GB-000027", "t": "Genomics and Bioinformatics Database: Hardy-Weinberg Chi-Square", "c": 0, "g": "genetics"}
+{"id": "JAH-GB-000028", "t": "Genomics and Bioinformatics Database: Jukes-Cantor Distance", "c": 0, "g": "genetics"}
+{"id": "JAH-GB-000029", "t": "Genomics and Bioinformatics Database: Codon Lookup", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000030", "t": "Genomics and Bioinformatics Database: Six-Frame Translation", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000031", "t": "Genomics and Bioinformatics Database: GC Skew", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000032", "t": "Genomics and Bioinformatics Database: Genomics Pipeline Capstone", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000033", "t": "Genomics and Bioinformatics Database: Splice Site Check", "c": 0, "g": "sequence-ops"}
+{"id": "JAH-GB-000034", "t": "Genomics and Bioinformatics Database: Primer Tm Match", "c": 0, "g": "sequence-ops"}

@@ -1,0 +1,34 @@
+{"id": "JAH-MACN-000001", "t": "Multi-Agent Collaboration and Negotiation Database: Agent Roles", "c": 0, "g": "foundations"}
+{"id": "JAH-MACN-000002", "t": "Multi-Agent Collaboration and Negotiation Database: Task Decomposition", "c": 0, "g": "foundations"}
+{"id": "JAH-MACN-000003", "t": "Multi-Agent Collaboration and Negotiation Database: Delegation Protocol", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000004", "t": "Multi-Agent Collaboration and Negotiation Database: Shared State", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000005", "t": "Multi-Agent Collaboration and Negotiation Database: Message Protocol", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000006", "t": "Multi-Agent Collaboration and Negotiation Database: Negotiation", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000007", "t": "Multi-Agent Collaboration and Negotiation Database: Voting", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000008", "t": "Multi-Agent Collaboration and Negotiation Database: Consensus", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000009", "t": "Multi-Agent Collaboration and Negotiation Database: Auction", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000010", "t": "Multi-Agent Collaboration and Negotiation Database: Disagreement Handling", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000011", "t": "Multi-Agent Collaboration and Negotiation Database: Result Merging", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000012", "t": "Multi-Agent Collaboration and Negotiation Database: Conflict Resolution", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000013", "t": "Multi-Agent Collaboration and Negotiation Database: Trust Model", "c": 0, "g": "trust"}
+{"id": "JAH-MACN-000014", "t": "Multi-Agent Collaboration and Negotiation Database: Reputation System", "c": 0, "g": "trust"}
+{"id": "JAH-MACN-000015", "t": "Multi-Agent Collaboration and Negotiation Database: Coordination", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000016", "t": "Multi-Agent Collaboration and Negotiation Database: Synchronization", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000017", "t": "Multi-Agent Collaboration and Negotiation Database: Distributed Locking", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000018", "t": "Multi-Agent Collaboration and Negotiation Database: Deadlock Prevention", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000019", "t": "Multi-Agent Collaboration and Negotiation Database: Leader Election", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000020", "t": "Multi-Agent Collaboration and Negotiation Database: Heartbeat", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000021", "t": "Multi-Agent Collaboration and Negotiation Database: Failure Detection", "c": 0, "g": "reliability"}
+{"id": "JAH-MACN-000022", "t": "Multi-Agent Collaboration and Negotiation Database: Recovery", "c": 0, "g": "reliability"}
+{"id": "JAH-MACN-000023", "t": "Multi-Agent Collaboration and Negotiation Database: Load Balancing", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000024", "t": "Multi-Agent Collaboration and Negotiation Database: Agent Privacy", "c": 0, "g": "trust"}
+{"id": "JAH-MACN-000025", "t": "Multi-Agent Collaboration and Negotiation Database: Agent Security", "c": 0, "g": "trust"}
+{"id": "JAH-MACN-000026", "t": "Multi-Agent Collaboration and Negotiation Database: Audit Trail", "c": 0, "g": "trust"}
+{"id": "JAH-MACN-000027", "t": "Multi-Agent Collaboration and Negotiation Database: Incentive Design", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000028", "t": "Multi-Agent Collaboration and Negotiation Database: Coalition Formation", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000029", "t": "Multi-Agent Collaboration and Negotiation Database: Contract Net", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACN-000030", "t": "Multi-Agent Collaboration and Negotiation Database: Blackboard", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000031", "t": "Multi-Agent Collaboration and Negotiation Database: Stigmergy", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000032", "t": "Multi-Agent Collaboration and Negotiation Database: Evaluation", "c": 0, "g": "trust"}
+{"id": "JAH-MACN-000033", "t": "Multi-Agent Collaboration and Negotiation Database: Emergence", "c": 0, "g": "coordination"}
+{"id": "JAH-MACN-000034", "t": "Multi-Agent Collaboration and Negotiation Database: Capstone: Agent Collective", "c": 0, "g": "coordination"}

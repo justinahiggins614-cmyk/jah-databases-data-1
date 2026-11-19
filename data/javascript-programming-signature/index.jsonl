@@ -1,0 +1,34 @@
+{"id": "JAH-JSS-000001", "t": "Running JavaScript: Browser and Node — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000002", "t": "JavaScript Variables: var let const — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000003", "t": "JavaScript Data Types and typeof — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000004", "t": "JavaScript Numbers and Math — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000005", "t": "JavaScript Strings and Template Literals — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000006", "t": "JavaScript Truthy Falsy and Comparisons — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000007", "t": "JavaScript if else and Ternaries — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000008", "t": "JavaScript Loops — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000009", "t": "JavaScript Functions — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000010", "t": "JavaScript Arrays — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000011", "t": "JavaScript Objects — Signature Edition", "g": "Foundations"}
+{"id": "JAH-JSS-000012", "t": "JavaScript Array Methods: map filter reduce — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000013", "t": "JavaScript Destructuring — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000014", "t": "JavaScript Spread and Rest — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000015", "t": "JavaScript Arrow Functions — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000016", "t": "JavaScript String Methods — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000017", "t": "JavaScript Date and Time — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000018", "t": "JavaScript JSON — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000019", "t": "JavaScript DOM Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000020", "t": "JavaScript Events — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000021", "t": "JavaScript Error Handling — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000022", "t": "JavaScript Scope and Closures Intro — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000023", "t": "JavaScript this Keyword — Signature Edition", "g": "Compounded"}
+{"id": "JAH-JSS-000024", "t": "JavaScript Closures Deep Dive — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000025", "t": "JavaScript Prototypes and Inheritance — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000026", "t": "JavaScript Classes — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000027", "t": "JavaScript Async: Callbacks — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000028", "t": "JavaScript Promises — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000029", "t": "JavaScript async await — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000030", "t": "JavaScript Modules: import export — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000031", "t": "JavaScript Fetch API — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000032", "t": "JavaScript Event Loop — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000033", "t": "JavaScript Memory and Performance — Signature Edition", "g": "Advanced"}
+{"id": "JAH-JSS-000034", "t": "JavaScript Testing Basics — Signature Edition", "g": "Advanced"}

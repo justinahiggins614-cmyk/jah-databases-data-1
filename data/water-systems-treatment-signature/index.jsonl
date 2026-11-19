@@ -1,0 +1,34 @@
+{"id": "JAH-WTSG-000001", "t": "Water Systems and Treatment Engineering Signature Database: Flow Rate", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000002", "t": "Water Systems and Treatment Engineering Signature Database: Continuity", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000003", "t": "Water Systems and Treatment Engineering Signature Database: Hazen-Williams Loss", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000004", "t": "Water Systems and Treatment Engineering Signature Database: Manning Velocity", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000005", "t": "Water Systems and Treatment Engineering Signature Database: Hydraulic Radius", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000006", "t": "Water Systems and Treatment Engineering Signature Database: Detention Time", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000007", "t": "Water Systems and Treatment Engineering Signature Database: Surface Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000008", "t": "Water Systems and Treatment Engineering Signature Database: Weir Flow", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000009", "t": "Water Systems and Treatment Engineering Signature Database: Orifice Flow", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000010", "t": "Water Systems and Treatment Engineering Signature Database: Chlorine Dose (kg/d)", "c": 0, "g": "disinfection"}
+{"id": "JAH-WTSG-000011", "t": "Water Systems and Treatment Engineering Signature Database: CT Value", "c": 0, "g": "disinfection"}
+{"id": "JAH-WTSG-000012", "t": "Water Systems and Treatment Engineering Signature Database: BOD Removal", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000013", "t": "Water Systems and Treatment Engineering Signature Database: F/M Ratio", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000014", "t": "Water Systems and Treatment Engineering Signature Database: Sludge Age (SRT)", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000015", "t": "Water Systems and Treatment Engineering Signature Database: SVI", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000016", "t": "Water Systems and Treatment Engineering Signature Database: Filtration Rate", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000017", "t": "Water Systems and Treatment Engineering Signature Database: UV Dose", "c": 0, "g": "disinfection"}
+{"id": "JAH-WTSG-000018", "t": "Water Systems and Treatment Engineering Signature Database: Water Hammer", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000019", "t": "Water Systems and Treatment Engineering Signature Database: Pipe Volume", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000020", "t": "Water Systems and Treatment Engineering Signature Database: Storage Volume", "c": 0, "g": "supply"}
+{"id": "JAH-WTSG-000021", "t": "Water Systems and Treatment Engineering Signature Database: Per Capita Demand", "c": 0, "g": "supply"}
+{"id": "JAH-WTSG-000022", "t": "Water Systems and Treatment Engineering Signature Database: Non-Revenue Water", "c": 0, "g": "supply"}
+{"id": "JAH-WTSG-000023", "t": "Water Systems and Treatment Engineering Signature Database: Static Pressure", "c": 0, "g": "hydraulics"}
+{"id": "JAH-WTSG-000024", "t": "Water Systems and Treatment Engineering Signature Database: BOD Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000025", "t": "Water Systems and Treatment Engineering Signature Database: TSS Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000026", "t": "Water Systems and Treatment Engineering Signature Database: Hardness as CaCO3", "c": 0, "g": "quality"}
+{"id": "JAH-WTSG-000027", "t": "Water Systems and Treatment Engineering Signature Database: Turbidity Removal", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000028", "t": "Water Systems and Treatment Engineering Signature Database: Log Removal", "c": 0, "g": "disinfection"}
+{"id": "JAH-WTSG-000029", "t": "Water Systems and Treatment Engineering Signature Database: Velocity Gradient (G)", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000030", "t": "Water Systems and Treatment Engineering Signature Database: Camp Number", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000031", "t": "Water Systems and Treatment Engineering Signature Database: Weir Loading", "c": 0, "g": "treatment"}
+{"id": "JAH-WTSG-000032", "t": "Water Systems and Treatment Engineering Signature Database: Specific Energy", "c": 0, "g": "supply"}
+{"id": "JAH-WTSG-000033", "t": "Water Systems and Treatment Engineering Signature Database: Rainfall Volume", "c": 0, "g": "supply"}
+{"id": "JAH-WTSG-000034", "t": "Water Systems and Treatment Engineering Signature Database: Treatment Train Capstone", "c": 0, "g": "treatment"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ACA-000001", "t": "GPT vs Claude: Language Models", "g": "Language Arena"}
+{"id": "JAH-ACA-000002", "t": "Open vs Closed: Model Weights", "g": "Language Arena"}
+{"id": "JAH-ACA-000003", "t": "Big vs Small: Model Size", "g": "Language Arena"}
+{"id": "JAH-ACA-000004", "t": "Chatbot vs Search: Answers", "g": "Language Arena"}
+{"id": "JAH-ACA-000005", "t": "Translation: Human vs NMT", "g": "Language Arena"}
+{"id": "JAH-ACA-000006", "t": "Code: Copilot vs Human", "g": "Language Arena"}
+{"id": "JAH-ACA-000007", "t": "Speech: Human vs ASR", "g": "Language Arena"}
+{"id": "JAH-ACA-000008", "t": "Summarizer: Extractive vs Abstractive", "g": "Language Arena"}
+{"id": "JAH-ACA-000009", "t": "Chess AI vs Go AI: Game Masters", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000010", "t": "Vision: CNN vs Transformer", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000011", "t": "Detection: YOLO vs R-CNN", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000012", "t": "Game AI: Scripted vs Learned", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000013", "t": "NPC: Behavior Tree vs LLM", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000014", "t": "OCR: Classic vs Deep", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000015", "t": "Face Recognition: 2D vs 3D", "g": "Vision & Games Arena"}
+{"id": "JAH-ACA-000016", "t": "Medical Imaging: AI vs Radiologist", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000017", "t": "Fraud: Rules vs ML", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000018", "t": "Recommend: Collaborative vs Content", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000019", "t": "Hiring: AI Screen vs Human", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000020", "t": "Driving: Waymo vs Tesla", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000021", "t": "Customer Service: Bot vs Human", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000022", "t": "Tutoring: AI vs Human", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000023", "t": "Art: GAN vs Diffusion", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000024", "t": "Music: Symbolic vs Audio", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000025", "t": "Protein: AlphaFold vs Lab", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000026", "t": "Weather: AI vs Physics Models", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000027", "t": "Translation: Big vs Small Models", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000028", "t": "Search: LLM vs Keyword", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000029", "t": "Moderation: AI vs Human", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000030", "t": "Robotics: Sim vs Real", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000031", "t": "AGI: Soon vs Later", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000032", "t": "Embodied vs Disembodied: AI Future", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000033", "t": "Alignment: Technical vs Governance", "g": "Applied AI Arena"}
+{"id": "JAH-ACA-000034", "t": "Warehouse Robots vs Humans: Logistics", "g": "Applied AI Arena"}

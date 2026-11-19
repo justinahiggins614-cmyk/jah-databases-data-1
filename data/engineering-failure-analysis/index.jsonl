@@ -1,0 +1,34 @@
+{"id": "JAH-EFAIL-000001", "t": "Engineering Failure and Root-Cause Analysis Database: 5 Whys", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000002", "t": "Engineering Failure and Root-Cause Analysis Database: Fishbone (Ishikawa) Diagram", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000003", "t": "Engineering Failure and Root-Cause Analysis Database: FMEA", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000004", "t": "Engineering Failure and Root-Cause Analysis Database: Fault Tree (AND/OR Logic)", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000005", "t": "Engineering Failure and Root-Cause Analysis Database: Fault Tree Quantification", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000006", "t": "Engineering Failure and Root-Cause Analysis Database: Event Tree Analysis", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000007", "t": "Engineering Failure and Root-Cause Analysis Database: Root Cause Categories", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000008", "t": "Engineering Failure and Root-Cause Analysis Database: Corrective Action (with Verification)", "c": 0, "g": "corrective"}
+{"id": "JAH-EFAIL-000009", "t": "Engineering Failure and Root-Cause Analysis Database: 8D Problem Solving", "c": 0, "g": "corrective"}
+{"id": "JAH-EFAIL-000010", "t": "Engineering Failure and Root-Cause Analysis Database: FRACAS", "c": 0, "g": "corrective"}
+{"id": "JAH-EFAIL-000011", "t": "Engineering Failure and Root-Cause Analysis Database: Weibull Analysis", "c": 0, "g": "materials"}
+{"id": "JAH-EFAIL-000012", "t": "Engineering Failure and Root-Cause Analysis Database: Bathtub Curve", "c": 0, "g": "materials"}
+{"id": "JAH-EFAIL-000013", "t": "Engineering Failure and Root-Cause Analysis Database: Fatigue Failure Diagnosis", "c": 0, "g": "mechanical"}
+{"id": "JAH-EFAIL-000014", "t": "Engineering Failure and Root-Cause Analysis Database: Overload Failure Diagnosis", "c": 0, "g": "mechanical"}
+{"id": "JAH-EFAIL-000015", "t": "Engineering Failure and Root-Cause Analysis Database: Creep Failure Diagnosis", "c": 0, "g": "mechanical"}
+{"id": "JAH-EFAIL-000016", "t": "Engineering Failure and Root-Cause Analysis Database: Corrosion Failure Diagnosis", "c": 0, "g": "materials"}
+{"id": "JAH-EFAIL-000017", "t": "Engineering Failure and Root-Cause Analysis Database: Wear Failure Diagnosis", "c": 0, "g": "mechanical"}
+{"id": "JAH-EFAIL-000018", "t": "Engineering Failure and Root-Cause Analysis Database: EOS/ESD Electrical Failure", "c": 0, "g": "electrical"}
+{"id": "JAH-EFAIL-000019", "t": "Engineering Failure and Root-Cause Analysis Database: Electromigration", "c": 0, "g": "electrical"}
+{"id": "JAH-EFAIL-000020", "t": "Engineering Failure and Root-Cause Analysis Database: Thermal Runaway", "c": 0, "g": "thermal"}
+{"id": "JAH-EFAIL-000021", "t": "Engineering Failure and Root-Cause Analysis Database: Bolted Joint Failure", "c": 0, "g": "mechanical"}
+{"id": "JAH-EFAIL-000022", "t": "Engineering Failure and Root-Cause Analysis Database: Bearing Failure Diagnosis", "c": 0, "g": "mechanical"}
+{"id": "JAH-EFAIL-000023", "t": "Engineering Failure and Root-Cause Analysis Database: Weld Failure Diagnosis", "c": 0, "g": "materials"}
+{"id": "JAH-EFAIL-000024", "t": "Engineering Failure and Root-Cause Analysis Database: Human Factors Analysis", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000025", "t": "Engineering Failure and Root-Cause Analysis Database: Common Cause Failure", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000026", "t": "Engineering Failure and Root-Cause Analysis Database: Redundancy Adequacy", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000027", "t": "Engineering Failure and Root-Cause Analysis Database: Corrective Action Effectiveness Review", "c": 0, "g": "corrective"}
+{"id": "JAH-EFAIL-000028", "t": "Engineering Failure and Root-Cause Analysis Database: Failure Mode Library Curation", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000029", "t": "Engineering Failure and Root-Cause Analysis Database: Proactive Failure Prevention (RCM)", "c": 0, "g": "corrective"}
+{"id": "JAH-EFAIL-000030", "t": "Engineering Failure and Root-Cause Analysis Database: Lessons-Learned Integration", "c": 0, "g": "corrective"}
+{"id": "JAH-EFAIL-000031", "t": "Engineering Failure and Root-Cause Analysis Database: Failure Review Board", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000032", "t": "Engineering Failure and Root-Cause Analysis Database: Minimal Cut Set Ranking", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000033", "t": "Engineering Failure and Root-Cause Analysis Database: Reliability Block Diagram", "c": 0, "g": "systemic"}
+{"id": "JAH-EFAIL-000034", "t": "Engineering Failure and Root-Cause Analysis Database: Monte Carlo Failure Simulation", "c": 0, "g": "systemic"}

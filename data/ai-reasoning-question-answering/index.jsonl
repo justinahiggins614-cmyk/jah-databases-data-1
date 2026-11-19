@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-QA-000001", "t": "What question answering is: questions to answers", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000002", "t": "Question types: the taxonomy of asks", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000003", "t": "Understanding the question: reading before answering", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000004", "t": "Answerability: can this be answered", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000005", "t": "The direct answer: saying it plainly", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000006", "t": "Simple factual questions: the bread and butter", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000007", "t": "Reading the question carefully: the slow pass", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000008", "t": "Answer formats: shapes of response", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000009", "t": "Brevity: the short answer", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000010", "t": "The first QA system: a complete walkthrough", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000011", "t": "When to say more: the elaboration judgment", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QA-000012", "t": "Ambiguous questions: the fork in the ask", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000013", "t": "Unanswerable questions: the honest no", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000014", "t": "False premises: the question is wrong", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000015", "t": "Multi-part questions: answering in pieces", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000016", "t": "Follow-up questions: the continuing ask", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000017", "t": "Answer ranking: choosing the best", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000018", "t": "Extractive QA: the answer in the text", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000019", "t": "Abstention: knowing when not to answer", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000020", "t": "Confidence: how sure is the answer", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000021", "t": "Evaluation metrics: measuring QA", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000022", "t": "Question rewriting: clarifying the ask", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000023", "t": "Context in questions: the unasked background", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QA-000024", "t": "Open-domain QA: any question, any source", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000025", "t": "Multi-hop QA: questions needing several facts", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000026", "t": "Conversational QA: questions in dialogue", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000027", "t": "Long-form answers: beyond the span", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000028", "t": "Opinion questions: no single right answer", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000029", "t": "Adversarial questions: the hostile ask", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000030", "t": "Calibrated QA: answers with honest confidence", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000031", "t": "QA evaluation suites: the full battery", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000032", "t": "QA in production: answers at scale", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000033", "t": "The honest answerer: the final standard", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QA-000034", "t": "The Socratic answer: answering with questions", "g": "question-answering-advanced"}

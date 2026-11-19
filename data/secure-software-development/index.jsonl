@@ -1,0 +1,34 @@
+{"id": "JAH-SSDV-000001", "t": "Secure Software Development Database: Parameterized Queries", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000002", "t": "Secure Software Development Database: Output Encoding (XSS)", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000003", "t": "Secure Software Development Database: Password Hashing (scrypt)", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000004", "t": "Secure Software Development Database: Secure Random", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDV-000005", "t": "Secure Software Development Database: Timing-Safe Compare", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDV-000006", "t": "Secure Software Development Database: Allowlist Input Validation", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000007", "t": "Secure Software Development Database: Path Traversal Fix", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000008", "t": "Secure Software Development Database: Command Injection Fix", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000009", "t": "Secure Software Development Database: JWT Verify (HMAC)", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000010", "t": "Secure Software Development Database: CSRF Token", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000011", "t": "Secure Software Development Database: Security Headers (CSP)", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000012", "t": "Secure Software Development Database: Rate Limiting", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000013", "t": "Secure Software Development Database: File Upload Validation", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000014", "t": "Secure Software Development Database: SSRF Allowlist", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000015", "t": "Secure Software Development Database: Open Redirect Fix", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000016", "t": "Secure Software Development Database: Mass Assignment Guard", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000017", "t": "Secure Software Development Database: Secure Cookie Flags", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000018", "t": "Secure Software Development Database: HMAC Webhook Verify", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDV-000019", "t": "Secure Software Development Database: Password Strength", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000020", "t": "Secure Software Development Database: Account Lockout", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000021", "t": "Secure Software Development Database: Secure Reset Token", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000022", "t": "Secure Software Development Database: SRI Hash", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000023", "t": "Secure Software Development Database: Audit Log Entry", "c": 0, "g": "logging"}
+{"id": "JAH-SSDV-000024", "t": "Secure Software Development Database: Log Injection Fix", "c": 0, "g": "logging"}
+{"id": "JAH-SSDV-000025", "t": "Secure Software Development Database: Safe Deserialization", "c": 0, "g": "injection"}
+{"id": "JAH-SSDV-000026", "t": "Secure Software Development Database: Error Handling", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000027", "t": "Secure Software Development Database: API Key Compare", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000028", "t": "Secure Software Development Database: Encrypt (AES-GCM)", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDV-000029", "t": "Secure Software Development Database: Key Derivation (scrypt)", "c": 0, "g": "cryptography"}
+{"id": "JAH-SSDV-000030", "t": "Secure Software Development Database: Session Fixation Guard", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000031", "t": "Secure Software Development Database: Content Type Guard", "c": 0, "g": "web"}
+{"id": "JAH-SSDV-000032", "t": "Secure Software Development Database: PBKDF2 Verify", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000033", "t": "Secure Software Development Database: TOTP Verify (RFC 6238)", "c": 0, "g": "authentication"}
+{"id": "JAH-SSDV-000034", "t": "Secure Software Development Database: Capstone: Secure Login Flow", "c": 0, "g": "authentication"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ARLS-000001", "t": "Automated Research and Literature Synthesis Database: Research Question", "c": 0, "g": "foundations"}
+{"id": "JAH-ARLS-000002", "t": "Automated Research and Literature Synthesis Database: Literature Search", "c": 0, "g": "discovery"}
+{"id": "JAH-ARLS-000003", "t": "Automated Research and Literature Synthesis Database: Source Triage", "c": 0, "g": "discovery"}
+{"id": "JAH-ARLS-000004", "t": "Automated Research and Literature Synthesis Database: Evidence Extraction", "c": 0, "g": "extraction"}
+{"id": "JAH-ARLS-000005", "t": "Automated Research and Literature Synthesis Database: Evidence Matrix", "c": 0, "g": "extraction"}
+{"id": "JAH-ARLS-000006", "t": "Automated Research and Literature Synthesis Database: Quality Appraisal", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000007", "t": "Automated Research and Literature Synthesis Database: Synthesis", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000008", "t": "Automated Research and Literature Synthesis Database: Meta-Analysis (workflow)", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000009", "t": "Automated Research and Literature Synthesis Database: Citation Management", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000010", "t": "Automated Research and Literature Synthesis Database: Gap Identification", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000011", "t": "Automated Research and Literature Synthesis Database: Hypothesis Generation", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000012", "t": "Automated Research and Literature Synthesis Database: Replication Check", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000013", "t": "Automated Research and Literature Synthesis Database: Bias Assessment", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000014", "t": "Automated Research and Literature Synthesis Database: PRISMA Flow", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000015", "t": "Automated Research and Literature Synthesis Database: Inclusion Criteria", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000016", "t": "Automated Research and Literature Synthesis Database: Data Extraction Form", "c": 0, "g": "extraction"}
+{"id": "JAH-ARLS-000017", "t": "Automated Research and Literature Synthesis Database: Thematic Analysis", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000018", "t": "Automated Research and Literature Synthesis Database: Narrative Synthesis", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000019", "t": "Automated Research and Literature Synthesis Database: Scoping Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000020", "t": "Automated Research and Literature Synthesis Database: Systematic Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000021", "t": "Automated Research and Literature Synthesis Database: Rapid Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000022", "t": "Automated Research and Literature Synthesis Database: Living Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000023", "t": "Automated Research and Literature Synthesis Database: Preprint Triage", "c": 0, "g": "discovery"}
+{"id": "JAH-ARLS-000024", "t": "Automated Research and Literature Synthesis Database: Retraction Check", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000025", "t": "Automated Research and Literature Synthesis Database: Version Tracking", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000026", "t": "Automated Research and Literature Synthesis Database: Author Disambiguation", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000027", "t": "Automated Research and Literature Synthesis Database: Funding Disclosure", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000028", "t": "Automated Research and Literature Synthesis Database: Open Access Check", "c": 0, "g": "methods"}
+{"id": "JAH-ARLS-000029", "t": "Automated Research and Literature Synthesis Database: Data Availability", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000030", "t": "Automated Research and Literature Synthesis Database: Code Availability", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000031", "t": "Automated Research and Literature Synthesis Database: Report Writing", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLS-000032", "t": "Automated Research and Literature Synthesis Database: Peer Review (workflow)", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000033", "t": "Automated Research and Literature Synthesis Database: Evidence Grading", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLS-000034", "t": "Automated Research and Literature Synthesis Database: Capstone: Research Program", "c": 0, "g": "synthesis"}

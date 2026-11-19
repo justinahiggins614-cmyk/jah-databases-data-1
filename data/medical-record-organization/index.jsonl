@@ -1,0 +1,34 @@
+{"id": "JAH-MRO-000001", "t": "Personal Health Record Setup", "g": "record-systems"}
+{"id": "JAH-MRO-000002", "t": "The One-Page Health Summary", "g": "care-coordination"}
+{"id": "JAH-MRO-000003", "t": "Test Result Filing", "g": "health-tracking"}
+{"id": "JAH-MRO-000004", "t": "Imaging Disc Management", "g": "record-systems"}
+{"id": "JAH-MRO-000005", "t": "Vaccination Records", "g": "care-coordination"}
+{"id": "JAH-MRO-000006", "t": "Surgical History Log", "g": "health-tracking"}
+{"id": "JAH-MRO-000007", "t": "Family History Tree", "g": "record-systems"}
+{"id": "JAH-MRO-000008", "t": "Allergy and Reaction Log", "g": "care-coordination"}
+{"id": "JAH-MRO-000009", "t": "Symptom Diary Method", "g": "health-tracking"}
+{"id": "JAH-MRO-000010", "t": "Blood Pressure Log", "g": "record-systems"}
+{"id": "JAH-MRO-000011", "t": "Blood Sugar Log", "g": "care-coordination"}
+{"id": "JAH-MRO-000012", "t": "Weight Trend Tracking", "g": "health-tracking"}
+{"id": "JAH-MRO-000013", "t": "Care Team Contact Sheet", "g": "record-systems"}
+{"id": "JAH-MRO-000014", "t": "Visit Prep Sheet", "g": "care-coordination"}
+{"id": "JAH-MRO-000015", "t": "After-Visit Summary Filing", "g": "health-tracking"}
+{"id": "JAH-MRO-000016", "t": "Referral Tracking", "g": "record-systems"}
+{"id": "JAH-MRO-000017", "t": "Second Opinion Records", "g": "care-coordination"}
+{"id": "JAH-MRO-000018", "t": "Emergency Room Packet", "g": "health-tracking"}
+{"id": "JAH-MRO-000019", "t": "Hospital Stay Log", "g": "record-systems"}
+{"id": "JAH-MRO-000020", "t": "Discharge Plan Management", "g": "care-coordination"}
+{"id": "JAH-MRO-000021", "t": "Chronic Condition Binder", "g": "health-tracking"}
+{"id": "JAH-MRO-000022", "t": "Pediatric Records", "g": "record-systems"}
+{"id": "JAH-MRO-000023", "t": "Elder Parent Records", "g": "care-coordination"}
+{"id": "JAH-MRO-000024", "t": "Mental Health Records", "g": "health-tracking"}
+{"id": "JAH-MRO-000025", "t": "Dental Records", "g": "record-systems"}
+{"id": "JAH-MRO-000026", "t": "Vision Records", "g": "care-coordination"}
+{"id": "JAH-MRO-000027", "t": "Lab Trend Spreadsheets", "g": "health-tracking"}
+{"id": "JAH-MRO-000028", "t": "Genetic Test Results", "g": "record-systems"}
+{"id": "JAH-MRO-000029", "t": "Advance Directive Storage", "g": "care-coordination"}
+{"id": "JAH-MRO-000030", "t": "Insurance and Billing File", "g": "health-tracking"}
+{"id": "JAH-MRO-000031", "t": "Patient Portal Management", "g": "record-systems"}
+{"id": "JAH-MRO-000032", "t": "Correcting Record Errors", "g": "care-coordination"}
+{"id": "JAH-MRO-000033", "t": "The Annual Records Review", "g": "health-tracking"}
+{"id": "JAH-MRO-000034", "t": "Travel Health File", "g": "record-systems"}

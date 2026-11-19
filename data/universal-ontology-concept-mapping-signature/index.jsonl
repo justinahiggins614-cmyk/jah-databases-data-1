@@ -1,0 +1,34 @@
+{"id": "JAH-UOCMS-000001", "t": "Universal Ontology and Concept Mapping Signature Database: Concept: Entity", "c": 0, "g": "foundations"}
+{"id": "JAH-UOCMS-000002", "t": "Universal Ontology and Concept Mapping Signature Database: Concept: Attribute", "c": 0, "g": "foundations"}
+{"id": "JAH-UOCMS-000003", "t": "Universal Ontology and Concept Mapping Signature Database: Concept: Relation", "c": 0, "g": "foundations"}
+{"id": "JAH-UOCMS-000004", "t": "Universal Ontology and Concept Mapping Signature Database: Taxonomy", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000005", "t": "Universal Ontology and Concept Mapping Signature Database: Ontology", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000006", "t": "Universal Ontology and Concept Mapping Signature Database: Synonym Ring", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000007", "t": "Universal Ontology and Concept Mapping Signature Database: Homonym", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000008", "t": "Universal Ontology and Concept Mapping Signature Database: Hypernym / Hyponym", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000009", "t": "Universal Ontology and Concept Mapping Signature Database: Meronym (part-of)", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000010", "t": "Universal Ontology and Concept Mapping Signature Database: Cross-Domain Mapping", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCMS-000011", "t": "Universal Ontology and Concept Mapping Signature Database: Entity Type: Person", "c": 0, "g": "entities"}
+{"id": "JAH-UOCMS-000012", "t": "Universal Ontology and Concept Mapping Signature Database: Entity Type: Organization", "c": 0, "g": "entities"}
+{"id": "JAH-UOCMS-000013", "t": "Universal Ontology and Concept Mapping Signature Database: Entity Type: Place", "c": 0, "g": "entities"}
+{"id": "JAH-UOCMS-000014", "t": "Universal Ontology and Concept Mapping Signature Database: Entity Type: Event", "c": 0, "g": "entities"}
+{"id": "JAH-UOCMS-000015", "t": "Universal Ontology and Concept Mapping Signature Database: Entity Type: Artifact", "c": 0, "g": "entities"}
+{"id": "JAH-UOCMS-000016", "t": "Universal Ontology and Concept Mapping Signature Database: Entity Type: Concept", "c": 0, "g": "entities"}
+{"id": "JAH-UOCMS-000017", "t": "Universal Ontology and Concept Mapping Signature Database: Temporal Relation", "c": 0, "g": "relations"}
+{"id": "JAH-UOCMS-000018", "t": "Universal Ontology and Concept Mapping Signature Database: Causal Relation", "c": 0, "g": "relations"}
+{"id": "JAH-UOCMS-000019", "t": "Universal Ontology and Concept Mapping Signature Database: Provenance Relation", "c": 0, "g": "relations"}
+{"id": "JAH-UOCMS-000020", "t": "Universal Ontology and Concept Mapping Signature Database: Identity Resolution", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCMS-000021", "t": "Universal Ontology and Concept Mapping Signature Database: Schema Mapping", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCMS-000022", "t": "Universal Ontology and Concept Mapping Signature Database: Controlled Vocabulary", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000023", "t": "Universal Ontology and Concept Mapping Signature Database: Facet", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000024", "t": "Universal Ontology and Concept Mapping Signature Database: Knowledge Graph", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000025", "t": "Universal Ontology and Concept Mapping Signature Database: Upper Ontology", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000026", "t": "Universal Ontology and Concept Mapping Signature Database: Domain Ontology", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000027", "t": "Universal Ontology and Concept Mapping Signature Database: Ontology Alignment", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCMS-000028", "t": "Universal Ontology and Concept Mapping Signature Database: Semantic Similarity", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCMS-000029", "t": "Universal Ontology and Concept Mapping Signature Database: Disambiguation", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000030", "t": "Universal Ontology and Concept Mapping Signature Database: Multilingual Concept", "c": 0, "g": "language"}
+{"id": "JAH-UOCMS-000031", "t": "Universal Ontology and Concept Mapping Signature Database: Versioned Concept", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000032", "t": "Universal Ontology and Concept Mapping Signature Database: Constraint (Ontology)", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000033", "t": "Universal Ontology and Concept Mapping Signature Database: Inference Rule", "c": 0, "g": "organization"}
+{"id": "JAH-UOCMS-000034", "t": "Universal Ontology and Concept Mapping Signature Database: Capstone: Universal Map", "c": 0, "g": "mapping"}

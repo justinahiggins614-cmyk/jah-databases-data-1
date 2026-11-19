@@ -1,0 +1,34 @@
+{"id": "JAH-RDC-000001", "t": "Robotics Design and Control Database: Planar 2R Forward Kinematics (x)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDC-000002", "t": "Robotics Design and Control Database: Planar 2R Forward Kinematics (y)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDC-000003", "t": "Robotics Design and Control Database: 2R Jacobian Determinant (Singularity)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDC-000004", "t": "Robotics Design and Control Database: 2R Inverse Kinematics (Elbow Angle)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDC-000005", "t": "Robotics Design and Control Database: Differential Drive Forward Velocity", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000006", "t": "Robotics Design and Control Database: Differential Drive Turn Rate", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000007", "t": "Robotics Design and Control Database: Differential Drive Turn Radius", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000008", "t": "Robotics Design and Control Database: PID Control Law", "c": 0, "g": "control"}
+{"id": "JAH-RDC-000009", "t": "Robotics Design and Control Database: DC Motor Torque", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000010", "t": "Robotics Design and Control Database: DC Motor Back-EMF", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000011", "t": "Robotics Design and Control Database: Gearmotor Output Torque", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000012", "t": "Robotics Design and Control Database: Servo PWM to Angle", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000013", "t": "Robotics Design and Control Database: Trapezoidal Trajectory Time", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000014", "t": "Robotics Design and Control Database: Static Force From Joint Torque", "c": 0, "g": "control"}
+{"id": "JAH-RDC-000015", "t": "Robotics Design and Control Database: Quadrature Encoder Counts", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000016", "t": "Robotics Design and Control Database: Encoder Angle From Counts", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000017", "t": "Robotics Design and Control Database: Stepper Steps Per Revolution", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000018", "t": "Robotics Design and Control Database: Stepper Speed", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000019", "t": "Robotics Design and Control Database: Ultrasonic Range", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000020", "t": "Robotics Design and Control Database: IMU Tilt From Accelerometer", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000021", "t": "Robotics Design and Control Database: Complementary Filter", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000022", "t": "Robotics Design and Control Database: Wheel Odometry Distance", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000023", "t": "Robotics Design and Control Database: Odometry Heading Change", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000024", "t": "Robotics Design and Control Database: Gripper Force (Friction Grasp)", "c": 0, "g": "actuators"}
+{"id": "JAH-RDC-000025", "t": "Robotics Design and Control Database: Joint Static Torque (Payload)", "c": 0, "g": "control"}
+{"id": "JAH-RDC-000026", "t": "Robotics Design and Control Database: Arm Natural Frequency", "c": 0, "g": "control"}
+{"id": "JAH-RDC-000027", "t": "Robotics Design and Control Database: Damping Ratio", "c": 0, "g": "control"}
+{"id": "JAH-RDC-000028", "t": "Robotics Design and Control Database: Nyquist Sampling Limit", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000029", "t": "Robotics Design and Control Database: Scalar Kalman Gain", "c": 0, "g": "control"}
+{"id": "JAH-RDC-000030", "t": "Robotics Design and Control Database: Waypoint Path Length", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000031", "t": "Robotics Design and Control Database: Ackermann Turn Radius", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000032", "t": "Robotics Design and Control Database: Lidar Points Per Revolution", "c": 0, "g": "sensors"}
+{"id": "JAH-RDC-000033", "t": "Robotics Design and Control Database: Mobile Robot Energy Per Distance", "c": 0, "g": "planning"}
+{"id": "JAH-RDC-000034", "t": "Robotics Design and Control Database: Computed Torque (1-DOF Inverse Dynamics)", "c": 0, "g": "control"}

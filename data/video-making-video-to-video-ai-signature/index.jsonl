@@ -1,0 +1,34 @@
+{"id": "JAH-VMVVS-0001", "t": "How Video-to-Video AI Works", "g": "Foundations"}
+{"id": "JAH-VMVVS-0002", "t": "ControlNets: Depth, Pose, and Edges", "g": "Foundations"}
+{"id": "JAH-VMVVS-0003", "t": "Style Transfer for Video", "g": "Foundations"}
+{"id": "JAH-VMVVS-0004", "t": "Flicker: The Enemy and Its Defeat", "g": "Foundations"}
+{"id": "JAH-VMVVS-0005", "t": "AI Upscaling and Super-Resolution", "g": "Foundations"}
+{"id": "JAH-VMVVS-0006", "t": "Denoising with AI", "g": "Foundations"}
+{"id": "JAH-VMVVS-0007", "t": "Frame Interpolation and Slow Motion", "g": "Foundations"}
+{"id": "JAH-VMVVS-0008", "t": "AI Colorization", "g": "Foundations"}
+{"id": "JAH-VMVVS-0009", "t": "Face Restoration and Enhancement", "g": "Foundations"}
+{"id": "JAH-VMVVS-0010", "t": "Background Replacement with AI", "g": "Foundations"}
+{"id": "JAH-VMVVS-0011", "t": "Relighting with AI", "g": "Foundations"}
+{"id": "JAH-VMVVS-0012", "t": "Rotoscoping Assist", "g": "Foundations"}
+{"id": "JAH-VMVVS-0013", "t": "Cleanup Automation", "g": "Compounded"}
+{"id": "JAH-VMVVS-0014", "t": "Motion Transfer and Pose Transfer", "g": "Compounded"}
+{"id": "JAH-VMVVS-0015", "t": "AI Dubbing and Translation", "g": "Compounded"}
+{"id": "JAH-VMVVS-0016", "t": "Virtual Camera Moves from Footage", "g": "Compounded"}
+{"id": "JAH-VMVVS-0017", "t": "Depth-Based Effects", "g": "Compounded"}
+{"id": "JAH-VMVVS-0018", "t": "Cartoonization and Stylization", "g": "Compounded"}
+{"id": "JAH-VMVVS-0019", "t": "Archival Restoration with AI", "g": "Compounded"}
+{"id": "JAH-VMVVS-0020", "t": "Batch Transformation Pipelines", "g": "Compounded"}
+{"id": "JAH-VMVVS-0021", "t": "Quality Control for Transformed Video", "g": "Advanced"}
+{"id": "JAH-VMVVS-0022", "t": "The Transformation Pipeline", "g": "Advanced"}
+{"id": "JAH-VMVVS-0023", "t": "Building a Transformation Career", "g": "Advanced"}
+{"id": "JAH-VMVVS-0024", "t": "Deinterlacing and Legacy Format Conversion", "g": "Compounded"}
+{"id": "JAH-VMVVS-0025", "t": "Matching AI Output to Camera Footage", "g": "Compounded"}
+{"id": "JAH-VMVVS-0026", "t": "AI Grain Matching and Texture", "g": "Compounded"}
+{"id": "JAH-VMVVS-0027", "t": "Real-Time Video Transformation", "g": "Advanced"}
+{"id": "JAH-VMVVS-0028", "t": "AI Inpainting for Wire and Rig Removal", "g": "Advanced"}
+{"id": "JAH-VMVVS-0029", "t": "Virtual Production Plate Enhancement", "g": "Advanced"}
+{"id": "JAH-VMVVS-0030", "t": "Forensic Video Enhancement: Limits and Honesty", "g": "Advanced"}
+{"id": "JAH-VMVVS-0031", "t": "AI Color Grading Assistance", "g": "Advanced"}
+{"id": "JAH-VMVVS-0032", "t": "The Transformation Supervisor's Role", "g": "Advanced"}
+{"id": "JAH-VMVVS-0033", "t": "Client-Facing Transformation Services", "g": "Advanced"}
+{"id": "JAH-VMVVS-0034", "t": "Ethics of Invisible Alteration", "g": "Advanced"}

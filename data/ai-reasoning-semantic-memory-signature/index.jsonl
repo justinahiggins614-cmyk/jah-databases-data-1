@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-SEMS-000001", "t": "What semantic memory is: knowledge of what things are (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000002", "t": "Concepts: the atoms of meaning (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000003", "t": "Categories: grouping the world (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000004", "t": "Definitions: saying what you mean (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000005", "t": "Is-a relations: the taxonomy backbone (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000006", "t": "Part-of relations: composition and structure (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000007", "t": "Instances: the particulars under the concepts (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000008", "t": "Attributes: the properties things have (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000009", "t": "Prototypes: the typical example (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000010", "t": "Basic taxonomies: the tree of kinds (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000011", "t": "Semantic vs episodic: two memories, one mind (Signature Edition)", "g": "semantic-memory-foundations"}
+{"id": "JAH-AIR-SEMS-000012", "t": "Ontologies: the formal map of a domain (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000013", "t": "Semantic networks: meaning as a graph (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000014", "t": "Knowledge graphs: the web of facts (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000015", "t": "Distributional semantics: meaning from usage (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000016", "t": "Embeddings as meaning: the geometry of concepts (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000017", "t": "Word senses: one word, many meanings (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000018", "t": "Relation extraction: reading facts from text (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000019", "t": "Entity linking: this mention means that entity (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000020", "t": "Fact verification: is it true (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000021", "t": "Consistency checking: the graph must agree with itself (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000022", "t": "Merging sources: one world from many (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000023", "t": "Semantic search: finding by meaning (Signature Edition)", "g": "semantic-memory-compounded"}
+{"id": "JAH-AIR-SEMS-000024", "t": "Large knowledge bases: millions of facts that hold together (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000025", "t": "Temporal facts: true then, false now (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000026", "t": "Uncertain knowledge: shades of true (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000027", "t": "Causal relations: what causes what (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000028", "t": "Commonsense knowledge: the obvious that is not obvious to machines (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000029", "t": "Multilingual concepts: meaning across languages (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000030", "t": "Ontology alignment: merging maps of the world (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000031", "t": "Knowledge completion: filling the gaps (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000032", "t": "Hallucination defense: when the memory must say it does not know (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000033", "t": "The living encyclopedia: knowledge that never stops growing (Signature Edition)", "g": "semantic-memory-advanced"}
+{"id": "JAH-AIR-SEMS-000034", "t": "Meaning at planetary scale: the final horizon (Signature Edition)", "g": "semantic-memory-advanced"}

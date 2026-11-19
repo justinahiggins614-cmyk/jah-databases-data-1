@@ -1,0 +1,34 @@
+{"id": "JAH-SCA-000001", "t": "Semiconductor and Chip Architecture Database: MOSFET Operation", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000002", "t": "Semiconductor and Chip Architecture Database: CMOS Inverter", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000003", "t": "Semiconductor and Chip Architecture Database: FinFET Transistor", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000004", "t": "Semiconductor and Chip Architecture Database: NAND Flash Cell", "c": 0, "g": "memory"}
+{"id": "JAH-SCA-000005", "t": "Semiconductor and Chip Architecture Database: SRAM Cell (6T)", "c": 0, "g": "memory"}
+{"id": "JAH-SCA-000006", "t": "Semiconductor and Chip Architecture Database: DRAM Cell (1T1C)", "c": 0, "g": "memory"}
+{"id": "JAH-SCA-000007", "t": "Semiconductor and Chip Architecture Database: Doping and pn Junction", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCA-000008", "t": "Semiconductor and Chip Architecture Database: Moore Law and Scaling", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCA-000009", "t": "Semiconductor and Chip Architecture Database: Dennard Scaling (and Its End)", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCA-000010", "t": "Semiconductor and Chip Architecture Database: Process Nodes (7nm, 5nm, 3nm)", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCA-000011", "t": "Semiconductor and Chip Architecture Database: EUV Lithography", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCA-000012", "t": "Semiconductor and Chip Architecture Database: Interconnect RC Delay", "c": 0, "g": "interconnect"}
+{"id": "JAH-SCA-000013", "t": "Semiconductor and Chip Architecture Database: Clock Tree Synthesis", "c": 0, "g": "interconnect"}
+{"id": "JAH-SCA-000014", "t": "Semiconductor and Chip Architecture Database: Power Gating", "c": 0, "g": "performance"}
+{"id": "JAH-SCA-000015", "t": "Semiconductor and Chip Architecture Database: DVFS", "c": 0, "g": "performance"}
+{"id": "JAH-SCA-000016", "t": "Semiconductor and Chip Architecture Database: Cache Hierarchy", "c": 0, "g": "memory"}
+{"id": "JAH-SCA-000017", "t": "Semiconductor and Chip Architecture Database: Pipelining", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000018", "t": "Semiconductor and Chip Architecture Database: Superscalar Execution", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000019", "t": "Semiconductor and Chip Architecture Database: Out-of-Order Execution", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000020", "t": "Semiconductor and Chip Architecture Database: Branch Prediction", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000021", "t": "Semiconductor and Chip Architecture Database: SIMD / Vector Units", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000022", "t": "Semiconductor and Chip Architecture Database: GPU Streaming Multiprocessor", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000023", "t": "Semiconductor and Chip Architecture Database: Systolic Array (TPU-style)", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000024", "t": "Semiconductor and Chip Architecture Database: Memory Wall", "c": 0, "g": "memory"}
+{"id": "JAH-SCA-000025", "t": "Semiconductor and Chip Architecture Database: HBM and 3D Stacking", "c": 0, "g": "memory"}
+{"id": "JAH-SCA-000026", "t": "Semiconductor and Chip Architecture Database: Chiplet Architecture", "c": 0, "g": "packaging"}
+{"id": "JAH-SCA-000027", "t": "Semiconductor and Chip Architecture Database: Network-on-Chip (NoC)", "c": 0, "g": "interconnect"}
+{"id": "JAH-SCA-000028", "t": "Semiconductor and Chip Architecture Database: Flip-Chip Packaging", "c": 0, "g": "packaging"}
+{"id": "JAH-SCA-000029", "t": "Semiconductor and Chip Architecture Database: Thermal Design Power (TDP)", "c": 0, "g": "performance"}
+{"id": "JAH-SCA-000030", "t": "Semiconductor and Chip Architecture Database: Dark Silicon", "c": 0, "g": "performance"}
+{"id": "JAH-SCA-000031", "t": "Semiconductor and Chip Architecture Database: RISC vs CISC", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000032", "t": "Semiconductor and Chip Architecture Database: Instruction Set Architecture (ISA)", "c": 0, "g": "logic"}
+{"id": "JAH-SCA-000033", "t": "Semiconductor and Chip Architecture Database: Hardware Verification (UVM)", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCA-000034", "t": "Semiconductor and Chip Architecture Database: Gate-All-Around Nanosheet", "c": 0, "g": "logic"}

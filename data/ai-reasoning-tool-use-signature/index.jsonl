@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-TUS-000001", "t": "What tool use is: acting beyond words (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000002", "t": "The tool catalog: knowing what is available (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000003", "t": "Reading tool schemas: the contract (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000004", "t": "Selecting tools: the right tool for the job (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000005", "t": "Building arguments: the call's content (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000006", "t": "Making the call: invocation (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000007", "t": "Reading results: the observe step (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000008", "t": "The observe step: integrating results (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000009", "t": "When not to call: the restraint (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000010", "t": "The first workflow: a complete example (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000011", "t": "Argument validation: check before calling (Signature Edition)", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TUS-000012", "t": "Error handling: when tools fail (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000013", "t": "Retries: trying again wisely (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000014", "t": "Result parsing: extracting the signal (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000015", "t": "Pagination: reading the whole result (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000016", "t": "Chaining tools: workflows of calls (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000017", "t": "Parallel calls: doing more at once (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000018", "t": "Conditional calls: branching on results (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000019", "t": "Tool result memory: not calling twice (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000020", "t": "Cost awareness: tools cost money (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000021", "t": "Timeouts: bounding the wait (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000022", "t": "Idempotency: safe to retry (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000023", "t": "MCP: the standard connection (Signature Edition)", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TUS-000024", "t": "Tool orchestration: conducting the calls (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000025", "t": "Agent loops: the autonomous cycle (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000026", "t": "ReAct patterns: reason, act, observe (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000027", "t": "Toolformer ideas: learning to use tools (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000028", "t": "Custom tool design: building good tools (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000029", "t": "Tool security: the call is a trust decision (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000030", "t": "Sandboxing: safe places to act (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000031", "t": "Audit trails: the record of deeds (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000032", "t": "Tool evaluation: measuring the machinery (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000033", "t": "The tool-using organization: agency at scale (Signature Edition)", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TUS-000034", "t": "The responsible hand: the final standard (Signature Edition)", "g": "tool-use-advanced"}

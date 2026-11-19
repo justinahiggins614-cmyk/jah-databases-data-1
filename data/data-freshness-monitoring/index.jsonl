@@ -1,0 +1,34 @@
+{"id": "JAH-DFM-000001", "t": "Data Freshness Monitoring: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-DFM-000002", "t": "Data Freshness Monitoring: How It Actually Works", "g": "foundations"}
+{"id": "JAH-DFM-000003", "t": "Data Freshness Monitoring: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-DFM-000004", "t": "Data Freshness Monitoring: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-DFM-000005", "t": "Data Freshness Monitoring: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-DFM-000006", "t": "Data Freshness Monitoring: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-DFM-000007", "t": "Data Freshness Monitoring: Prompting and Control", "g": "foundations"}
+{"id": "JAH-DFM-000008", "t": "Data Freshness Monitoring: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-DFM-000009", "t": "Data Freshness Monitoring: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-DFM-000010", "t": "Data Freshness Monitoring: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-DFM-000011", "t": "Data Freshness Monitoring: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-DFM-000012", "t": "Data Freshness Monitoring: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-DFM-000013", "t": "Data Freshness Monitoring: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-DFM-000014", "t": "Data Freshness Monitoring: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-DFM-000015", "t": "Data Freshness Monitoring: Deployment Realities", "g": "compounded"}
+{"id": "JAH-DFM-000016", "t": "Data Freshness Monitoring: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-DFM-000017", "t": "Data Freshness Monitoring: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-DFM-000018", "t": "Data Freshness Monitoring: Documentation for AI", "g": "compounded"}
+{"id": "JAH-DFM-000019", "t": "Data Freshness Monitoring: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-DFM-000020", "t": "Data Freshness Monitoring: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-DFM-000021", "t": "Data Freshness Monitoring: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-DFM-000022", "t": "Data Freshness Monitoring: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-DFM-000023", "t": "Data Freshness Monitoring: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-DFM-000024", "t": "Data Freshness Monitoring: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-DFM-000025", "t": "Data Freshness Monitoring: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-DFM-000026", "t": "Data Freshness Monitoring: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-DFM-000027", "t": "Data Freshness Monitoring: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-DFM-000028", "t": "Data Freshness Monitoring: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-DFM-000029", "t": "Data Freshness Monitoring: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-DFM-000030", "t": "Data Freshness Monitoring: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-DFM-000031", "t": "Data Freshness Monitoring: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-DFM-000032", "t": "Data Freshness Monitoring: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-DFM-000033", "t": "Data Freshness Monitoring: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-DFM-000034", "t": "Data Freshness Monitoring: Advanced: Teaching AI Systems", "g": "advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-SCB-000001", "t": "What Is a Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000002", "t": "CIS Benchmarks Intro", "g": "network-hardening"}
+{"id": "JAH-SCB-000003", "t": "Windows Hardening Baseline", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000004", "t": "Linux Hardening Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000005", "t": "macOS Hardening Baseline", "g": "network-hardening"}
+{"id": "JAH-SCB-000006", "t": "Password Policy Baseline", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000007", "t": "MFA Everywhere Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000008", "t": "Account Lockout Policy", "g": "network-hardening"}
+{"id": "JAH-SCB-000009", "t": "Unnecessary Services Audit", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000010", "t": "Patching Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000011", "t": "Antivirus/EDR Baseline", "g": "network-hardening"}
+{"id": "JAH-SCB-000012", "t": "Firewall Rules Baseline", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000013", "t": "Wireless Security Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000014", "t": "Router Hardening", "g": "network-hardening"}
+{"id": "JAH-SCB-000015", "t": "Email Security Baseline", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000016", "t": "Browser Hardening", "g": "os-hardening"}
+{"id": "JAH-SCB-000017", "t": "USB and Removable Media", "g": "network-hardening"}
+{"id": "JAH-SCB-000018", "t": "Logging Baseline", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000019", "t": "Backup Security Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000020", "t": "Cloud Config Baseline", "g": "network-hardening"}
+{"id": "JAH-SCB-000021", "t": "Default Credential Purge", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000022", "t": "Encryption Baseline", "g": "os-hardening"}
+{"id": "JAH-SCB-000023", "t": "Physical Security Baseline", "g": "network-hardening"}
+{"id": "JAH-SCB-000024", "t": "User Training Baseline", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000025", "t": "Incident Response Mini-Plan", "g": "os-hardening"}
+{"id": "JAH-SCB-000026", "t": "Vulnerability Scanning", "g": "network-hardening"}
+{"id": "JAH-SCB-000027", "t": "Baseline Documentation", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000028", "t": "Compliance Mapping", "g": "os-hardening"}
+{"id": "JAH-SCB-000029", "t": "Hardening New Devices", "g": "network-hardening"}
+{"id": "JAH-SCB-000030", "t": "Decommissioning Securely", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000031", "t": "The Annual Hardening Review", "g": "os-hardening"}
+{"id": "JAH-SCB-000032", "t": "SSH Hardening Deep Dive", "g": "network-hardening"}
+{"id": "JAH-SCB-000033", "t": "RDP Hardening", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000034", "t": "IoT Device Hardening", "g": "os-hardening"}

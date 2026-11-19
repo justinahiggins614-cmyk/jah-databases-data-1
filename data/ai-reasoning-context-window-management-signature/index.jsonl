@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-CWS-000001", "t": "What the context window is: the working view (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000002", "t": "Tokens: the currency (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000003", "t": "The budget: spending tokens wisely (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000004", "t": "Prioritization: what stays (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000005", "t": "Ordering: position matters (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000006", "t": "The system prompt's seat: the permanent resident (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000007", "t": "Conversation history: the growing past (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000008", "t": "Truncation: the blunt tool (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000009", "t": "The first budget: a complete example (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000010", "t": "Fitting the task: the right size (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000011", "t": "Compression: the smaller window (Signature Edition)", "g": "context-window-management-foundations"}
+{"id": "JAH-AIR-CWS-000012", "t": "The window audit: knowing what is inside (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000013", "t": "Summarization: the compressed past (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000014", "t": "Retrieval augmentation: fetching what is needed (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000015", "t": "Dynamic budgets: adapting the spend (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000016", "t": "Lost in the middle: the position effect (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000017", "t": "Attention dilution: the crowded window (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000018", "t": "KV cache: the engine room (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000019", "t": "Prompt caching: the reusable start (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000020", "t": "Evaluation: measuring the management (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000021", "t": "Cost optimization: the efficient window (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000022", "t": "Million-token contexts: the new scale (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000023", "t": "Hierarchical context: levels of detail (Signature Edition)", "g": "context-window-management-compounded"}
+{"id": "JAH-AIR-CWS-000024", "t": "Window warming: the prepared context (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000025", "t": "Salience scoring: ranking content (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000026", "t": "Deduplication: the lean window (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000027", "t": "Memory systems: beyond the window (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000028", "t": "The infinite context illusion: the honest limit (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000029", "t": "The managed mind: the final standard (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000030", "t": "The context compiler: building windows programmatically (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000031", "t": "Multi-window systems: parallel contexts (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000032", "t": "The attention budget: spending focus (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000033", "t": "Context versioning: the changing window (Signature Edition)", "g": "context-window-management-advanced"}
+{"id": "JAH-AIR-CWS-000034", "t": "The windowless future: beyond fixed contexts (Signature Edition)", "g": "context-window-management-advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ASV-000001", "t": "Why Autonomy Needs Proof", "g": "verification-methods"}
+{"id": "JAH-ASV-000002", "t": "Safety Cases", "g": "safety-assurance"}
+{"id": "JAH-ASV-000003", "t": "Formal Verification", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000004", "t": "The Verification Playbook", "g": "verification-methods"}
+{"id": "JAH-ASV-000005", "t": "Model Checking", "g": "safety-assurance"}
+{"id": "JAH-ASV-000006", "t": "Theorem Proving", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000007", "t": "Runtime Verification", "g": "verification-methods"}
+{"id": "JAH-ASV-000008", "t": "Simulation Testing", "g": "safety-assurance"}
+{"id": "JAH-ASV-000009", "t": "Scenario Libraries", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000010", "t": "Edge Case Discovery", "g": "verification-methods"}
+{"id": "JAH-ASV-000011", "t": "Fuzz Testing (Autonomy)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000012", "t": "Metamorphic Testing", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000013", "t": "Digital Twins", "g": "verification-methods"}
+{"id": "JAH-ASV-000014", "t": "Hardware-in-the-Loop", "g": "safety-assurance"}
+{"id": "JAH-ASV-000015", "t": "Operational Design Domain", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000016", "t": "ODD Monitoring", "g": "verification-methods"}
+{"id": "JAH-ASV-000017", "t": "Minimal Risk Condition", "g": "safety-assurance"}
+{"id": "JAH-ASV-000018", "t": "Redundancy", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000019", "t": "Diverse Redundancy", "g": "verification-methods"}
+{"id": "JAH-ASV-000020", "t": "SOTIF (ISO 21448)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000021", "t": "ISO 26262 (Functional Safety)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000022", "t": "UL 4600", "g": "verification-methods"}
+{"id": "JAH-ASV-000023", "t": "Regulatory Approval", "g": "safety-assurance"}
+{"id": "JAH-ASV-000024", "t": "Incident Investigation", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000025", "t": "Disengagement Analysis", "g": "verification-methods"}
+{"id": "JAH-ASV-000026", "t": "Safety Metrics", "g": "safety-assurance"}
+{"id": "JAH-ASV-000027", "t": "Continuous Monitoring", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000028", "t": "OTA Update Safety", "g": "verification-methods"}
+{"id": "JAH-ASV-000029", "t": "Cybersecurity (Autonomy)", "g": "safety-assurance"}
+{"id": "JAH-ASV-000030", "t": "Human Factors (Autonomy)", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000031", "t": "Ethics (Trolley Problems)", "g": "verification-methods"}
+{"id": "JAH-ASV-000032", "t": "Public Trust", "g": "safety-assurance"}
+{"id": "JAH-ASV-000033", "t": "Insurance and Liability", "g": "testing-at-scale"}
+{"id": "JAH-ASV-000034", "t": "The Verified Autonomous System", "g": "verification-methods"}

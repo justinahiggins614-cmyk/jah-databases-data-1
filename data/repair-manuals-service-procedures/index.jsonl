@@ -1,0 +1,34 @@
+{"id": "JAH-RMSP-000001", "t": "Visual Inspection Procedure", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000002", "t": "Reading and Interpreting Fault Codes", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000003", "t": "Power Supply Verification Sequence", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000004", "t": "Continuity and Resistance Testing", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000005", "t": "Fastener Identification and Torque Basics", "g": "Disassembly"}
+{"id": "JAH-RMSP-000006", "t": "Safe Disassembly Order Planning", "g": "Disassembly"}
+{"id": "JAH-RMSP-000007", "t": "Cable and Connector Handling", "g": "Disassembly"}
+{"id": "JAH-RMSP-000008", "t": "Cleaning Procedures for Service", "g": "Repair"}
+{"id": "JAH-RMSP-000009", "t": "Lubrication Basics in Service", "g": "Adjustment"}
+{"id": "JAH-RMSP-000010", "t": "Reassembly Verification Checklist", "g": "Verification"}
+{"id": "JAH-RMSP-000011", "t": "Board-Level Diagnostic Procedure", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000012", "t": "Electrolytic Capacitor Replacement", "g": "Repair"}
+{"id": "JAH-RMSP-000013", "t": "Belt and Chain Replacement", "g": "Repair"}
+{"id": "JAH-RMSP-000014", "t": "Bearing Replacement Procedure", "g": "Repair"}
+{"id": "JAH-RMSP-000015", "t": "Sensor Recalibration After Repair", "g": "Adjustment"}
+{"id": "JAH-RMSP-000016", "t": "Firmware Reflash Service Procedure", "g": "Repair"}
+{"id": "JAH-RMSP-000017", "t": "Hydraulic Seal Replacement", "g": "Repair"}
+{"id": "JAH-RMSP-000018", "t": "DC Motor Brush Replacement", "g": "Repair"}
+{"id": "JAH-RMSP-000019", "t": "Gasket Replacement and Sealing", "g": "Repair"}
+{"id": "JAH-RMSP-000020", "t": "Shaft Alignment After Repair", "g": "Adjustment"}
+{"id": "JAH-RMSP-000021", "t": "Thermal Paste Renewal on Power Electronics", "g": "Repair"}
+{"id": "JAH-RMSP-000022", "t": "Battery Pack Servicing Procedure", "g": "Repair"}
+{"id": "JAH-RMSP-000023", "t": "Intermittent Fault Hunting Method", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000024", "t": "Gearbox Overhaul Procedure", "g": "Repair"}
+{"id": "JAH-RMSP-000025", "t": "Spindle Rebuild Procedure", "g": "Repair"}
+{"id": "JAH-RMSP-000026", "t": "BGA Rework Outline for Service Shops", "g": "Repair"}
+{"id": "JAH-RMSP-000027", "t": "Root-Cause Failure Analysis Writeup", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000028", "t": "Calibration Restoration After Major Repair", "g": "Adjustment"}
+{"id": "JAH-RMSP-000029", "t": "EMC Re-Verification After Repair", "g": "Verification"}
+{"id": "JAH-RMSP-000030", "t": "Safety Interlock Restoration and Test", "g": "Verification"}
+{"id": "JAH-RMSP-000031", "t": "Pressure System Repair Documentation", "g": "Repair"}
+{"id": "JAH-RMSP-000032", "t": "Field Repair Under Constraints", "g": "Repair"}
+{"id": "JAH-RMSP-000033", "t": "Repair-Versus-Replace Decision Record", "g": "Diagnostics"}
+{"id": "JAH-RMSP-000034", "t": "Final Acceptance Test Protocol", "g": "Verification"}

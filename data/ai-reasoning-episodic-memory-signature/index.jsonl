@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-EMS-000001", "t": "What episodic memory is: remembering what happened (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000002", "t": "Episode capture: writing down the experience (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000003", "t": "The episode shape: context, events, outcome, lesson (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000004", "t": "Temporal ordering: when things happened and in what order (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000005", "t": "Actors and roles: who did what (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000006", "t": "Outcomes: how it turned out, honestly (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000007", "t": "Lessons: the one sentence the episode teaches (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000008", "t": "Episode vs fact: stories are not rules (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000009", "t": "Salience: which episodes matter most (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000010", "t": "The episode log: the unbroken record (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000011", "t": "Retrieval basics: finding the right episode (Signature Edition)", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EMS-000012", "t": "Similarity indexing: what 'like this' means (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000013", "t": "Case-based reasoning: solving from the closest case (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000014", "t": "Nearest-case retrieval in practice (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000015", "t": "Adapting solutions from cases (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000016", "t": "Experience replay: learning from the log (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000017", "t": "Narrative compression: the story in a paragraph (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000018", "t": "Episode clustering: finding the kinds of things that happen (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000019", "t": "Cross-episode patterns: what the log is trying to tell you (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000020", "t": "Counterfactual episodes: what if it had gone differently (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000021", "t": "Teaching with stories: episodes as instruction (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000022", "t": "Forgetting episodes: the log must shed weight (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000023", "t": "Episode verification: did it really happen that way (Signature Edition)", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EMS-000024", "t": "Lifelong case libraries: the career of cases (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000025", "t": "Rare-episode preservation: the one time it happened (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000026", "t": "Adversarial episodes: when the story is the attack (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000027", "t": "Episode-driven planning: deciding from cases (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000028", "t": "Multi-actor episodes: many perspectives, one record (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000029", "t": "Causal analysis of episodes: why it really happened (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000030", "t": "Episode summarization at scale: the log in brief (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000031", "t": "The canon of cases: the episodes everyone knows (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000032", "t": "Episode ethics: stories about real people (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000033", "t": "The unbroken record: the complete life of the system (Signature Edition)", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EMS-000034", "t": "Synthetic episodes: learning from imagined cases (Signature Edition)", "g": "episodic-memory-advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DFIR-000001", "t": "Digital Forensics and Incident Response Database: IR Preparation", "c": 0, "g": "foundations"}
+{"id": "JAH-DFIR-000002", "t": "Digital Forensics and Incident Response Database: Detection", "c": 0, "g": "foundations"}
+{"id": "JAH-DFIR-000003", "t": "Digital Forensics and Incident Response Database: Triage", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000004", "t": "Digital Forensics and Incident Response Database: Containment", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000005", "t": "Digital Forensics and Incident Response Database: Eradication", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000006", "t": "Digital Forensics and Incident Response Database: Recovery", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000007", "t": "Digital Forensics and Incident Response Database: Lessons Learned", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000008", "t": "Digital Forensics and Incident Response Database: Evidence Collection", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000009", "t": "Digital Forensics and Incident Response Database: Chain of Custody", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000010", "t": "Digital Forensics and Incident Response Database: Disk Imaging", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000011", "t": "Digital Forensics and Incident Response Database: Memory Capture", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000012", "t": "Digital Forensics and Incident Response Database: Timeline Analysis", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000013", "t": "Digital Forensics and Incident Response Database: Log Analysis", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000014", "t": "Digital Forensics and Incident Response Database: Malware Triage", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000015", "t": "Digital Forensics and Incident Response Database: Network Forensics", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000016", "t": "Digital Forensics and Incident Response Database: Ransomware Response", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000017", "t": "Digital Forensics and Incident Response Database: BEC Response", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000018", "t": "Digital Forensics and Incident Response Database: Insider Threat", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000019", "t": "Digital Forensics and Incident Response Database: Data Breach Response", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000020", "t": "Digital Forensics and Incident Response Database: Communication Plan", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000021", "t": "Digital Forensics and Incident Response Database: Legal Hold", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000022", "t": "Digital Forensics and Incident Response Database: Tabletop Exercise", "c": 0, "g": "foundations"}
+{"id": "JAH-DFIR-000023", "t": "Digital Forensics and Incident Response Database: Threat Hunting", "c": 0, "g": "foundations"}
+{"id": "JAH-DFIR-000024", "t": "Digital Forensics and Incident Response Database: IOC Management", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000025", "t": "Digital Forensics and Incident Response Database: EDR Isolation", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000026", "t": "Digital Forensics and Incident Response Database: Enterprise Password Reset", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000027", "t": "Digital Forensics and Incident Response Database: Backup Restore (IR)", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000028", "t": "Digital Forensics and Incident Response Database: Post-Incident Monitoring", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000029", "t": "Digital Forensics and Incident Response Database: IR Metrics (MTTD/MTTR)", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000030", "t": "Digital Forensics and Incident Response Database: IR Playbooks", "c": 0, "g": "response"}
+{"id": "JAH-DFIR-000031", "t": "Digital Forensics and Incident Response Database: On-Call Rotation", "c": 0, "g": "foundations"}
+{"id": "JAH-DFIR-000032", "t": "Digital Forensics and Incident Response Database: Email Forensics", "c": 0, "g": "forensics"}
+{"id": "JAH-DFIR-000033", "t": "Digital Forensics and Incident Response Database: Forensic Readiness", "c": 0, "g": "foundations"}
+{"id": "JAH-DFIR-000034", "t": "Digital Forensics and Incident Response Database: Capstone: IR Program", "c": 0, "g": "response"}

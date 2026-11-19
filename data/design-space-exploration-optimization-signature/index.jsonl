@@ -1,0 +1,34 @@
+{"id": "JAH-DSEOS-000001", "t": "Design-Space Exploration and Optimization Signature Database: Combinations", "c": 0, "g": "counting"}
+{"id": "JAH-DSEOS-000002", "t": "Design-Space Exploration and Optimization Signature Database: Permutations", "c": 0, "g": "counting"}
+{"id": "JAH-DSEOS-000003", "t": "Design-Space Exploration and Optimization Signature Database: Full Factorial Runs", "c": 0, "g": "doe"}
+{"id": "JAH-DSEOS-000004", "t": "Design-Space Exploration and Optimization Signature Database: Parameter Sweep Points", "c": 0, "g": "doe"}
+{"id": "JAH-DSEOS-000005", "t": "Design-Space Exploration and Optimization Signature Database: Weighted Score", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000006", "t": "Design-Space Exploration and Optimization Signature Database: Normalized Score", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000007", "t": "Design-Space Exploration and Optimization Signature Database: Improvement Ratio", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000008", "t": "Design-Space Exploration and Optimization Signature Database: Percent Improvement", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000009", "t": "Design-Space Exploration and Optimization Signature Database: Constraint Violation", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEOS-000010", "t": "Design-Space Exploration and Optimization Signature Database: Penalty", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEOS-000011", "t": "Design-Space Exploration and Optimization Signature Database: Fitness", "c": 0, "g": "optimization"}
+{"id": "JAH-DSEOS-000012", "t": "Design-Space Exploration and Optimization Signature Database: Main Effect (DOE)", "c": 0, "g": "doe"}
+{"id": "JAH-DSEOS-000013", "t": "Design-Space Exploration and Optimization Signature Database: Design Margin", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEOS-000014", "t": "Design-Space Exploration and Optimization Signature Database: Safety Factor", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEOS-000015", "t": "Design-Space Exploration and Optimization Signature Database: Utilization", "c": 0, "g": "constraints"}
+{"id": "JAH-DSEOS-000016", "t": "Design-Space Exploration and Optimization Signature Database: Efficiency", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000017", "t": "Design-Space Exploration and Optimization Signature Database: Tradeoff Slope", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000018", "t": "Design-Space Exploration and Optimization Signature Database: Sensitivity", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000019", "t": "Design-Space Exploration and Optimization Signature Database: Response Range", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000020", "t": "Design-Space Exploration and Optimization Signature Database: Coefficient of Variation", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000021", "t": "Design-Space Exploration and Optimization Signature Database: Z-Score", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000022", "t": "Design-Space Exploration and Optimization Signature Database: Rank Score", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000023", "t": "Design-Space Exploration and Optimization Signature Database: Cost per Performance", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000024", "t": "Design-Space Exploration and Optimization Signature Database: Performance per Cost", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000025", "t": "Design-Space Exploration and Optimization Signature Database: ROI", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000026", "t": "Design-Space Exploration and Optimization Signature Database: Learning Curve", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000027", "t": "Design-Space Exploration and Optimization Signature Database: Scaling Law", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000028", "t": "Design-Space Exploration and Optimization Signature Database: Marginal Gain", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000029", "t": "Design-Space Exploration and Optimization Signature Database: Regret", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000030", "t": "Design-Space Exploration and Optimization Signature Database: Expected Value", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000031", "t": "Design-Space Exploration and Optimization Signature Database: Risk-Adjusted Value", "c": 0, "g": "ranking"}
+{"id": "JAH-DSEOS-000032", "t": "Design-Space Exploration and Optimization Signature Database: Design Diversity", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000033", "t": "Design-Space Exploration and Optimization Signature Database: Coverage", "c": 0, "g": "analysis"}
+{"id": "JAH-DSEOS-000034", "t": "Design-Space Exploration and Optimization Signature Database: Design Score Capstone", "c": 0, "g": "ranking"}

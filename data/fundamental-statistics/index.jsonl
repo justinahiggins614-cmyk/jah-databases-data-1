@@ -1,0 +1,34 @@
+{"id": "JAH-FSTA-000001", "t": "What Statistics Is", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000002", "t": "The Core Question of Statistics", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000003", "t": "Assumptions Beneath Every Analysis", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000004", "t": "The Vocabulary of Data", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000005", "t": "The Mean, Median, and Standard Deviation", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000006", "t": "Sampling: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000007", "t": "A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000008", "t": "How Statistics Observes", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000009", "t": "The Core Mechanism: Variation Plus Model", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000010", "t": "The Simplest Law: The Law of Large Numbers", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000011", "t": "Common Misconceptions in Statistics", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000012", "t": "How Beginners Practice Statistics", "g": "Foundations", "c": 0}
+{"id": "JAH-FSTA-000013", "t": "The Core Model: The Normal Distribution", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000014", "t": "The Great Equation: Bayes' Theorem", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000015", "t": "Systems Thinking: Confounders and Causes", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000016", "t": "Invariance: What Replication Preserves", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000017", "t": "Approximation and Error: Confidence Intervals", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000018", "t": "Evidence Standards: Significance and Power", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000019", "t": "Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000020", "t": "Core Trade-offs: Bias versus Variance", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000021", "t": "Handling Uncertainty Honestly", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000022", "t": "Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000023", "t": "Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000024", "t": "Teaching Statistics", "g": "Compounded", "c": 0}
+{"id": "JAH-FSTA-000025", "t": "The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000026", "t": "Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000027", "t": "Computational Statistics", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000028", "t": "Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000029", "t": "The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000030", "t": "How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000031", "t": "The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000032", "t": "Failure Modes: When Statistics Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000033", "t": "Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-FSTA-000034", "t": "The Signature Formulation: Statistics as Honest Measurement", "g": "Advanced", "c": 0}

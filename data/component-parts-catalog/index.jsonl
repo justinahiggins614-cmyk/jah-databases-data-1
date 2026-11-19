@@ -1,0 +1,34 @@
+{"id": "JAH-CPTC-000001", "t": "What Is a Component or Part", "g": "Foundations"}
+{"id": "JAH-CPTC-000002", "t": "Reading a Component Datasheet", "g": "Foundations"}
+{"id": "JAH-CPTC-000003", "t": "Units, Tolerances, and Ratings", "g": "Foundations"}
+{"id": "JAH-CPTC-000004", "t": "Passive Components: Resistors, Capacitors, Inductors", "g": "Foundations"}
+{"id": "JAH-CPTC-000005", "t": "Mechanical Parts: Fasteners, Bearings, Gears", "g": "Foundations"}
+{"id": "JAH-CPTC-000006", "t": "Wire, Cable, and Connector Basics", "g": "Foundations"}
+{"id": "JAH-CPTC-000007", "t": "Component Markings and Identification Codes", "g": "Foundations"}
+{"id": "JAH-CPTC-000008", "t": "Materials Stock: Sheet, Bar, Rod, and Filament", "g": "Foundations"}
+{"id": "JAH-CPTC-000009", "t": "Series and Parallel Component Rules", "g": "Foundations"}
+{"id": "JAH-CPTC-000010", "t": "What Compatibility Means for Parts", "g": "Foundations"}
+{"id": "JAH-CPTC-000011", "t": "Selection Criteria: How Engineers Choose a Part", "g": "Foundations"}
+{"id": "JAH-CPTC-000012", "t": "Standards Bodies and Part Numbering", "g": "Foundations"}
+{"id": "JAH-CPTC-000013", "t": "Resistors in Depth", "g": "Compounded"}
+{"id": "JAH-CPTC-000014", "t": "Capacitors in Depth", "g": "Compounded"}
+{"id": "JAH-CPTC-000015", "t": "Inductors and Transformers", "g": "Compounded"}
+{"id": "JAH-CPTC-000016", "t": "Diodes and Rectifiers", "g": "Compounded"}
+{"id": "JAH-CPTC-000017", "t": "Transistors: BJT and MOSFET", "g": "Compounded"}
+{"id": "JAH-CPTC-000018", "t": "Integrated Circuits and Logic Families", "g": "Compounded"}
+{"id": "JAH-CPTC-000019", "t": "Sensors: Turning the World into Signals", "g": "Compounded"}
+{"id": "JAH-CPTC-000020", "t": "Optoelectronics: LEDs, Displays, and Photodetectors", "g": "Compounded"}
+{"id": "JAH-CPTC-000021", "t": "Fasteners and Thread Standards", "g": "Compounded"}
+{"id": "JAH-CPTC-000022", "t": "Bearings and Bushings", "g": "Compounded"}
+{"id": "JAH-CPTC-000023", "t": "Gears, Belts, and Power Transmission", "g": "Compounded"}
+{"id": "JAH-CPTC-000024", "t": "Relays, Contactors, and Switches", "g": "Compounded"}
+{"id": "JAH-CPTC-000025", "t": "Derating and Design Margins", "g": "Advanced"}
+{"id": "JAH-CPTC-000026", "t": "Tolerance Stack-Up Analysis", "g": "Advanced"}
+{"id": "JAH-CPTC-000027", "t": "Thermal Management and Heat Sinks", "g": "Advanced"}
+{"id": "JAH-CPTC-000028", "t": "EMI and EMC Compatibility", "g": "Advanced"}
+{"id": "JAH-CPTC-000029", "t": "Reliability, MTBF, and Failure Rates", "g": "Advanced"}
+{"id": "JAH-CPTC-000030", "t": "Counterfeit Component Detection", "g": "Advanced"}
+{"id": "JAH-CPTC-000031", "t": "Obsolescence Management and Last-Time Buys", "g": "Advanced"}
+{"id": "JAH-CPTC-000032", "t": "Sourcing, the BOM, and the Supply Chain", "g": "Advanced"}
+{"id": "JAH-CPTC-000033", "t": "Cross-References and Substitution", "g": "Advanced"}
+{"id": "JAH-CPTC-000034", "t": "Modules and Subassemblies: Build vs Buy", "g": "Advanced"}

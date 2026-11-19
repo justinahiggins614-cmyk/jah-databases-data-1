@@ -1,0 +1,34 @@
+{"id": "JAH-EIFS-000001", "t": "Economic Indicators and Forecasting Signature Database: GDP Growth", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIFS-000002", "t": "Economic Indicators and Forecasting Signature Database: Inflation (CPI)", "c": 0, "g": "prices"}
+{"id": "JAH-EIFS-000003", "t": "Economic Indicators and Forecasting Signature Database: Real Value", "c": 0, "g": "prices"}
+{"id": "JAH-EIFS-000004", "t": "Economic Indicators and Forecasting Signature Database: Unemployment Rate", "c": 0, "g": "labor"}
+{"id": "JAH-EIFS-000005", "t": "Economic Indicators and Forecasting Signature Database: Labor Force Participation", "c": 0, "g": "labor"}
+{"id": "JAH-EIFS-000006", "t": "Economic Indicators and Forecasting Signature Database: Real Interest Rate", "c": 0, "g": "monetary"}
+{"id": "JAH-EIFS-000007", "t": "Economic Indicators and Forecasting Signature Database: Yield Curve Spread", "c": 0, "g": "monetary"}
+{"id": "JAH-EIFS-000008", "t": "Economic Indicators and Forecasting Signature Database: Trade Balance", "c": 0, "g": "trade"}
+{"id": "JAH-EIFS-000009", "t": "Economic Indicators and Forecasting Signature Database: Exchange Rate Change", "c": 0, "g": "trade"}
+{"id": "JAH-EIFS-000010", "t": "Economic Indicators and Forecasting Signature Database: Moving Average", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000011", "t": "Economic Indicators and Forecasting Signature Database: YoY Change", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000012", "t": "Economic Indicators and Forecasting Signature Database: CAGR", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000013", "t": "Economic Indicators and Forecasting Signature Database: Naive Forecast", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000014", "t": "Economic Indicators and Forecasting Signature Database: Trend Forecast", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000015", "t": "Economic Indicators and Forecasting Signature Database: MAPE", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000016", "t": "Economic Indicators and Forecasting Signature Database: Confidence Band", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000017", "t": "Economic Indicators and Forecasting Signature Database: Correlation (given)", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000018", "t": "Economic Indicators and Forecasting Signature Database: Debt-to-GDP", "c": 0, "g": "fiscal"}
+{"id": "JAH-EIFS-000019", "t": "Economic Indicators and Forecasting Signature Database: Deficit % of GDP", "c": 0, "g": "fiscal"}
+{"id": "JAH-EIFS-000020", "t": "Economic Indicators and Forecasting Signature Database: Money Growth", "c": 0, "g": "monetary"}
+{"id": "JAH-EIFS-000021", "t": "Economic Indicators and Forecasting Signature Database: Index Rebase", "c": 0, "g": "methods"}
+{"id": "JAH-EIFS-000022", "t": "Economic Indicators and Forecasting Signature Database: Terms of Trade", "c": 0, "g": "trade"}
+{"id": "JAH-EIFS-000023", "t": "Economic Indicators and Forecasting Signature Database: Real Exchange Rate", "c": 0, "g": "trade"}
+{"id": "JAH-EIFS-000024", "t": "Economic Indicators and Forecasting Signature Database: Export Growth", "c": 0, "g": "trade"}
+{"id": "JAH-EIFS-000025", "t": "Economic Indicators and Forecasting Signature Database: Import Cover (months)", "c": 0, "g": "trade"}
+{"id": "JAH-EIFS-000026", "t": "Economic Indicators and Forecasting Signature Database: Inflation Differential", "c": 0, "g": "prices"}
+{"id": "JAH-EIFS-000027", "t": "Economic Indicators and Forecasting Signature Database: Growth Differential", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIFS-000028", "t": "Economic Indicators and Forecasting Signature Database: Output Gap (simple)", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIFS-000029", "t": "Economic Indicators and Forecasting Signature Database: Misery Index", "c": 0, "g": "labor"}
+{"id": "JAH-EIFS-000030", "t": "Economic Indicators and Forecasting Signature Database: Taylor Rule (lite)", "c": 0, "g": "monetary"}
+{"id": "JAH-EIFS-000031", "t": "Economic Indicators and Forecasting Signature Database: Velocity (given)", "c": 0, "g": "monetary"}
+{"id": "JAH-EIFS-000032", "t": "Economic Indicators and Forecasting Signature Database: Savings Rate", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIFS-000033", "t": "Economic Indicators and Forecasting Signature Database: Investment Share", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIFS-000034", "t": "Economic Indicators and Forecasting Signature Database: Economic Dashboard Capstone", "c": 0, "g": "methods"}

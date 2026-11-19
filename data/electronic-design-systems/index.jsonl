@@ -1,0 +1,34 @@
+{"id": "JAH-ELDS-000001", "t": "Electrical and Electronic Design Systems Database: Ohm Law", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000002", "t": "Electrical and Electronic Design Systems Database: Resistor Power Dissipation", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000003", "t": "Electrical and Electronic Design Systems Database: Series Resistance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000004", "t": "Electrical and Electronic Design Systems Database: Parallel Resistance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000005", "t": "Electrical and Electronic Design Systems Database: Voltage Divider", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000006", "t": "Electrical and Electronic Design Systems Database: Capacitor Energy", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000007", "t": "Electrical and Electronic Design Systems Database: RC Time Constant", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000008", "t": "Electrical and Electronic Design Systems Database: RL Time Constant", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000009", "t": "Electrical and Electronic Design Systems Database: Resonant Frequency (LC)", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000010", "t": "Electrical and Electronic Design Systems Database: Capacitive Reactance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000011", "t": "Electrical and Electronic Design Systems Database: Inductive Reactance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000012", "t": "Electrical and Electronic Design Systems Database: LED Series Resistor", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000013", "t": "Electrical and Electronic Design Systems Database: Non-Inverting Op-Amp Gain", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000014", "t": "Electrical and Electronic Design Systems Database: Inverting Op-Amp Gain", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000015", "t": "Electrical and Electronic Design Systems Database: 555 Astable Frequency", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000016", "t": "Electrical and Electronic Design Systems Database: Voltage Regulator Power Loss", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000017", "t": "Electrical and Electronic Design Systems Database: Decoupling Capacitor Charge", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000018", "t": "Electrical and Electronic Design Systems Database: PCB Trace Current (IPC-2221 ext)", "c": 0, "g": "pcb"}
+{"id": "JAH-ELDS-000019", "t": "Electrical and Electronic Design Systems Database: Differential Pair Impedance (approx)", "c": 0, "g": "pcb"}
+{"id": "JAH-ELDS-000020", "t": "Electrical and Electronic Design Systems Database: Antenna Wavelength", "c": 0, "g": "rf"}
+{"id": "JAH-ELDS-000021", "t": "Electrical and Electronic Design Systems Database: Friis Path Loss", "c": 0, "g": "rf"}
+{"id": "JAH-ELDS-000022", "t": "Electrical and Electronic Design Systems Database: dBm to Watts", "c": 0, "g": "rf"}
+{"id": "JAH-ELDS-000023", "t": "Electrical and Electronic Design Systems Database: Battery Life Estimate", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000024", "t": "Electrical and Electronic Design Systems Database: ADC LSB Size", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000025", "t": "Electrical and Electronic Design Systems Database: UART Baud Error", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000026", "t": "Electrical and Electronic Design Systems Database: Pull-Up Resistor (Max Bound)", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000027", "t": "Electrical and Electronic Design Systems Database: SPI Max Theoretical Rate", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000028", "t": "Electrical and Electronic Design Systems Database: I2C Pull-Up vs Speed", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000029", "t": "Electrical and Electronic Design Systems Database: Op-Amp Slew Limit", "c": 0, "g": "analog"}
+{"id": "JAH-ELDS-000030", "t": "Electrical and Electronic Design Systems Database: Thermal Resistance Junction", "c": 0, "g": "power"}
+{"id": "JAH-ELDS-000031", "t": "Electrical and Electronic Design Systems Database: Fuse I2t Let-Through", "c": 0, "g": "protection"}
+{"id": "JAH-ELDS-000032", "t": "Electrical and Electronic Design Systems Database: TVS Clamping Check", "c": 0, "g": "protection"}
+{"id": "JAH-ELDS-000033", "t": "Electrical and Electronic Design Systems Database: Ground Bounce Estimate", "c": 0, "g": "digital"}
+{"id": "JAH-ELDS-000034", "t": "Electrical and Electronic Design Systems Database: Crosstalk Estimate (capacitive)", "c": 0, "g": "pcb"}

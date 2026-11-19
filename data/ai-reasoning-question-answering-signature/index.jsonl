@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-QAS-000001", "t": "What question answering is: questions to answers (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000002", "t": "Question types: the taxonomy of asks (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000003", "t": "Understanding the question: reading before answering (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000004", "t": "Answerability: can this be answered (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000005", "t": "The direct answer: saying it plainly (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000006", "t": "Simple factual questions: the bread and butter (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000007", "t": "Reading the question carefully: the slow pass (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000008", "t": "Answer formats: shapes of response (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000009", "t": "Brevity: the short answer (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000010", "t": "The first QA system: a complete walkthrough (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000011", "t": "When to say more: the elaboration judgment (Signature Edition)", "g": "question-answering-foundations"}
+{"id": "JAH-AIR-QAS-000012", "t": "Ambiguous questions: the fork in the ask (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000013", "t": "Unanswerable questions: the honest no (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000014", "t": "False premises: the question is wrong (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000015", "t": "Multi-part questions: answering in pieces (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000016", "t": "Follow-up questions: the continuing ask (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000017", "t": "Answer ranking: choosing the best (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000018", "t": "Extractive QA: the answer in the text (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000019", "t": "Abstention: knowing when not to answer (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000020", "t": "Confidence: how sure is the answer (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000021", "t": "Evaluation metrics: measuring QA (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000022", "t": "Question rewriting: clarifying the ask (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000023", "t": "Context in questions: the unasked background (Signature Edition)", "g": "question-answering-compounded"}
+{"id": "JAH-AIR-QAS-000024", "t": "Open-domain QA: any question, any source (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000025", "t": "Multi-hop QA: questions needing several facts (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000026", "t": "Conversational QA: questions in dialogue (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000027", "t": "Long-form answers: beyond the span (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000028", "t": "Opinion questions: no single right answer (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000029", "t": "Adversarial questions: the hostile ask (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000030", "t": "Calibrated QA: answers with honest confidence (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000031", "t": "QA evaluation suites: the full battery (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000032", "t": "QA in production: answers at scale (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000033", "t": "The honest answerer: the final standard (Signature Edition)", "g": "question-answering-advanced"}
+{"id": "JAH-AIR-QAS-000034", "t": "The Socratic answer: answering with questions (Signature Edition)", "g": "question-answering-advanced"}

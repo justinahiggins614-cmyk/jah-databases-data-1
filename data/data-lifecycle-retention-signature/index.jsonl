@@ -1,0 +1,34 @@
+{"id": "JAH-DLRTS-000001", "t": "What the Record Lifecycle Is (Signature Edition)", "g": "Lifecycle Stages"}
+{"id": "JAH-DLRTS-000002", "t": "Creation and Ingestion (Signature Edition)", "g": "Lifecycle Stages"}
+{"id": "JAH-DLRTS-000003", "t": "Active Use (Signature Edition)", "g": "Lifecycle Stages"}
+{"id": "JAH-DLRTS-000004", "t": "Revision and Versioning (Signature Edition)", "g": "Lifecycle Stages"}
+{"id": "JAH-DLRTS-000005", "t": "Lifecycle Supersession (Signature Edition)", "g": "Lifecycle Stages"}
+{"id": "JAH-DLRTS-000006", "t": "Lifecycle Expiration (Signature Edition)", "g": "Lifecycle Stages"}
+{"id": "JAH-DLRTS-000007", "t": "Retention Schedules (Signature Edition)", "g": "Retention and Expiration"}
+{"id": "JAH-DLRTS-000008", "t": "Retention by Regulation: GDPR, SOX, HIPAA (Signature Edition)", "g": "Retention and Expiration"}
+{"id": "JAH-DLRTS-000009", "t": "Legal Holds (Signature Edition)", "g": "Retention and Expiration"}
+{"id": "JAH-DLRTS-000010", "t": "Hold Placement and Release (Signature Edition)", "g": "Retention and Expiration"}
+{"id": "JAH-DLRTS-000011", "t": "Lifecycle Archival (Signature Edition)", "g": "Archival and Deletion"}
+{"id": "JAH-DLRTS-000012", "t": "Cold vs Hot Storage (Signature Edition)", "g": "Archival and Deletion"}
+{"id": "JAH-DLRTS-000013", "t": "Deletion Workflows (Signature Edition)", "g": "Archival and Deletion"}
+{"id": "JAH-DLRTS-000014", "t": "Secure Deletion and Crypto-Shredding (Signature Edition)", "g": "Archival and Deletion"}
+{"id": "JAH-DLRTS-000015", "t": "Right to Erasure (Signature Edition)", "g": "Archival and Deletion"}
+{"id": "JAH-DLRTS-000016", "t": "Tombstones and Soft Deletes (Signature Edition)", "g": "Archival and Deletion"}
+{"id": "JAH-DLRTS-000017", "t": "Data Minimization (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000018", "t": "Retention Policies as Code (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000019", "t": "Policy Enforcement Engines (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000020", "t": "Lifecycle Events and Logs (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000021", "t": "Lifecycle Metadata (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000022", "t": "Lifecycle for Backups (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000023", "t": "Lifecycle for Derived Data (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000024", "t": "Lifecycle Notifications (Signature Edition)", "g": "Governance and Policy"}
+{"id": "JAH-DLRTS-000025", "t": "Retention Across Jurisdictions (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000026", "t": "Lifecycle for a Million-Database Network (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000027", "t": "Lifecycle Metrics (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000028", "t": "Lifecycle and Lineage (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000029", "t": "Automated Classification for Retention (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000030", "t": "Disposition Reviews (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000031", "t": "Provenance of Lifecycle Events (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000032", "t": "Lifecycle in Streaming Systems (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000033", "t": "Edge Cases: Merged and Split Records (Signature Edition)", "g": "Advanced Lifecycle Topics"}
+{"id": "JAH-DLRTS-000034", "t": "Data Lifecycle Retention Mastery Review (Signature Edition)", "g": "Advanced Lifecycle Topics"}

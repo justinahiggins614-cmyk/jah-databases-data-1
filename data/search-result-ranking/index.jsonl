@@ -1,0 +1,34 @@
+{"id": "JAH-SRR-000001", "t": "Retrieval vs Ranking", "g": "Foundations"}
+{"id": "JAH-SRR-000002", "t": "BM25 Signals", "g": "Foundations"}
+{"id": "JAH-SRR-000003", "t": "Popularity Signals", "g": "Foundations"}
+{"id": "JAH-SRR-000004", "t": "Freshness", "g": "Foundations"}
+{"id": "JAH-SRR-000005", "t": "Personalization", "g": "Foundations"}
+{"id": "JAH-SRR-000006", "t": "Learning to Rank", "g": "Foundations"}
+{"id": "JAH-SRR-000007", "t": "Judged Queries", "g": "Foundations"}
+{"id": "JAH-SRR-000008", "t": "NDCG and MAP", "g": "Foundations"}
+{"id": "JAH-SRR-000009", "t": "Online A/B Tests", "g": "Foundations"}
+{"id": "JAH-SRR-000010", "t": "Position Bias", "g": "Foundations"}
+{"id": "JAH-SRR-000011", "t": "Result Diversity", "g": "Foundations"}
+{"id": "JAH-SRR-000012", "t": "Quality Demotion", "g": "Compounded"}
+{"id": "JAH-SRR-000013", "t": "Query Understanding", "g": "Compounded"}
+{"id": "JAH-SRR-000014", "t": "Spell Correction", "g": "Compounded"}
+{"id": "JAH-SRR-000015", "t": "Synonyms", "g": "Compounded"}
+{"id": "JAH-SRR-000016", "t": "Faceted Search", "g": "Compounded"}
+{"id": "JAH-SRR-000017", "t": "Semantic Search", "g": "Compounded"}
+{"id": "JAH-SRR-000018", "t": "Hybrid Ranking", "g": "Compounded"}
+{"id": "JAH-SRR-000019", "t": "Re-ranking", "g": "Compounded"}
+{"id": "JAH-SRR-000020", "t": "Multi-Objective", "g": "Compounded"}
+{"id": "JAH-SRR-000021", "t": "Fairness", "g": "Compounded"}
+{"id": "JAH-SRR-000022", "t": "Explainability", "g": "Compounded"}
+{"id": "JAH-SRR-000023", "t": "Vertical Search", "g": "Compounded"}
+{"id": "JAH-SRR-000024", "t": "Enterprise Search", "g": "Advanced"}
+{"id": "JAH-SRR-000025", "t": "E-commerce Ranking", "g": "Advanced"}
+{"id": "JAH-SRR-000026", "t": "Local Search", "g": "Advanced"}
+{"id": "JAH-SRR-000027", "t": "Voice Search", "g": "Advanced"}
+{"id": "JAH-SRR-000028", "t": "Multilingual Ranking", "g": "Advanced"}
+{"id": "JAH-SRR-000029", "t": "Mobile Ranking", "g": "Advanced"}
+{"id": "JAH-SRR-000030", "t": "Evaluation at Scale", "g": "Advanced"}
+{"id": "JAH-SRR-000031", "t": "Interleaving", "g": "Advanced"}
+{"id": "JAH-SRR-000032", "t": "Counterfactual Evaluation", "g": "Advanced"}
+{"id": "JAH-SRR-000033", "t": "Iteration Cadence", "g": "Advanced"}
+{"id": "JAH-SRR-000034", "t": "Case Studies", "g": "Advanced"}

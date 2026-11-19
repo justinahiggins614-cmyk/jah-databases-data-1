@@ -1,0 +1,34 @@
+{"id": "JAH-LAD-000001", "t": "Local AI Deployment: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-LAD-000002", "t": "Local AI Deployment: How It Actually Works", "g": "foundations"}
+{"id": "JAH-LAD-000003", "t": "Local AI Deployment: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-LAD-000004", "t": "Local AI Deployment: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-LAD-000005", "t": "Local AI Deployment: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-LAD-000006", "t": "Local AI Deployment: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-LAD-000007", "t": "Local AI Deployment: Prompting and Control", "g": "foundations"}
+{"id": "JAH-LAD-000008", "t": "Local AI Deployment: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-LAD-000009", "t": "Local AI Deployment: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-LAD-000010", "t": "Local AI Deployment: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-LAD-000011", "t": "Local AI Deployment: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-LAD-000012", "t": "Local AI Deployment: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-LAD-000013", "t": "Local AI Deployment: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-LAD-000014", "t": "Local AI Deployment: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-LAD-000015", "t": "Local AI Deployment: Deployment Realities", "g": "compounded"}
+{"id": "JAH-LAD-000016", "t": "Local AI Deployment: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-LAD-000017", "t": "Local AI Deployment: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-LAD-000018", "t": "Local AI Deployment: Documentation for AI", "g": "compounded"}
+{"id": "JAH-LAD-000019", "t": "Local AI Deployment: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-LAD-000020", "t": "Local AI Deployment: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-LAD-000021", "t": "Local AI Deployment: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-LAD-000022", "t": "Local AI Deployment: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-LAD-000023", "t": "Local AI Deployment: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-LAD-000024", "t": "Local AI Deployment: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-LAD-000025", "t": "Local AI Deployment: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-LAD-000026", "t": "Local AI Deployment: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-LAD-000027", "t": "Local AI Deployment: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-LAD-000028", "t": "Local AI Deployment: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-LAD-000029", "t": "Local AI Deployment: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-LAD-000030", "t": "Local AI Deployment: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-LAD-000031", "t": "Local AI Deployment: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-LAD-000032", "t": "Local AI Deployment: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-LAD-000033", "t": "Local AI Deployment: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-LAD-000034", "t": "Local AI Deployment: Advanced: Teaching AI Systems", "g": "advanced"}

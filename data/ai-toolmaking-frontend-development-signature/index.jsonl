@@ -1,0 +1,34 @@
+{"id": "JAH-TMFE-000001", "t": "AI Frontend Development Signature Database: Component Anatomy (Props, State, Effects)", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000002", "t": "AI Frontend Development Signature Database: Compound Components Pattern", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000003", "t": "AI Frontend Development Signature Database: Render Props and Headless Components", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000004", "t": "AI Frontend Development Signature Database: Error Boundaries and Fallback UI", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000005", "t": "AI Frontend Development Signature Database: Portals and Layered UI (Modals, Toasts)", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000006", "t": "AI Frontend Development Signature Database: Virtualized Lists for Big Data", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000007", "t": "AI Frontend Development Signature Database: Form Components That Don't Hurt", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000008", "t": "AI Frontend Development Signature Database: Global State with a Tiny Store", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000009", "t": "AI Frontend Development Signature Database: Server State vs Client State", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000010", "t": "AI Frontend Development Signature Database: URL as State", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000011", "t": "AI Frontend Development Signature Database: Optimistic UI Updates", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000012", "t": "AI Frontend Development Signature Database: Undo/Redo with Command Stack", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000013", "t": "AI Frontend Development Signature Database: State Machines for Complex UI", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000014", "t": "AI Frontend Development Signature Database: Derived State and Selectors", "c": 0, "g": "state-management"}
+{"id": "JAH-TMFE-000015", "t": "AI Frontend Development Signature Database: CSS Architecture: From Chaos to System", "c": 0, "g": "styling-systems"}
+{"id": "JAH-TMFE-000016", "t": "AI Frontend Development Signature Database: Design Tokens in Practice", "c": 0, "g": "styling-systems"}
+{"id": "JAH-TMFE-000017", "t": "AI Frontend Development Signature Database: Responsive Design Without Breakpoint Soup", "c": 0, "g": "styling-systems"}
+{"id": "JAH-TMFE-000018", "t": "AI Frontend Development Signature Database: Dark Mode Done Right", "c": 0, "g": "styling-systems"}
+{"id": "JAH-TMFE-000019", "t": "AI Frontend Development Signature Database: Animations That Respect Users", "c": 0, "g": "styling-systems"}
+{"id": "JAH-TMFE-000020", "t": "AI Frontend Development Signature Database: CSS Containment and Isolation", "c": 0, "g": "styling-systems"}
+{"id": "JAH-TMFE-000021", "t": "AI Frontend Development Signature Database: File-Based Routing Fundamentals", "c": 0, "g": "routing"}
+{"id": "JAH-TMFE-000022", "t": "AI Frontend Development Signature Database: Client-Side Router from Scratch", "c": 0, "g": "routing"}
+{"id": "JAH-TMFE-000023", "t": "AI Frontend Development Signature Database: Nested Layouts and Outlets", "c": 0, "g": "routing"}
+{"id": "JAH-TMFE-000024", "t": "AI Frontend Development Signature Database: Route Guards and Auth", "c": 0, "g": "routing"}
+{"id": "JAH-TMFE-000025", "t": "AI Frontend Development Signature Database: Code Splitting per Route", "c": 0, "g": "routing"}
+{"id": "JAH-TMFE-000026", "t": "AI Frontend Development Signature Database: Core Web Vitals in Practice", "c": 0, "g": "performance"}
+{"id": "JAH-TMFE-000027", "t": "AI Frontend Development Signature Database: Image Optimization Pipeline", "c": 0, "g": "performance"}
+{"id": "JAH-TMFE-000028", "t": "AI Frontend Development Signature Database: Caching Strategy for Frontends", "c": 0, "g": "performance"}
+{"id": "JAH-TMFE-000029", "t": "AI Frontend Development Signature Database: Debouncing, Throttling, and Idle Work", "c": 0, "g": "performance"}
+{"id": "JAH-TMFE-000030", "t": "AI Frontend Development Signature Database: Bundle Diet: Keeping JS Small", "c": 0, "g": "performance"}
+{"id": "JAH-TMFE-000031", "t": "AI Frontend Development Signature Database: Perceived Performance Tricks", "c": 0, "g": "performance"}
+{"id": "JAH-TMFE-000032", "t": "AI Frontend Development Signature Database: Component Anatomy (Props, State, Effects) (variant 1)", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000033", "t": "AI Frontend Development Signature Database: Compound Components Pattern (variant 1)", "c": 0, "g": "components"}
+{"id": "JAH-TMFE-000034", "t": "AI Frontend Development Signature Database: Render Props and Headless Components (variant 1)", "c": 0, "g": "components"}

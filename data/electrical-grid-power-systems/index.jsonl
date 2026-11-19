@@ -1,0 +1,34 @@
+{"id": "JAH-EGPS-000001", "t": "Electrical Grid and Power Systems Database: Single-Phase Real Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000002", "t": "Electrical Grid and Power Systems Database: Reactive Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000003", "t": "Electrical Grid and Power Systems Database: Apparent Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000004", "t": "Electrical Grid and Power Systems Database: Power Factor from P/S", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000005", "t": "Electrical Grid and Power Systems Database: Three-Phase Real Power", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000006", "t": "Electrical Grid and Power Systems Database: Three-Phase Current", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000007", "t": "Electrical Grid and Power Systems Database: Resistive Line Loss", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000008", "t": "Electrical Grid and Power Systems Database: DC Voltage Drop", "c": 0, "g": "dc-systems"}
+{"id": "JAH-EGPS-000009", "t": "Electrical Grid and Power Systems Database: Transformer Voltage Ratio", "c": 0, "g": "transformers"}
+{"id": "JAH-EGPS-000010", "t": "Electrical Grid and Power Systems Database: Transformer Efficiency", "c": 0, "g": "transformers"}
+{"id": "JAH-EGPS-000011", "t": "Electrical Grid and Power Systems Database: Load Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPS-000012", "t": "Electrical Grid and Power Systems Database: Demand Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPS-000013", "t": "Electrical Grid and Power Systems Database: Diversity Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPS-000014", "t": "Electrical Grid and Power Systems Database: Coincidence Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPS-000015", "t": "Electrical Grid and Power Systems Database: Utilization Factor", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPS-000016", "t": "Electrical Grid and Power Systems Database: Per-Unit Voltage", "c": 0, "g": "analysis"}
+{"id": "JAH-EGPS-000017", "t": "Electrical Grid and Power Systems Database: Energy Consumption", "c": 0, "g": "metering"}
+{"id": "JAH-EGPS-000018", "t": "Electrical Grid and Power Systems Database: Energy Cost", "c": 0, "g": "metering"}
+{"id": "JAH-EGPS-000019", "t": "Electrical Grid and Power Systems Database: Demand Charge", "c": 0, "g": "metering"}
+{"id": "JAH-EGPS-000020", "t": "Electrical Grid and Power Systems Database: Total Power Bill", "c": 0, "g": "metering"}
+{"id": "JAH-EGPS-000021", "t": "Electrical Grid and Power Systems Database: Power Factor Correction", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000022", "t": "Electrical Grid and Power Systems Database: kVA to kW", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000023", "t": "Electrical Grid and Power Systems Database: kW to kVA", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000024", "t": "Electrical Grid and Power Systems Database: kVAR from kVA/kW", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000025", "t": "Electrical Grid and Power Systems Database: Line-to-Neutral Voltage", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000026", "t": "Electrical Grid and Power Systems Database: Delta Line Current", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000027", "t": "Electrical Grid and Power Systems Database: Synchronous Speed", "c": 0, "g": "machines"}
+{"id": "JAH-EGPS-000028", "t": "Electrical Grid and Power Systems Database: Induction Motor Slip", "c": 0, "g": "machines"}
+{"id": "JAH-EGPS-000029", "t": "Electrical Grid and Power Systems Database: Shaft Power", "c": 0, "g": "machines"}
+{"id": "JAH-EGPS-000030", "t": "Electrical Grid and Power Systems Database: Motor Efficiency", "c": 0, "g": "machines"}
+{"id": "JAH-EGPS-000031", "t": "Electrical Grid and Power Systems Database: Voltage Regulation", "c": 0, "g": "ac-power"}
+{"id": "JAH-EGPS-000032", "t": "Electrical Grid and Power Systems Database: Copper Wire Resistance", "c": 0, "g": "dc-systems"}
+{"id": "JAH-EGPS-000033", "t": "Electrical Grid and Power Systems Database: Capacity Factor (Plant)", "c": 0, "g": "load-analysis"}
+{"id": "JAH-EGPS-000034", "t": "Electrical Grid and Power Systems Database: Feeder Check Capstone", "c": 0, "g": "design"}

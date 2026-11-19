@@ -1,0 +1,34 @@
+{"id": "JAH-ETBA-000001", "t": "Executable Test and Benchmark Archive Database: Test: Integer Addition", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000002", "t": "Executable Test and Benchmark Archive Database: Test: String Reversal", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000003", "t": "Executable Test and Benchmark Archive Database: Test: Binary Search", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000004", "t": "Executable Test and Benchmark Archive Database: Test: Factorial", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000005", "t": "Executable Test and Benchmark Archive Database: Test: Prime Check", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000006", "t": "Executable Test and Benchmark Archive Database: Test: Palindrome", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000007", "t": "Executable Test and Benchmark Archive Database: Test: FizzBuzz", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000008", "t": "Executable Test and Benchmark Archive Database: Test: GCD (Euclid)", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000009", "t": "Executable Test and Benchmark Archive Database: Test: Merge Sorted Arrays", "c": 0, "g": "unit"}
+{"id": "JAH-ETBA-000010", "t": "Executable Test and Benchmark Archive Database: Test: JSON Round-Trip", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000011", "t": "Executable Test and Benchmark Archive Database: Test: CSV Parse", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000012", "t": "Executable Test and Benchmark Archive Database: Test: Retry Logic", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000013", "t": "Executable Test and Benchmark Archive Database: Test: Cache Hit/Miss", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000014", "t": "Executable Test and Benchmark Archive Database: Test: Pagination", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000015", "t": "Executable Test and Benchmark Archive Database: Test: Email Validation", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000016", "t": "Executable Test and Benchmark Archive Database: Benchmark: Sort 100k Numbers", "c": 0, "g": "performance"}
+{"id": "JAH-ETBA-000017", "t": "Executable Test and Benchmark Archive Database: Benchmark: Hash 1MB", "c": 0, "g": "performance"}
+{"id": "JAH-ETBA-000018", "t": "Executable Test and Benchmark Archive Database: Test: Leap Year", "c": 0, "g": "edge-case"}
+{"id": "JAH-ETBA-000019", "t": "Executable Test and Benchmark Archive Database: Test: Empty Inputs", "c": 0, "g": "edge-case"}
+{"id": "JAH-ETBA-000020", "t": "Executable Test and Benchmark Archive Database: Test: Unicode Strings", "c": 0, "g": "edge-case"}
+{"id": "JAH-ETBA-000021", "t": "Executable Test and Benchmark Archive Database: Test: Large Numbers", "c": 0, "g": "edge-case"}
+{"id": "JAH-ETBA-000022", "t": "Executable Test and Benchmark Archive Database: Test: Timezone-Free Dates", "c": 0, "g": "edge-case"}
+{"id": "JAH-ETBA-000023", "t": "Executable Test and Benchmark Archive Database: Test: Concurrency Limit", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000024", "t": "Executable Test and Benchmark Archive Database: Test: Idempotent Handler", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000025", "t": "Executable Test and Benchmark Archive Database: Test: Config Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000026", "t": "Executable Test and Benchmark Archive Database: Reproducibility Manifest", "c": 0, "g": "reproducibility"}
+{"id": "JAH-ETBA-000027", "t": "Executable Test and Benchmark Archive Database: Test: Search Ranking", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000028", "t": "Executable Test and Benchmark Archive Database: Test: Password Strength Meter", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000029", "t": "Executable Test and Benchmark Archive Database: Test: Money Rounding", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000030", "t": "Executable Test and Benchmark Archive Database: Test: Deep Equality", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000031", "t": "Executable Test and Benchmark Archive Database: Test: Event Ordering", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000032", "t": "Executable Test and Benchmark Archive Database: Test: Timeout Behavior", "c": 0, "g": "correctness"}
+{"id": "JAH-ETBA-000033", "t": "Executable Test and Benchmark Archive Database: Test: File Write and Read", "c": 0, "g": "integration"}
+{"id": "JAH-ETBA-000034", "t": "Executable Test and Benchmark Archive Database: Test: Anagram Check", "c": 0, "g": "unit"}

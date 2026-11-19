@@ -1,0 +1,34 @@
+{"id": "JAH-AQD-000001", "t": "Signature Bloom's Taxonomy Alignment (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000002", "t": "Signature Multiple Choice That Works (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000003", "t": "Signature True/False Done Right (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000004", "t": "Signature Short Answer Questions (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000005", "t": "Signature Essay Prompts That Elicit Thinking (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000006", "t": "Signature Rubric Construction (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000007", "t": "Signature Matching Questions (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000008", "t": "Signature Fill-in-the-Blank Rules (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000009", "t": "Signature Performance Assessments (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000010", "t": "Signature Test Blueprints (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000011", "t": "Signature Item Difficulty Targeting (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000012", "t": "Signature Distractor Analysis (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000013", "t": "Signature Avoiding Trick Questions (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000014", "t": "Signature Accommodations in Design (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000015", "t": "Signature Formative vs Summative (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000016", "t": "Signature Exit Tickets (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000017", "t": "Signature Quiz Frequency Effects (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000018", "t": "Signature Grading for Learning (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000019", "t": "Signature Partial Credit Policies (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000020", "t": "Signature Curving: When and How (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000021", "t": "Signature Cheating-Resistant Design (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000022", "t": "Signature Oral Exams (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000023", "t": "Signature Portfolio Assessment (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000024", "t": "Signature Self-Assessment Training (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000025", "t": "Signature Peer Assessment Systems (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000026", "t": "Signature Standardized Test Prep Ethics (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000027", "t": "Signature Test Anxiety Reduction (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000028", "t": "Signature Analyzing Class Results (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000029", "t": "Signature Question Banking (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000030", "t": "Signature Accessibility in Testing (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000031", "t": "Signature The Test Review Session (Signature Edition)", "g": "question-types"}
+{"id": "JAH-AQD-000032", "t": "Signature Building Assessments Backward (Signature Edition)", "g": "test-construction"}
+{"id": "JAH-AQD-000033", "t": "Signature The Assessment Audit (Signature Edition)", "g": "grading-and-analysis"}
+{"id": "JAH-AQD-000034", "t": "Signature Two-Stage Exams (Signature Edition)", "g": "question-types"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ER-000001", "t": "Entity Resolution: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-ER-000002", "t": "Entity Resolution: How It Actually Works", "g": "foundations"}
+{"id": "JAH-ER-000003", "t": "Entity Resolution: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-ER-000004", "t": "Entity Resolution: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-ER-000005", "t": "Entity Resolution: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-ER-000006", "t": "Entity Resolution: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-ER-000007", "t": "Entity Resolution: Prompting and Control", "g": "foundations"}
+{"id": "JAH-ER-000008", "t": "Entity Resolution: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-ER-000009", "t": "Entity Resolution: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-ER-000010", "t": "Entity Resolution: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-ER-000011", "t": "Entity Resolution: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-ER-000012", "t": "Entity Resolution: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-ER-000013", "t": "Entity Resolution: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-ER-000014", "t": "Entity Resolution: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-ER-000015", "t": "Entity Resolution: Deployment Realities", "g": "compounded"}
+{"id": "JAH-ER-000016", "t": "Entity Resolution: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-ER-000017", "t": "Entity Resolution: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-ER-000018", "t": "Entity Resolution: Documentation for AI", "g": "compounded"}
+{"id": "JAH-ER-000019", "t": "Entity Resolution: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-ER-000020", "t": "Entity Resolution: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-ER-000021", "t": "Entity Resolution: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-ER-000022", "t": "Entity Resolution: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-ER-000023", "t": "Entity Resolution: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-ER-000024", "t": "Entity Resolution: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-ER-000025", "t": "Entity Resolution: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-ER-000026", "t": "Entity Resolution: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-ER-000027", "t": "Entity Resolution: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-ER-000028", "t": "Entity Resolution: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-ER-000029", "t": "Entity Resolution: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-ER-000030", "t": "Entity Resolution: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-ER-000031", "t": "Entity Resolution: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-ER-000032", "t": "Entity Resolution: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-ER-000033", "t": "Entity Resolution: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-ER-000034", "t": "Entity Resolution: Advanced: Teaching AI Systems", "g": "advanced"}

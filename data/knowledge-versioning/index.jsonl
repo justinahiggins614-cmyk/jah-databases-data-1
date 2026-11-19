@@ -1,0 +1,34 @@
+{"id": "JAH-KV-000001", "t": "Knowledge Versioning Overview", "g": "Foundations"}
+{"id": "JAH-KV-000002", "t": "Semantic Versioning for Knowledge", "g": "Foundations"}
+{"id": "JAH-KV-000003", "t": "Concept Change History", "g": "Foundations"}
+{"id": "JAH-KV-000004", "t": "Definition Versioning", "g": "Foundations"}
+{"id": "JAH-KV-000005", "t": "Rule Versioning", "g": "Foundations"}
+{"id": "JAH-KV-000006", "t": "Relationship Versioning", "g": "Foundations"}
+{"id": "JAH-KV-000007", "t": "Version Identifiers and Labels", "g": "Foundations"}
+{"id": "JAH-KV-000008", "t": "Change Types: Major, Minor, Patch", "g": "Foundations"}
+{"id": "JAH-KV-000009", "t": "Version Timestamps and Provenance", "g": "Foundations"}
+{"id": "JAH-KV-000010", "t": "Reading a Version Diff", "g": "Foundations"}
+{"id": "JAH-KV-000011", "t": "Concept Diff Record", "g": "Compounded"}
+{"id": "JAH-KV-000012", "t": "Definition Diff Record", "g": "Compounded"}
+{"id": "JAH-KV-000013", "t": "Rule Diff Record", "g": "Compounded"}
+{"id": "JAH-KV-000014", "t": "Relationship Diff Record", "g": "Compounded"}
+{"id": "JAH-KV-000015", "t": "Deprecation Notice", "g": "Compounded"}
+{"id": "JAH-KV-000016", "t": "Supersession Chains", "g": "Compounded"}
+{"id": "JAH-KV-000017", "t": "Version Branching", "g": "Compounded"}
+{"id": "JAH-KV-000018", "t": "Merging Divergent Versions", "g": "Compounded"}
+{"id": "JAH-KV-000019", "t": "Rollback Procedures", "g": "Compounded"}
+{"id": "JAH-KV-000020", "t": "Versioned Query: Time Travel", "g": "Compounded"}
+{"id": "JAH-KV-000021", "t": "Change Notification System", "g": "Compounded"}
+{"id": "JAH-KV-000022", "t": "Ontology Version Migration", "g": "Advanced"}
+{"id": "JAH-KV-000023", "t": "Breaking Change Policy", "g": "Advanced"}
+{"id": "JAH-KV-000024", "t": "Version Compatibility Matrix", "g": "Advanced"}
+{"id": "JAH-KV-000025", "t": "Knowledge Graph Snapshots", "g": "Advanced"}
+{"id": "JAH-KV-000026", "t": "Cryptographic Version Sealing", "g": "Advanced"}
+{"id": "JAH-KV-000027", "t": "Distributed Version Consensus", "g": "Advanced"}
+{"id": "JAH-KV-000028", "t": "Versioned API Contracts", "g": "Advanced"}
+{"id": "JAH-KV-000029", "t": "Deprecation Analytics", "g": "Advanced"}
+{"id": "JAH-KV-000030", "t": "Knowledge Lineage Graph", "g": "Advanced"}
+{"id": "JAH-KV-000031", "t": "Version Audit Record", "g": "Advanced"}
+{"id": "JAH-KV-000032", "t": "Version Dashboard", "g": "Advanced"}
+{"id": "JAH-KV-000033", "t": "Versioning Anti-Patterns Catalog", "g": "Advanced"}
+{"id": "JAH-KV-000034", "t": "Versioning Self-Audit and Mastery Record", "g": "Advanced"}

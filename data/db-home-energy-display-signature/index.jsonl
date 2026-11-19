@@ -1,0 +1,34 @@
+{"id": "JAH-HEDS-000001", "t": "Kill-A-Watt Audit (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000002", "t": "LED Swap Math (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000003", "t": "Phantom Load Hunt (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000004", "t": "Thermostat Setback (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000005", "t": "Water Heater Temp (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000006", "t": "Fridge Coil Clean (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000007", "t": "Window Film (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000008", "t": "Door Draft Snakes (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000009", "t": "Shower Timer (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000010", "t": "Laundry Cold Wash (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000011", "t": "Dishwasher Full Only (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-HEDS-000012", "t": "Smart Thermostat (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000013", "t": "Home Energy Monitor (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000014", "t": "Insulation Top-Up (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000015", "t": "Air Sealing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000016", "t": "Heat Pump Water Heater (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000017", "t": "Induction Cooktop (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000018", "t": "Smart Power Strips (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000019", "t": "Attic Tent (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000020", "t": "Duct Sealing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000021", "t": "Window Inserts (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000022", "t": "Behavior Dashboard (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000023", "t": "Solar Monitor (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000024", "t": "EV Charging Timer (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-HEDS-000025", "t": "Solar (Rooftop) (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000026", "t": "Heat Pump (Whole Home) (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000027", "t": "Battery Backup (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000028", "t": "Deep Energy Retrofit (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000029", "t": "Net-Zero Home (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000030", "t": "Community Solar (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000031", "t": "Time-of-Use Shifting (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000032", "t": "Home Battery DIY (Safe) (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000033", "t": "Energy Audit Pro (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-HEDS-000034", "t": "Passive House Retrofit (Signature Edition)", "g": "Advanced"}

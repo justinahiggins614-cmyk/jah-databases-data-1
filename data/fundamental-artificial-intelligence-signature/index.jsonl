@@ -1,0 +1,34 @@
+{"id": "JAH-SFAI-000001", "t": "Signature What Artificial Intelligence Is", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000002", "t": "Signature The Core Question of AI", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000003", "t": "Signature Assumptions: Intelligence as Computation", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000004", "t": "Signature The Vocabulary: Agents, Models, and Learning", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000005", "t": "Signature Loss and Generalization: The Fundamental Quantities", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000006", "t": "Signature Search: The Primary Classical Method", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000007", "t": "Signature A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000008", "t": "Signature How AI Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000009", "t": "Signature The Core Mechanism: Optimization", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000010", "t": "Signature The Simplest Law: The Bias-Variance Trade-off", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000011", "t": "Signature Common Misconceptions in AI", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000012", "t": "Signature How Beginners Practice AI", "g": "Foundations", "c": 0}
+{"id": "JAH-SFAI-000013", "t": "Signature The Core Model: The Neural Network", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000014", "t": "Signature The Great Equation: Backpropagation", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000015", "t": "Signature Systems Thinking: Agents in Environments", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000016", "t": "Signature Invariance: What Learning Preserves", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000017", "t": "Signature Approximation: Universal Approximation", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000018", "t": "Signature Evidence Standards: Held-Out Evaluation", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000019", "t": "Signature Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000020", "t": "Signature Core Trade-offs: Accuracy versus Everything", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000021", "t": "Signature Handling Uncertainty: Probabilistic Models", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000022", "t": "Signature Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000023", "t": "Signature Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000024", "t": "Signature Teaching AI", "g": "Compounded", "c": 0}
+{"id": "JAH-SFAI-000025", "t": "Signature The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000026", "t": "Signature Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000027", "t": "Signature Computational AI (Scaling)", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000028", "t": "Signature Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000029", "t": "Signature The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000030", "t": "Signature How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000031", "t": "Signature The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000032", "t": "Signature Failure Modes: When AI Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000033", "t": "Signature Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-SFAI-000034", "t": "Signature The Signature Formulation: AI as Buildable Craft", "g": "Advanced", "c": 0}

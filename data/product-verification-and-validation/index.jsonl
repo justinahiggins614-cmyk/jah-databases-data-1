@@ -1,0 +1,34 @@
+{"id": "JAH-PVV-000001", "t": "V&V Planning", "g": "Foundations"}
+{"id": "JAH-PVV-000002", "t": "Requirement Tracing", "g": "Foundations"}
+{"id": "JAH-PVV-000003", "t": "Verification Methods", "g": "Foundations"}
+{"id": "JAH-PVV-000004", "t": "User Validation", "g": "Foundations"}
+{"id": "JAH-PVV-000005", "t": "Pass Criteria", "g": "Foundations"}
+{"id": "JAH-PVV-000006", "t": "Test Readiness", "g": "Foundations"}
+{"id": "JAH-PVV-000007", "t": "Anomaly Handling", "g": "Foundations"}
+{"id": "JAH-PVV-000008", "t": "Regression Testing", "g": "Foundations"}
+{"id": "JAH-PVV-000009", "t": "Environmental Testing", "g": "Foundations"}
+{"id": "JAH-PVV-000010", "t": "Statistics", "g": "Foundations"}
+{"id": "JAH-PVV-000011", "t": "Evidence Packages", "g": "Foundations"}
+{"id": "JAH-PVV-000012", "t": "Sign-Off", "g": "Compounded"}
+{"id": "JAH-PVV-000013", "t": "Unit Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000014", "t": "Integration Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000015", "t": "System Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000016", "t": "Acceptance Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000017", "t": "Alpha and Beta", "g": "Compounded"}
+{"id": "JAH-PVV-000018", "t": "Usability Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000019", "t": "Safety Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000020", "t": "Reliability Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000021", "t": "Compliance Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000022", "t": "EMC Testing", "g": "Compounded"}
+{"id": "JAH-PVV-000023", "t": "Software V&V", "g": "Compounded"}
+{"id": "JAH-PVV-000024", "t": "Hardware V&V", "g": "Advanced"}
+{"id": "JAH-PVV-000025", "t": "Test Automation", "g": "Advanced"}
+{"id": "JAH-PVV-000026", "t": "Test Fixtures", "g": "Advanced"}
+{"id": "JAH-PVV-000027", "t": "Measurement Uncertainty", "g": "Advanced"}
+{"id": "JAH-PVV-000028", "t": "Witness Testing", "g": "Advanced"}
+{"id": "JAH-PVV-000029", "t": "First Article", "g": "Advanced"}
+{"id": "JAH-PVV-000030", "t": "Production Validation", "g": "Advanced"}
+{"id": "JAH-PVV-000031", "t": "Field Follow-Up", "g": "Advanced"}
+{"id": "JAH-PVV-000032", "t": "Nonconformances", "g": "Advanced"}
+{"id": "JAH-PVV-000033", "t": "Corrective Action", "g": "Advanced"}
+{"id": "JAH-PVV-000034", "t": "Continuous V&V", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-TSHTS-000001", "t": "No Power - Device Dead (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000002", "t": "Blown Fuse Repeats (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000003", "t": "Intermittent Power Loss (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000004", "t": "Excessive Vibration (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000005", "t": "Unusual Noise - Grinding (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000006", "t": "Overheating Motor (Signature Edition)", "g": "Thermal & Fluid Faults"}
+{"id": "JAH-TSHTS-000007", "t": "Fluid Leak Found (Signature Edition)", "g": "Thermal & Fluid Faults"}
+{"id": "JAH-TSHTS-000008", "t": "Device Will Not Start (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000009", "t": "Erratic Sensor Readings (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000010", "t": "Slow or Sluggish Operation (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000011", "t": "Circuit Breaker Trips Under Load (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000012", "t": "Motor Runs But Overloads (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000013", "t": "Bearing Noise Progression (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000014", "t": "Belt Slippage and Squeal (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000015", "t": "Hydraulic Pressure Low (Signature Edition)", "g": "Thermal & Fluid Faults"}
+{"id": "JAH-TSHTS-000016", "t": "Pneumatic System Won't Hold Pressure (Signature Edition)", "g": "Thermal & Fluid Faults"}
+{"id": "JAH-TSHTS-000017", "t": "Temperature Control Oscillation (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000018", "t": "Communication Loss to Controller (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000019", "t": "Unexpected Shutdowns (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000020", "t": "Poor Product Quality Drift (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000021", "t": "Ground Fault Indication (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000022", "t": "Phase Imbalance Alarm (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000023", "t": "Intermittent Fault - Heat-Related (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000024", "t": "Resonance and Critical Speeds (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000025", "t": "Cavitation in Pump Systems (Signature Edition)", "g": "Thermal & Fluid Faults"}
+{"id": "JAH-TSHTS-000026", "t": "Water Hammer Events (Signature Edition)", "g": "Thermal & Fluid Faults"}
+{"id": "JAH-TSHTS-000027", "t": "Control Loop Instability (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000028", "t": "Firmware Corruption Symptoms (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000029", "t": "EMI-Induced Malfunctions (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000030", "t": "Cascade Failure Analysis (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000031", "t": "Root Cause: Lubrication Failure Tree (Signature Edition)", "g": "Mechanical Faults"}
+{"id": "JAH-TSHTS-000032", "t": "Multi-Symptom Fault Isolation (Signature Edition)", "g": "Control & Software Faults"}
+{"id": "JAH-TSHTS-000033", "t": "Post-Repair Recurrence Tree (Signature Edition)", "g": "Electrical Faults"}
+{"id": "JAH-TSHTS-000034", "t": "Chronic Repeat Failure Investigation (Signature Edition)", "g": "Thermal & Fluid Faults"}

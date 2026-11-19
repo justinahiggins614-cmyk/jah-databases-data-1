@@ -1,0 +1,34 @@
+{"id": "JAH-CMRS-000001", "t": "Process Selection", "g": "Foundations"}
+{"id": "JAH-CMRS-000002", "t": "Workholding", "g": "Foundations"}
+{"id": "JAH-CMRS-000003", "t": "Tool Materials", "g": "Foundations"}
+{"id": "JAH-CMRS-000004", "t": "Tool Geometry", "g": "Foundations"}
+{"id": "JAH-CMRS-000005", "t": "Speeds and Feeds", "g": "Foundations"}
+{"id": "JAH-CMRS-000006", "t": "Cut Parameters", "g": "Foundations"}
+{"id": "JAH-CMRS-000007", "t": "Coolant Strategy", "g": "Foundations"}
+{"id": "JAH-CMRS-000008", "t": "Program Proving", "g": "Foundations"}
+{"id": "JAH-CMRS-000009", "t": "First-Article Inspection", "g": "Foundations"}
+{"id": "JAH-CMRS-000010", "t": "Tolerance Design", "g": "Foundations"}
+{"id": "JAH-CMRS-000011", "t": "Surface Finish", "g": "Foundations"}
+{"id": "JAH-CMRS-000012", "t": "Tool Wear", "g": "Compounded"}
+{"id": "JAH-CMRS-000013", "t": "Setup Documentation", "g": "Compounded"}
+{"id": "JAH-CMRS-000014", "t": "G-Code Basics", "g": "Compounded"}
+{"id": "JAH-CMRS-000015", "t": "CAM Strategies", "g": "Compounded"}
+{"id": "JAH-CMRS-000016", "t": "Adaptive Clearing", "g": "Compounded"}
+{"id": "JAH-CMRS-000017", "t": "Finishing Passes", "g": "Compounded"}
+{"id": "JAH-CMRS-000018", "t": "Threading", "g": "Compounded"}
+{"id": "JAH-CMRS-000019", "t": "Holemaking", "g": "Compounded"}
+{"id": "JAH-CMRS-000020", "t": "Tapping", "g": "Compounded"}
+{"id": "JAH-CMRS-000021", "t": "Work Coordinates", "g": "Compounded"}
+{"id": "JAH-CMRS-000022", "t": "Tool Lengths", "g": "Compounded"}
+{"id": "JAH-CMRS-000023", "t": "Fixture Design", "g": "Compounded"}
+{"id": "JAH-CMRS-000024", "t": "Soft Jaws", "g": "Advanced"}
+{"id": "JAH-CMRS-000025", "t": "Vise Practice", "g": "Advanced"}
+{"id": "JAH-CMRS-000026", "t": "4th Axis", "g": "Advanced"}
+{"id": "JAH-CMRS-000027", "t": "5-Axis Basics", "g": "Advanced"}
+{"id": "JAH-CMRS-000028", "t": "Probing", "g": "Advanced"}
+{"id": "JAH-CMRS-000029", "t": "Lights-Out", "g": "Advanced"}
+{"id": "JAH-CMRS-000030", "t": "Materials Guide", "g": "Advanced"}
+{"id": "JAH-CMRS-000031", "t": "Plastics Machining", "g": "Advanced"}
+{"id": "JAH-CMRS-000032", "t": "Cost Estimation", "g": "Advanced"}
+{"id": "JAH-CMRS-000033", "t": "Quality Systems", "g": "Advanced"}
+{"id": "JAH-CMRS-000034", "t": "Safety", "g": "Advanced"}

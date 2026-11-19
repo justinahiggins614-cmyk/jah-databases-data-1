@@ -1,0 +1,34 @@
+{"id": "JAH-EVS-000001", "t": "What Is an Event", "g": "Foundations"}
+{"id": "JAH-EVS-000002", "t": "Commands, Events, and State", "g": "Foundations"}
+{"id": "JAH-EVS-000003", "t": "Event Time Versus Processing Time", "g": "Foundations"}
+{"id": "JAH-EVS-000004", "t": "The Append-Only Event Log", "g": "Foundations"}
+{"id": "JAH-EVS-000005", "t": "Event Schemas and Contracts", "g": "Foundations"}
+{"id": "JAH-EVS-000006", "t": "Ordering, Causality, and Happened-Before", "g": "Foundations"}
+{"id": "JAH-EVS-000007", "t": "Stream Partitioning", "g": "Foundations"}
+{"id": "JAH-EVS-000008", "t": "Serializing Events: Formats and Choices", "g": "Foundations"}
+{"id": "JAH-EVS-000009", "t": "Consumers and Consumer Groups", "g": "Foundations"}
+{"id": "JAH-EVS-000010", "t": "Delivery Semantics: At-Most, At-Least, Exactly-Once", "g": "Foundations"}
+{"id": "JAH-EVS-000011", "t": "Change Data Capture (CDC)", "g": "Compounded"}
+{"id": "JAH-EVS-000012", "t": "The Outbox Pattern", "g": "Compounded"}
+{"id": "JAH-EVS-000013", "t": "Designing an Event Store", "g": "Compounded"}
+{"id": "JAH-EVS-000014", "t": "Snapshotting Aggregates", "g": "Compounded"}
+{"id": "JAH-EVS-000015", "t": "Consumer Offsets and Seek", "g": "Compounded"}
+{"id": "JAH-EVS-000016", "t": "Event Sourcing Fundamentals", "g": "Compounded"}
+{"id": "JAH-EVS-000017", "t": "Stateful Stream Processing", "g": "Compounded"}
+{"id": "JAH-EVS-000018", "t": "Windows Over Event Time", "g": "Compounded"}
+{"id": "JAH-EVS-000019", "t": "Pub-Sub and Event-Driven Architecture", "g": "Compounded"}
+{"id": "JAH-EVS-000020", "t": "Schema Evolution", "g": "Compounded"}
+{"id": "JAH-EVS-000021", "t": "Correlation and Causation IDs", "g": "Compounded"}
+{"id": "JAH-EVS-000022", "t": "Projections and Read Models", "g": "Compounded"}
+{"id": "JAH-EVS-000023", "t": "Replaying and Reprocessing Events", "g": "Compounded"}
+{"id": "JAH-EVS-000024", "t": "Dead Letters and Poison Events", "g": "Compounded"}
+{"id": "JAH-EVS-000025", "t": "Watermarks and Late Data", "g": "Compounded"}
+{"id": "JAH-EVS-000026", "t": "Event Routing and Filtering", "g": "Compounded"}
+{"id": "JAH-EVS-000027", "t": "Sagas: Distributed Transactions Without Two-Phase Commit", "g": "Advanced"}
+{"id": "JAH-EVS-000028", "t": "End-to-End Exactly-Once Processing", "g": "Advanced"}
+{"id": "JAH-EVS-000029", "t": "Compaction, Retention, and Archiving", "g": "Advanced"}
+{"id": "JAH-EVS-000030", "t": "Event Governance and the Schema Registry", "g": "Advanced"}
+{"id": "JAH-EVS-000031", "t": "Observing Event Streams: Lag, Metrics, and Alerts", "g": "Advanced"}
+{"id": "JAH-EVS-000032", "t": "Multi-Region Replication and Failover", "g": "Advanced"}
+{"id": "JAH-EVS-000033", "t": "Securing Event Data: Encryption and Redaction", "g": "Advanced"}
+{"id": "JAH-EVS-000034", "t": "Temporal Queries and Time Travel", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-STRU-000001", "t": "Loads: Dead, Live, Wind, Seismic", "g": "Loads & Basics"}
+{"id": "JAH-STRU-000002", "t": "Stress and Strain", "g": "Loads & Basics"}
+{"id": "JAH-STRU-000003", "t": "Beam Bending Theory", "g": "Analysis"}
+{"id": "JAH-STRU-000004", "t": "Shear Force and Bending Moment Diagrams", "g": "Analysis"}
+{"id": "JAH-STRU-000005", "t": "Truss Analysis: Method of Joints", "g": "Analysis"}
+{"id": "JAH-STRU-000006", "t": "Columns and Buckling", "g": "Analysis"}
+{"id": "JAH-STRU-000007", "t": "Concrete Fundamentals", "g": "Materials"}
+{"id": "JAH-STRU-000008", "t": "Steel Fundamentals", "g": "Materials"}
+{"id": "JAH-STRU-000009", "t": "Timber Basics", "g": "Materials"}
+{"id": "JAH-STRU-000010", "t": "Masonry Basics", "g": "Materials"}
+{"id": "JAH-STRU-000011", "t": "Factor of Safety and LRFD", "g": "Loads & Basics"}
+{"id": "JAH-STRU-000012", "t": "Structural Drawings Reading", "g": "Loads & Basics"}
+{"id": "JAH-STRU-000013", "t": "Indeterminate Structures: Slope-Deflection", "g": "Analysis"}
+{"id": "JAH-STRU-000014", "t": "Moment Distribution Method", "g": "Analysis"}
+{"id": "JAH-STRU-000015", "t": "Influence Lines", "g": "Analysis"}
+{"id": "JAH-STRU-000016", "t": "Reinforced Concrete Beam Design", "g": "Concrete Design"}
+{"id": "JAH-STRU-000017", "t": "Reinforced Concrete Column Design", "g": "Concrete Design"}
+{"id": "JAH-STRU-000018", "t": "Steel Connection Design", "g": "Steel Design"}
+{"id": "JAH-STRU-000019", "t": "Welded Connections", "g": "Steel Design"}
+{"id": "JAH-STRU-000020", "t": "Bolted Connections", "g": "Steel Design"}
+{"id": "JAH-STRU-000021", "t": "Foundation Types and Bearing Capacity", "g": "Foundations"}
+{"id": "JAH-STRU-000022", "t": "Retaining Wall Design", "g": "Foundations"}
+{"id": "JAH-STRU-000023", "t": "Prestressed Concrete Basics", "g": "Concrete Design"}
+{"id": "JAH-STRU-000024", "t": "Composite Steel-Concrete Design", "g": "Steel Design"}
+{"id": "JAH-STRU-000025", "t": "Seismic Design and Ductility", "g": "Dynamics"}
+{"id": "JAH-STRU-000026", "t": "Wind Engineering for Tall Buildings", "g": "Dynamics"}
+{"id": "JAH-STRU-000027", "t": "Finite Element Analysis of Structures", "g": "Analysis"}
+{"id": "JAH-STRU-000028", "t": "Progressive Collapse Prevention", "g": "Dynamics"}
+{"id": "JAH-STRU-000029", "t": "Bridge Design: Girder and Cable-Stayed", "g": "Bridges"}
+{"id": "JAH-STRU-000030", "t": "Long-Span Roof Structures", "g": "Bridges"}
+{"id": "JAH-STRU-000031", "t": "Structural Health Monitoring", "g": "Practice"}
+{"id": "JAH-STRU-000032", "t": "Blast-Resistant Design", "g": "Practice"}
+{"id": "JAH-STRU-000033", "t": "Retrofit of Historic Structures", "g": "Practice"}
+{"id": "JAH-STRU-000034", "t": "Performance-Based Design", "g": "Practice"}

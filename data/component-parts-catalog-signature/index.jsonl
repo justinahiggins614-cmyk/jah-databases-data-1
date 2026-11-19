@@ -1,0 +1,34 @@
+{"id": "JAH-CPTCS-000001", "t": "What Is a Component or Part (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000002", "t": "Reading a Component Datasheet (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000003", "t": "Units, Tolerances, and Ratings (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000004", "t": "Passive Components: Resistors, Capacitors, Inductors (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000005", "t": "Mechanical Parts: Fasteners, Bearings, Gears (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000006", "t": "Wire, Cable, and Connector Basics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000007", "t": "Component Markings and Identification Codes (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000008", "t": "Materials Stock: Sheet, Bar, Rod, and Filament (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000009", "t": "Series and Parallel Component Rules (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000010", "t": "What Compatibility Means for Parts (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000011", "t": "Selection Criteria: How Engineers Choose a Part (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000012", "t": "Standards Bodies and Part Numbering (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CPTCS-000013", "t": "Resistors in Depth (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000014", "t": "Capacitors in Depth (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000015", "t": "Inductors and Transformers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000016", "t": "Diodes and Rectifiers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000017", "t": "Transistors: BJT and MOSFET (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000018", "t": "Integrated Circuits and Logic Families (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000019", "t": "Sensors: Turning the World into Signals (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000020", "t": "Optoelectronics: LEDs, Displays, and Photodetectors (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000021", "t": "Fasteners and Thread Standards (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000022", "t": "Bearings and Bushings (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000023", "t": "Gears, Belts, and Power Transmission (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000024", "t": "Relays, Contactors, and Switches (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CPTCS-000025", "t": "Derating and Design Margins (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000026", "t": "Tolerance Stack-Up Analysis (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000027", "t": "Thermal Management and Heat Sinks (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000028", "t": "EMI and EMC Compatibility (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000029", "t": "Reliability, MTBF, and Failure Rates (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000030", "t": "Counterfeit Component Detection (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000031", "t": "Obsolescence Management and Last-Time Buys (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000032", "t": "Sourcing, the BOM, and the Supply Chain (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000033", "t": "Cross-References and Substitution (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CPTCS-000034", "t": "Modules and Subassemblies: Build vs Buy (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ASIG-000001", "t": "Audio, Speech, and Signal Analysis Database: Frequency from Period", "c": 0, "g": "basics"}
+{"id": "JAH-ASIG-000002", "t": "Audio, Speech, and Signal Analysis Database: Period from Frequency", "c": 0, "g": "basics"}
+{"id": "JAH-ASIG-000003", "t": "Audio, Speech, and Signal Analysis Database: Wavelength", "c": 0, "g": "basics"}
+{"id": "JAH-ASIG-000004", "t": "Audio, Speech, and Signal Analysis Database: dB (power)", "c": 0, "g": "levels"}
+{"id": "JAH-ASIG-000005", "t": "Audio, Speech, and Signal Analysis Database: dB (amplitude)", "c": 0, "g": "levels"}
+{"id": "JAH-ASIG-000006", "t": "Audio, Speech, and Signal Analysis Database: SPL", "c": 0, "g": "levels"}
+{"id": "JAH-ASIG-000007", "t": "Audio, Speech, and Signal Analysis Database: Nyquist Frequency", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000008", "t": "Audio, Speech, and Signal Analysis Database: Sample Interval", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000009", "t": "Audio, Speech, and Signal Analysis Database: Bit Rate (audio)", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000010", "t": "Audio, Speech, and Signal Analysis Database: Audio File Size", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000011", "t": "Audio, Speech, and Signal Analysis Database: RMS", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000012", "t": "Audio, Speech, and Signal Analysis Database: Sine RMS", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000013", "t": "Audio, Speech, and Signal Analysis Database: Crest Factor", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000014", "t": "Audio, Speech, and Signal Analysis Database: SNR", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000015", "t": "Audio, Speech, and Signal Analysis Database: FFT Bins", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000016", "t": "Audio, Speech, and Signal Analysis Database: Bin Frequency", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000017", "t": "Audio, Speech, and Signal Analysis Database: Beat Frequency", "c": 0, "g": "basics"}
+{"id": "JAH-ASIG-000018", "t": "Audio, Speech, and Signal Analysis Database: Sabine Reverb Time", "c": 0, "g": "acoustics"}
+{"id": "JAH-ASIG-000019", "t": "Audio, Speech, and Signal Analysis Database: MIDI to Frequency", "c": 0, "g": "music"}
+{"id": "JAH-ASIG-000020", "t": "Audio, Speech, and Signal Analysis Database: Cents Between", "c": 0, "g": "music"}
+{"id": "JAH-ASIG-000021", "t": "Audio, Speech, and Signal Analysis Database: Beat Interval", "c": 0, "g": "music"}
+{"id": "JAH-ASIG-000022", "t": "Audio, Speech, and Signal Analysis Database: Sample Count", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000023", "t": "Audio, Speech, and Signal Analysis Database: Quantization Levels", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000024", "t": "Audio, Speech, and Signal Analysis Database: Quantization SNR", "c": 0, "g": "sampling"}
+{"id": "JAH-ASIG-000025", "t": "Audio, Speech, and Signal Analysis Database: Echo Delay", "c": 0, "g": "acoustics"}
+{"id": "JAH-ASIG-000026", "t": "Audio, Speech, and Signal Analysis Database: Sound Intensity", "c": 0, "g": "acoustics"}
+{"id": "JAH-ASIG-000027", "t": "Audio, Speech, and Signal Analysis Database: Intensity Level", "c": 0, "g": "levels"}
+{"id": "JAH-ASIG-000028", "t": "Audio, Speech, and Signal Analysis Database: Mic Sensitivity (dBV)", "c": 0, "g": "transducers"}
+{"id": "JAH-ASIG-000029", "t": "Audio, Speech, and Signal Analysis Database: Gain (dB)", "c": 0, "g": "levels"}
+{"id": "JAH-ASIG-000030", "t": "Audio, Speech, and Signal Analysis Database: Headroom", "c": 0, "g": "levels"}
+{"id": "JAH-ASIG-000031", "t": "Audio, Speech, and Signal Analysis Database: THD", "c": 0, "g": "analysis"}
+{"id": "JAH-ASIG-000032", "t": "Audio, Speech, and Signal Analysis Database: Delay (tempo ms)", "c": 0, "g": "music"}
+{"id": "JAH-ASIG-000033", "t": "Audio, Speech, and Signal Analysis Database: Octave Ratio", "c": 0, "g": "music"}
+{"id": "JAH-ASIG-000034", "t": "Audio, Speech, and Signal Analysis Database: Audio Chain Capstone", "c": 0, "g": "levels"}

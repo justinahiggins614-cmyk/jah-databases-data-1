@@ -1,0 +1,34 @@
+{"id": "JAH-AWCGS-000001", "t": "AI Workflow Composition Generator Signature Database: Capability Inventory", "c": 0, "g": "foundations"}
+{"id": "JAH-AWCGS-000002", "t": "AI Workflow Composition Generator Signature Database: Workflow Sketch", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000003", "t": "AI Workflow Composition Generator Signature Database: Tool Selection", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000004", "t": "AI Workflow Composition Generator Signature Database: Parameter Binding", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000005", "t": "AI Workflow Composition Generator Signature Database: Dependency Ordering", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000006", "t": "AI Workflow Composition Generator Signature Database: Workflow Validation", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000007", "t": "AI Workflow Composition Generator Signature Database: Dry Run", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000008", "t": "AI Workflow Composition Generator Signature Database: Error Handling", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCGS-000009", "t": "AI Workflow Composition Generator Signature Database: Retry Policy", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCGS-000010", "t": "AI Workflow Composition Generator Signature Database: Timeout Policy", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCGS-000011", "t": "AI Workflow Composition Generator Signature Database: Parallel Branches", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000012", "t": "AI Workflow Composition Generator Signature Database: Conditional Branches", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000013", "t": "AI Workflow Composition Generator Signature Database: Loop Constructs", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000014", "t": "AI Workflow Composition Generator Signature Database: Human in the Loop", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000015", "t": "AI Workflow Composition Generator Signature Database: Result Merging", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000016", "t": "AI Workflow Composition Generator Signature Database: Provenance Tracking", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000017", "t": "AI Workflow Composition Generator Signature Database: Cost Estimation", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000018", "t": "AI Workflow Composition Generator Signature Database: Latency Estimation", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000019", "t": "AI Workflow Composition Generator Signature Database: Fallback Strategy", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCGS-000020", "t": "AI Workflow Composition Generator Signature Database: Rollback Plan", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCGS-000021", "t": "AI Workflow Composition Generator Signature Database: Workflow Testing", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000022", "t": "AI Workflow Composition Generator Signature Database: Monitoring", "c": 0, "g": "reliability"}
+{"id": "JAH-AWCGS-000023", "t": "AI Workflow Composition Generator Signature Database: Versioning", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000024", "t": "AI Workflow Composition Generator Signature Database: Approval Gate", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000025", "t": "AI Workflow Composition Generator Signature Database: Documentation", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000026", "t": "AI Workflow Composition Generator Signature Database: Reuse Library", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000027", "t": "AI Workflow Composition Generator Signature Database: Composition Search", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000028", "t": "AI Workflow Composition Generator Signature Database: Type Checking", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000029", "t": "AI Workflow Composition Generator Signature Database: Security Review", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000030", "t": "AI Workflow Composition Generator Signature Database: Constraint Solving", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000031", "t": "AI Workflow Composition Generator Signature Database: Template Library", "c": 0, "g": "design"}
+{"id": "JAH-AWCGS-000032", "t": "AI Workflow Composition Generator Signature Database: Deployment", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000033", "t": "AI Workflow Composition Generator Signature Database: Sandbox Execution", "c": 0, "g": "validation"}
+{"id": "JAH-AWCGS-000034", "t": "AI Workflow Composition Generator Signature Database: Capstone: Workflow Engine", "c": 0, "g": "design"}

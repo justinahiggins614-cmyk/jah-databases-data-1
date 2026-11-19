@@ -1,0 +1,34 @@
+{"id": "JAH-DISTKSS-000001", "t": "Consistency Models (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000002", "t": "The CAP Theorem (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000003", "t": "Replication (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000004", "t": "Consensus (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000005", "t": "Conflict Resolution (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000006", "t": "Vector Clocks (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000007", "t": "Idempotency (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000008", "t": "Testing Partitions (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000009", "t": "Teaching Distributed Systems (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000010", "t": "The Sync Audit (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000011", "t": "Eventual Consistency Deep Dive (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DISTKSS-000012", "t": "CRDTs in Practice (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000013", "t": "Operational Transformation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000014", "t": "Gossip Protocols (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000015", "t": "Merkle Trees (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000016", "t": "Delta Sync (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000017", "t": "Offline-First Design (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000018", "t": "Mobile Sync (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000019", "t": "Database Replication (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000020", "t": "File Sync (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000021", "t": "Collaborative Knowledge (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000022", "t": "Blockchain Sync (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000023", "t": "Edge Sync (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DISTKSS-000024", "t": "Sync Security (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000025", "t": "Schema Evolution (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000026", "t": "Monitoring Sync Health (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000027", "t": "Disaster Recovery (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000028", "t": "Cost of Distribution (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000029", "t": "Case Studies (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000030", "t": "Sync Patterns Catalog (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000031", "t": "Teaching Sync (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000032", "t": "The Consistency Review (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000033", "t": "Future of Sync (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DISTKSS-000034", "t": "The Sync Playbook (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-MDI-000001", "t": "Signature What Is Multimodal Indexing (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000002", "t": "Signature Modality Pipelines (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000003", "t": "Signature Text Extraction (OCR) (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000004", "t": "Signature Audio Transcription (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000005", "t": "Signature Video Indexing (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000006", "t": "Signature Image Embeddings (CLIP) (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000007", "t": "Signature Audio Embeddings (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000008", "t": "Signature Unified Vector Index (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000009", "t": "Signature Metadata Schema (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000010", "t": "Signature Cross-Modal Retrieval (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000011", "t": "Signature Fusion Strategies (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000012", "t": "Signature Evaluating Multimodal (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000013", "t": "Signature The Multimodal Playbook (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000014", "t": "Signature Document Understanding (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000015", "t": "Signature Captioning Pipelines (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000016", "t": "Signature Object Detection Indexing (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000017", "t": "Signature Face Handling Ethics (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000018", "t": "Signature Speech Diarization (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000019", "t": "Signature Music/Audio Fingerprinting (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000020", "t": "Signature Thumbnail/Keyframe Selection (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000021", "t": "Signature Temporal Indexing (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000022", "t": "Signature Multimodal Dedup (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000023", "t": "Signature Storage for Multimodal (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000024", "t": "Signature Streaming Multimodal (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000025", "t": "Signature Multimodal RAG (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000026", "t": "Signature Accessibility via Multimodal (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000027", "t": "Signature Moderation Across Modalities (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000028", "t": "Signature Cost Management (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000029", "t": "Signature Privacy in Multimodal (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000030", "t": "Signature Versioning Embeddings (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000031", "t": "Signature Hybrid Metadata+Vector (Signature Edition)", "g": "modality-pipelines"}
+{"id": "JAH-MDI-000032", "t": "Signature Multimodal Analytics (Signature Edition)", "g": "unified-indexing"}
+{"id": "JAH-MDI-000033", "t": "Signature Edge Multimodal (Signature Edition)", "g": "cross-modal-search"}
+{"id": "JAH-MDI-000034", "t": "Signature The Multimodal Future (Signature Edition)", "g": "modality-pipelines"}

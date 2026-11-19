@@ -1,0 +1,34 @@
+{"id": "JAH-CPCM-000001", "t": "What Compatibility Means", "g": "Foundations"}
+{"id": "JAH-CPCM-000002", "t": "Reading and Writing a Compatibility Matrix", "g": "Foundations"}
+{"id": "JAH-CPCM-000003", "t": "The Five Dimensions of a Pairing", "g": "Foundations"}
+{"id": "JAH-CPCM-000004", "t": "Voltage-Level Compatibility", "g": "Foundations"}
+{"id": "JAH-CPCM-000005", "t": "Logic Families and Their Pairings", "g": "Foundations"}
+{"id": "JAH-CPCM-000006", "t": "Current and Power Delivery Compatibility", "g": "Foundations"}
+{"id": "JAH-CPCM-000007", "t": "Connector Mechanical Fit and Mating", "g": "Foundations"}
+{"id": "JAH-CPCM-000008", "t": "Protocol Compatibility: UART, SPI, I2C, CAN, USB, Ethernet", "g": "Foundations"}
+{"id": "JAH-CPCM-000009", "t": "Signal Integrity and Impedance Matching", "g": "Foundations"}
+{"id": "JAH-CPCM-000010", "t": "Tolerance and Clearance for Mating Parts", "g": "Foundations"}
+{"id": "JAH-CPCM-000011", "t": "Reading Two Datasheets Side by Side", "g": "Foundations"}
+{"id": "JAH-CPCM-000012", "t": "Material Compatibility Basics", "g": "Foundations"}
+{"id": "JAH-CPCM-000013", "t": "Galvanic Corrosion Pairings", "g": "Compounded"}
+{"id": "JAH-CPCM-000014", "t": "Thermal Expansion Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000015", "t": "Chemical and Environmental Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000016", "t": "Solder and Joining Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000017", "t": "Power Supply Interoperability", "g": "Compounded"}
+{"id": "JAH-CPCM-000018", "t": "Grounding and Shielding Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000019", "t": "Battery Chemistry Pairings", "g": "Compounded"}
+{"id": "JAH-CPCM-000020", "t": "RF Module Interoperability", "g": "Compounded"}
+{"id": "JAH-CPCM-000021", "t": "Firmware and API Version Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000022", "t": "Memory and Storage Interface Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000023", "t": "Display and Camera Interface Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000024", "t": "Sensor Module Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000025", "t": "Motor and Driver Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000026", "t": "Network Stack and Middleware Compatibility", "g": "Compounded"}
+{"id": "JAH-CPCM-000027", "t": "EMC Compatibility Between Modules", "g": "Advanced"}
+{"id": "JAH-CPCM-000028", "t": "Timing Closure Across Interfaces", "g": "Advanced"}
+{"id": "JAH-CPCM-000029", "t": "Derating and Reliability of Pairings", "g": "Advanced"}
+{"id": "JAH-CPCM-000030", "t": "Cross-Reference Substitution Matrices", "g": "Advanced"}
+{"id": "JAH-CPCM-000031", "t": "Full System Integration Matrices", "g": "Advanced"}
+{"id": "JAH-CPCM-000032", "t": "Compatibility Testing and Verification", "g": "Advanced"}
+{"id": "JAH-CPCM-000033", "t": "Lifecycle and Obsolescence in Pairings", "g": "Advanced"}
+{"id": "JAH-CPCM-000034", "t": "Building Your Own Compatibility Matrix", "g": "Advanced"}

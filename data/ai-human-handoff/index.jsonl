@@ -1,0 +1,34 @@
+{"id": "JAH-AHH-000001", "t": "Why Handoffs Matter", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000002", "t": "Handoff Trigger Design", "g": "context-transfer"}
+{"id": "JAH-AHH-000003", "t": "Confidence Thresholds", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000004", "t": "Context Transfer", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000005", "t": "The Handoff Card", "g": "context-transfer"}
+{"id": "JAH-AHH-000006", "t": "Alert Fatigue Prevention", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000007", "t": "Human Response Time", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000008", "t": "Takeover Interfaces", "g": "context-transfer"}
+{"id": "JAH-AHH-000009", "t": "Shared Mental Models", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000010", "t": "Training Human Operators", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000011", "t": "Automation Bias Defense", "g": "context-transfer"}
+{"id": "JAH-AHH-000012", "t": "Liability and Handoffs", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000013", "t": "Handoff in Chatbots", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000014", "t": "Handoff in Autonomous Vehicles", "g": "context-transfer"}
+{"id": "JAH-AHH-000015", "t": "Handoff in Healthcare AI", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000016", "t": "Handoff in Content Moderation", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000017", "t": "Escalation Queues", "g": "context-transfer"}
+{"id": "JAH-AHH-000018", "t": "Staffing the Handoff", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000019", "t": "Measuring Handoff Quality", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000020", "t": "Failure Mode: Silent Failure", "g": "context-transfer"}
+{"id": "JAH-AHH-000021", "t": "Failure Mode: Handoff Storm", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000022", "t": "Graceful Degradation", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000023", "t": "User Communication", "g": "context-transfer"}
+{"id": "JAH-AHH-000024", "t": "Handoff Logging", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000025", "t": "Continuous Improvement", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000026", "t": "Multi-AI Handoffs", "g": "context-transfer"}
+{"id": "JAH-AHH-000027", "t": "Regulatory View", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000028", "t": "Cost of Handoffs", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000029", "t": "The Handoff Playbook", "g": "context-transfer"}
+{"id": "JAH-AHH-000030", "t": "Handoff Drills", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000031", "t": "Partial Handoffs", "g": "handoff-triggers"}
+{"id": "JAH-AHH-000032", "t": "Handoff in Robotics", "g": "context-transfer"}
+{"id": "JAH-AHH-000033", "t": "Emotional Handoffs", "g": "human-takeover-design"}
+{"id": "JAH-AHH-000034", "t": "Post-Handoff Follow-Up", "g": "handoff-triggers"}

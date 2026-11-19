@@ -1,0 +1,34 @@
+{"id": "JAH-RAPI-000001", "t": "What Is a REST API", "g": "Foundations"}
+{"id": "JAH-RAPI-000002", "t": "HTTP Methods for APIs", "g": "Foundations"}
+{"id": "JAH-RAPI-000003", "t": "HTTP Status Codes for APIs", "g": "Foundations"}
+{"id": "JAH-RAPI-000004", "t": "REST Resources and URL Design", "g": "Foundations"}
+{"id": "JAH-RAPI-000005", "t": "JSON for APIs", "g": "Foundations"}
+{"id": "JAH-RAPI-000006", "t": "Making API Requests with curl", "g": "Foundations"}
+{"id": "JAH-RAPI-000007", "t": "API Request and Response Anatomy", "g": "Foundations"}
+{"id": "JAH-RAPI-000008", "t": "Query Parameters in APIs", "g": "Foundations"}
+{"id": "JAH-RAPI-000009", "t": "API Headers", "g": "Foundations"}
+{"id": "JAH-RAPI-000010", "t": "Your First API Server", "g": "Foundations"}
+{"id": "JAH-RAPI-000011", "t": "Testing APIs with Tools", "g": "Foundations"}
+{"id": "JAH-RAPI-000012", "t": "API Pagination", "g": "Compounded"}
+{"id": "JAH-RAPI-000013", "t": "API Filtering and Sorting", "g": "Compounded"}
+{"id": "JAH-RAPI-000014", "t": "API Error Responses", "g": "Compounded"}
+{"id": "JAH-RAPI-000015", "t": "API Authentication Basics", "g": "Compounded"}
+{"id": "JAH-RAPI-000016", "t": "API Rate Limiting", "g": "Compounded"}
+{"id": "JAH-RAPI-000017", "t": "API Versioning", "g": "Compounded"}
+{"id": "JAH-RAPI-000018", "t": "API Documentation", "g": "Compounded"}
+{"id": "JAH-RAPI-000019", "t": "CORS for APIs", "g": "Compounded"}
+{"id": "JAH-RAPI-000020", "t": "API Validation", "g": "Compounded"}
+{"id": "JAH-RAPI-000021", "t": "API Logging and Monitoring", "g": "Compounded"}
+{"id": "JAH-RAPI-000022", "t": "Idempotency in APIs", "g": "Compounded"}
+{"id": "JAH-RAPI-000023", "t": "API Caching Strategies", "g": "Compounded"}
+{"id": "JAH-RAPI-000024", "t": "OAuth2 and JWT for APIs", "g": "Advanced"}
+{"id": "JAH-RAPI-000025", "t": "API Webhooks", "g": "Advanced"}
+{"id": "JAH-RAPI-000026", "t": "GraphQL vs REST", "g": "Advanced"}
+{"id": "JAH-RAPI-000027", "t": "API Security Best Practices", "g": "Advanced"}
+{"id": "JAH-RAPI-000028", "t": "API Performance Optimization", "g": "Advanced"}
+{"id": "JAH-RAPI-000029", "t": "API Gateway Pattern", "g": "Advanced"}
+{"id": "JAH-RAPI-000030", "t": "API Testing Strategies", "g": "Advanced"}
+{"id": "JAH-RAPI-000031", "t": "API Deprecation Strategies", "g": "Advanced"}
+{"id": "JAH-RAPI-000032", "t": "API Analytics and Monetization", "g": "Advanced"}
+{"id": "JAH-RAPI-000033", "t": "Building a Complete REST API Capstone", "g": "Advanced"}
+{"id": "JAH-RAPI-000034", "t": "The Future of APIs", "g": "Advanced"}

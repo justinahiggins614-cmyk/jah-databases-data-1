@@ -1,0 +1,34 @@
+{"id": "JAH-SDOS-000001", "t": "Software Deployment and Operations Signature Database: Blue-Green Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000002", "t": "Software Deployment and Operations Signature Database: Canary Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000003", "t": "Software Deployment and Operations Signature Database: Rolling Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000004", "t": "Software Deployment and Operations Signature Database: Feature Flags", "c": 0, "g": "config"}
+{"id": "JAH-SDOS-000005", "t": "Software Deployment and Operations Signature Database: Automated Rollback", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000006", "t": "Software Deployment and Operations Signature Database: Readiness and Liveness Probes", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000007", "t": "Software Deployment and Operations Signature Database: Configuration Management", "c": 0, "g": "config"}
+{"id": "JAH-SDOS-000008", "t": "Software Deployment and Operations Signature Database: Secrets Management", "c": 0, "g": "config"}
+{"id": "JAH-SDOS-000009", "t": "Software Deployment and Operations Signature Database: Pipeline Stages", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000010", "t": "Software Deployment and Operations Signature Database: Artifact Versioning", "c": 0, "g": "packaging"}
+{"id": "JAH-SDOS-000011", "t": "Software Deployment and Operations Signature Database: Immutable Infrastructure", "c": 0, "g": "packaging"}
+{"id": "JAH-SDOS-000012", "t": "Software Deployment and Operations Signature Database: SLOs and Error Budgets", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000013", "t": "Software Deployment and Operations Signature Database: Alert Routing", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000014", "t": "Software Deployment and Operations Signature Database: Runbooks", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000015", "t": "Software Deployment and Operations Signature Database: Incident Response", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000016", "t": "Software Deployment and Operations Signature Database: Blameless Postmortem", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000017", "t": "Software Deployment and Operations Signature Database: Capacity Planning", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000018", "t": "Software Deployment and Operations Signature Database: Autoscaling Policy", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000019", "t": "Software Deployment and Operations Signature Database: Database Migration Safety", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000020", "t": "Software Deployment and Operations Signature Database: Secret Rotation in Deploy", "c": 0, "g": "config"}
+{"id": "JAH-SDOS-000021", "t": "Software Deployment and Operations Signature Database: Progressive Delivery", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000022", "t": "Software Deployment and Operations Signature Database: Disaster Recovery Drill", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000023", "t": "Software Deployment and Operations Signature Database: Log Aggregation", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000024", "t": "Software Deployment and Operations Signature Database: Deployment Freeze Calendar", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000025", "t": "Software Deployment and Operations Signature Database: GitOps Deployment", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000026", "t": "Software Deployment and Operations Signature Database: Multi-Region Failover", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000027", "t": "Software Deployment and Operations Signature Database: Cost Monitoring (FinOps)", "c": 0, "g": "monitoring"}
+{"id": "JAH-SDOS-000028", "t": "Software Deployment and Operations Signature Database: Zero-Downtime Restarts", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000029", "t": "Software Deployment and Operations Signature Database: Rollback Drills", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000030", "t": "Software Deployment and Operations Signature Database: Deployment Verification (Smoke)", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000031", "t": "Software Deployment and Operations Signature Database: Environment Parity", "c": 0, "g": "config"}
+{"id": "JAH-SDOS-000032", "t": "Software Deployment and Operations Signature Database: Safe Dependency Updates", "c": 0, "g": "pipelines"}
+{"id": "JAH-SDOS-000033", "t": "Software Deployment and Operations Signature Database: Incident Command", "c": 0, "g": "recovery"}
+{"id": "JAH-SDOS-000034", "t": "Software Deployment and Operations Signature Database: Deployment Audit Trail", "c": 0, "g": "pipelines"}

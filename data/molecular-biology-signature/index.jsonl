@@ -1,0 +1,34 @@
+{"id": "JAH-MOLBIS-000001", "t": "What Is Molecular Biology (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-MOLBIS-000002", "t": "The Central Dogma (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-MOLBIS-000003", "t": "DNA Structure: The Double Helix (Signature Edition)", "g": "Nucleic Acids"}
+{"id": "JAH-MOLBIS-000004", "t": "RNA Types and Roles (Signature Edition)", "g": "Nucleic Acids"}
+{"id": "JAH-MOLBIS-000005", "t": "DNA Replication Overview (Signature Edition)", "g": "Dogma"}
+{"id": "JAH-MOLBIS-000006", "t": "Transcription Overview (Signature Edition)", "g": "Dogma"}
+{"id": "JAH-MOLBIS-000007", "t": "Translation Overview (Signature Edition)", "g": "Dogma"}
+{"id": "JAH-MOLBIS-000008", "t": "The Genetic Code (Signature Edition)", "g": "Code"}
+{"id": "JAH-MOLBIS-000009", "t": "Genes and Genomes (Signature Edition)", "g": "Genomes"}
+{"id": "JAH-MOLBIS-000010", "t": "Mutations: Types (Signature Edition)", "g": "Variation"}
+{"id": "JAH-MOLBIS-000011", "t": "History: From Mendel to Watson and Crick (Signature Edition)", "g": "History"}
+{"id": "JAH-MOLBIS-000012", "t": "DNA Replication: Enzymes and Forks (Signature Edition)", "g": "Replication"}
+{"id": "JAH-MOLBIS-000013", "t": "DNA Repair Mechanisms (Signature Edition)", "g": "Replication"}
+{"id": "JAH-MOLBIS-000014", "t": "Transcription: Promoters and Polymerases (Signature Edition)", "g": "Transcription"}
+{"id": "JAH-MOLBIS-000015", "t": "RNA Processing: Splicing, Capping, Tails (Signature Edition)", "g": "Transcription"}
+{"id": "JAH-MOLBIS-000016", "t": "Translation: Ribosome Mechanics (Signature Edition)", "g": "Translation"}
+{"id": "JAH-MOLBIS-000017", "t": "Post-Translational Modification (Signature Edition)", "g": "Translation"}
+{"id": "JAH-MOLBIS-000018", "t": "Gene Regulation in Prokaryotes (Operons) (Signature Edition)", "g": "Regulation"}
+{"id": "JAH-MOLBIS-000019", "t": "Gene Regulation in Eukaryotes (Signature Edition)", "g": "Regulation"}
+{"id": "JAH-MOLBIS-000020", "t": "Epigenetics: Methylation and Histones (Signature Edition)", "g": "Regulation"}
+{"id": "JAH-MOLBIS-000021", "t": "Recombinant DNA Technology (Signature Edition)", "g": "Tools"}
+{"id": "JAH-MOLBIS-000022", "t": "PCR: Principles (Signature Edition)", "g": "Tools"}
+{"id": "JAH-MOLBIS-000023", "t": "Gel Electrophoresis: Separating DNA (Signature Edition)", "g": "Tools"}
+{"id": "JAH-MOLBIS-000024", "t": "CRISPR-Cas Systems (Signature Edition)", "g": "Editing"}
+{"id": "JAH-MOLBIS-000025", "t": "DNA Sequencing: Sanger to NGS (Signature Edition)", "g": "Genomics"}
+{"id": "JAH-MOLBIS-000026", "t": "Genomics and Genome Projects (Signature Edition)", "g": "Genomics"}
+{"id": "JAH-MOLBIS-000027", "t": "Transcriptomics (RNA-seq) (Signature Edition)", "g": "Genomics"}
+{"id": "JAH-MOLBIS-000028", "t": "Proteomics (Signature Edition)", "g": "Proteomics"}
+{"id": "JAH-MOLBIS-000029", "t": "Gene Cloning Vectors (Signature Edition)", "g": "Tools"}
+{"id": "JAH-MOLBIS-000030", "t": "Site-Directed Mutagenesis (Signature Edition)", "g": "Tools"}
+{"id": "JAH-MOLBIS-000031", "t": "RNA Interference (Signature Edition)", "g": "Regulation"}
+{"id": "JAH-MOLBIS-000032", "t": "Synthetic Biology (Introduction) (Signature Edition)", "g": "Synthetic"}
+{"id": "JAH-MOLBIS-000033", "t": "Molecular Phylogenetics (Signature Edition)", "g": "Evolution"}
+{"id": "JAH-MOLBIS-000034", "t": "The Molecular Biology Toolkit (Lab Methods Roundup) (Signature Edition)", "g": "Tools"}

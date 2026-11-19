@@ -1,0 +1,34 @@
+{"id": "JAH-PCC-000001", "t": "OS Compatibility Basics", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000002", "t": "App Compatibility Layers", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000003", "t": "File Format Compatibility", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000004", "t": "The Compatibility Playbook", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000005", "t": "ARM vs x86", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000006", "t": "Apple Silicon Transition", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000007", "t": "Virtual Machines Portable", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000008", "t": "Containers Portable", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000009", "t": "Web Apps Everywhere", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000010", "t": "PWAs", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000011", "t": "USB-C Everything", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000012", "t": "Docking Stations", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000013", "t": "External Monitors", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000014", "t": "Bluetooth Peripherals", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000015", "t": "Printer Compatibility", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000016", "t": "Storage Compatibility", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000017", "t": "Cloud Sync", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000018", "t": "Offline Workflows", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000019", "t": "Battery Optimization", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000020", "t": "Power Banks", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000021", "t": "Travel Adapters", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000022", "t": "VPN on the Go", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000023", "t": "Mobile Hotspots", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000024", "t": "eSIM Travel", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000025", "t": "Device Encryption", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000026", "t": "Find My Devices", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000027", "t": "Backup on the Go", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000028", "t": "Tablet Workflows", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000029", "t": "Phone as Computer", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000030", "t": "Ergonomics Portable", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000031", "t": "Security on the Road", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000032", "t": "The Portable Setup", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000033", "t": "Compatibility Testing", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000034", "t": "Future-Proofing", "g": "cross-platform-compatibility"}

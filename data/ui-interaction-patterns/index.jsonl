@@ -1,0 +1,34 @@
+{"id": "JAH-UIIP-000001", "t": "User Interface and Interaction Patterns Database: Visual Hierarchy", "c": 0, "g": "layout"}
+{"id": "JAH-UIIP-000002", "t": "User Interface and Interaction Patterns Database: F and Z Reading Patterns", "c": 0, "g": "layout"}
+{"id": "JAH-UIIP-000003", "t": "User Interface and Interaction Patterns Database: Navigation Patterns", "c": 0, "g": "navigation"}
+{"id": "JAH-UIIP-000004", "t": "User Interface and Interaction Patterns Database: Form Design", "c": 0, "g": "forms"}
+{"id": "JAH-UIIP-000005", "t": "User Interface and Interaction Patterns Database: Inline Validation", "c": 0, "g": "forms"}
+{"id": "JAH-UIIP-000006", "t": "User Interface and Interaction Patterns Database: Error Message UX", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIP-000007", "t": "User Interface and Interaction Patterns Database: Empty States", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIP-000008", "t": "User Interface and Interaction Patterns Database: Loading States", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIP-000009", "t": "User Interface and Interaction Patterns Database: Buttons and CTAs", "c": 0, "g": "components"}
+{"id": "JAH-UIIP-000010", "t": "User Interface and Interaction Patterns Database: Color and Contrast", "c": 0, "g": "visual"}
+{"id": "JAH-UIIP-000011", "t": "User Interface and Interaction Patterns Database: Type Scale", "c": 0, "g": "visual"}
+{"id": "JAH-UIIP-000012", "t": "User Interface and Interaction Patterns Database: 8pt Spacing System", "c": 0, "g": "visual"}
+{"id": "JAH-UIIP-000013", "t": "User Interface and Interaction Patterns Database: Responsive Breakpoints", "c": 0, "g": "layout"}
+{"id": "JAH-UIIP-000014", "t": "User Interface and Interaction Patterns Database: Touch Targets", "c": 0, "g": "mobile"}
+{"id": "JAH-UIIP-000015", "t": "User Interface and Interaction Patterns Database: Dark Mode", "c": 0, "g": "visual"}
+{"id": "JAH-UIIP-000016", "t": "User Interface and Interaction Patterns Database: Onboarding", "c": 0, "g": "flows"}
+{"id": "JAH-UIIP-000017", "t": "User Interface and Interaction Patterns Database: Multi-Step Wizards", "c": 0, "g": "flows"}
+{"id": "JAH-UIIP-000018", "t": "User Interface and Interaction Patterns Database: Modals and Dialogs", "c": 0, "g": "components"}
+{"id": "JAH-UIIP-000019", "t": "User Interface and Interaction Patterns Database: Toasts and Notifications", "c": 0, "g": "feedback"}
+{"id": "JAH-UIIP-000020", "t": "User Interface and Interaction Patterns Database: Search UX", "c": 0, "g": "navigation"}
+{"id": "JAH-UIIP-000021", "t": "User Interface and Interaction Patterns Database: Filters and Facets", "c": 0, "g": "navigation"}
+{"id": "JAH-UIIP-000022", "t": "User Interface and Interaction Patterns Database: Data Tables", "c": 0, "g": "components"}
+{"id": "JAH-UIIP-000023", "t": "User Interface and Interaction Patterns Database: Dashboard Design", "c": 0, "g": "layout"}
+{"id": "JAH-UIIP-000024", "t": "User Interface and Interaction Patterns Database: Chart Selection", "c": 0, "g": "visual"}
+{"id": "JAH-UIIP-000025", "t": "User Interface and Interaction Patterns Database: Settings Screens", "c": 0, "g": "flows"}
+{"id": "JAH-UIIP-000026", "t": "User Interface and Interaction Patterns Database: ARIA Practices", "c": 0, "g": "accessibility"}
+{"id": "JAH-UIIP-000027", "t": "User Interface and Interaction Patterns Database: Keyboard Navigation", "c": 0, "g": "accessibility"}
+{"id": "JAH-UIIP-000028", "t": "User Interface and Interaction Patterns Database: Focus Management", "c": 0, "g": "accessibility"}
+{"id": "JAH-UIIP-000029", "t": "User Interface and Interaction Patterns Database: Microcopy", "c": 0, "g": "content"}
+{"id": "JAH-UIIP-000030", "t": "User Interface and Interaction Patterns Database: Confirmation Patterns", "c": 0, "g": "flows"}
+{"id": "JAH-UIIP-000031", "t": "User Interface and Interaction Patterns Database: Undo Patterns", "c": 0, "g": "flows"}
+{"id": "JAH-UIIP-000032", "t": "User Interface and Interaction Patterns Database: Design Tokens", "c": 0, "g": "visual"}
+{"id": "JAH-UIIP-000033", "t": "User Interface and Interaction Patterns Database: Progressive Disclosure", "c": 0, "g": "flows"}
+{"id": "JAH-UIIP-000034", "t": "User Interface and Interaction Patterns Database: Motion and Animation", "c": 0, "g": "visual"}

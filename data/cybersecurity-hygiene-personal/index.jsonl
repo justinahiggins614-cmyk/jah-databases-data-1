@@ -1,0 +1,34 @@
+{"id": "JAH-CYBEHP-000001", "t": "The Threat Landscape", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000002", "t": "Automatic Updates", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000003", "t": "Password Hygiene", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000004", "t": "Two-Factor Authentication", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000005", "t": "Phishing Recognition", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000006", "t": "Safe Browsing", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000007", "t": "Email Security", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000008", "t": "Public Wi-Fi", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000009", "t": "Device Security", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000010", "t": "Backup Discipline", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000011", "t": "Social Media Privacy", "g": "Foundations"}
+{"id": "JAH-CYBEHP-000012", "t": "Financial Monitoring", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000013", "t": "Identity Theft Response", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000014", "t": "Kids Online Safety", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000015", "t": "Senior Scam Defense", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000016", "t": "Teaching Cyber Hygiene", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000017", "t": "The Annual Security Review", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000018", "t": "VPN Use", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000019", "t": "Browser Extensions", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000020", "t": "Software Sources", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000021", "t": "Removable Media", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000022", "t": "IoT Security", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000023", "t": "Cloud Security", "g": "Compounded"}
+{"id": "JAH-CYBEHP-000024", "t": "Mobile Payments", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000025", "t": "QR Code Safety", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000026", "t": "Deepfake Awareness", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000027", "t": "Data Brokers", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000028", "t": "Secure Disposal", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000029", "t": "Travel Cyber Safety", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000030", "t": "Work From Home Security", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000031", "t": "Incident Response", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000032", "t": "Passwordless Future", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000033", "t": "Cyber Insurance", "g": "Advanced"}
+{"id": "JAH-CYBEHP-000034", "t": "Teaching Seniors", "g": "Advanced"}

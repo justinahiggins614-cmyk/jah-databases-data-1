@@ -1,0 +1,34 @@
+{"id": "JAH-USBF-000001", "t": "The Sequence Alignment Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000002", "t": "The Multiple Sequence Alignment Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000003", "t": "The Genome Assembly Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000004", "t": "The Gene Prediction Problem", "g": "Annotation"}
+{"id": "JAH-USBF-000005", "t": "The Variant Calling Problem", "g": "Variation"}
+{"id": "JAH-USBF-000006", "t": "The Read Mapping Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000007", "t": "The Phylogenetic Tree Problem", "g": "Evolution"}
+{"id": "JAH-USBF-000008", "t": "The Orthology Problem", "g": "Evolution"}
+{"id": "JAH-USBF-000009", "t": "The Motif Discovery Problem", "g": "Regulation"}
+{"id": "JAH-USBF-000010", "t": "The RNA Structure Prediction Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000011", "t": "The Protein Function Prediction Problem", "g": "Annotation"}
+{"id": "JAH-USBF-000012", "t": "The Metagenomic Binning Problem", "g": "Metagenomics"}
+{"id": "JAH-USBF-000013", "t": "The Single Cell Data Integration Problem", "g": "Single Cell"}
+{"id": "JAH-USBF-000014", "t": "The Spatial Transcriptomics Problem", "g": "Single Cell"}
+{"id": "JAH-USBF-000015", "t": "The Long Read Assembly Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000016", "t": "The Structural Variant Problem", "g": "Variation"}
+{"id": "JAH-USBF-000017", "t": "The Epigenomic Data Integration Problem", "g": "Regulation"}
+{"id": "JAH-USBF-000018", "t": "The Network Inference Problem", "g": "Systems"}
+{"id": "JAH-USBF-000019", "t": "The Pathway Enrichment Problem", "g": "Systems"}
+{"id": "JAH-USBF-000020", "t": "The Biomarker Discovery Problem", "g": "Medicine"}
+{"id": "JAH-USBF-000021", "t": "The Drug Target Prediction Problem", "g": "Medicine"}
+{"id": "JAH-USBF-000022", "t": "The CRISPR Off Target Problem", "g": "Genome Editing"}
+{"id": "JAH-USBF-000023", "t": "The Base Editing Prediction Problem", "g": "Genome Editing"}
+{"id": "JAH-USBF-000024", "t": "The Pangenome Problem", "g": "Variation"}
+{"id": "JAH-USBF-000025", "t": "The Graph Genome Problem", "g": "Variation"}
+{"id": "JAH-USBF-000026", "t": "The Telomere to Telomere Problem", "g": "Sequences"}
+{"id": "JAH-USBF-000027", "t": "The Dark Genome Problem", "g": "Annotation"}
+{"id": "JAH-USBF-000028", "t": "The Microbiome Causality Problem", "g": "Metagenomics"}
+{"id": "JAH-USBF-000029", "t": "The Multi Omics Integration Problem", "g": "Systems"}
+{"id": "JAH-USBF-000030", "t": "The Digital Twin Cell Problem", "g": "Systems"}
+{"id": "JAH-USBF-000031", "t": "The AI Interpretability Problem", "g": "Methods"}
+{"id": "JAH-USBF-000032", "t": "The Genomic Privacy Problem", "g": "Methods"}
+{"id": "JAH-USBF-000033", "t": "The Reproducibility Problem", "g": "Methods"}
+{"id": "JAH-USBF-000034", "t": "The Unified Bioinformatics Problem", "g": "Methods"}

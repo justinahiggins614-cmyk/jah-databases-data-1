@@ -1,0 +1,34 @@
+{"id": "JAH-RAPIS-000001", "t": "What Is a REST API — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000002", "t": "HTTP Methods for APIs — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000003", "t": "HTTP Status Codes for APIs — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000004", "t": "REST Resources and URL Design — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000005", "t": "JSON for APIs — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000006", "t": "Making API Requests with curl — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000007", "t": "API Request and Response Anatomy — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000008", "t": "Query Parameters in APIs — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000009", "t": "API Headers — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000010", "t": "Your First API Server — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000011", "t": "Testing APIs with Tools — Signature Edition", "g": "Foundations"}
+{"id": "JAH-RAPIS-000012", "t": "API Pagination — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000013", "t": "API Filtering and Sorting — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000014", "t": "API Error Responses — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000015", "t": "API Authentication Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000016", "t": "API Rate Limiting — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000017", "t": "API Versioning — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000018", "t": "API Documentation — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000019", "t": "CORS for APIs — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000020", "t": "API Validation — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000021", "t": "API Logging and Monitoring — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000022", "t": "Idempotency in APIs — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000023", "t": "API Caching Strategies — Signature Edition", "g": "Compounded"}
+{"id": "JAH-RAPIS-000024", "t": "OAuth2 and JWT for APIs — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000025", "t": "API Webhooks — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000026", "t": "GraphQL vs REST — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000027", "t": "API Security Best Practices — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000028", "t": "API Performance Optimization — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000029", "t": "API Gateway Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000030", "t": "API Testing Strategies — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000031", "t": "API Deprecation Strategies — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000032", "t": "API Analytics and Monetization — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000033", "t": "Building a Complete REST API Capstone — Signature Edition", "g": "Advanced"}
+{"id": "JAH-RAPIS-000034", "t": "The Future of APIs — Signature Edition", "g": "Advanced"}

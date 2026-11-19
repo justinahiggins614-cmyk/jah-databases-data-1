@@ -1,0 +1,34 @@
+{"id": "JAH-OSPES-000001", "t": "Maintenance Activity", "g": "Foundations"}
+{"id": "JAH-OSPES-000002", "t": "Bus Factor", "g": "Foundations"}
+{"id": "JAH-OSPES-000003", "t": "License Reading", "g": "Foundations"}
+{"id": "JAH-OSPES-000004", "t": "License Compatibility", "g": "Foundations"}
+{"id": "JAH-OSPES-000005", "t": "Security Posture", "g": "Foundations"}
+{"id": "JAH-OSPES-000006", "t": "Dependency Weight", "g": "Foundations"}
+{"id": "JAH-OSPES-000007", "t": "Community Health", "g": "Foundations"}
+{"id": "JAH-OSPES-000008", "t": "Governance Models", "g": "Foundations"}
+{"id": "JAH-OSPES-000009", "t": "API Stability", "g": "Foundations"}
+{"id": "JAH-OSPES-000010", "t": "Tests and CI", "g": "Foundations"}
+{"id": "JAH-OSPES-000011", "t": "Adoption Signals", "g": "Foundations"}
+{"id": "JAH-OSPES-000012", "t": "Exit Planning", "g": "Compounded"}
+{"id": "JAH-OSPES-000013", "t": "Stars vs Substance", "g": "Compounded"}
+{"id": "JAH-OSPES-000014", "t": "Fork Counts", "g": "Compounded"}
+{"id": "JAH-OSPES-000015", "t": "Issue Triage Speed", "g": "Compounded"}
+{"id": "JAH-OSPES-000016", "t": "Documentation Quality", "g": "Compounded"}
+{"id": "JAH-OSPES-000017", "t": "Roadmap Clarity", "g": "Compounded"}
+{"id": "JAH-OSPES-000018", "t": "Commercial Backing", "g": "Compounded"}
+{"id": "JAH-OSPES-000019", "t": "Dual Licensing", "g": "Compounded"}
+{"id": "JAH-OSPES-000020", "t": "Copyleft in Products", "g": "Compounded"}
+{"id": "JAH-OSPES-000021", "t": "Patent Grants", "g": "Compounded"}
+{"id": "JAH-OSPES-000022", "t": "SBOM Practices", "g": "Compounded"}
+{"id": "JAH-OSPES-000023", "t": "Vulnerability Scanning", "g": "Compounded"}
+{"id": "JAH-OSPES-000024", "t": "Update Discipline", "g": "Advanced"}
+{"id": "JAH-OSPES-000025", "t": "Pinning vs Floating", "g": "Advanced"}
+{"id": "JAH-OSPES-000026", "t": "Abandoned Dependencies", "g": "Advanced"}
+{"id": "JAH-OSPES-000027", "t": "Inner Source", "g": "Advanced"}
+{"id": "JAH-OSPES-000028", "t": "Contributing Back", "g": "Advanced"}
+{"id": "JAH-OSPES-000029", "t": "Sponsorship", "g": "Advanced"}
+{"id": "JAH-OSPES-000030", "t": "License Audits", "g": "Advanced"}
+{"id": "JAH-OSPES-000031", "t": "Policy Creation", "g": "Advanced"}
+{"id": "JAH-OSPES-000032", "t": "Approved Lists", "g": "Advanced"}
+{"id": "JAH-OSPES-000033", "t": "Evaluation Scorecard", "g": "Advanced"}
+{"id": "JAH-OSPES-000034", "t": "Case Studies", "g": "Advanced"}

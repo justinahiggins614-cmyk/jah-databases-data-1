@@ -1,0 +1,34 @@
+{"id": "JAH-SQE-000001", "t": "Search Query Expansion: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-SQE-000002", "t": "Search Query Expansion: How It Actually Works", "g": "foundations"}
+{"id": "JAH-SQE-000003", "t": "Search Query Expansion: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-SQE-000004", "t": "Search Query Expansion: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-SQE-000005", "t": "Search Query Expansion: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-SQE-000006", "t": "Search Query Expansion: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-SQE-000007", "t": "Search Query Expansion: Prompting and Control", "g": "foundations"}
+{"id": "JAH-SQE-000008", "t": "Search Query Expansion: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-SQE-000009", "t": "Search Query Expansion: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-SQE-000010", "t": "Search Query Expansion: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-SQE-000011", "t": "Search Query Expansion: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-SQE-000012", "t": "Search Query Expansion: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-SQE-000013", "t": "Search Query Expansion: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-SQE-000014", "t": "Search Query Expansion: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-SQE-000015", "t": "Search Query Expansion: Deployment Realities", "g": "compounded"}
+{"id": "JAH-SQE-000016", "t": "Search Query Expansion: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-SQE-000017", "t": "Search Query Expansion: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-SQE-000018", "t": "Search Query Expansion: Documentation for AI", "g": "compounded"}
+{"id": "JAH-SQE-000019", "t": "Search Query Expansion: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-SQE-000020", "t": "Search Query Expansion: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-SQE-000021", "t": "Search Query Expansion: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-SQE-000022", "t": "Search Query Expansion: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-SQE-000023", "t": "Search Query Expansion: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-SQE-000024", "t": "Search Query Expansion: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-SQE-000025", "t": "Search Query Expansion: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-SQE-000026", "t": "Search Query Expansion: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-SQE-000027", "t": "Search Query Expansion: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-SQE-000028", "t": "Search Query Expansion: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-SQE-000029", "t": "Search Query Expansion: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-SQE-000030", "t": "Search Query Expansion: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-SQE-000031", "t": "Search Query Expansion: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-SQE-000032", "t": "Search Query Expansion: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-SQE-000033", "t": "Search Query Expansion: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-SQE-000034", "t": "Search Query Expansion: Advanced: Teaching AI Systems", "g": "advanced"}

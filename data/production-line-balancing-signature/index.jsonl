@@ -1,0 +1,34 @@
+{"id": "JAH-PLB-000001", "t": "Signature Takt Time (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000002", "t": "Signature Cycle Time vs Takt (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000003", "t": "Signature Bottleneck Identification (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000004", "t": "Signature Line Balancing Basics (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000005", "t": "Signature The Balancing Playbook (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000006", "t": "Signature Workstation Design (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000007", "t": "Signature Precedence Diagrams (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000008", "t": "Signature Largest Candidate Rule (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000009", "t": "Signature Ranked Positional Weight (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000010", "t": "Signature Efficiency Metrics (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000011", "t": "Signature Smoothness Index (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000012", "t": "Signature Mixed-Model Lines (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000013", "t": "Signature U-Shaped Lines (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000014", "t": "Signature One-Piece Flow (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000015", "t": "Signature Pull Systems (Kanban) (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000016", "t": "Signature WIP Limits (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000017", "t": "Signature Andon Systems (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000018", "t": "Signature Poka-Yoke (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000019", "t": "Signature SMED (Quick Changeover) (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000020", "t": "Signature Standard Work (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000021", "t": "Signature Time Studies (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000022", "t": "Signature Yamazumi Charts (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000023", "t": "Signature Operator Flexibility (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000024", "t": "Signature Line-Side Inventory (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000025", "t": "Signature Ergonomics on Lines (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000026", "t": "Signature Quality at the Source (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000027", "t": "Signature Rebalancing Triggers (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000028", "t": "Signature Simulation for Lines (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000029", "t": "Signature OEE (Overall Equipment Effectiveness) (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000030", "t": "Signature Continuous Flow Cells (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000031", "t": "Signature Heijunka (Leveling) (Signature Edition)", "g": "line-analysis"}
+{"id": "JAH-PLB-000032", "t": "Signature The Flow Audit (Signature Edition)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000033", "t": "Signature Kaizen for Lines (Signature Edition)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000034", "t": "Signature Line Balancing Software (Signature Edition)", "g": "line-analysis"}

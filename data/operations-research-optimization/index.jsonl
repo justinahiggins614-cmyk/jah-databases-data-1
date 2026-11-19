@@ -1,0 +1,34 @@
+{"id": "JAH-ORO-000001", "t": "Operations Research and Decision Optimization Database: EOQ", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000002", "t": "Operations Research and Decision Optimization Database: Reorder Point", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000003", "t": "Operations Research and Decision Optimization Database: Safety Stock", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000004", "t": "Operations Research and Decision Optimization Database: Total Inventory Cost", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000005", "t": "Operations Research and Decision Optimization Database: Orders Per Year", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000006", "t": "Operations Research and Decision Optimization Database: Cycle Time (days)", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000007", "t": "Operations Research and Decision Optimization Database: Break-Even Units", "c": 0, "g": "finance"}
+{"id": "JAH-ORO-000008", "t": "Operations Research and Decision Optimization Database: Break-Even Revenue", "c": 0, "g": "finance"}
+{"id": "JAH-ORO-000009", "t": "Operations Research and Decision Optimization Database: Net Present Value (single)", "c": 0, "g": "finance"}
+{"id": "JAH-ORO-000010", "t": "Operations Research and Decision Optimization Database: Payback Period", "c": 0, "g": "finance"}
+{"id": "JAH-ORO-000011", "t": "Operations Research and Decision Optimization Database: Little Law", "c": 0, "g": "queuing"}
+{"id": "JAH-ORO-000012", "t": "Operations Research and Decision Optimization Database: Utilization", "c": 0, "g": "queuing"}
+{"id": "JAH-ORO-000013", "t": "Operations Research and Decision Optimization Database: M/M/1 Queue Length", "c": 0, "g": "queuing"}
+{"id": "JAH-ORO-000014", "t": "Operations Research and Decision Optimization Database: M/M/1 Wait Time", "c": 0, "g": "queuing"}
+{"id": "JAH-ORO-000015", "t": "Operations Research and Decision Optimization Database: M/M/1 In System", "c": 0, "g": "queuing"}
+{"id": "JAH-ORO-000016", "t": "Operations Research and Decision Optimization Database: LP Corner Value", "c": 0, "g": "optimization"}
+{"id": "JAH-ORO-000017", "t": "Operations Research and Decision Optimization Database: Critical Path Length", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000018", "t": "Operations Research and Decision Optimization Database: PERT Expected Time", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000019", "t": "Operations Research and Decision Optimization Database: PERT Variance", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000020", "t": "Operations Research and Decision Optimization Database: Learning Curve", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000021", "t": "Operations Research and Decision Optimization Database: Moving Average Forecast", "c": 0, "g": "forecasting"}
+{"id": "JAH-ORO-000022", "t": "Operations Research and Decision Optimization Database: Weighted Moving Average", "c": 0, "g": "forecasting"}
+{"id": "JAH-ORO-000023", "t": "Operations Research and Decision Optimization Database: Exponential Smoothing", "c": 0, "g": "forecasting"}
+{"id": "JAH-ORO-000024", "t": "Operations Research and Decision Optimization Database: Newsvendor Critical Ratio", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000025", "t": "Operations Research and Decision Optimization Database: Throughput", "c": 0, "g": "queuing"}
+{"id": "JAH-ORO-000026", "t": "Operations Research and Decision Optimization Database: Capacity Utilization", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000027", "t": "Operations Research and Decision Optimization Database: OEE", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000028", "t": "Operations Research and Decision Optimization Database: Takt Time", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000029", "t": "Operations Research and Decision Optimization Database: Labor Productivity", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000030", "t": "Operations Research and Decision Optimization Database: Machines Required", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000031", "t": "Operations Research and Decision Optimization Database: Crash Cost Slope", "c": 0, "g": "scheduling"}
+{"id": "JAH-ORO-000032", "t": "Operations Research and Decision Optimization Database: Expected Monetary Value", "c": 0, "g": "decision"}
+{"id": "JAH-ORO-000033", "t": "Operations Research and Decision Optimization Database: Economic Production Quantity", "c": 0, "g": "inventory"}
+{"id": "JAH-ORO-000034", "t": "Operations Research and Decision Optimization Database: Total Logistics Cost Capstone", "c": 0, "g": "inventory"}

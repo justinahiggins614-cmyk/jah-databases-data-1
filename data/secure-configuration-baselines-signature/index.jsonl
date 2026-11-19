@@ -1,0 +1,34 @@
+{"id": "JAH-SCB-000001", "t": "Signature What Is a Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000002", "t": "Signature CIS Benchmarks Intro (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000003", "t": "Signature Windows Hardening Baseline (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000004", "t": "Signature Linux Hardening Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000005", "t": "Signature macOS Hardening Baseline (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000006", "t": "Signature Password Policy Baseline (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000007", "t": "Signature MFA Everywhere Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000008", "t": "Signature Account Lockout Policy (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000009", "t": "Signature Unnecessary Services Audit (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000010", "t": "Signature Patching Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000011", "t": "Signature Antivirus/EDR Baseline (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000012", "t": "Signature Firewall Rules Baseline (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000013", "t": "Signature Wireless Security Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000014", "t": "Signature Router Hardening (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000015", "t": "Signature Email Security Baseline (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000016", "t": "Signature Browser Hardening (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000017", "t": "Signature USB and Removable Media (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000018", "t": "Signature Logging Baseline (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000019", "t": "Signature Backup Security Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000020", "t": "Signature Cloud Config Baseline (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000021", "t": "Signature Default Credential Purge (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000022", "t": "Signature Encryption Baseline (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000023", "t": "Signature Physical Security Baseline (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000024", "t": "Signature User Training Baseline (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000025", "t": "Signature Incident Response Mini-Plan (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000026", "t": "Signature Vulnerability Scanning (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000027", "t": "Signature Baseline Documentation (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000028", "t": "Signature Compliance Mapping (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000029", "t": "Signature Hardening New Devices (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000030", "t": "Signature Decommissioning Securely (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000031", "t": "Signature The Annual Hardening Review (Signature Edition)", "g": "os-hardening"}
+{"id": "JAH-SCB-000032", "t": "Signature SSH Hardening Deep Dive (Signature Edition)", "g": "network-hardening"}
+{"id": "JAH-SCB-000033", "t": "Signature RDP Hardening (Signature Edition)", "g": "baseline-maintenance"}
+{"id": "JAH-SCB-000034", "t": "Signature IoT Device Hardening (Signature Edition)", "g": "os-hardening"}

@@ -1,0 +1,34 @@
+{"id": "JAH-UOCM-000001", "t": "Universal Ontology and Concept Mapping Database: Concept: Entity", "c": 0, "g": "foundations"}
+{"id": "JAH-UOCM-000002", "t": "Universal Ontology and Concept Mapping Database: Concept: Attribute", "c": 0, "g": "foundations"}
+{"id": "JAH-UOCM-000003", "t": "Universal Ontology and Concept Mapping Database: Concept: Relation", "c": 0, "g": "foundations"}
+{"id": "JAH-UOCM-000004", "t": "Universal Ontology and Concept Mapping Database: Taxonomy", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000005", "t": "Universal Ontology and Concept Mapping Database: Ontology", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000006", "t": "Universal Ontology and Concept Mapping Database: Synonym Ring", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000007", "t": "Universal Ontology and Concept Mapping Database: Homonym", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000008", "t": "Universal Ontology and Concept Mapping Database: Hypernym / Hyponym", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000009", "t": "Universal Ontology and Concept Mapping Database: Meronym (part-of)", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000010", "t": "Universal Ontology and Concept Mapping Database: Cross-Domain Mapping", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCM-000011", "t": "Universal Ontology and Concept Mapping Database: Entity Type: Person", "c": 0, "g": "entities"}
+{"id": "JAH-UOCM-000012", "t": "Universal Ontology and Concept Mapping Database: Entity Type: Organization", "c": 0, "g": "entities"}
+{"id": "JAH-UOCM-000013", "t": "Universal Ontology and Concept Mapping Database: Entity Type: Place", "c": 0, "g": "entities"}
+{"id": "JAH-UOCM-000014", "t": "Universal Ontology and Concept Mapping Database: Entity Type: Event", "c": 0, "g": "entities"}
+{"id": "JAH-UOCM-000015", "t": "Universal Ontology and Concept Mapping Database: Entity Type: Artifact", "c": 0, "g": "entities"}
+{"id": "JAH-UOCM-000016", "t": "Universal Ontology and Concept Mapping Database: Entity Type: Concept", "c": 0, "g": "entities"}
+{"id": "JAH-UOCM-000017", "t": "Universal Ontology and Concept Mapping Database: Temporal Relation", "c": 0, "g": "relations"}
+{"id": "JAH-UOCM-000018", "t": "Universal Ontology and Concept Mapping Database: Causal Relation", "c": 0, "g": "relations"}
+{"id": "JAH-UOCM-000019", "t": "Universal Ontology and Concept Mapping Database: Provenance Relation", "c": 0, "g": "relations"}
+{"id": "JAH-UOCM-000020", "t": "Universal Ontology and Concept Mapping Database: Identity Resolution", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCM-000021", "t": "Universal Ontology and Concept Mapping Database: Schema Mapping", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCM-000022", "t": "Universal Ontology and Concept Mapping Database: Controlled Vocabulary", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000023", "t": "Universal Ontology and Concept Mapping Database: Facet", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000024", "t": "Universal Ontology and Concept Mapping Database: Knowledge Graph", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000025", "t": "Universal Ontology and Concept Mapping Database: Upper Ontology", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000026", "t": "Universal Ontology and Concept Mapping Database: Domain Ontology", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000027", "t": "Universal Ontology and Concept Mapping Database: Ontology Alignment", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCM-000028", "t": "Universal Ontology and Concept Mapping Database: Semantic Similarity", "c": 0, "g": "mapping"}
+{"id": "JAH-UOCM-000029", "t": "Universal Ontology and Concept Mapping Database: Disambiguation", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000030", "t": "Universal Ontology and Concept Mapping Database: Multilingual Concept", "c": 0, "g": "language"}
+{"id": "JAH-UOCM-000031", "t": "Universal Ontology and Concept Mapping Database: Versioned Concept", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000032", "t": "Universal Ontology and Concept Mapping Database: Constraint (Ontology)", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000033", "t": "Universal Ontology and Concept Mapping Database: Inference Rule", "c": 0, "g": "organization"}
+{"id": "JAH-UOCM-000034", "t": "Universal Ontology and Concept Mapping Database: Capstone: Universal Map", "c": 0, "g": "mapping"}

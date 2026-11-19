@@ -1,0 +1,34 @@
+{"id": "JAH-PY-000001", "t": "Installing Python and Using the REPL", "g": "Foundations"}
+{"id": "JAH-PY-000002", "t": "Python Variables and Assignment", "g": "Foundations"}
+{"id": "JAH-PY-000003", "t": "Python Numbers and Arithmetic", "g": "Foundations"}
+{"id": "JAH-PY-000004", "t": "Python Strings", "g": "Foundations"}
+{"id": "JAH-PY-000005", "t": "Python Booleans and Comparisons", "g": "Foundations"}
+{"id": "JAH-PY-000006", "t": "Python Lists", "g": "Foundations"}
+{"id": "JAH-PY-000007", "t": "Python Tuples", "g": "Foundations"}
+{"id": "JAH-PY-000008", "t": "Python Dictionaries", "g": "Foundations"}
+{"id": "JAH-PY-000009", "t": "Python Sets", "g": "Foundations"}
+{"id": "JAH-PY-000010", "t": "Python if elif else", "g": "Foundations"}
+{"id": "JAH-PY-000011", "t": "Python while Loops", "g": "Foundations"}
+{"id": "JAH-PY-000012", "t": "Python for Loops and range", "g": "Compounded"}
+{"id": "JAH-PY-000013", "t": "Python List Comprehensions", "g": "Compounded"}
+{"id": "JAH-PY-000014", "t": "Python Functions and Arguments", "g": "Compounded"}
+{"id": "JAH-PY-000015", "t": "Python args and kwargs", "g": "Compounded"}
+{"id": "JAH-PY-000016", "t": "Python f-strings and Formatting", "g": "Compounded"}
+{"id": "JAH-PY-000017", "t": "Python File Input and Output", "g": "Compounded"}
+{"id": "JAH-PY-000018", "t": "Python Exception Handling", "g": "Compounded"}
+{"id": "JAH-PY-000019", "t": "Python Modules and Imports", "g": "Compounded"}
+{"id": "JAH-PY-000020", "t": "Python Virtual Environments and pip", "g": "Compounded"}
+{"id": "JAH-PY-000021", "t": "Python Slicing", "g": "Compounded"}
+{"id": "JAH-PY-000022", "t": "Python Dictionaries in Depth", "g": "Compounded"}
+{"id": "JAH-PY-000023", "t": "Python Lambda Functions", "g": "Compounded"}
+{"id": "JAH-PY-000024", "t": "Python Decorators", "g": "Advanced"}
+{"id": "JAH-PY-000025", "t": "Python Generators and yield", "g": "Advanced"}
+{"id": "JAH-PY-000026", "t": "Python Context Managers", "g": "Advanced"}
+{"id": "JAH-PY-000027", "t": "Python Classes and Objects", "g": "Advanced"}
+{"id": "JAH-PY-000028", "t": "Python Inheritance", "g": "Advanced"}
+{"id": "JAH-PY-000029", "t": "Python Dunder Methods", "g": "Advanced"}
+{"id": "JAH-PY-000030", "t": "Python Regular Expressions", "g": "Advanced"}
+{"id": "JAH-PY-000031", "t": "Python Standard Library Tour", "g": "Advanced"}
+{"id": "JAH-PY-000032", "t": "Python Testing with pytest", "g": "Advanced"}
+{"id": "JAH-PY-000033", "t": "Python Type Hints", "g": "Advanced"}
+{"id": "JAH-PY-000034", "t": "Python Asyncio Basics", "g": "Advanced"}

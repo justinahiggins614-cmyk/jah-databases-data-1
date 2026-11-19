@@ -1,0 +1,34 @@
+{"id": "JAH-SSCSS-000001", "t": "Software Supply-Chain Security Signature Database: SBOM Generation", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCSS-000002", "t": "Software Supply-Chain Security Signature Database: SBOM Consumption", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCSS-000003", "t": "Software Supply-Chain Security Signature Database: Build Provenance (SLSA)", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000004", "t": "Software Supply-Chain Security Signature Database: Artifact Signing", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000005", "t": "Software Supply-Chain Security Signature Database: Dependency Pinning", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000006", "t": "Software Supply-Chain Security Signature Database: Private Registry", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000007", "t": "Software Supply-Chain Security Signature Database: Reproducible Builds", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000008", "t": "Software Supply-Chain Security Signature Database: Hermetic Builds", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000009", "t": "Software Supply-Chain Security Signature Database: CI Secrets Hygiene", "c": 0, "g": "ci-security"}
+{"id": "JAH-SSCSS-000010", "t": "Software Supply-Chain Security Signature Database: Runner Isolation", "c": 0, "g": "ci-security"}
+{"id": "JAH-SSCSS-000011", "t": "Software Supply-Chain Security Signature Database: OIDC for CI", "c": 0, "g": "ci-security"}
+{"id": "JAH-SSCSS-000012", "t": "Software Supply-Chain Security Signature Database: Typosquat Defense", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000013", "t": "Software Supply-Chain Security Signature Database: Compromised Package Response", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000014", "t": "Software Supply-Chain Security Signature Database: Maintainer Risk", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000015", "t": "Software Supply-Chain Security Signature Database: VEX (Exploitability)", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCSS-000016", "t": "Software Supply-Chain Security Signature Database: Dependency Updates", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000017", "t": "Software Supply-Chain Security Signature Database: EOL Tracking", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000018", "t": "Software Supply-Chain Security Signature Database: Container Base Images", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000019", "t": "Software Supply-Chain Security Signature Database: Signed Commits", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000020", "t": "Software Supply-Chain Security Signature Database: Vendor Assessment", "c": 0, "g": "vendor"}
+{"id": "JAH-SSCSS-000021", "t": "Software Supply-Chain Security Signature Database: Contract Security Clauses", "c": 0, "g": "vendor"}
+{"id": "JAH-SSCSS-000022", "t": "Software Supply-Chain Security Signature Database: Update Verification", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000023", "t": "Software Supply-Chain Security Signature Database: Binary Transparency", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000024", "t": "Software Supply-Chain Security Signature Database: Air-Gapped Builds", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000025", "t": "Software Supply-Chain Security Signature Database: SBOM Sharing", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCSS-000026", "t": "Software Supply-Chain Security Signature Database: IaC Module Provenance", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000027", "t": "Software Supply-Chain Security Signature Database: Secrets in Artifacts", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000028", "t": "Software Supply-Chain Security Signature Database: License Provenance", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCSS-000029", "t": "Software Supply-Chain Security Signature Database: Incident Response (Supply Chain)", "c": 0, "g": "response"}
+{"id": "JAH-SSCSS-000030", "t": "Software Supply-Chain Security Signature Database: Build Attestation Verify", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000031", "t": "Software Supply-Chain Security Signature Database: Dependency Firewall", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCSS-000032", "t": "Software Supply-Chain Security Signature Database: SLSA Levels", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCSS-000033", "t": "Software Supply-Chain Security Signature Database: Open Source Policy", "c": 0, "g": "vendor"}
+{"id": "JAH-SSCSS-000034", "t": "Software Supply-Chain Security Signature Database: Capstone: Supply-Chain Program", "c": 0, "g": "integrity"}

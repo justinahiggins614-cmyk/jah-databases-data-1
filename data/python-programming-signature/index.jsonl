@@ -1,0 +1,34 @@
+{"id": "JAH-PYS-000001", "t": "Installing Python and Using the REPL — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000002", "t": "Python Variables and Assignment — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000003", "t": "Python Numbers and Arithmetic — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000004", "t": "Python Strings — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000005", "t": "Python Booleans and Comparisons — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000006", "t": "Python Lists — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000007", "t": "Python Tuples — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000008", "t": "Python Dictionaries — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000009", "t": "Python Sets — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000010", "t": "Python if elif else — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000011", "t": "Python while Loops — Signature Edition", "g": "Foundations"}
+{"id": "JAH-PYS-000012", "t": "Python for Loops and range — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000013", "t": "Python List Comprehensions — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000014", "t": "Python Functions and Arguments — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000015", "t": "Python args and kwargs — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000016", "t": "Python f-strings and Formatting — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000017", "t": "Python File Input and Output — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000018", "t": "Python Exception Handling — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000019", "t": "Python Modules and Imports — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000020", "t": "Python Virtual Environments and pip — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000021", "t": "Python Slicing — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000022", "t": "Python Dictionaries in Depth — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000023", "t": "Python Lambda Functions — Signature Edition", "g": "Compounded"}
+{"id": "JAH-PYS-000024", "t": "Python Decorators — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000025", "t": "Python Generators and yield — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000026", "t": "Python Context Managers — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000027", "t": "Python Classes and Objects — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000028", "t": "Python Inheritance — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000029", "t": "Python Dunder Methods — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000030", "t": "Python Regular Expressions — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000031", "t": "Python Standard Library Tour — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000032", "t": "Python Testing with pytest — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000033", "t": "Python Type Hints — Signature Edition", "g": "Advanced"}
+{"id": "JAH-PYS-000034", "t": "Python Asyncio Basics — Signature Edition", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-MAS-000001", "t": "What multi-agent is: many minds, one task (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000002", "t": "Why many agents: the case for teams (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000003", "t": "Agent roles: who does what (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000004", "t": "Task division: splitting the work (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000005", "t": "The coordinator: conducting the team (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000006", "t": "Communication basics: agents talking (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000007", "t": "Shared context: the team's common ground (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000008", "t": "Handoffs: passing the work (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000009", "t": "The first team: a complete example (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000010", "t": "Simple pipelines: the assembly line (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000011", "t": "When one agent suffices: the solo test (Signature Edition)", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MAS-000012", "t": "Communication protocols: the rules of talk (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000013", "t": "Task allocation: who gets what (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000014", "t": "Parallel agents: many hands (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000015", "t": "Sequential agents: the relay (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000016", "t": "Debate: arguing toward truth (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000017", "t": "Critique patterns: the loyal opposition (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000018", "t": "Consensus: agreeing together (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000019", "t": "Conflict resolution: when agents disagree (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000020", "t": "Result synthesis: many outputs, one answer (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000021", "t": "Error handling: when agents fail (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000022", "t": "Cost management: teams cost (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000023", "t": "Evaluation: measuring the team (Signature Edition)", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MAS-000024", "t": "Emergent coordination: order without orders (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000025", "t": "Swarm patterns: many simple agents (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000026", "t": "Mixture of experts: routing to specialists (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000027", "t": "Hierarchical teams: teams of teams (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000028", "t": "Adversarial teams: the red and the blue (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000029", "t": "Negotiation between agents: the deal (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000030", "t": "Multi-agent planning: planning together (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000031", "t": "Verification: checking the team (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000032", "t": "The agent organization: teams at scale (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000033", "t": "The concord of minds: the final standard (Signature Edition)", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MAS-000034", "t": "Agent societies: norms and institutions (Signature Edition)", "g": "multi-agent-advanced"}

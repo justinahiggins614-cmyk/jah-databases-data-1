@@ -1,0 +1,34 @@
+{"id": "JAH-GSC-000001", "t": "Geometry and Spatial Computation Database: Circle Area", "c": 0, "g": "circles"}
+{"id": "JAH-GSC-000002", "t": "Geometry and Spatial Computation Database: Circle Circumference", "c": 0, "g": "circles"}
+{"id": "JAH-GSC-000003", "t": "Geometry and Spatial Computation Database: Triangle Area", "c": 0, "g": "triangles"}
+{"id": "JAH-GSC-000004", "t": "Geometry and Spatial Computation Database: Heron Triangle Area", "c": 0, "g": "triangles"}
+{"id": "JAH-GSC-000005", "t": "Geometry and Spatial Computation Database: Pythagorean Theorem", "c": 0, "g": "triangles"}
+{"id": "JAH-GSC-000006", "t": "Geometry and Spatial Computation Database: Rectangle Area", "c": 0, "g": "quadrilaterals"}
+{"id": "JAH-GSC-000007", "t": "Geometry and Spatial Computation Database: Sphere Volume", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000008", "t": "Geometry and Spatial Computation Database: Sphere Surface Area", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000009", "t": "Geometry and Spatial Computation Database: Cylinder Volume", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000010", "t": "Geometry and Spatial Computation Database: Cone Volume", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000011", "t": "Geometry and Spatial Computation Database: Distance 2D", "c": 0, "g": "analytic"}
+{"id": "JAH-GSC-000012", "t": "Geometry and Spatial Computation Database: Midpoint X", "c": 0, "g": "analytic"}
+{"id": "JAH-GSC-000013", "t": "Geometry and Spatial Computation Database: Line Slope", "c": 0, "g": "analytic"}
+{"id": "JAH-GSC-000014", "t": "Geometry and Spatial Computation Database: Line Intercept", "c": 0, "g": "analytic"}
+{"id": "JAH-GSC-000015", "t": "Geometry and Spatial Computation Database: Shoelace Triangle Area", "c": 0, "g": "polygons"}
+{"id": "JAH-GSC-000016", "t": "Geometry and Spatial Computation Database: Regular Polygon Area", "c": 0, "g": "polygons"}
+{"id": "JAH-GSC-000017", "t": "Geometry and Spatial Computation Database: Arc Length", "c": 0, "g": "circles"}
+{"id": "JAH-GSC-000018", "t": "Geometry and Spatial Computation Database: Sector Area", "c": 0, "g": "circles"}
+{"id": "JAH-GSC-000019", "t": "Geometry and Spatial Computation Database: Ellipse Area", "c": 0, "g": "conics"}
+{"id": "JAH-GSC-000020", "t": "Geometry and Spatial Computation Database: Torus Volume", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000021", "t": "Geometry and Spatial Computation Database: Distance 3D", "c": 0, "g": "analytic"}
+{"id": "JAH-GSC-000022", "t": "Geometry and Spatial Computation Database: Angle Between Vectors", "c": 0, "g": "vectors"}
+{"id": "JAH-GSC-000023", "t": "Geometry and Spatial Computation Database: 2D Cross Product Magnitude", "c": 0, "g": "vectors"}
+{"id": "JAH-GSC-000024", "t": "Geometry and Spatial Computation Database: Dot Product", "c": 0, "g": "vectors"}
+{"id": "JAH-GSC-000025", "t": "Geometry and Spatial Computation Database: Unit Vector X", "c": 0, "g": "vectors"}
+{"id": "JAH-GSC-000026", "t": "Geometry and Spatial Computation Database: Law of Cosines", "c": 0, "g": "triangles"}
+{"id": "JAH-GSC-000027", "t": "Geometry and Spatial Computation Database: Law of Sines Ratio", "c": 0, "g": "triangles"}
+{"id": "JAH-GSC-000028", "t": "Geometry and Spatial Computation Database: Trapezoid Area", "c": 0, "g": "quadrilaterals"}
+{"id": "JAH-GSC-000029", "t": "Geometry and Spatial Computation Database: Parallelogram Area", "c": 0, "g": "quadrilaterals"}
+{"id": "JAH-GSC-000030", "t": "Geometry and Spatial Computation Database: Rhombus Area", "c": 0, "g": "quadrilaterals"}
+{"id": "JAH-GSC-000031", "t": "Geometry and Spatial Computation Database: Cube Volume", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000032", "t": "Geometry and Spatial Computation Database: Cube Surface Area", "c": 0, "g": "solids"}
+{"id": "JAH-GSC-000033", "t": "Geometry and Spatial Computation Database: Rectangle Diagonal", "c": 0, "g": "quadrilaterals"}
+{"id": "JAH-GSC-000034", "t": "Geometry and Spatial Computation Database: Haversine Distance Capstone", "c": 0, "g": "analytic"}

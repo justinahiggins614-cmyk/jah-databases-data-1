@@ -1,0 +1,34 @@
+{"id": "JAH-IAC-000001", "t": "Identity and Access Control Architecture Database: MFA Enrollment", "c": 0, "g": "authentication"}
+{"id": "JAH-IAC-000002", "t": "Identity and Access Control Architecture Database: RBAC Design", "c": 0, "g": "authorization"}
+{"id": "JAH-IAC-000003", "t": "Identity and Access Control Architecture Database: Least-Privilege Review", "c": 0, "g": "authorization"}
+{"id": "JAH-IAC-000004", "t": "Identity and Access Control Architecture Database: Access Certification", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000005", "t": "Identity and Access Control Architecture Database: Joiner-Mover-Leaver", "c": 0, "g": "lifecycle"}
+{"id": "JAH-IAC-000006", "t": "Identity and Access Control Architecture Database: Privileged Access (PAM)", "c": 0, "g": "privileged"}
+{"id": "JAH-IAC-000007", "t": "Identity and Access Control Architecture Database: Just-in-Time Admin", "c": 0, "g": "privileged"}
+{"id": "JAH-IAC-000008", "t": "Identity and Access Control Architecture Database: Service Accounts", "c": 0, "g": "non-human"}
+{"id": "JAH-IAC-000009", "t": "Identity and Access Control Architecture Database: API Key Lifecycle", "c": 0, "g": "non-human"}
+{"id": "JAH-IAC-000010", "t": "Identity and Access Control Architecture Database: Token Lifetimes", "c": 0, "g": "tokens"}
+{"id": "JAH-IAC-000011", "t": "Identity and Access Control Architecture Database: Session Management", "c": 0, "g": "tokens"}
+{"id": "JAH-IAC-000012", "t": "Identity and Access Control Architecture Database: SSO Deployment", "c": 0, "g": "federation"}
+{"id": "JAH-IAC-000013", "t": "Identity and Access Control Architecture Database: OAuth2 Flows", "c": 0, "g": "federation"}
+{"id": "JAH-IAC-000014", "t": "Identity and Access Control Architecture Database: Deprovisioning", "c": 0, "g": "lifecycle"}
+{"id": "JAH-IAC-000015", "t": "Identity and Access Control Architecture Database: Emergency Access", "c": 0, "g": "privileged"}
+{"id": "JAH-IAC-000016", "t": "Identity and Access Control Architecture Database: Separation of Duties", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000017", "t": "Identity and Access Control Architecture Database: Access Request Workflow", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000018", "t": "Identity and Access Control Architecture Database: Directory Sync", "c": 0, "g": "federation"}
+{"id": "JAH-IAC-000019", "t": "Identity and Access Control Architecture Database: Workload Identity", "c": 0, "g": "non-human"}
+{"id": "JAH-IAC-000020", "t": "Identity and Access Control Architecture Database: mTLS", "c": 0, "g": "non-human"}
+{"id": "JAH-IAC-000021", "t": "Identity and Access Control Architecture Database: Password Policy", "c": 0, "g": "authentication"}
+{"id": "JAH-IAC-000022", "t": "Identity and Access Control Architecture Database: Account Lockout Policy", "c": 0, "g": "authentication"}
+{"id": "JAH-IAC-000023", "t": "Identity and Access Control Architecture Database: Role Mining", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000024", "t": "Identity and Access Control Architecture Database: Entitlement Review", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000025", "t": "Identity and Access Control Architecture Database: Zero Standing Privilege", "c": 0, "g": "privileged"}
+{"id": "JAH-IAC-000026", "t": "Identity and Access Control Architecture Database: Identity Governance", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000027", "t": "Identity and Access Control Architecture Database: Federation Trust", "c": 0, "g": "federation"}
+{"id": "JAH-IAC-000028", "t": "Identity and Access Control Architecture Database: Biometric Factors", "c": 0, "g": "authentication"}
+{"id": "JAH-IAC-000029", "t": "Identity and Access Control Architecture Database: CI/CD Identity", "c": 0, "g": "non-human"}
+{"id": "JAH-IAC-000030", "t": "Identity and Access Control Architecture Database: Access Logging", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000031", "t": "Identity and Access Control Architecture Database: Guest Access", "c": 0, "g": "lifecycle"}
+{"id": "JAH-IAC-000032", "t": "Identity and Access Control Architecture Database: API Scopes", "c": 0, "g": "authorization"}
+{"id": "JAH-IAC-000033", "t": "Identity and Access Control Architecture Database: Data Access Approval", "c": 0, "g": "governance"}
+{"id": "JAH-IAC-000034", "t": "Identity and Access Control Architecture Database: Capstone: IAM Program", "c": 0, "g": "governance"}

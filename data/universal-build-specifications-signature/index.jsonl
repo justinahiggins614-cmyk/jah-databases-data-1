@@ -1,0 +1,34 @@
+{"id": "JAH-UBSS-000001", "t": "What Is a Build Specification (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000002", "t": "The Request-to-Specification Pipeline (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000003", "t": "Anatomy of a Complete Build Specification (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000004", "t": "Writing Objectives That Mean Something (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000005", "t": "Deliverables: Defining What Done Looks Like (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000006", "t": "Functional Requirements: What the System Must Do (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000007", "t": "Non-Functional Requirements: How Well It Must Do It (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000008", "t": "Constraints: Budget, Time, Physics, and Law (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000009", "t": "Assumptions, Dependencies, and External Interfaces (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000010", "t": "Acceptance Criteria: The Rules of Sign-Off (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000011", "t": "Verification Plans: Proving the Build (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-UBSS-000012", "t": "Stakeholder Mapping and Requirements Elicitation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000013", "t": "Scope Control: Change Requests and Creep (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000014", "t": "Requirements Traceability Matrices (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000015", "t": "Risk Registers Inside the Specification (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000016", "t": "Interface Specifications and Control Documents (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000017", "t": "Software Build Specifications (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000018", "t": "Hardware Build Specifications (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000019", "t": "Device and Embedded Build Specifications (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000020", "t": "Systems Integration Specifications (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000021", "t": "Safety and Regulatory Compliance in Specifications (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000022", "t": "Specification Versioning and Baselines (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000023", "t": "Cost Estimation and Resource Planning (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000024", "t": "Prototypes, MVPs, and Phase Gates (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-UBSS-000025", "t": "Model-Based Systems Engineering Specifications (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000026", "t": "Specification Standards: IEEE 29148 and Friends (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000027", "t": "AI-Assisted Specification Generation and Review (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000028", "t": "Specifying Machine Learning Systems (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000029", "t": "Specifying Cyber-Physical Systems (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000030", "t": "Contracts and Statements of Work (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000031", "t": "Executable Specifications and Digital Twins (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000032", "t": "Failure Analysis in Specifications: FMEA and FTA (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000033", "t": "Formal Specification Reviews and Inspections (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-UBSS-000034", "t": "From Specification to Manufacture: The Build Handoff (Signature Edition)", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-TMCI-000001", "t": "AI CI CD Pipelines Signature Database: Your First CI Pipeline", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000002", "t": "AI CI CD Pipelines Signature Database: Matrix Builds Across Versions", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000003", "t": "AI CI CD Pipelines Signature Database: Caching for Fast Pipelines", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000004", "t": "AI CI CD Pipelines Signature Database: Monorepo Pipeline Orchestration", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000005", "t": "AI CI CD Pipelines Signature Database: Docker Build Pipelines", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000006", "t": "AI CI CD Pipelines Signature Database: Lint Gates", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000007", "t": "AI CI CD Pipelines Signature Database: Test Gates and Coverage Floors", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000008", "t": "AI CI CD Pipelines Signature Database: Security Gates: SAST and Dependencies", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000009", "t": "AI CI CD Pipelines Signature Database: E2E Gates on Preview", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000010", "t": "AI CI CD Pipelines Signature Database: Manual Approval Gates", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000011", "t": "AI CI CD Pipelines Signature Database: Deploy Pipeline: Staging to Prod", "c": 0, "g": "deploy-pipelines"}
+{"id": "JAH-TMCI-000012", "t": "AI CI CD Pipelines Signature Database: Smoke Tests After Deploy", "c": 0, "g": "deploy-pipelines"}
+{"id": "JAH-TMCI-000013", "t": "AI CI CD Pipelines Signature Database: Environment Promotion", "c": 0, "g": "deploy-pipelines"}
+{"id": "JAH-TMCI-000014", "t": "AI CI CD Pipelines Signature Database: Secrets in CI/CD", "c": 0, "g": "pipeline-security"}
+{"id": "JAH-TMCI-000015", "t": "AI CI CD Pipelines Signature Database: Supply Chain Security (SLSA)", "c": 0, "g": "pipeline-security"}
+{"id": "JAH-TMCI-000016", "t": "AI CI CD Pipelines Signature Database: Least-Privilege Pipeline Permissions", "c": 0, "g": "pipeline-security"}
+{"id": "JAH-TMCI-000017", "t": "AI CI CD Pipelines Signature Database: Audit Trails for Pipelines", "c": 0, "g": "pipeline-security"}
+{"id": "JAH-TMCI-000018", "t": "AI CI CD Pipelines Signature Database: Semantic Release Automation", "c": 0, "g": "release-automation"}
+{"id": "JAH-TMCI-000019", "t": "AI CI CD Pipelines Signature Database: Changelog Discipline", "c": 0, "g": "release-automation"}
+{"id": "JAH-TMCI-000020", "t": "AI CI CD Pipelines Signature Database: Release Branches and Hotfixes", "c": 0, "g": "release-automation"}
+{"id": "JAH-TMCI-000021", "t": "AI CI CD Pipelines Signature Database: Your First CI Pipeline (variant 1)", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000022", "t": "AI CI CD Pipelines Signature Database: Matrix Builds Across Versions (variant 1)", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000023", "t": "AI CI CD Pipelines Signature Database: Caching for Fast Pipelines (variant 1)", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000024", "t": "AI CI CD Pipelines Signature Database: Monorepo Pipeline Orchestration (variant 1)", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000025", "t": "AI CI CD Pipelines Signature Database: Docker Build Pipelines (variant 1)", "c": 0, "g": "build-pipelines"}
+{"id": "JAH-TMCI-000026", "t": "AI CI CD Pipelines Signature Database: Lint Gates (variant 1)", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000027", "t": "AI CI CD Pipelines Signature Database: Test Gates and Coverage Floors (variant 1)", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000028", "t": "AI CI CD Pipelines Signature Database: Security Gates: SAST and Dependencies (variant 1)", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000029", "t": "AI CI CD Pipelines Signature Database: E2E Gates on Preview (variant 1)", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000030", "t": "AI CI CD Pipelines Signature Database: Manual Approval Gates (variant 1)", "c": 0, "g": "test-gates"}
+{"id": "JAH-TMCI-000031", "t": "AI CI CD Pipelines Signature Database: Deploy Pipeline: Staging to Prod (variant 1)", "c": 0, "g": "deploy-pipelines"}
+{"id": "JAH-TMCI-000032", "t": "AI CI CD Pipelines Signature Database: Smoke Tests After Deploy (variant 1)", "c": 0, "g": "deploy-pipelines"}
+{"id": "JAH-TMCI-000033", "t": "AI CI CD Pipelines Signature Database: Environment Promotion (variant 1)", "c": 0, "g": "deploy-pipelines"}
+{"id": "JAH-TMCI-000034", "t": "AI CI CD Pipelines Signature Database: Secrets in CI/CD (variant 1)", "c": 0, "g": "pipeline-security"}

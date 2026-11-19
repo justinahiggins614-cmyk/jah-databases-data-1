@@ -1,0 +1,34 @@
+{"id": "JAH-IMUS-000001", "t": "What Upscaling and Super-Resolution Are", "g": "Foundations"}
+{"id": "JAH-IMUS-000002", "t": "Real-ESRGAN: The Workhorse", "g": "Foundations"}
+{"id": "JAH-IMUS-000003", "t": "Specialized Upscalers: Anime, Faces", "g": "Foundations"}
+{"id": "JAH-IMUS-000004", "t": "Diffusion Upscalers", "g": "Foundations"}
+{"id": "JAH-IMUS-000005", "t": "Tiling Large Images", "g": "Foundations"}
+{"id": "JAH-IMUS-000006", "t": "Upscaling for Print", "g": "Foundations"}
+{"id": "JAH-IMUS-000007", "t": "Video Upscaling", "g": "Foundations"}
+{"id": "JAH-IMUS-000008", "t": "Restoration Upscaling for Archives", "g": "Foundations"}
+{"id": "JAH-IMUS-000009", "t": "When Upscaling Fails", "g": "Foundations"}
+{"id": "JAH-IMUS-000010", "t": "Upscaling Ethics and Disclosure", "g": "Foundations"}
+{"id": "JAH-IMUS-000011", "t": "Batch Upscaling Pipelines", "g": "Foundations"}
+{"id": "JAH-IMUS-000012", "t": "The Future: Generative Zoom", "g": "Compounded"}
+{"id": "JAH-IMUS-000013", "t": "JPEG Artifact Removal Before Upscaling", "g": "Compounded"}
+{"id": "JAH-IMUS-000014", "t": "Denoise-First Pipelines", "g": "Compounded"}
+{"id": "JAH-IMUS-000015", "t": "Face Detection Chaining", "g": "Compounded"}
+{"id": "JAH-IMUS-000016", "t": "Text Preservation Techniques", "g": "Compounded"}
+{"id": "JAH-IMUS-000017", "t": "Anime Line Art Special Handling", "g": "Compounded"}
+{"id": "JAH-IMUS-000018", "t": "Old Film Scan Enhancement", "g": "Compounded"}
+{"id": "JAH-IMUS-000019", "t": "Smartphone Photo Enhancement", "g": "Compounded"}
+{"id": "JAH-IMUS-000020", "t": "Social Media Image Rescue", "g": "Compounded"}
+{"id": "JAH-IMUS-000021", "t": "Comparing Upscaler Models Systematically", "g": "Compounded"}
+{"id": "JAH-IMUS-000022", "t": "VRAM Management Strategies", "g": "Compounded"}
+{"id": "JAH-IMUS-000023", "t": "CPU vs GPU Trade-offs", "g": "Compounded"}
+{"id": "JAH-IMUS-000024", "t": "Forensic Image Enhancement Limits", "g": "Advanced"}
+{"id": "JAH-IMUS-000025", "t": "Medical Imaging Upscaling Standards", "g": "Advanced"}
+{"id": "JAH-IMUS-000026", "t": "Satellite Imagery Enhancement", "g": "Advanced"}
+{"id": "JAH-IMUS-000027", "t": "Film Restoration Pipelines", "g": "Advanced"}
+{"id": "JAH-IMUS-000028", "t": "The Upscaling Service Business", "g": "Advanced"}
+{"id": "JAH-IMUS-000029", "t": "API Design for Upscaling Services", "g": "Advanced"}
+{"id": "JAH-IMUS-000030", "t": "Quality Metrics: PSNR, SSIM, LPIPS", "g": "Advanced"}
+{"id": "JAH-IMUS-000031", "t": "Blind Image Quality Assessment", "g": "Advanced"}
+{"id": "JAH-IMUS-000032", "t": "Teaching Enhancement Ethics", "g": "Advanced"}
+{"id": "JAH-IMUS-000033", "t": "Research Frontiers in Super-Resolution", "g": "Advanced"}
+{"id": "JAH-IMUS-000034", "t": "Building Production Upscaling Infrastructure", "g": "Advanced"}

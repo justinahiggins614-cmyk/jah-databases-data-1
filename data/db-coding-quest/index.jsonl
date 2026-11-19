@@ -1,0 +1,34 @@
+{"id": "JAH-CQ-000001", "t": "Quest 1: Hello, World", "g": "First Programs"}
+{"id": "JAH-CQ-000002", "t": "Variables: Named Boxes", "g": "First Programs"}
+{"id": "JAH-CQ-000003", "t": "Numbers and Math", "g": "First Programs"}
+{"id": "JAH-CQ-000004", "t": "Strings: Text Tools", "g": "First Programs"}
+{"id": "JAH-CQ-000005", "t": "Input: Talking to Users", "g": "First Programs"}
+{"id": "JAH-CQ-000006", "t": "If Statements: Decisions", "g": "First Programs"}
+{"id": "JAH-CQ-000007", "t": "While Loops: Repeat Until", "g": "First Programs"}
+{"id": "JAH-CQ-000008", "t": "For Loops: Repeat For Each", "g": "First Programs"}
+{"id": "JAH-CQ-000009", "t": "Debugging: Reading Errors", "g": "First Programs"}
+{"id": "JAH-CQ-000010", "t": "Comments: Notes to Humans", "g": "First Programs"}
+{"id": "JAH-CQ-000011", "t": "Lists: Ordered Collections", "g": "First Programs"}
+{"id": "JAH-CQ-000012", "t": "Dictionaries: Labeled Lookup", "g": "First Programs"}
+{"id": "JAH-CQ-000013", "t": "Functions: Named Recipes", "g": "Logic & Data"}
+{"id": "JAH-CQ-000014", "t": "Scope: Where Variables Live", "g": "Logic & Data"}
+{"id": "JAH-CQ-000015", "t": "Booleans and Logic", "g": "Logic & Data"}
+{"id": "JAH-CQ-000016", "t": "String Methods Toolbox", "g": "Logic & Data"}
+{"id": "JAH-CQ-000017", "t": "List Comprehensions", "g": "Logic & Data"}
+{"id": "JAH-CQ-000018", "t": "File I/O: Reading and Writing", "g": "Logic & Data"}
+{"id": "JAH-CQ-000019", "t": "Errors and Exceptions", "g": "Logic & Data"}
+{"id": "JAH-CQ-000020", "t": "Modules and Imports", "g": "Logic & Data"}
+{"id": "JAH-CQ-000021", "t": "Recursion: Functions Calling Themselves", "g": "Logic & Data"}
+{"id": "JAH-CQ-000022", "t": "Sorting and Searching", "g": "Logic & Data"}
+{"id": "JAH-CQ-000023", "t": "Big-O: How Code Scales", "g": "Logic & Data"}
+{"id": "JAH-CQ-000024", "t": "Sets: Unique Collections", "g": "Logic & Data"}
+{"id": "JAH-CQ-000025", "t": "Project: Number Guessing Game", "g": "Projects"}
+{"id": "JAH-CQ-000026", "t": "Project: To-Do List App", "g": "Projects"}
+{"id": "JAH-CQ-000027", "t": "Project: Password Generator", "g": "Projects"}
+{"id": "JAH-CQ-000028", "t": "Project: Quiz Game", "g": "Projects"}
+{"id": "JAH-CQ-000029", "t": "Project: File Organizer", "g": "Projects"}
+{"id": "JAH-CQ-000030", "t": "Project: Web Scraper Basics", "g": "Projects"}
+{"id": "JAH-CQ-000031", "t": "Project: Simple API", "g": "Projects"}
+{"id": "JAH-CQ-000032", "t": "Project: Data Dashboard", "g": "Projects"}
+{"id": "JAH-CQ-000033", "t": "Project: Chatbot (Rule-Based)", "g": "Projects"}
+{"id": "JAH-CQ-000034", "t": "Capstone: Ship Your First Project", "g": "Projects"}

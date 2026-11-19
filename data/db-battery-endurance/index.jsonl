@@ -1,0 +1,34 @@
+{"id": "JAH-BE-000001", "t": "Phone A vs Phone B: Flagship Battery", "g": "Device Endurance"}
+{"id": "JAH-BE-000002", "t": "Laptop: Ultrabook vs Workstation", "g": "Device Endurance"}
+{"id": "JAH-BE-000003", "t": "Earbuds vs Headphones: Audio Battery", "g": "Device Endurance"}
+{"id": "JAH-BE-000004", "t": "Tablet vs Laptop: Screen Time", "g": "Device Endurance"}
+{"id": "JAH-BE-000005", "t": "Smartwatch vs Fitness Band: Wrist", "g": "Device Endurance"}
+{"id": "JAH-BE-000006", "t": "E-Reader vs Tablet: Battery Endurance", "g": "Device Endurance"}
+{"id": "JAH-BE-000007", "t": "Camera: Mirrorless vs DSLR", "g": "Device Endurance"}
+{"id": "JAH-BE-000008", "t": "Drone: Consumer vs Pro", "g": "Device Endurance"}
+{"id": "JAH-BE-000009", "t": "Handheld Console vs Phone: Gaming", "g": "Device Endurance"}
+{"id": "JAH-BE-000010", "t": "Flashlight: LED vs Old Bulb", "g": "Device Endurance"}
+{"id": "JAH-BE-000011", "t": "Power Bank: Big vs Small", "g": "Device Endurance"}
+{"id": "JAH-BE-000012", "t": "EV: Long Range vs Standard", "g": "EV & Transport"}
+{"id": "JAH-BE-000013", "t": "E-Bike vs E-Scooter: Range", "g": "EV & Transport"}
+{"id": "JAH-BE-000014", "t": "Electric Mower vs Gas: Yard", "g": "EV & Transport"}
+{"id": "JAH-BE-000015", "t": "EV vs Hybrid: Road Trip", "g": "EV & Transport"}
+{"id": "JAH-BE-000016", "t": "Electric Boat vs Diesel: Water", "g": "EV & Transport"}
+{"id": "JAH-BE-000017", "t": "E-Skateboard vs E-Bike: Fun Range", "g": "EV & Transport"}
+{"id": "JAH-BE-000018", "t": "Golf Cart vs UTV: Work Play", "g": "EV & Transport"}
+{"id": "JAH-BE-000019", "t": "Drill: 12V vs 18V", "g": "Power & Tools"}
+{"id": "JAH-BE-000020", "t": "Chainsaw: Battery vs Gas", "g": "Power & Tools"}
+{"id": "JAH-BE-000021", "t": "Leaf Blower: Battery vs Gas", "g": "Power & Tools"}
+{"id": "JAH-BE-000022", "t": "Mower: Robot vs Push Battery", "g": "Power & Tools"}
+{"id": "JAH-BE-000023", "t": "Impact Wrench: Compact vs High-Torque", "g": "Power & Tools"}
+{"id": "JAH-BE-000024", "t": "Grinder: 4.5in Battery vs Corded", "g": "Power & Tools"}
+{"id": "JAH-BE-000025", "t": "Nailer: Battery vs Pneumatic", "g": "Power & Tools"}
+{"id": "JAH-BE-000026", "t": "Saw: Track vs Circular Battery", "g": "Power & Tools"}
+{"id": "JAH-BE-000027", "t": "Multitool: Oscillating Battery vs Corded", "g": "Power & Tools"}
+{"id": "JAH-BE-000028", "t": "Inflator: Battery vs 12V Plug", "g": "Power & Tools"}
+{"id": "JAH-BE-000029", "t": "Work Light: Battery vs Corded", "g": "Power & Tools"}
+{"id": "JAH-BE-000030", "t": "Hedge Trimmer: Battery vs Gas", "g": "Power & Tools"}
+{"id": "JAH-BE-000031", "t": "Pressure Washer: Battery vs Electric", "g": "Power & Tools"}
+{"id": "JAH-BE-000032", "t": "Soldering: Battery vs Corded Iron", "g": "Power & Tools"}
+{"id": "JAH-BE-000033", "t": "Fan: Battery vs Mains", "g": "Power & Tools"}
+{"id": "JAH-BE-000034", "t": "Jump Starter: Lithium vs Lead", "g": "Power & Tools"}

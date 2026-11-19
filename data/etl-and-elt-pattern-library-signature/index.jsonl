@@ -1,0 +1,34 @@
+{"id": "JAH-EEL-000001", "t": "Signature ETL vs ELT (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000002", "t": "Signature Batch Patterns (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000003", "t": "Signature Streaming Patterns (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000004", "t": "Signature Micro-batch (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000005", "t": "Signature Change Data Capture (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000006", "t": "Signature API Extraction (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000007", "t": "Signature File Ingestion (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000008", "t": "Signature Web Scraping Pipelines (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000009", "t": "Signature Incremental Loads (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000010", "t": "Signature Full Reloads (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000011", "t": "Signature Slowly Changing Dims (ETL) (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000012", "t": "Signature Deduplication in Pipelines (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000013", "t": "Signature Data Vault Modeling (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000014", "t": "Signature Medallion Architecture (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000015", "t": "Signature dbt Patterns (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000016", "t": "Signature Airflow Patterns (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000017", "t": "Signature Idempotency (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000018", "t": "Signature Schema Evolution (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000019", "t": "Signature Error Handling (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000020", "t": "Signature Backfills (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000021", "t": "Signature Pipeline Testing (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000022", "t": "Signature Observability (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000023", "t": "Signature Cost Optimization (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000024", "t": "Signature The Pattern Library Index (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000025", "t": "Signature Lambda Architecture (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000026", "t": "Signature Kappa Architecture (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000027", "t": "Signature Event Sourcing (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000028", "t": "Signature CQRS (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000029", "t": "Signature Fan-Out/Fan-In (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000030", "t": "Signature Watermarking (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000031", "t": "Signature Exactly-Once Semantics (Signature Edition)", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000032", "t": "Signature Schema Registry Pattern (Signature Edition)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000033", "t": "Signature Data Mesh Pipelines (Signature Edition)", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000034", "t": "Signature Reverse ETL (Signature Edition)", "g": "extraction-patterns"}

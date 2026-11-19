@@ -1,0 +1,34 @@
+{"id": "JAH-SNKE-000001", "t": "King Cobra (Ophiophagus hannah)", "g": "Foundations"}
+{"id": "JAH-SNKE-000002", "t": "Indian Cobra (Naja naja)", "g": "Foundations"}
+{"id": "JAH-SNKE-000003", "t": "Black Mamba (Dendroaspis polylepis)", "g": "Foundations"}
+{"id": "JAH-SNKE-000004", "t": "Green Mamba (Dendroaspis angusticeps)", "g": "Foundations"}
+{"id": "JAH-SNKE-000005", "t": "Inland Taipan (Oxyuranus microlepidotus)", "g": "Foundations"}
+{"id": "JAH-SNKE-000006", "t": "Eastern Brown Snake (Pseudonaja textilis)", "g": "Foundations"}
+{"id": "JAH-SNKE-000007", "t": "Tiger Snake (Notechis scutatus)", "g": "Foundations"}
+{"id": "JAH-SNKE-000008", "t": "Death Adder (Acanthophis antarcticus)", "g": "Foundations"}
+{"id": "JAH-SNKE-000009", "t": "Gaboon Viper (Bitis gabonica)", "g": "Foundations"}
+{"id": "JAH-SNKE-000010", "t": "Puff Adder (Bitis arietans)", "g": "Foundations"}
+{"id": "JAH-SNKE-000011", "t": "Rhinoceros Viper (Bitis nasicornis)", "g": "Foundations"}
+{"id": "JAH-SNKE-000012", "t": "Russell's Viper (Daboia russelii)", "g": "Compounded"}
+{"id": "JAH-SNKE-000013", "t": "Saw-scaled Viper (Echis carinatus)", "g": "Compounded"}
+{"id": "JAH-SNKE-000014", "t": "Fer-de-lance (Bothrops asper)", "g": "Compounded"}
+{"id": "JAH-SNKE-000015", "t": "Bushmaster (Lachesis muta)", "g": "Compounded"}
+{"id": "JAH-SNKE-000016", "t": "Eastern Diamondback Rattlesnake (Crotalus adamanteus)", "g": "Compounded"}
+{"id": "JAH-SNKE-000017", "t": "Western Diamondback Rattlesnake (Crotalus atrox)", "g": "Compounded"}
+{"id": "JAH-SNKE-000018", "t": "Timber Rattlesnake (Crotalus horridus)", "g": "Compounded"}
+{"id": "JAH-SNKE-000019", "t": "Copperhead (Agkistrodon contortrix)", "g": "Compounded"}
+{"id": "JAH-SNKE-000020", "t": "Cottonmouth (Agkistrodon piscivorus)", "g": "Compounded"}
+{"id": "JAH-SNKE-000021", "t": "Eyelash Viper (Bothriechis schlegelii)", "g": "Compounded"}
+{"id": "JAH-SNKE-000022", "t": "Green Tree Python (Morelia viridis)", "g": "Compounded"}
+{"id": "JAH-SNKE-000023", "t": "Ball Python (Python regius)", "g": "Compounded"}
+{"id": "JAH-SNKE-000024", "t": "Burmese Python (Python bivittatus)", "g": "Advanced"}
+{"id": "JAH-SNKE-000025", "t": "Reticulated Python (Malayopython reticulatus)", "g": "Advanced"}
+{"id": "JAH-SNKE-000026", "t": "African Rock Python (Python sebae)", "g": "Advanced"}
+{"id": "JAH-SNKE-000027", "t": "Boa Constrictor (Boa constrictor)", "g": "Advanced"}
+{"id": "JAH-SNKE-000028", "t": "Emerald Tree Boa (Corallus caninus)", "g": "Advanced"}
+{"id": "JAH-SNKE-000029", "t": "Green Anaconda (Eunectes murinus)", "g": "Advanced"}
+{"id": "JAH-SNKE-000030", "t": "Corn Snake (Pantherophis guttatus)", "g": "Advanced"}
+{"id": "JAH-SNKE-000031", "t": "Eastern Kingsnake (Lampropeltis getula)", "g": "Advanced"}
+{"id": "JAH-SNKE-000032", "t": "Common Garter Snake (Thamnophis sirtalis)", "g": "Advanced"}
+{"id": "JAH-SNKE-000033", "t": "Black Rat Snake (Pantherophis obsoletus)", "g": "Advanced"}
+{"id": "JAH-SNKE-000034", "t": "Western Hognose Snake (Heterodon nasicus)", "g": "Advanced"}

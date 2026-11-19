@@ -1,0 +1,34 @@
+{"id": "JAH-FMRR-000001", "t": "Documenting a Field Modification", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000002", "t": "Guard Addition to Exposed Belt Drive", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000003", "t": "Emergency Stop Addition", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000004", "t": "Lighting Upgrade in a Work Area", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000005", "t": "Labeling and Placard Retrofit", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000006", "t": "Vibration Isolation Pad Retrofit", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000007", "t": "Drip Tray Addition Under Hydraulics", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000008", "t": "Cord and Plug Strain Relief", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000009", "t": "Setpoint Limit Adjustment", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000010", "t": "Alarm Addition to Existing Panel", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000011", "t": "Variable Speed Drive Retrofit", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000012", "t": "Pneumatic to Electric Actuator Swap", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000013", "t": "Bearing Upgrade to Sealed Type", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000014", "t": "PLC I/O Expansion in the Field", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000015", "t": "HMI Replacement Retrofit", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000016", "t": "Motor Efficiency Upgrade", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000017", "t": "Dust Collection Retrofit", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000018", "t": "Noise Reduction Enclosure Retrofit", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000019", "t": "Safety Relay Retrofit", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000020", "t": "Lockout/Tagout Station Addition", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000021", "t": "Firmware Update in the Field", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000022", "t": "Sensor Upgrade Retrofit", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000023", "t": "Structural Reinforcement for Added Load", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000024", "t": "Hazardous-Area Reclassification Retrofit", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000025", "t": "Functional Safety Upgrade to PLd", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000026", "t": "Legacy Control System Migration", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000027", "t": "Pressure Vessel Alteration Record", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000028", "t": "Electrical Service Capacity Increase", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000029", "t": "Seismic Restraint Retrofit", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRR-000030", "t": "Fire Suppression System Retrofit", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000031", "t": "Energy Metering Retrofit", "g": "Electrical Modifications"}
+{"id": "JAH-FMRR-000032", "t": "Cybersecurity Hardening Retrofit", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRR-000033", "t": "Modification Reversal Procedure", "g": "Safety & Compliance"}
+{"id": "JAH-FMRR-000034", "t": "Fleet-Wide Modification Rollout", "g": "Safety & Compliance"}

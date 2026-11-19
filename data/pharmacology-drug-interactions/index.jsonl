@@ -1,0 +1,34 @@
+{"id": "JAH-PDI-000001", "t": "Pharmacology and Drug Interaction Evidence Database: Weight-Based Dosing", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000002", "t": "Pharmacology and Drug Interaction Evidence Database: IV Drip Rate", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000003", "t": "Pharmacology and Drug Interaction Evidence Database: Unit Conversion (mg/mcg)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000004", "t": "Pharmacology and Drug Interaction Evidence Database: Infusion Time", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000005", "t": "Pharmacology and Drug Interaction Evidence Database: BSA Dosing (Mosteller)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000006", "t": "Pharmacology and Drug Interaction Evidence Database: Half-Life", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000007", "t": "Pharmacology and Drug Interaction Evidence Database: Loading Dose", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000008", "t": "Pharmacology and Drug Interaction Evidence Database: Five Rights", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000009", "t": "Pharmacology and Drug Interaction Evidence Database: High-Alert Medications", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000010", "t": "Pharmacology and Drug Interaction Evidence Database: Renal Dose Adjustment", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000011", "t": "Pharmacology and Drug Interaction Evidence Database: Pediatric Dosing (Clark)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000012", "t": "Pharmacology and Drug Interaction Evidence Database: Opioid MME Conversion", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000013", "t": "Pharmacology and Drug Interaction Evidence Database: Heparin Weight-Based Protocol", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000014", "t": "Pharmacology and Drug Interaction Evidence Database: Warfarin INR Monitoring", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000015", "t": "Pharmacology and Drug Interaction Evidence Database: Insulin Basal-Bolus", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000016", "t": "Pharmacology and Drug Interaction Evidence Database: Drug Interaction Check", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000017", "t": "Pharmacology and Drug Interaction Evidence Database: Look-Alike Sound-Alike", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000018", "t": "Pharmacology and Drug Interaction Evidence Database: Antibiotic Stewardship", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000019", "t": "Pharmacology and Drug Interaction Evidence Database: Adverse Reaction Reporting", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000020", "t": "Pharmacology and Drug Interaction Evidence Database: Medication Error Prevention", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000021", "t": "Pharmacology and Drug Interaction Evidence Database: Dilution Calculations", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000022", "t": "Pharmacology and Drug Interaction Evidence Database: Geriatric Dosing", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000023", "t": "Pharmacology and Drug Interaction Evidence Database: Therapeutic Drug Monitoring", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000024", "t": "Pharmacology and Drug Interaction Evidence Database: Allergy Cross-Reactivity", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000025", "t": "Pharmacology and Drug Interaction Evidence Database: Hepatic Dose Adjustment", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000026", "t": "Pharmacology and Drug Interaction Evidence Database: Vaccine Scheduling", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000027", "t": "Pharmacology and Drug Interaction Evidence Database: Capstone: Order Verification", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000028", "t": "Pharmacology and Drug Interaction Evidence Database: Creatinine Clearance", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000029", "t": "Pharmacology and Drug Interaction Evidence Database: Weight Conversion (lb to kg)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000030", "t": "Pharmacology and Drug Interaction Evidence Database: Percentage Strength", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000031", "t": "Pharmacology and Drug Interaction Evidence Database: Milliequivalents", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000032", "t": "Pharmacology and Drug Interaction Evidence Database: Vancomycin Trough Timing", "c": 0, "g": "calculations"}
+{"id": "JAH-PDI-000033", "t": "Pharmacology and Drug Interaction Evidence Database: Chemotherapy Double Check", "c": 0, "g": "safety"}
+{"id": "JAH-PDI-000034", "t": "Pharmacology and Drug Interaction Evidence Database: Medication Timing (Q6H)", "c": 0, "g": "calculations"}

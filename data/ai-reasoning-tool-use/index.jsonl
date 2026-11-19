@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-TU-000001", "t": "What tool use is: acting beyond words", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000002", "t": "The tool catalog: knowing what is available", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000003", "t": "Reading tool schemas: the contract", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000004", "t": "Selecting tools: the right tool for the job", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000005", "t": "Building arguments: the call's content", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000006", "t": "Making the call: invocation", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000007", "t": "Reading results: the observe step", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000008", "t": "The observe step: integrating results", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000009", "t": "When not to call: the restraint", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000010", "t": "The first workflow: a complete example", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000011", "t": "Argument validation: check before calling", "g": "tool-use-foundations"}
+{"id": "JAH-AIR-TU-000012", "t": "Error handling: when tools fail", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000013", "t": "Retries: trying again wisely", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000014", "t": "Result parsing: extracting the signal", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000015", "t": "Pagination: reading the whole result", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000016", "t": "Chaining tools: workflows of calls", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000017", "t": "Parallel calls: doing more at once", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000018", "t": "Conditional calls: branching on results", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000019", "t": "Tool result memory: not calling twice", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000020", "t": "Cost awareness: tools cost money", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000021", "t": "Timeouts: bounding the wait", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000022", "t": "Idempotency: safe to retry", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000023", "t": "MCP: the standard connection", "g": "tool-use-compounded"}
+{"id": "JAH-AIR-TU-000024", "t": "Tool orchestration: conducting the calls", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000025", "t": "Agent loops: the autonomous cycle", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000026", "t": "ReAct patterns: reason, act, observe", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000027", "t": "Toolformer ideas: learning to use tools", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000028", "t": "Custom tool design: building good tools", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000029", "t": "Tool security: the call is a trust decision", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000030", "t": "Sandboxing: safe places to act", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000031", "t": "Audit trails: the record of deeds", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000032", "t": "Tool evaluation: measuring the machinery", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000033", "t": "The tool-using organization: agency at scale", "g": "tool-use-advanced"}
+{"id": "JAH-AIR-TU-000034", "t": "The responsible hand: the final standard", "g": "tool-use-advanced"}

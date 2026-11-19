@@ -1,0 +1,34 @@
+{"id": "JAH-AFPS-000001", "t": "Agriculture and Food Production Systems Signature Database: Crop Yield", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000002", "t": "Agriculture and Food Production Systems Signature Database: Plant Population", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000003", "t": "Agriculture and Food Production Systems Signature Database: Germination Rate", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000004", "t": "Agriculture and Food Production Systems Signature Database: Nitrogen Applied", "c": 0, "g": "soil"}
+{"id": "JAH-AFPS-000005", "t": "Agriculture and Food Production Systems Signature Database: Irrigation Depth", "c": 0, "g": "water"}
+{"id": "JAH-AFPS-000006", "t": "Agriculture and Food Production Systems Signature Database: Crop ET", "c": 0, "g": "water"}
+{"id": "JAH-AFPS-000007", "t": "Agriculture and Food Production Systems Signature Database: Seasonal Water Need", "c": 0, "g": "water"}
+{"id": "JAH-AFPS-000008", "t": "Agriculture and Food Production Systems Signature Database: Irrigation Efficiency", "c": 0, "g": "water"}
+{"id": "JAH-AFPS-000009", "t": "Agriculture and Food Production Systems Signature Database: Growing Degree Days", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000010", "t": "Agriculture and Food Production Systems Signature Database: Harvest Index", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000011", "t": "Agriculture and Food Production Systems Signature Database: Moisture Correction", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000012", "t": "Agriculture and Food Production Systems Signature Database: Dry Matter", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000013", "t": "Agriculture and Food Production Systems Signature Database: Feed Conversion Ratio", "c": 0, "g": "livestock"}
+{"id": "JAH-AFPS-000014", "t": "Agriculture and Food Production Systems Signature Database: Stocking Rate", "c": 0, "g": "livestock"}
+{"id": "JAH-AFPS-000015", "t": "Agriculture and Food Production Systems Signature Database: Bulk Density", "c": 0, "g": "soil"}
+{"id": "JAH-AFPS-000016", "t": "Agriculture and Food Production Systems Signature Database: Soil Porosity", "c": 0, "g": "soil"}
+{"id": "JAH-AFPS-000017", "t": "Agriculture and Food Production Systems Signature Database: Available Water", "c": 0, "g": "soil"}
+{"id": "JAH-AFPS-000018", "t": "Agriculture and Food Production Systems Signature Database: Gross Margin", "c": 0, "g": "economics"}
+{"id": "JAH-AFPS-000019", "t": "Agriculture and Food Production Systems Signature Database: Break-Even Yield", "c": 0, "g": "economics"}
+{"id": "JAH-AFPS-000020", "t": "Agriculture and Food Production Systems Signature Database: Return on Cost", "c": 0, "g": "economics"}
+{"id": "JAH-AFPS-000021", "t": "Agriculture and Food Production Systems Signature Database: Storage Loss", "c": 0, "g": "storage"}
+{"id": "JAH-AFPS-000022", "t": "Agriculture and Food Production Systems Signature Database: Milling Yield", "c": 0, "g": "storage"}
+{"id": "JAH-AFPS-000023", "t": "Agriculture and Food Production Systems Signature Database: Silo Capacity", "c": 0, "g": "storage"}
+{"id": "JAH-AFPS-000024", "t": "Agriculture and Food Production Systems Signature Database: Leaf Area Index", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000025", "t": "Agriculture and Food Production Systems Signature Database: Water Use Efficiency", "c": 0, "g": "water"}
+{"id": "JAH-AFPS-000026", "t": "Agriculture and Food Production Systems Signature Database: Nitrogen Use Efficiency", "c": 0, "g": "soil"}
+{"id": "JAH-AFPS-000027", "t": "Agriculture and Food Production Systems Signature Database: Spray Dilution", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000028", "t": "Agriculture and Food Production Systems Signature Database: Grain Drying", "c": 0, "g": "storage"}
+{"id": "JAH-AFPS-000029", "t": "Agriculture and Food Production Systems Signature Database: Silo Volume (cylinder)", "c": 0, "g": "storage"}
+{"id": "JAH-AFPS-000030", "t": "Agriculture and Food Production Systems Signature Database: Average Daily Gain", "c": 0, "g": "livestock"}
+{"id": "JAH-AFPS-000031", "t": "Agriculture and Food Production Systems Signature Database: Dressing Percentage", "c": 0, "g": "livestock"}
+{"id": "JAH-AFPS-000032", "t": "Agriculture and Food Production Systems Signature Database: Seed Needed", "c": 0, "g": "crops"}
+{"id": "JAH-AFPS-000033", "t": "Agriculture and Food Production Systems Signature Database: Fertilizer Cost", "c": 0, "g": "economics"}
+{"id": "JAH-AFPS-000034", "t": "Agriculture and Food Production Systems Signature Database: Whole-Farm Gross Margin Capstone", "c": 0, "g": "economics"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DP-000001", "t": "What Are Design Patterns", "g": "Foundations"}
+{"id": "JAH-DP-000002", "t": "Why Design Patterns Matter", "g": "Foundations"}
+{"id": "JAH-DP-000003", "t": "Creational Patterns Overview", "g": "Foundations"}
+{"id": "JAH-DP-000004", "t": "Structural Patterns Overview", "g": "Foundations"}
+{"id": "JAH-DP-000005", "t": "Behavioral Patterns Overview", "g": "Foundations"}
+{"id": "JAH-DP-000006", "t": "UML Basics for Patterns", "g": "Foundations"}
+{"id": "JAH-DP-000007", "t": "SOLID: Single Responsibility Principle", "g": "Foundations"}
+{"id": "JAH-DP-000008", "t": "SOLID: Open Closed Principle", "g": "Foundations"}
+{"id": "JAH-DP-000009", "t": "SOLID: Liskov Substitution Principle", "g": "Foundations"}
+{"id": "JAH-DP-000010", "t": "SOLID: Interface Segregation Principle", "g": "Foundations"}
+{"id": "JAH-DP-000011", "t": "SOLID: Dependency Inversion Principle", "g": "Foundations"}
+{"id": "JAH-DP-000012", "t": "Singleton Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000013", "t": "Factory Method Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000014", "t": "Abstract Factory Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000015", "t": "Builder Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000016", "t": "Prototype Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000017", "t": "Adapter Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000018", "t": "Decorator Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000019", "t": "Facade Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000020", "t": "Proxy Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000021", "t": "Composite Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000022", "t": "Strategy Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000023", "t": "Observer Pattern", "g": "Compounded"}
+{"id": "JAH-DP-000024", "t": "Command Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000025", "t": "State Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000026", "t": "Template Method Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000027", "t": "Iterator Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000028", "t": "Mediator Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000029", "t": "Memento Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000030", "t": "Chain of Responsibility Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000031", "t": "Visitor Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000032", "t": "Flyweight Pattern", "g": "Advanced"}
+{"id": "JAH-DP-000033", "t": "Anti-Patterns to Avoid", "g": "Advanced"}
+{"id": "JAH-DP-000034", "t": "Choosing Patterns Wisely", "g": "Advanced"}

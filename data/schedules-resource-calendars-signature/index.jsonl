@@ -1,0 +1,34 @@
+{"id": "JAH-SCHS-000001", "t": "What Is a Schedule and a Resource Calendar (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000002", "t": "Calendar Data Models: Events, Slots, and Resources (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000003", "t": "Time, Duration, and the Interval (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000004", "t": "Recurrence Rules: RRULE and Recurring Events (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000005", "t": "Time Zones, DST, and the True Instant (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000006", "t": "Appointments and Booking Slots (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000007", "t": "Personnel Shifts and Rotation Plans (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000008", "t": "Equipment Availability and Reservations (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000009", "t": "Facilities and Room Scheduling (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000010", "t": "Maintenance Windows and Change Control (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000011", "t": "iCalendar RFC 5545: The Interchange Standard (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-SCHS-000012", "t": "Interval Overlap and Conflict Detection (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000013", "t": "Constraint Satisfaction for Scheduling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000014", "t": "Shift-Rotation Rules and Circadian Planning (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000015", "t": "Scheduling Algorithms: Greedy, Backtracking, and the Hungarian Method (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000016", "t": "Resource Allocation and Bin Packing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000017", "t": "Queueing Theory for Service Capacity (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000018", "t": "Lead Times, Setup, and Teardown Buffers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000019", "t": "Multi-Resource and Team Scheduling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000020", "t": "Calendar Synchronization: CalDAV and Federation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000021", "t": "Preventive Maintenance Scheduling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000022", "t": "Downtime Windows and Availability SLAs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000023", "t": "Scheduling Under Uncertainty: Stochastic Models (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-SCHS-000024", "t": "Linear Programming for Workforce Scheduling (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000025", "t": "Timetabling by Graph Coloring (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000026", "t": "Job-Shop Scheduling and Makespan (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000027", "t": "Priority Scheduling and Real-Time Deadlines (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000028", "t": "Distributed Calendars: Consensus and Conflict Resolution (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000029", "t": "Scheduling Fairness and Load Balancing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000030", "t": "Master Production Scheduling and MRP (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000031", "t": "Predictive Maintenance and Condition-Based Windows (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000032", "t": "The Scheduling System Architecture (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000033", "t": "Schedule Audit, Compliance, and Forensics (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-SCHS-000034", "t": "The Resource Calendar Operating Picture (Signature Edition)", "g": "Advanced"}

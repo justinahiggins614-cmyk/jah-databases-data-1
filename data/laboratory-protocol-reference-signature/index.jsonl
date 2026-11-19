@@ -1,0 +1,34 @@
+{"id": "JAH-LPRS-000001", "t": "Protocol Writing", "g": "Foundations"}
+{"id": "JAH-LPRS-000002", "t": "Control Design", "g": "Foundations"}
+{"id": "JAH-LPRS-000003", "t": "Calibration", "g": "Foundations"}
+{"id": "JAH-LPRS-000004", "t": "Replication", "g": "Foundations"}
+{"id": "JAH-LPRS-000005", "t": "Randomization", "g": "Foundations"}
+{"id": "JAH-LPRS-000006", "t": "Blinding", "g": "Foundations"}
+{"id": "JAH-LPRS-000007", "t": "Lab Notebooks", "g": "Foundations"}
+{"id": "JAH-LPRS-000008", "t": "Deviation Logs", "g": "Foundations"}
+{"id": "JAH-LPRS-000009", "t": "Risk Assessments", "g": "Foundations"}
+{"id": "JAH-LPRS-000010", "t": "PPE", "g": "Foundations"}
+{"id": "JAH-LPRS-000011", "t": "Waste Disposal", "g": "Foundations"}
+{"id": "JAH-LPRS-000012", "t": "Reagent Tracking", "g": "Compounded"}
+{"id": "JAH-LPRS-000013", "t": "Data Integrity", "g": "Compounded"}
+{"id": "JAH-LPRS-000014", "t": "Power Analysis", "g": "Compounded"}
+{"id": "JAH-LPRS-000015", "t": "Method Sharing", "g": "Compounded"}
+{"id": "JAH-LPRS-000016", "t": "SOPs", "g": "Compounded"}
+{"id": "JAH-LPRS-000017", "t": "Equipment Logs", "g": "Compounded"}
+{"id": "JAH-LPRS-000018", "t": "Solution Prep", "g": "Compounded"}
+{"id": "JAH-LPRS-000019", "t": "Sterile Technique", "g": "Compounded"}
+{"id": "JAH-LPRS-000020", "t": "Cell Culture", "g": "Compounded"}
+{"id": "JAH-LPRS-000021", "t": "PCR Practice", "g": "Compounded"}
+{"id": "JAH-LPRS-000022", "t": "Microscopy", "g": "Compounded"}
+{"id": "JAH-LPRS-000023", "t": "Spectroscopy", "g": "Compounded"}
+{"id": "JAH-LPRS-000024", "t": "Chromatography", "g": "Advanced"}
+{"id": "JAH-LPRS-000025", "t": "Titrations", "g": "Advanced"}
+{"id": "JAH-LPRS-000026", "t": "Weighing", "g": "Advanced"}
+{"id": "JAH-LPRS-000027", "t": "pH Measurement", "g": "Advanced"}
+{"id": "JAH-LPRS-000028", "t": "Temperature Control", "g": "Advanced"}
+{"id": "JAH-LPRS-000029", "t": "Lab Math", "g": "Advanced"}
+{"id": "JAH-LPRS-000030", "t": "Troubleshooting", "g": "Advanced"}
+{"id": "JAH-LPRS-000031", "t": "Peer Review", "g": "Advanced"}
+{"id": "JAH-LPRS-000032", "t": "Training New Staff", "g": "Advanced"}
+{"id": "JAH-LPRS-000033", "t": "Audits", "g": "Advanced"}
+{"id": "JAH-LPRS-000034", "t": "Continuous Improvement", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DATADFS-000001", "t": "Entities and Relationships (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000002", "t": "Primary Keys (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000003", "t": "Foreign Keys (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000004", "t": "Normalization (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000005", "t": "Denormalization (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000006", "t": "Data Types (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000007", "t": "Constraints (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000008", "t": "Indexing Basics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000009", "t": "Views (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000010", "t": "Transactions (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000011", "t": "Migrations (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATADFS-000012", "t": "Choosing a Database (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000013", "t": "Teaching Database Design (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000014", "t": "The Schema Review (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000015", "t": "Many-to-Many Relationships (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000016", "t": "Hierarchies (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000017", "t": "Temporal Data (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000018", "t": "Soft Deletes (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000019", "t": "Naming Conventions (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000020", "t": "Documentation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000021", "t": "Security Design (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000022", "t": "Backup and Recovery (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000023", "t": "Performance Tuning (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATADFS-000024", "t": "Partitioning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000025", "t": "Replication (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000026", "t": "NoSQL Patterns (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000027", "t": "Graph Modeling (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000028", "t": "Data Warehousing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000029", "t": "Schema Evolution (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000030", "t": "Testing Databases (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000031", "t": "Cloud Databases (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000032", "t": "Polyglot Persistence (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000033", "t": "The Design Review (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATADFS-000034", "t": "Learning Resources (Signature Edition)", "g": "Advanced"}

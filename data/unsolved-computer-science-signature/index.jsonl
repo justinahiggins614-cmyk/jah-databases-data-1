@@ -1,0 +1,34 @@
+{"id": "JAH-USCSS-000001", "t": "The Busy Beaver Numbers (Signature Edition)", "g": "Computability"}
+{"id": "JAH-USCSS-000002", "t": "P vs NP (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000003", "t": "Fast Integer Factorization (Signature Edition)", "g": "Cryptography"}
+{"id": "JAH-USCSS-000004", "t": "How Many Pairs Break the Post Correspondence Problem (Signature Edition)", "g": "Computability"}
+{"id": "JAH-USCSS-000005", "t": "The k-Server Conjecture (Signature Edition)", "g": "Algorithms"}
+{"id": "JAH-USCSS-000006", "t": "The Dynamic Optimality Conjecture (Signature Edition)", "g": "Algorithms"}
+{"id": "JAH-USCSS-000007", "t": "Graph Isomorphism in Polynomial Time (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000008", "t": "The Exponent of Matrix Multiplication (Signature Edition)", "g": "Algorithms"}
+{"id": "JAH-USCSS-000009", "t": "Derandomizing Polynomial Identity Testing (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000010", "t": "Does Randomness Help? (P vs BPP) (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000011", "t": "Do One-Way Functions Exist? (Signature Edition)", "g": "Cryptography"}
+{"id": "JAH-USCSS-000012", "t": "NP vs co-NP (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000013", "t": "The Unique Games Conjecture (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000014", "t": "The Exponential Time Hypothesis (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000015", "t": "Can Quantum Computers Crack NP-Complete Problems? (Signature Edition)", "g": "Quantum Computing"}
+{"id": "JAH-USCSS-000016", "t": "Fault-Tolerant Quantum Computing at Scale (Signature Edition)", "g": "Quantum Computing"}
+{"id": "JAH-USCSS-000017", "t": "The Quantum PCP Conjecture (Signature Edition)", "g": "Quantum Computing"}
+{"id": "JAH-USCSS-000018", "t": "Superpolynomial Circuit Lower Bounds for NP (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000019", "t": "Algebraic P vs NP: VP vs VNP (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000020", "t": "The Minimum Circuit Size Problem (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000021", "t": "The Log-Rank Conjecture (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000022", "t": "Directed Reachability in Logarithmic Space (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000023", "t": "Planted Clique and Average-Case Hardness (Signature Edition)", "g": "Cryptography"}
+{"id": "JAH-USCSS-000024", "t": "Frege Proof System Lower Bounds (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000025", "t": "Is the Polynomial Hierarchy Infinite? (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000026", "t": "The Berman-Hartmanis Isomorphism Conjecture (Signature Edition)", "g": "Complexity Theory"}
+{"id": "JAH-USCSS-000027", "t": "Public-Key Crypto from One-Way Functions? (Signature Edition)", "g": "Cryptography"}
+{"id": "JAH-USCSS-000028", "t": "Obfuscation from Standard Assumptions (Signature Edition)", "g": "Cryptography"}
+{"id": "JAH-USCSS-000029", "t": "AI Alignment: Guaranteeing Safe Superintelligence (Signature Edition)", "g": "AI and Alignment"}
+{"id": "JAH-USCSS-000030", "t": "Mechanistic Interpretability of Frontier Models (Signature Edition)", "g": "AI and Alignment"}
+{"id": "JAH-USCSS-000031", "t": "Automatic Optimal Program Synthesis (Signature Edition)", "g": "Algorithms"}
+{"id": "JAH-USCSS-000032", "t": "The Skolem Problem (Signature Edition)", "g": "Computability"}
+{"id": "JAH-USCSS-000033", "t": "Complete Automatic Termination Proving (Signature Edition)", "g": "Computability"}
+{"id": "JAH-USCSS-000034", "t": "The Physical Church-Turing Thesis and Hypercomputation (Signature Edition)", "g": "Computability"}

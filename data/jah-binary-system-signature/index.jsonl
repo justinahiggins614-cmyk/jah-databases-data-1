@@ -1,0 +1,34 @@
+{"id": "JAH-BINYS-000001", "t": "What Is Binary (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000002", "t": "Counting in Binary (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000003", "t": "Bits, Nibbles, Bytes, and Words (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000004", "t": "Binary Addition and the Carry (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000005", "t": "Binary Subtraction and Borrowing (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000006", "t": "Powers of Two and Data Sizes (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000007", "t": "Converting Decimal to Binary (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000008", "t": "Converting Binary to Decimal (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-BINYS-000009", "t": "Binary Multiplication by Shift and Add (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000010", "t": "Binary Division by Long Division (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000011", "t": "Ones Complement (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000012", "t": "Twos Complement and Negative Numbers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000013", "t": "Signed Versus Unsigned Integers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000014", "t": "Bitwise AND (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000015", "t": "Bitwise OR and XOR (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000016", "t": "Bitwise NOT and Bit Masks (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000017", "t": "Bit Shifts: Logical and Arithmetic (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000018", "t": "Hexadecimal Shorthand (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000019", "t": "Octal and Converting Between Bases (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000020", "t": "ASCII Text Encoding (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000021", "t": "Unicode and UTF-8 (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000022", "t": "Fixed-Point Binary Fractions (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000023", "t": "IEEE 754 Floating-Point Numbers (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-BINYS-000024", "t": "Logic Gates: AND, OR, and NOT (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000025", "t": "XOR, NAND, NOR, and XNOR Gates (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000026", "t": "The Half Adder and Full Adder (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000027", "t": "Ripple-Carry and Carry-Lookahead Adders (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000028", "t": "Parity Bits and Error Detection (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000029", "t": "Hamming Error-Correcting Codes (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000030", "t": "Cyclic Redundancy Checks (CRC) (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000031", "t": "The Binary Reflected Gray Code (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000032", "t": "Binary-Coded Decimal (BCD) (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000033", "t": "Binary in Networking: Subnet Masks (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-BINYS-000034", "t": "Overflow, Carry, and CPU Status Flags (Signature Edition)", "g": "Advanced"}

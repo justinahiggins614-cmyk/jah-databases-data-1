@@ -1,0 +1,34 @@
+{"id": "JAH-BIOME-000001", "t": "Tropical Rainforest — Amazon Basin", "g": "Foundations"}
+{"id": "JAH-BIOME-000002", "t": "Tropical Rainforest — Congo Basin", "g": "Foundations"}
+{"id": "JAH-BIOME-000003", "t": "Tropical Rainforest — Southeast Asia", "g": "Foundations"}
+{"id": "JAH-BIOME-000004", "t": "Tropical Savanna — Serengeti", "g": "Foundations"}
+{"id": "JAH-BIOME-000005", "t": "Tropical Savanna — Brazilian Cerrado", "g": "Foundations"}
+{"id": "JAH-BIOME-000006", "t": "Hot Desert — Sahara", "g": "Foundations"}
+{"id": "JAH-BIOME-000007", "t": "Hot Desert — Arabian Desert", "g": "Foundations"}
+{"id": "JAH-BIOME-000008", "t": "Cold Desert — Gobi", "g": "Foundations"}
+{"id": "JAH-BIOME-000009", "t": "Semiarid Steppe — Eurasian Steppe", "g": "Foundations"}
+{"id": "JAH-BIOME-000010", "t": "Mediterranean Scrub — California Chaparral", "g": "Foundations"}
+{"id": "JAH-BIOME-000011", "t": "Mediterranean Scrub — Mediterranean Basin", "g": "Foundations"}
+{"id": "JAH-BIOME-000012", "t": "Temperate Grassland — North American Prairie", "g": "Foundations"}
+{"id": "JAH-BIOME-000013", "t": "Temperate Deciduous Forest — Eastern North America", "g": "Compounded"}
+{"id": "JAH-BIOME-000014", "t": "Temperate Deciduous Forest — European Beech Forest", "g": "Compounded"}
+{"id": "JAH-BIOME-000015", "t": "Temperate Rainforest — Pacific Northwest", "g": "Compounded"}
+{"id": "JAH-BIOME-000016", "t": "Boreal Forest (Taiga) — Siberia", "g": "Compounded"}
+{"id": "JAH-BIOME-000017", "t": "Boreal Forest (Taiga) — Canadian Shield", "g": "Compounded"}
+{"id": "JAH-BIOME-000018", "t": "Montane Cloud Forest — Andes", "g": "Compounded"}
+{"id": "JAH-BIOME-000019", "t": "Alpine Tundra — Himalaya", "g": "Compounded"}
+{"id": "JAH-BIOME-000020", "t": "Arctic Tundra — Alaska North Slope", "g": "Compounded"}
+{"id": "JAH-BIOME-000021", "t": "Mangrove Forest — Sundarbans", "g": "Compounded"}
+{"id": "JAH-BIOME-000022", "t": "Freshwater Wetland — Everglades", "g": "Compounded"}
+{"id": "JAH-BIOME-000023", "t": "Peat Bog — West Siberian Lowland", "g": "Compounded"}
+{"id": "JAH-BIOME-000024", "t": "Coral Reef — Great Barrier Reef", "g": "Advanced"}
+{"id": "JAH-BIOME-000025", "t": "Coral Reef — Coral Triangle", "g": "Advanced"}
+{"id": "JAH-BIOME-000026", "t": "Kelp Forest — California Coast", "g": "Advanced"}
+{"id": "JAH-BIOME-000027", "t": "Open Ocean Pelagic Zone — Mid-Atlantic Gyre", "g": "Advanced"}
+{"id": "JAH-BIOME-000028", "t": "Deep-Sea Hydrothermal Vent — East Pacific Rise", "g": "Advanced"}
+{"id": "JAH-BIOME-000029", "t": "Polar Ice Cap — Antarctica", "g": "Advanced"}
+{"id": "JAH-BIOME-000030", "t": "Polar Ice Cap — Greenland", "g": "Advanced"}
+{"id": "JAH-BIOME-000031", "t": "Estuary — Chesapeake Bay", "g": "Advanced"}
+{"id": "JAH-BIOME-000032", "t": "Salt Marsh — Wadden Sea", "g": "Advanced"}
+{"id": "JAH-BIOME-000033", "t": "Volcanic Island Ecosystem — Hawaii", "g": "Advanced"}
+{"id": "JAH-BIOME-000034", "t": "Cave Ecosystem — Mammoth Cave", "g": "Advanced"}

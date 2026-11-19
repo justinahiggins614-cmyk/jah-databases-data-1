@@ -1,0 +1,34 @@
+{"id": "JAH-WAS-000001", "t": "Standard Builds", "g": "Foundations"}
+{"id": "JAH-WAS-000002", "t": "Patch Management", "g": "Foundations"}
+{"id": "JAH-WAS-000003", "t": "Least Privilege", "g": "Foundations"}
+{"id": "JAH-WAS-000004", "t": "Group Policy Basics", "g": "Foundations"}
+{"id": "JAH-WAS-000005", "t": "Health Monitoring", "g": "Foundations"}
+{"id": "JAH-WAS-000006", "t": "PowerShell Automation", "g": "Foundations"}
+{"id": "JAH-WAS-000007", "t": "Backup 3-2-1", "g": "Foundations"}
+{"id": "JAH-WAS-000008", "t": "Event Viewer", "g": "Foundations"}
+{"id": "JAH-WAS-000009", "t": "Recovery Options", "g": "Foundations"}
+{"id": "JAH-WAS-000010", "t": "Runbook Documentation", "g": "Foundations"}
+{"id": "JAH-WAS-000011", "t": "License Tracking", "g": "Foundations"}
+{"id": "JAH-WAS-000012", "t": "Secure Decommissioning", "g": "Compounded"}
+{"id": "JAH-WAS-000013", "t": "User Account Setup", "g": "Compounded"}
+{"id": "JAH-WAS-000014", "t": "Password Policies", "g": "Compounded"}
+{"id": "JAH-WAS-000015", "t": "BitLocker", "g": "Compounded"}
+{"id": "JAH-WAS-000016", "t": "Windows Firewall", "g": "Compounded"}
+{"id": "JAH-WAS-000017", "t": "Defender Management", "g": "Compounded"}
+{"id": "JAH-WAS-000018", "t": "Update Rings", "g": "Compounded"}
+{"id": "JAH-WAS-000019", "t": "Driver Management", "g": "Compounded"}
+{"id": "JAH-WAS-000020", "t": "Print Management", "g": "Compounded"}
+{"id": "JAH-WAS-000021", "t": "File Shares", "g": "Compounded"}
+{"id": "JAH-WAS-000022", "t": "Remote Desktop", "g": "Compounded"}
+{"id": "JAH-WAS-000023", "t": "VPN Setup", "g": "Compounded"}
+{"id": "JAH-WAS-000024", "t": "Performance Tuning", "g": "Advanced"}
+{"id": "JAH-WAS-000025", "t": "Disk Cleanup", "g": "Advanced"}
+{"id": "JAH-WAS-000026", "t": "Malware Response", "g": "Advanced"}
+{"id": "JAH-WAS-000027", "t": "Blue Screen Analysis", "g": "Advanced"}
+{"id": "JAH-WAS-000028", "t": "Network Troubleshooting", "g": "Advanced"}
+{"id": "JAH-WAS-000029", "t": "Profile Issues", "g": "Advanced"}
+{"id": "JAH-WAS-000030", "t": "Software Deployment", "g": "Advanced"}
+{"id": "JAH-WAS-000031", "t": "Inventory", "g": "Advanced"}
+{"id": "JAH-WAS-000032", "t": "Help Desk Triage", "g": "Advanced"}
+{"id": "JAH-WAS-000033", "t": "Training Users", "g": "Advanced"}
+{"id": "JAH-WAS-000034", "t": "Fleet Refresh", "g": "Advanced"}

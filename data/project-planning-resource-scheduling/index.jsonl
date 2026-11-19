@@ -1,0 +1,34 @@
+{"id": "JAH-PPRS-000001", "t": "Project Planning and Resource Scheduling Database: PERT Expected Time", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000002", "t": "Project Planning and Resource Scheduling Database: PERT Variance", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000003", "t": "Project Planning and Resource Scheduling Database: PERT Std Dev", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000004", "t": "Project Planning and Resource Scheduling Database: Slack (Float)", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000005", "t": "Project Planning and Resource Scheduling Database: Early Finish", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000006", "t": "Project Planning and Resource Scheduling Database: Late Start", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000007", "t": "Project Planning and Resource Scheduling Database: Planned Value", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000008", "t": "Project Planning and Resource Scheduling Database: Earned Value", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000009", "t": "Project Planning and Resource Scheduling Database: Actual Cost", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000010", "t": "Project Planning and Resource Scheduling Database: Schedule Variance", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000011", "t": "Project Planning and Resource Scheduling Database: Cost Variance", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000012", "t": "Project Planning and Resource Scheduling Database: SPI", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000013", "t": "Project Planning and Resource Scheduling Database: CPI", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000014", "t": "Project Planning and Resource Scheduling Database: EAC", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000015", "t": "Project Planning and Resource Scheduling Database: ETC", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000016", "t": "Project Planning and Resource Scheduling Database: VAC", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000017", "t": "Project Planning and Resource Scheduling Database: TCPI", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000018", "t": "Project Planning and Resource Scheduling Database: % Complete", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000019", "t": "Project Planning and Resource Scheduling Database: % Spent", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000020", "t": "Project Planning and Resource Scheduling Database: Burn Rate", "c": 0, "g": "evm"}
+{"id": "JAH-PPRS-000021", "t": "Project Planning and Resource Scheduling Database: Forecast Duration", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000022", "t": "Project Planning and Resource Scheduling Database: Team Velocity", "c": 0, "g": "agile"}
+{"id": "JAH-PPRS-000023", "t": "Project Planning and Resource Scheduling Database: Capacity (sprint)", "c": 0, "g": "agile"}
+{"id": "JAH-PPRS-000024", "t": "Project Planning and Resource Scheduling Database: Utilization (project)", "c": 0, "g": "resources"}
+{"id": "JAH-PPRS-000025", "t": "Project Planning and Resource Scheduling Database: Risk Exposure", "c": 0, "g": "risk"}
+{"id": "JAH-PPRS-000026", "t": "Project Planning and Resource Scheduling Database: Contingency Reserve", "c": 0, "g": "risk"}
+{"id": "JAH-PPRS-000027", "t": "Project Planning and Resource Scheduling Database: Management Reserve", "c": 0, "g": "risk"}
+{"id": "JAH-PPRS-000028", "t": "Project Planning and Resource Scheduling Database: Communication Channels", "c": 0, "g": "team"}
+{"id": "JAH-PPRS-000029", "t": "Project Planning and Resource Scheduling Database: Crashing Savings", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000030", "t": "Project Planning and Resource Scheduling Database: Resource Overallocation", "c": 0, "g": "resources"}
+{"id": "JAH-PPRS-000031", "t": "Project Planning and Resource Scheduling Database: Schedule Compression", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000032", "t": "Project Planning and Resource Scheduling Database: Milestone Trend", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000033", "t": "Project Planning and Resource Scheduling Database: Baseline Variance", "c": 0, "g": "scheduling"}
+{"id": "JAH-PPRS-000034", "t": "Project Planning and Resource Scheduling Database: Project Health Capstone", "c": 0, "g": "evm"}

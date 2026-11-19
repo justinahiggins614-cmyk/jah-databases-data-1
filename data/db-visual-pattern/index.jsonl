@@ -1,0 +1,34 @@
+{"id": "JAH-VISPAT-000001", "t": "Pattern: Red circle, blue circle, red circle, blue circle,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000002", "t": "Pattern: 1 dot, 2 dots, 3 dots, 4 dots,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000003", "t": "Pattern: Big square, small square, big square, small square,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000004", "t": "Pattern: Arrow up, arrow right, arrow down, arrow left,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000005", "t": "Pattern: Triangle, square, pentagon, hexagon,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000006", "t": "Pattern: Circle, circle with dot, circle with 2 dots,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000007", "t": "Pattern: Black, white, black, white,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000008", "t": "Pattern: 1 line, 2 lines, 3 lines (making angles),...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000009", "t": "Pattern: Small, medium, large, small, medium, large,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000010", "t": "Pattern: Star, heart, star, heart,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000011", "t": "Pattern: Up arrow, down arrow, up arrow, down arrow,...", "g": "Foundations"}
+{"id": "JAH-VISPAT-000012", "t": "Pattern: 1 square, 4 squares (2x2), 9 squares (3x3),...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000013", "t": "Pattern: Red, red, blue, red, red, blue,...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000014", "t": "Pattern: Circle, oval, circle, oval (rotating 90 deg each)...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000015", "t": "Pattern: 1, 11, 21, 1211, 111221 (look-and-say)...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000016", "t": "Pattern: Black dot moving clockwise around a square's corners...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000017", "t": "Pattern: Growing bar: 1, 2, 4, 8 units tall...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000018", "t": "Pattern: Alternating arrow directions AND growing length...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000019", "t": "Pattern: Nested squares: 1, 2, 3 nested...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000020", "t": "Pattern: Checkerboard 2x2, 4x4, 6x6...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000021", "t": "Pattern: Spiral with 1, 2, 3 turns...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000022", "t": "Pattern:  Dominoes: 1-2, 2-3, 3-4...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000023", "t": "Pattern: Moon phases: new, crescent, half, gibbous, full...", "g": "Compounded"}
+{"id": "JAH-VISPAT-000024", "t": "Pattern: Penrose impossible triangle rotating...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000025", "t": "Pattern: Fractal tree: each branch splits in two...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000026", "t": "Pattern: 1, 2, 4, 8, 16 dots in circles (powers of 2)...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000027", "t": "Pattern: Fibonacci squares: 1,1,2,3,5,8...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000028", "t": "Pattern: Rotating cube nets: which folds to a cube...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000029", "t": "Pattern: Escher-like tessellation growing...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000030", "t": "Pattern: Knight's tour partial path on chessboard...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000031", "t": "Pattern: Overlapping circles: 1, 3, 7 regions (Venn)...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000032", "t": "Pattern: Moiré patterns from overlapping grids...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000033", "t": "Pattern: Golden spiral from Fibonacci squares...", "g": "Advanced"}
+{"id": "JAH-VISPAT-000034", "t": "Pattern: Cellular automaton row 1, 2, 4, 8 live cells...", "g": "Advanced"}

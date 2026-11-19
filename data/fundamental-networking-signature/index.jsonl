@@ -1,0 +1,34 @@
+{"id": "JAH-SFNET-000001", "t": "Signature What Networking Is", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000002", "t": "Signature The Core Question of Networking", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000003", "t": "Signature Assumptions: Unreliable Foundations", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000004", "t": "Signature The Vocabulary: Packets, Protocols, Addresses", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000005", "t": "Signature Bandwidth and Latency: The Fundamental Quantities", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000006", "t": "Signature Layering: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000007", "t": "Signature A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000008", "t": "Signature How Networking Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000009", "t": "Signature The Core Mechanism: Packet Switching", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000010", "t": "Signature The Simplest Law: Best Effort", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000011", "t": "Signature Common Misconceptions in Networking", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000012", "t": "Signature How Beginners Practice Networking", "g": "Foundations", "c": 0}
+{"id": "JAH-SFNET-000013", "t": "Signature The Core Model: TCP/IP", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000014", "t": "Signature The Great Idea: The End-to-End Principle", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000015", "t": "Signature Systems Thinking: Congestion", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000016", "t": "Signature Invariance: Protocol Contracts", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000017", "t": "Signature Approximation: Statistical Multiplexing", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000018", "t": "Signature Evidence Standards: The Packet Capture", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000019", "t": "Signature Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000020", "t": "Signature Core Trade-offs: Throughput versus Delay", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000021", "t": "Signature Handling Uncertainty: Loss and Retransmission", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000022", "t": "Signature Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000023", "t": "Signature Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000024", "t": "Signature Teaching Networking", "g": "Compounded", "c": 0}
+{"id": "JAH-SFNET-000025", "t": "Signature The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000026", "t": "Signature Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000027", "t": "Signature Computational Networking", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000028", "t": "Signature Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000029", "t": "Signature The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000030", "t": "Signature How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000031", "t": "Signature The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000032", "t": "Signature Failure Modes: When Networking Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000033", "t": "Signature Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-SFNET-000034", "t": "Signature The Signature Formulation: Networking as Traceable Path", "g": "Advanced", "c": 0}

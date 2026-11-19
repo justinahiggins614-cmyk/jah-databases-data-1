@@ -1,0 +1,34 @@
+{"id": "JAH-WDU-000001", "t": "What a Water Distribution System Is", "g": "Foundations"}
+{"id": "JAH-WDU-000002", "t": "Sources: Where Drinking Water Comes From", "g": "Foundations"}
+{"id": "JAH-WDU-000003", "t": "Treatment Basics: Making Water Safe", "g": "Foundations"}
+{"id": "JAH-WDU-000004", "t": "The Network: Pipes, Pumps, Tanks", "g": "Foundations"}
+{"id": "JAH-WDU-000005", "t": "Pressure: The System's Lifeblood", "g": "Foundations"}
+{"id": "JAH-WDU-000006", "t": "Flow and Head Loss Basics", "g": "Foundations"}
+{"id": "JAH-WDU-000007", "t": "Demand: How Much, When", "g": "Foundations"}
+{"id": "JAH-WDU-000008", "t": "Water Quality in the Network", "g": "Foundations"}
+{"id": "JAH-WDU-000009", "t": "Disinfection: Chlorine and Friends", "g": "Foundations"}
+{"id": "JAH-WDU-000010", "t": "Storage Tanks: Why Water Waits", "g": "Foundations"}
+{"id": "JAH-WDU-000011", "t": "Pumps: Moving Water Uphill", "g": "Foundations"}
+{"id": "JAH-WDU-000012", "t": "Valves: Controlling the Network", "g": "Foundations"}
+{"id": "JAH-WDU-000013", "t": "Hazen-Williams and Darcy-Weisbach", "g": "Compounded"}
+{"id": "JAH-WDU-000014", "t": "Network Hydraulics and EPANET", "g": "Compounded"}
+{"id": "JAH-WDU-000015", "t": "Pressure Zones", "g": "Compounded"}
+{"id": "JAH-WDU-000016", "t": "Extended-Period Simulation", "g": "Compounded"}
+{"id": "JAH-WDU-000017", "t": "Water Hammer: Surge Protection", "g": "Compounded"}
+{"id": "JAH-WDU-000018", "t": "Leakage: Finding Lost Water", "g": "Compounded"}
+{"id": "JAH-WDU-000019", "t": "The Infrastructure Leakage Index (ILI)", "g": "Compounded"}
+{"id": "JAH-WDU-000020", "t": "District Metered Areas (DMAs)", "g": "Compounded"}
+{"id": "JAH-WDU-000021", "t": "Chlorine Decay and Booster Stations", "g": "Compounded"}
+{"id": "JAH-WDU-000022", "t": "Water Age and Quality", "g": "Compounded"}
+{"id": "JAH-WDU-000023", "t": "Demand Forecasting", "g": "Compounded"}
+{"id": "JAH-WDU-000024", "t": "Pump Scheduling and Energy", "g": "Compounded"}
+{"id": "JAH-WDU-000025", "t": "Asset Condition Assessment", "g": "Advanced"}
+{"id": "JAH-WDU-000026", "t": "Pipe Failure Prediction", "g": "Advanced"}
+{"id": "JAH-WDU-000027", "t": "Main Replacement Planning", "g": "Advanced"}
+{"id": "JAH-WDU-000028", "t": "Smart Metering (AMI)", "g": "Advanced"}
+{"id": "JAH-WDU-000029", "t": "SCADA and Real-Time Control", "g": "Advanced"}
+{"id": "JAH-WDU-000030", "t": "Contamination Warning Systems", "g": "Advanced"}
+{"id": "JAH-WDU-000031", "t": "Fire Flow Requirements", "g": "Advanced"}
+{"id": "JAH-WDU-000032", "t": "Hydraulic Model Calibration", "g": "Advanced"}
+{"id": "JAH-WDU-000033", "t": "3D-Printable Pipe Fittings and Trainers", "g": "Advanced"}
+{"id": "JAH-WDU-000034", "t": "Resilience: Emergency Response Planning", "g": "Advanced"}

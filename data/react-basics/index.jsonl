@@ -1,0 +1,34 @@
+{"id": "JAH-RCT-000001", "t": "What Is React", "g": "Foundations"}
+{"id": "JAH-RCT-000002", "t": "Setting Up a React Project", "g": "Foundations"}
+{"id": "JAH-RCT-000003", "t": "JSX Syntax", "g": "Foundations"}
+{"id": "JAH-RCT-000004", "t": "Components and Props", "g": "Foundations"}
+{"id": "JAH-RCT-000005", "t": "State with useState", "g": "Foundations"}
+{"id": "JAH-RCT-000006", "t": "Handling Events in React", "g": "Foundations"}
+{"id": "JAH-RCT-000007", "t": "Conditional Rendering in React", "g": "Foundations"}
+{"id": "JAH-RCT-000008", "t": "Lists and Keys in React", "g": "Foundations"}
+{"id": "JAH-RCT-000009", "t": "Styling React Components", "g": "Foundations"}
+{"id": "JAH-RCT-000010", "t": "React DevTools", "g": "Foundations"}
+{"id": "JAH-RCT-000011", "t": "The Virtual DOM Explained", "g": "Foundations"}
+{"id": "JAH-RCT-000012", "t": "useEffect Basics", "g": "Compounded"}
+{"id": "JAH-RCT-000013", "t": "useEffect Dependency Arrays", "g": "Compounded"}
+{"id": "JAH-RCT-000014", "t": "Fetching Data in React", "g": "Compounded"}
+{"id": "JAH-RCT-000015", "t": "Forms in React Advanced", "g": "Compounded"}
+{"id": "JAH-RCT-000016", "t": "Lifting State Up", "g": "Compounded"}
+{"id": "JAH-RCT-000017", "t": "Context API", "g": "Compounded"}
+{"id": "JAH-RCT-000018", "t": "useRef Hook", "g": "Compounded"}
+{"id": "JAH-RCT-000019", "t": "useMemo and useCallback", "g": "Compounded"}
+{"id": "JAH-RCT-000020", "t": "Custom Hooks", "g": "Compounded"}
+{"id": "JAH-RCT-000021", "t": "React Router Basics", "g": "Compounded"}
+{"id": "JAH-RCT-000022", "t": "Component Composition Patterns", "g": "Compounded"}
+{"id": "JAH-RCT-000023", "t": "Thinking in React", "g": "Compounded"}
+{"id": "JAH-RCT-000024", "t": "Error Boundaries in React", "g": "Advanced"}
+{"id": "JAH-RCT-000025", "t": "React Performance Optimization", "g": "Advanced"}
+{"id": "JAH-RCT-000026", "t": "React Testing Basics", "g": "Advanced"}
+{"id": "JAH-RCT-000027", "t": "React Deployment", "g": "Advanced"}
+{"id": "JAH-RCT-000028", "t": "State Management Libraries", "g": "Advanced"}
+{"id": "JAH-RCT-000029", "t": "React Server Components Intro", "g": "Advanced"}
+{"id": "JAH-RCT-000030", "t": "React Accessibility", "g": "Advanced"}
+{"id": "JAH-RCT-000031", "t": "React Code Splitting", "g": "Advanced"}
+{"id": "JAH-RCT-000032", "t": "React StrictMode and Concurrency", "g": "Advanced"}
+{"id": "JAH-RCT-000033", "t": "Migrating to React 19 and Beyond", "g": "Advanced"}
+{"id": "JAH-RCT-000034", "t": "React Project Capstone", "g": "Advanced"}

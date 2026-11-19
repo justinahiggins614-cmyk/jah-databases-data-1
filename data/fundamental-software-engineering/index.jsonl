@@ -1,0 +1,34 @@
+{"id": "JAH-FSWE-000001", "t": "What Software Engineering Is", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000002", "t": "The Core Question of Software Engineering", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000003", "t": "Assumptions: Change Is Certain", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000004", "t": "The Vocabulary: Requirements, Architecture, Debt", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000005", "t": "Technical Debt: The Fundamental Quantity", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000006", "t": "The Lifecycle: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000007", "t": "A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000008", "t": "How Software Engineering Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000009", "t": "The Core Mechanism: Feedback Loops", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000010", "t": "The Simplest Law: Brooks's Law", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000011", "t": "Common Misconceptions in Software Engineering", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000012", "t": "How Beginners Practice Software Engineering", "g": "Foundations", "c": 0}
+{"id": "JAH-FSWE-000013", "t": "The Core Model: Modularity", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000014", "t": "The Great Idea: Continuous Delivery", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000015", "t": "Systems Thinking: Socio-Technical Systems", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000016", "t": "Invariance: Contracts", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000017", "t": "Approximation: Good Enough Engineering", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000018", "t": "Evidence Standards: Production Data", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000019", "t": "Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000020", "t": "Core Trade-offs: Speed versus Quality", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000021", "t": "Handling Uncertainty: Iterative Development", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000022", "t": "Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000023", "t": "Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000024", "t": "Teaching Software Engineering", "g": "Compounded", "c": 0}
+{"id": "JAH-FSWE-000025", "t": "The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000026", "t": "Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000027", "t": "Computational Software Engineering", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000028", "t": "Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000029", "t": "The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000030", "t": "How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000031", "t": "The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000032", "t": "Failure Modes: When Software Engineering Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000033", "t": "Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-FSWE-000034", "t": "The Signature Formulation: Engineering as Lasting Construction", "g": "Advanced", "c": 0}

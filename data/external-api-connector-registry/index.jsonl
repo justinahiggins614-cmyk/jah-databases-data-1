@@ -1,0 +1,34 @@
+{"id": "JAH-EACR-000001", "t": "Connector Registry Overview", "g": "Foundations"}
+{"id": "JAH-EACR-000002", "t": "REST API Connector Profile", "g": "Foundations"}
+{"id": "JAH-EACR-000003", "t": "GraphQL Connector Profile", "g": "Foundations"}
+{"id": "JAH-EACR-000004", "t": "Webhook Connector Profile", "g": "Foundations"}
+{"id": "JAH-EACR-000005", "t": "API Key Authentication Profile", "g": "Foundations"}
+{"id": "JAH-EACR-000006", "t": "OAuth 2.0 Connector Profile", "g": "Foundations"}
+{"id": "JAH-EACR-000007", "t": "Rate Limit Model Record", "g": "Foundations"}
+{"id": "JAH-EACR-000008", "t": "Data Format Profiles", "g": "Foundations"}
+{"id": "JAH-EACR-000009", "t": "Error Handling Conventions", "g": "Foundations"}
+{"id": "JAH-EACR-000010", "t": "Status and Health Check Endpoints", "g": "Foundations"}
+{"id": "JAH-EACR-000011", "t": "Retry and Backoff Behavior", "g": "Compounded"}
+{"id": "JAH-EACR-000012", "t": "Pagination Connector Behavior", "g": "Compounded"}
+{"id": "JAH-EACR-000013", "t": "Idempotency in Connectors", "g": "Compounded"}
+{"id": "JAH-EACR-000014", "t": "API Versioning Practice", "g": "Compounded"}
+{"id": "JAH-EACR-000015", "t": "Credential Vaulting for Connectors", "g": "Compounded"}
+{"id": "JAH-EACR-000016", "t": "Connector Logging and Telemetry", "g": "Compounded"}
+{"id": "JAH-EACR-000017", "t": "SOAP and Legacy Connector Profile", "g": "Compounded"}
+{"id": "JAH-EACR-000018", "t": "gRPC Connector Profile", "g": "Compounded"}
+{"id": "JAH-EACR-000019", "t": "Event Stream Connector Profile", "g": "Compounded"}
+{"id": "JAH-EACR-000020", "t": "File Transfer Connector Profile", "g": "Compounded"}
+{"id": "JAH-EACR-000021", "t": "Connector Response Caching", "g": "Compounded"}
+{"id": "JAH-EACR-000022", "t": "Failover and Circuit Breaking", "g": "Advanced"}
+{"id": "JAH-EACR-000023", "t": "Connector SLA Tracking", "g": "Advanced"}
+{"id": "JAH-EACR-000024", "t": "Connector Cost Metering", "g": "Advanced"}
+{"id": "JAH-EACR-000025", "t": "Connector Security Audit", "g": "Advanced"}
+{"id": "JAH-EACR-000026", "t": "Connector Change Management", "g": "Advanced"}
+{"id": "JAH-EACR-000027", "t": "Connector Test Harness", "g": "Advanced"}
+{"id": "JAH-EACR-000028", "t": "Connector Documentation Standard", "g": "Advanced"}
+{"id": "JAH-EACR-000029", "t": "Multi-Tenant Connector Design", "g": "Advanced"}
+{"id": "JAH-EACR-000030", "t": "Connector Deprecation and Migration", "g": "Advanced"}
+{"id": "JAH-EACR-000031", "t": "PII Redaction in Connectors", "g": "Advanced"}
+{"id": "JAH-EACR-000032", "t": "Connector Marketplace Governance", "g": "Advanced"}
+{"id": "JAH-EACR-000033", "t": "Federation Roster of Connectors", "g": "Advanced"}
+{"id": "JAH-EACR-000034", "t": "Registry Self-Audit and Mastery Record", "g": "Advanced"}

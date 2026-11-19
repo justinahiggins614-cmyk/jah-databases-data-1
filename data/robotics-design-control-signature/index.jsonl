@@ -1,0 +1,34 @@
+{"id": "JAH-RDCS-000001", "t": "Robotics Design and Control Signature Database: Planar 2R Forward Kinematics (x)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDCS-000002", "t": "Robotics Design and Control Signature Database: Planar 2R Forward Kinematics (y)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDCS-000003", "t": "Robotics Design and Control Signature Database: 2R Jacobian Determinant (Singularity)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDCS-000004", "t": "Robotics Design and Control Signature Database: 2R Inverse Kinematics (Elbow Angle)", "c": 0, "g": "kinematics"}
+{"id": "JAH-RDCS-000005", "t": "Robotics Design and Control Signature Database: Differential Drive Forward Velocity", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000006", "t": "Robotics Design and Control Signature Database: Differential Drive Turn Rate", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000007", "t": "Robotics Design and Control Signature Database: Differential Drive Turn Radius", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000008", "t": "Robotics Design and Control Signature Database: PID Control Law", "c": 0, "g": "control"}
+{"id": "JAH-RDCS-000009", "t": "Robotics Design and Control Signature Database: DC Motor Torque", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000010", "t": "Robotics Design and Control Signature Database: DC Motor Back-EMF", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000011", "t": "Robotics Design and Control Signature Database: Gearmotor Output Torque", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000012", "t": "Robotics Design and Control Signature Database: Servo PWM to Angle", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000013", "t": "Robotics Design and Control Signature Database: Trapezoidal Trajectory Time", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000014", "t": "Robotics Design and Control Signature Database: Static Force From Joint Torque", "c": 0, "g": "control"}
+{"id": "JAH-RDCS-000015", "t": "Robotics Design and Control Signature Database: Quadrature Encoder Counts", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000016", "t": "Robotics Design and Control Signature Database: Encoder Angle From Counts", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000017", "t": "Robotics Design and Control Signature Database: Stepper Steps Per Revolution", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000018", "t": "Robotics Design and Control Signature Database: Stepper Speed", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000019", "t": "Robotics Design and Control Signature Database: Ultrasonic Range", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000020", "t": "Robotics Design and Control Signature Database: IMU Tilt From Accelerometer", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000021", "t": "Robotics Design and Control Signature Database: Complementary Filter", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000022", "t": "Robotics Design and Control Signature Database: Wheel Odometry Distance", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000023", "t": "Robotics Design and Control Signature Database: Odometry Heading Change", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000024", "t": "Robotics Design and Control Signature Database: Gripper Force (Friction Grasp)", "c": 0, "g": "actuators"}
+{"id": "JAH-RDCS-000025", "t": "Robotics Design and Control Signature Database: Joint Static Torque (Payload)", "c": 0, "g": "control"}
+{"id": "JAH-RDCS-000026", "t": "Robotics Design and Control Signature Database: Arm Natural Frequency", "c": 0, "g": "control"}
+{"id": "JAH-RDCS-000027", "t": "Robotics Design and Control Signature Database: Damping Ratio", "c": 0, "g": "control"}
+{"id": "JAH-RDCS-000028", "t": "Robotics Design and Control Signature Database: Nyquist Sampling Limit", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000029", "t": "Robotics Design and Control Signature Database: Scalar Kalman Gain", "c": 0, "g": "control"}
+{"id": "JAH-RDCS-000030", "t": "Robotics Design and Control Signature Database: Waypoint Path Length", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000031", "t": "Robotics Design and Control Signature Database: Ackermann Turn Radius", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000032", "t": "Robotics Design and Control Signature Database: Lidar Points Per Revolution", "c": 0, "g": "sensors"}
+{"id": "JAH-RDCS-000033", "t": "Robotics Design and Control Signature Database: Mobile Robot Energy Per Distance", "c": 0, "g": "planning"}
+{"id": "JAH-RDCS-000034", "t": "Robotics Design and Control Signature Database: Computed Torque (1-DOF Inverse Dynamics)", "c": 0, "g": "control"}

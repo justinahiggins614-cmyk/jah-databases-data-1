@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-RAG-000001", "t": "What RAG is: answering from sources", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000002", "t": "The pipeline: chunk, index, retrieve, generate", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000003", "t": "Documents: the knowledge to retrieve from", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000004", "t": "Chunking basics: pieces that can be found", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000005", "t": "Embeddings: meaning as vectors", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000006", "t": "Similarity: the retrieval score", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000007", "t": "Top-k retrieval: how many passages", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000008", "t": "The prompt with passages: generation context", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000009", "t": "Citations: showing the sources", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000010", "t": "When RAG helps: the use cases", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000011", "t": "The first RAG system: hello, grounded world", "g": "rag-retrieval-foundations"}
+{"id": "JAH-AIR-RAG-000012", "t": "Chunking strategies: beyond fixed size", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000013", "t": "Overlap: bridging chunk boundaries", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000014", "t": "Metadata: the chunk's context", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000015", "t": "Hybrid search: dense plus sparse", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000016", "t": "Dense vs sparse: knowing the tradeoffs", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000017", "t": "Re-ranking: the second look", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000018", "t": "Query rewriting: asking better", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000019", "t": "Context assembly: building the prompt", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000020", "t": "Grounded generation: writing from sources", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000021", "t": "Citation formats: showing your work", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000022", "t": "Handling no-results: the honest empty", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000023", "t": "Evaluation basics: measuring RAG", "g": "rag-retrieval-compounded"}
+{"id": "JAH-AIR-RAG-000024", "t": "Agentic RAG: retrieval as a tool", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000025", "t": "Multi-hop retrieval: connecting the dots", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000026", "t": "Query decomposition: splitting the hard question", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000027", "t": "Hypothetical documents: HyDE and friends", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000028", "t": "Knowledge graphs in RAG: structure meets retrieval", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000029", "t": "Freshness: RAG over changing knowledge", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000030", "t": "Scale: RAG over millions of documents", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000031", "t": "RAG evaluation suites: the full battery", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000032", "t": "RAG vs fine-tuning: choosing the path", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000033", "t": "The grounded organization: RAG everywhere", "g": "rag-retrieval-advanced"}
+{"id": "JAH-AIR-RAG-000034", "t": "The honest answer: the final standard", "g": "rag-retrieval-advanced"}

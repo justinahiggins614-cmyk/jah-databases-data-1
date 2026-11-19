@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-COT-000001", "t": "What chain-of-thought is: thinking out loud", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000002", "t": "Breaking problems into steps: the decomposition", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000003", "t": "Writing out intermediates: the visible work", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000004", "t": "Small checkable steps: the link standard", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000005", "t": "Worked examples: learning chains from examples", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000006", "t": "Arithmetic chains: step-by-step calculation", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000007", "t": "Logic chains: step-by-step deduction", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000008", "t": "Reading chains: reasoning over text", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000009", "t": "When not to chain: the cost of steps", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000010", "t": "Chain length: how many steps is right", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000011", "t": "The final answer step: concluding the chain", "g": "chain-of-thought-foundations"}
+{"id": "JAH-AIR-COT-000012", "t": "Step verification: checking each link", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000013", "t": "Finding the broken link: debugging chains", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000014", "t": "Self-consistency: many chains, one answer", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000015", "t": "Least-to-most prompting: easy first", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000016", "t": "Backward chaining: reasoning from the goal", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000017", "t": "Forward chaining: reasoning from the facts", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000018", "t": "Chain repair: fixing chains mid-flight", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000019", "t": "Intermediate variables: naming the middle", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000020", "t": "Program-aided chains: computing the hard parts", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000021", "t": "Decomposition strategies: ways to split problems", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000022", "t": "Chain evaluation: judging the reasoning", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000023", "t": "Cost of chaining: tokens, time, and attention", "g": "chain-of-thought-compounded"}
+{"id": "JAH-AIR-COT-000024", "t": "Tree of thoughts: branching the reasoning", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000025", "t": "Graph of thoughts: the networked chain", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000026", "t": "Faithful vs post-hoc traces: does the chain reflect the thought", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000027", "t": "Process supervision: rewarding the steps, not just the answer", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000028", "t": "Verifiers: the second mind on the chain", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000029", "t": "Chain distillation: teaching the pattern", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000030", "t": "Latent reasoning: thinking without writing", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000031", "t": "Multi-agent chains: reasoning as a team", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000032", "t": "Adversarial chains: stress-testing the reasoning", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000033", "t": "The honest chain: the final standard", "g": "chain-of-thought-advanced"}
+{"id": "JAH-AIR-COT-000034", "t": "The reflective chain: thinking about the thinking", "g": "chain-of-thought-advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-MA-000001", "t": "What multi-agent is: many minds, one task", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000002", "t": "Why many agents: the case for teams", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000003", "t": "Agent roles: who does what", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000004", "t": "Task division: splitting the work", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000005", "t": "The coordinator: conducting the team", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000006", "t": "Communication basics: agents talking", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000007", "t": "Shared context: the team's common ground", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000008", "t": "Handoffs: passing the work", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000009", "t": "The first team: a complete example", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000010", "t": "Simple pipelines: the assembly line", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000011", "t": "When one agent suffices: the solo test", "g": "multi-agent-foundations"}
+{"id": "JAH-AIR-MA-000012", "t": "Communication protocols: the rules of talk", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000013", "t": "Task allocation: who gets what", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000014", "t": "Parallel agents: many hands", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000015", "t": "Sequential agents: the relay", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000016", "t": "Debate: arguing toward truth", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000017", "t": "Critique patterns: the loyal opposition", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000018", "t": "Consensus: agreeing together", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000019", "t": "Conflict resolution: when agents disagree", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000020", "t": "Result synthesis: many outputs, one answer", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000021", "t": "Error handling: when agents fail", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000022", "t": "Cost management: teams cost", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000023", "t": "Evaluation: measuring the team", "g": "multi-agent-compounded"}
+{"id": "JAH-AIR-MA-000024", "t": "Emergent coordination: order without orders", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000025", "t": "Swarm patterns: many simple agents", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000026", "t": "Mixture of experts: routing to specialists", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000027", "t": "Hierarchical teams: teams of teams", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000028", "t": "Adversarial teams: the red and the blue", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000029", "t": "Negotiation between agents: the deal", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000030", "t": "Multi-agent planning: planning together", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000031", "t": "Verification: checking the team", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000032", "t": "The agent organization: teams at scale", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000033", "t": "The concord of minds: the final standard", "g": "multi-agent-advanced"}
+{"id": "JAH-AIR-MA-000034", "t": "Agent societies: norms and institutions", "g": "multi-agent-advanced"}

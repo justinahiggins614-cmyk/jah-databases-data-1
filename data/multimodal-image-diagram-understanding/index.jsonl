@@ -1,0 +1,34 @@
+{"id": "JAH-MIDU-000001", "t": "Multimodal Image and Diagram Understanding Database: Image Inventory", "c": 0, "g": "foundations"}
+{"id": "JAH-MIDU-000002", "t": "Multimodal Image and Diagram Understanding Database: Schematic Symbols", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDU-000003", "t": "Multimodal Image and Diagram Understanding Database: Engineering Drawing", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000004", "t": "Multimodal Image and Diagram Understanding Database: Chart Data Extraction", "c": 0, "g": "charts"}
+{"id": "JAH-MIDU-000005", "t": "Multimodal Image and Diagram Understanding Database: Flowchart Logic", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000006", "t": "Multimodal Image and Diagram Understanding Database: Floor Plan", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000007", "t": "Multimodal Image and Diagram Understanding Database: P&ID Reading", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDU-000008", "t": "Multimodal Image and Diagram Understanding Database: Map Reading", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000009", "t": "Multimodal Image and Diagram Understanding Database: Table Image", "c": 0, "g": "tables"}
+{"id": "JAH-MIDU-000010", "t": "Multimodal Image and Diagram Understanding Database: Handwriting", "c": 0, "g": "scanned"}
+{"id": "JAH-MIDU-000011", "t": "Multimodal Image and Diagram Understanding Database: Diagram Arrows", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000012", "t": "Multimodal Image and Diagram Understanding Database: Color Coding", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000013", "t": "Multimodal Image and Diagram Understanding Database: Scale Bars", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000014", "t": "Multimodal Image and Diagram Understanding Database: Cross-Sections", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000015", "t": "Multimodal Image and Diagram Understanding Database: Circuit Tracing", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDU-000016", "t": "Multimodal Image and Diagram Understanding Database: BOM from Drawing", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000017", "t": "Multimodal Image and Diagram Understanding Database: Revision Clouds", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000018", "t": "Multimodal Image and Diagram Understanding Database: Title Blocks", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000019", "t": "Multimodal Image and Diagram Understanding Database: Wiring Diagrams", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDU-000020", "t": "Multimodal Image and Diagram Understanding Database: Isometric Views", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000021", "t": "Multimodal Image and Diagram Understanding Database: Graph Extraction", "c": 0, "g": "charts"}
+{"id": "JAH-MIDU-000022", "t": "Multimodal Image and Diagram Understanding Database: Pie Charts", "c": 0, "g": "charts"}
+{"id": "JAH-MIDU-000023", "t": "Multimodal Image and Diagram Understanding Database: Heatmaps", "c": 0, "g": "charts"}
+{"id": "JAH-MIDU-000024", "t": "Multimodal Image and Diagram Understanding Database: Timelines (visual)", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000025", "t": "Multimodal Image and Diagram Understanding Database: Org Charts", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000026", "t": "Multimodal Image and Diagram Understanding Database: Network Diagrams", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000027", "t": "Multimodal Image and Diagram Understanding Database: Venn Diagrams", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000028", "t": "Multimodal Image and Diagram Understanding Database: State Diagrams", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000029", "t": "Multimodal Image and Diagram Understanding Database: Gantt Charts", "c": 0, "g": "charts"}
+{"id": "JAH-MIDU-000030", "t": "Multimodal Image and Diagram Understanding Database: Spectrograms", "c": 0, "g": "charts"}
+{"id": "JAH-MIDU-000031", "t": "Multimodal Image and Diagram Understanding Database: Blueprint Symbols", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000032", "t": "Multimodal Image and Diagram Understanding Database: Assembly Explosions", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDU-000033", "t": "Multimodal Image and Diagram Understanding Database: Infographic Reading", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDU-000034", "t": "Multimodal Image and Diagram Understanding Database: Capstone: Visual Understanding", "c": 0, "g": "diagrams"}

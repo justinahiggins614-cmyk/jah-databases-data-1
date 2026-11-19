@@ -1,0 +1,34 @@
+{"id": "JAH-FRWF-000001", "t": "Largemouth Bass (Micropterus salmoides)", "g": "Foundations"}
+{"id": "JAH-FRWF-000002", "t": "Smallmouth Bass (Micropterus dolomieu)", "g": "Foundations"}
+{"id": "JAH-FRWF-000003", "t": "Rainbow Trout (Oncorhynchus mykiss)", "g": "Foundations"}
+{"id": "JAH-FRWF-000004", "t": "Brown Trout (Salmo trutta)", "g": "Foundations"}
+{"id": "JAH-FRWF-000005", "t": "Brook Trout (Salvelinus fontinalis)", "g": "Foundations"}
+{"id": "JAH-FRWF-000006", "t": "Lake Trout (Salvelinus namaycush)", "g": "Foundations"}
+{"id": "JAH-FRWF-000007", "t": "Arctic Char (Salvelinus alpinus)", "g": "Foundations"}
+{"id": "JAH-FRWF-000008", "t": "Atlantic Salmon (Salmo salar)", "g": "Foundations"}
+{"id": "JAH-FRWF-000009", "t": "Chinook Salmon (Oncorhynchus tshawytscha)", "g": "Foundations"}
+{"id": "JAH-FRWF-000010", "t": "Northern Pike (Esox lucius)", "g": "Foundations"}
+{"id": "JAH-FRWF-000011", "t": "Muskellunge (Esox masquinongy)", "g": "Foundations"}
+{"id": "JAH-FRWF-000012", "t": "Walleye (Sander vitreus)", "g": "Compounded"}
+{"id": "JAH-FRWF-000013", "t": "Channel Catfish (Ictalurus punctatus)", "g": "Compounded"}
+{"id": "JAH-FRWF-000014", "t": "Blue Catfish (Ictalurus furcatus)", "g": "Compounded"}
+{"id": "JAH-FRWF-000015", "t": "Flathead Catfish (Pylodictis olivaris)", "g": "Compounded"}
+{"id": "JAH-FRWF-000016", "t": "Common Carp (Cyprinus carpio)", "g": "Compounded"}
+{"id": "JAH-FRWF-000017", "t": "Grass Carp (Ctenopharyngodon idella)", "g": "Compounded"}
+{"id": "JAH-FRWF-000018", "t": "Goldfish (Carassius auratus)", "g": "Compounded"}
+{"id": "JAH-FRWF-000019", "t": "Crucian Carp (Carassius carassius)", "g": "Compounded"}
+{"id": "JAH-FRWF-000020", "t": "European Perch (Perca fluviatilis)", "g": "Compounded"}
+{"id": "JAH-FRWF-000021", "t": "Yellow Perch (Perca flavescens)", "g": "Compounded"}
+{"id": "JAH-FRWF-000022", "t": "Bluegill (Lepomis macrochirus)", "g": "Compounded"}
+{"id": "JAH-FRWF-000023", "t": "Black Crappie (Pomoxis nigromaculatus)", "g": "Compounded"}
+{"id": "JAH-FRWF-000024", "t": "White Crappie (Pomoxis annularis)", "g": "Advanced"}
+{"id": "JAH-FRWF-000025", "t": "Red-bellied Piranha (Pygocentrus nattereri)", "g": "Advanced"}
+{"id": "JAH-FRWF-000026", "t": "Electric Eel (Electrophorus electricus)", "g": "Advanced"}
+{"id": "JAH-FRWF-000027", "t": "Arapaima (Arapaima gigas)", "g": "Advanced"}
+{"id": "JAH-FRWF-000028", "t": "Alligator Gar (Atractosteus spatula)", "g": "Advanced"}
+{"id": "JAH-FRWF-000029", "t": "Bowfin (Amia calva)", "g": "Advanced"}
+{"id": "JAH-FRWF-000030", "t": "Beluga Sturgeon (Huso huso)", "g": "Advanced"}
+{"id": "JAH-FRWF-000031", "t": "White Sturgeon (Acipenser transmontanus)", "g": "Advanced"}
+{"id": "JAH-FRWF-000032", "t": "American Paddlefish (Polyodon spathula)", "g": "Advanced"}
+{"id": "JAH-FRWF-000033", "t": "Siamese Fighting Fish (Betta splendens)", "g": "Advanced"}
+{"id": "JAH-FRWF-000034", "t": "Neon Tetra (Paracheirodon innesi)", "g": "Advanced"}

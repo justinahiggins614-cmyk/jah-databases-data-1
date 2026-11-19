@@ -1,0 +1,34 @@
+{"id": "JAH-DLRGS-000001", "t": "What Data Lineage Is (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000002", "t": "Why Lineage Matters: Trust, Debugging, Compliance (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000003", "t": "Source Nodes (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000004", "t": "Transformation Steps (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000005", "t": "Sink Nodes and Records (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000006", "t": "Derivation Formulas (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000007", "t": "Column-Level Lineage (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000008", "t": "Table-Level Lineage (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000009", "t": "The OpenLineage Standard (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000010", "t": "Lineage Capture Methods (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000011", "t": "Batch Lineage (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000012", "t": "Streaming Lineage (Signature Edition)", "g": "Lineage Basics"}
+{"id": "JAH-DLRGS-000013", "t": "Lineage Graphs (Signature Edition)", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRGS-000014", "t": "Directed Acyclic Graphs in Lineage (Signature Edition)", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRGS-000015", "t": "Lineage Traversal: Upstream and Downstream (Signature Edition)", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRGS-000016", "t": "Impact Analysis (Signature Edition)", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRGS-000017", "t": "Root-Cause Analysis (Signature Edition)", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRGS-000018", "t": "Lineage and Data Quality (Signature Edition)", "g": "Graphs and Nodes"}
+{"id": "JAH-DLRGS-000019", "t": "Lineage Metadata (Signature Edition)", "g": "Transformations and Operations"}
+{"id": "JAH-DLRGS-000020", "t": "Lineage at Query Time (Signature Edition)", "g": "Transformations and Operations"}
+{"id": "JAH-DLRGS-000021", "t": "Lineage in ETL Tools (Signature Edition)", "g": "Transformations and Operations"}
+{"id": "JAH-DLRGS-000022", "t": "Lineage Storage (Signature Edition)", "g": "Transformations and Operations"}
+{"id": "JAH-DLRGS-000023", "t": "Lineage Visualization (Signature Edition)", "g": "Transformations and Operations"}
+{"id": "JAH-DLRGS-000024", "t": "Lineage APIs (Signature Edition)", "g": "Transformations and Operations"}
+{"id": "JAH-DLRGS-000025", "t": "Fine-Grained Lineage (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000026", "t": "Lineage Across Organizations (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000027", "t": "Lineage for ML Features (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000028", "t": "Lineage for a Million-Database Network (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000029", "t": "Lineage Completeness Metrics (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000030", "t": "Lineage Staleness (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000031", "t": "Privacy and Lineage (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000032", "t": "Lineage Provenance (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000033", "t": "Automated Lineage Discovery (Signature Edition)", "g": "Advanced Lineage Topics"}
+{"id": "JAH-DLRGS-000034", "t": "Data Lineage Registry Mastery Review (Signature Edition)", "g": "Advanced Lineage Topics"}

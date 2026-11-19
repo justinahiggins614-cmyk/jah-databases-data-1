@@ -1,0 +1,34 @@
+{"id": "JAH-KQFS-000001", "t": "Knowledge Quality and Freshness Scoring Database: Completeness Check", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFS-000002", "t": "Knowledge Quality and Freshness Scoring Database: Correctness Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000003", "t": "Knowledge Quality and Freshness Scoring Database: Duplication Detection", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000004", "t": "Knowledge Quality and Freshness Scoring Database: Freshness Scoring", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000005", "t": "Knowledge Quality and Freshness Scoring Database: Confidence Calibration", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000006", "t": "Knowledge Quality and Freshness Scoring Database: Source Reliability", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000007", "t": "Knowledge Quality and Freshness Scoring Database: Citation Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000008", "t": "Knowledge Quality and Freshness Scoring Database: Consistency Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000009", "t": "Knowledge Quality and Freshness Scoring Database: Coverage Analysis", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFS-000010", "t": "Knowledge Quality and Freshness Scoring Database: Staleness Detection", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000011", "t": "Knowledge Quality and Freshness Scoring Database: Update Prioritization", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000012", "t": "Knowledge Quality and Freshness Scoring Database: Data Profiling", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFS-000013", "t": "Knowledge Quality and Freshness Scoring Database: Schema Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000014", "t": "Knowledge Quality and Freshness Scoring Database: Referential Integrity", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000015", "t": "Knowledge Quality and Freshness Scoring Database: Outlier Detection", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000016", "t": "Knowledge Quality and Freshness Scoring Database: Bias Detection", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000017", "t": "Knowledge Quality and Freshness Scoring Database: Provenance Audit", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000018", "t": "Knowledge Quality and Freshness Scoring Database: Version Currency", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000019", "t": "Knowledge Quality and Freshness Scoring Database: Broken Link Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000020", "t": "Knowledge Quality and Freshness Scoring Database: Format Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000021", "t": "Knowledge Quality and Freshness Scoring Database: Null Analysis", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFS-000022", "t": "Knowledge Quality and Freshness Scoring Database: Range Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000023", "t": "Knowledge Quality and Freshness Scoring Database: Pattern Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000024", "t": "Knowledge Quality and Freshness Scoring Database: Cross-Field Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000025", "t": "Knowledge Quality and Freshness Scoring Database: Temporal Consistency", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000026", "t": "Knowledge Quality and Freshness Scoring Database: Unit Consistency", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000027", "t": "Knowledge Quality and Freshness Scoring Database: Naming Consistency", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000028", "t": "Knowledge Quality and Freshness Scoring Database: Deduplication", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000029", "t": "Knowledge Quality and Freshness Scoring Database: Merge Review", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFS-000030", "t": "Knowledge Quality and Freshness Scoring Database: Quality Dashboard", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFS-000031", "t": "Knowledge Quality and Freshness Scoring Database: Data SLA", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000032", "t": "Knowledge Quality and Freshness Scoring Database: Refresh Scheduling", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000033", "t": "Knowledge Quality and Freshness Scoring Database: Retention Policy", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFS-000034", "t": "Knowledge Quality and Freshness Scoring Database: Capstone: Quality Program", "c": 0, "g": "completeness"}

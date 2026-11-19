@@ -1,0 +1,34 @@
+{"id": "JAH-ACAS-000001", "t": "GPT vs Claude: Language Models (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000002", "t": "Open vs Closed: Model Weights (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000003", "t": "Big vs Small: Model Size (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000004", "t": "Chatbot vs Search: Answers (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000005", "t": "Translation: Human vs NMT (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000006", "t": "Code: Copilot vs Human (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000007", "t": "Speech: Human vs ASR (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000008", "t": "Summarizer: Extractive vs Abstractive (Signature Edition)", "g": "Language Arena"}
+{"id": "JAH-ACAS-000009", "t": "Chess AI vs Go AI: Game Masters (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000010", "t": "Vision: CNN vs Transformer (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000011", "t": "Detection: YOLO vs R-CNN (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000012", "t": "Game AI: Scripted vs Learned (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000013", "t": "NPC: Behavior Tree vs LLM (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000014", "t": "OCR: Classic vs Deep (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000015", "t": "Face Recognition: 2D vs 3D (Signature Edition)", "g": "Vision & Games Arena"}
+{"id": "JAH-ACAS-000016", "t": "Medical Imaging: AI vs Radiologist (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000017", "t": "Fraud: Rules vs ML (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000018", "t": "Recommend: Collaborative vs Content (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000019", "t": "Hiring: AI Screen vs Human (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000020", "t": "Driving: Waymo vs Tesla (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000021", "t": "Customer Service: Bot vs Human (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000022", "t": "Tutoring: AI vs Human (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000023", "t": "Art: GAN vs Diffusion (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000024", "t": "Music: Symbolic vs Audio (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000025", "t": "Protein: AlphaFold vs Lab (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000026", "t": "Weather: AI vs Physics Models (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000027", "t": "Translation: Big vs Small Models (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000028", "t": "Search: LLM vs Keyword (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000029", "t": "Moderation: AI vs Human (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000030", "t": "Robotics: Sim vs Real (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000031", "t": "AGI: Soon vs Later (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000032", "t": "Embodied vs Disembodied: AI Future (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000033", "t": "Alignment: Technical vs Governance (Signature Edition)", "g": "Applied AI Arena"}
+{"id": "JAH-ACAS-000034", "t": "Warehouse Robots vs Humans: Logistics (Signature Edition)", "g": "Applied AI Arena"}

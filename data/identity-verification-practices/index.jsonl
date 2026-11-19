@@ -1,0 +1,34 @@
+{"id": "JAH-IVP-000001", "t": "Verification Levels (IAL)", "g": "verification-methods"}
+{"id": "JAH-IVP-000002", "t": "Document Verification", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000003", "t": "Liveness Detection", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000004", "t": "The Verification Playbook", "g": "verification-methods"}
+{"id": "JAH-IVP-000005", "t": "Biometric Modalities", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000006", "t": "Face Match (Selfie vs ID)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000007", "t": "Deepfake Defense", "g": "verification-methods"}
+{"id": "JAH-IVP-000008", "t": "Knowledge-Based (KBA)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000009", "t": "Phone Verification", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000010", "t": "Email Verification", "g": "verification-methods"}
+{"id": "JAH-IVP-000011", "t": "Address Verification", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000012", "t": "SSN Verification", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000013", "t": "eID and Digital Wallets", "g": "verification-methods"}
+{"id": "JAH-IVP-000014", "t": "Bank-ID Systems", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000015", "t": "Reusable Identity", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000016", "t": "Zero-Knowledge Proofs", "g": "verification-methods"}
+{"id": "JAH-IVP-000017", "t": "Decentralized Identifiers", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000018", "t": "Verifiable Credentials", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000019", "t": "Age Verification", "g": "verification-methods"}
+{"id": "JAH-IVP-000020", "t": "KYC/AML Basics", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000021", "t": "Synthetic Identity Fraud", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000022", "t": "Account Takeover Defense", "g": "verification-methods"}
+{"id": "JAH-IVP-000023", "t": "Step-Up Authentication", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000024", "t": "Fallback Processes", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000025", "t": "Accessibility in IDV", "g": "verification-methods"}
+{"id": "JAH-IVP-000026", "t": "Bias in Face Verification", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000027", "t": "Data Retention (IDV)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000028", "t": "Vendor Selection", "g": "verification-methods"}
+{"id": "JAH-IVP-000029", "t": "Conversion vs Security", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000030", "t": "Testing IDV Systems", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000031", "t": "Regulatory Landscape", "g": "verification-methods"}
+{"id": "JAH-IVP-000032", "t": "Incident Response (IDV)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000033", "t": "The Trustworthy Verifier", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000034", "t": "Future of Identity", "g": "verification-methods"}

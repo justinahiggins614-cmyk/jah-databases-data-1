@@ -1,0 +1,34 @@
+{"id": "JAH-MTKS-000001", "t": "Multilingual Technical Knowledge Signature Database: Term: Voltage", "c": 0, "g": "electrical"}
+{"id": "JAH-MTKS-000002", "t": "Multilingual Technical Knowledge Signature Database: Term: Current", "c": 0, "g": "electrical"}
+{"id": "JAH-MTKS-000003", "t": "Multilingual Technical Knowledge Signature Database: Term: Resistance", "c": 0, "g": "electrical"}
+{"id": "JAH-MTKS-000004", "t": "Multilingual Technical Knowledge Signature Database: Term: Capacitor", "c": 0, "g": "electrical"}
+{"id": "JAH-MTKS-000005", "t": "Multilingual Technical Knowledge Signature Database: Term: Inductor", "c": 0, "g": "electrical"}
+{"id": "JAH-MTKS-000006", "t": "Multilingual Technical Knowledge Signature Database: Term: Transistor", "c": 0, "g": "electrical"}
+{"id": "JAH-MTKS-000007", "t": "Multilingual Technical Knowledge Signature Database: Term: Algorithm", "c": 0, "g": "computing"}
+{"id": "JAH-MTKS-000008", "t": "Multilingual Technical Knowledge Signature Database: Term: Database", "c": 0, "g": "computing"}
+{"id": "JAH-MTKS-000009", "t": "Multilingual Technical Knowledge Signature Database: Term: Encryption", "c": 0, "g": "computing"}
+{"id": "JAH-MTKS-000010", "t": "Multilingual Technical Knowledge Signature Database: Term: Torque", "c": 0, "g": "mechanical"}
+{"id": "JAH-MTKS-000011", "t": "Multilingual Technical Knowledge Signature Database: Term: Pressure", "c": 0, "g": "mechanical"}
+{"id": "JAH-MTKS-000012", "t": "Multilingual Technical Knowledge Signature Database: Term: Bearing", "c": 0, "g": "mechanical"}
+{"id": "JAH-MTKS-000013", "t": "Multilingual Technical Knowledge Signature Database: Term: Welding", "c": 0, "g": "mechanical"}
+{"id": "JAH-MTKS-000014", "t": "Multilingual Technical Knowledge Signature Database: Term: Molecule", "c": 0, "g": "chemistry"}
+{"id": "JAH-MTKS-000015", "t": "Multilingual Technical Knowledge Signature Database: Term: Catalyst", "c": 0, "g": "chemistry"}
+{"id": "JAH-MTKS-000016", "t": "Multilingual Technical Knowledge Signature Database: Term: Cell", "c": 0, "g": "biology"}
+{"id": "JAH-MTKS-000017", "t": "Multilingual Technical Knowledge Signature Database: Term: Photosynthesis", "c": 0, "g": "biology"}
+{"id": "JAH-MTKS-000018", "t": "Multilingual Technical Knowledge Signature Database: Term: Bridge", "c": 0, "g": "civil"}
+{"id": "JAH-MTKS-000019", "t": "Multilingual Technical Knowledge Signature Database: Term: Concrete", "c": 0, "g": "civil"}
+{"id": "JAH-MTKS-000020", "t": "Multilingual Technical Knowledge Signature Database: Term: Load", "c": 0, "g": "civil"}
+{"id": "JAH-MTKS-000021", "t": "Multilingual Technical Knowledge Signature Database: Validation: Back-Translation", "c": 0, "g": "methods"}
+{"id": "JAH-MTKS-000022", "t": "Multilingual Technical Knowledge Signature Database: Validation: Bilingual Review", "c": 0, "g": "methods"}
+{"id": "JAH-MTKS-000023", "t": "Multilingual Technical Knowledge Signature Database: False Friends", "c": 0, "g": "methods"}
+{"id": "JAH-MTKS-000024", "t": "Multilingual Technical Knowledge Signature Database: Term: Software", "c": 0, "g": "computing"}
+{"id": "JAH-MTKS-000025", "t": "Multilingual Technical Knowledge Signature Database: Term: Network", "c": 0, "g": "computing"}
+{"id": "JAH-MTKS-000026", "t": "Multilingual Technical Knowledge Signature Database: Term: Sensor", "c": 0, "g": "engineering"}
+{"id": "JAH-MTKS-000027", "t": "Multilingual Technical Knowledge Signature Database: Term: Calibration", "c": 0, "g": "engineering"}
+{"id": "JAH-MTKS-000028", "t": "Multilingual Technical Knowledge Signature Database: Term: Maintenance", "c": 0, "g": "engineering"}
+{"id": "JAH-MTKS-000029", "t": "Multilingual Technical Knowledge Signature Database: Language Variant: pt-BR vs pt-PT", "c": 0, "g": "variants"}
+{"id": "JAH-MTKS-000030", "t": "Multilingual Technical Knowledge Signature Database: Language Variant: zh-CN vs zh-TW", "c": 0, "g": "variants"}
+{"id": "JAH-MTKS-000031", "t": "Multilingual Technical Knowledge Signature Database: Transliteration", "c": 0, "g": "methods"}
+{"id": "JAH-MTKS-000032", "t": "Multilingual Technical Knowledge Signature Database: Glossary Building", "c": 0, "g": "methods"}
+{"id": "JAH-MTKS-000033", "t": "Multilingual Technical Knowledge Signature Database: Term: Quantum", "c": 0, "g": "physics"}
+{"id": "JAH-MTKS-000034", "t": "Multilingual Technical Knowledge Signature Database: Capstone: Term Bank", "c": 0, "g": "methods"}

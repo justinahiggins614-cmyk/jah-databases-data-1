@@ -1,0 +1,34 @@
+{"id": "JAH-RITI-000001", "t": "What a Technical Drawing Is: A Contract in Lines", "g": "Foundations"}
+{"id": "JAH-RITI-000002", "t": "Orthographic Projection: Three Views, One Object", "g": "Foundations"}
+{"id": "JAH-RITI-000003", "t": "Line Types and Their Meanings (ISO 128)", "g": "Foundations"}
+{"id": "JAH-RITI-000004", "t": "Drawing Scales: From Paper to Reality", "g": "Foundations"}
+{"id": "JAH-RITI-000005", "t": "Paper Sizes: The A-Series and the Square Root of Two", "g": "Foundations"}
+{"id": "JAH-RITI-000006", "t": "Title Blocks: Identity of Every Drawing", "g": "Foundations"}
+{"id": "JAH-RITI-000007", "t": "Dimensioning Basics: Extension, Dimension, Arrowheads", "g": "Foundations"}
+{"id": "JAH-RITI-000008", "t": "Schematic Symbols: A Shared Visual Language", "g": "Foundations"}
+{"id": "JAH-RITI-000009", "t": "Pictorial Views: Isometric and Perspective", "g": "Foundations"}
+{"id": "JAH-RITI-000010", "t": "Reference Images: Photographs as Engineering Evidence", "g": "Foundations"}
+{"id": "JAH-RITI-000011", "t": "Sketching: The First Drawing", "g": "Foundations"}
+{"id": "JAH-RITI-000012", "t": "Drawing Standards: ISO vs ASME", "g": "Foundations"}
+{"id": "JAH-RITI-000013", "t": "Section Views: Cutting Away to Show Inside", "g": "Compounded"}
+{"id": "JAH-RITI-000014", "t": "Detail and Auxiliary Views", "g": "Compounded"}
+{"id": "JAH-RITI-000015", "t": "Dimensioning Methods: Chain, Baseline, Direct", "g": "Compounded"}
+{"id": "JAH-RITI-000016", "t": "Tolerances: How Much Slop Is Allowed", "g": "Compounded"}
+{"id": "JAH-RITI-000017", "t": "Electrical Schematics: Reading a Circuit Drawing", "g": "Compounded"}
+{"id": "JAH-RITI-000018", "t": "P&ID: Piping and Instrumentation Diagrams", "g": "Compounded"}
+{"id": "JAH-RITI-000019", "t": "Exploded Views: Assembly Taken Apart on Paper", "g": "Compounded"}
+{"id": "JAH-RITI-000020", "t": "Parts Lists and BOMs: Every Piece Accounted For", "g": "Compounded"}
+{"id": "JAH-RITI-000021", "t": "Surface Finish Symbols", "g": "Compounded"}
+{"id": "JAH-RITI-000022", "t": "Welding Symbols", "g": "Compounded"}
+{"id": "JAH-RITI-000023", "t": "The Schematic Library: Reusable Symbols", "g": "Compounded"}
+{"id": "JAH-RITI-000024", "t": "Revision Control: ECNs and Revision Blocks", "g": "Compounded"}
+{"id": "JAH-RITI-000025", "t": "GD&T: Geometric Dimensioning and Tolerancing (ASME Y14.5)", "g": "Advanced"}
+{"id": "JAH-RITI-000026", "t": "Tolerance Stack-Up Analysis", "g": "Advanced"}
+{"id": "JAH-RITI-000027", "t": "Drawing-Relationship Graphs: Where-Used and Dependencies", "g": "Advanced"}
+{"id": "JAH-RITI-000028", "t": "Model-Based Definition: 3D PMI", "g": "Advanced"}
+{"id": "JAH-RITI-000029", "t": "Reference Image Libraries: Building the Visual Archive", "g": "Advanced"}
+{"id": "JAH-RITI-000030", "t": "Cross-Referencing: From Schematic to Layout to Assembly", "g": "Advanced"}
+{"id": "JAH-RITI-000031", "t": "Configuration Management of Drawing Sets", "g": "Advanced"}
+{"id": "JAH-RITI-000032", "t": "Legacy Drawing Digitization: Raster to Vector", "g": "Advanced"}
+{"id": "JAH-RITI-000033", "t": "3D-Printable Reference Models", "g": "Advanced"}
+{"id": "JAH-RITI-000034", "t": "The Master Drawing Index: Finding Any Drawing", "g": "Advanced"}

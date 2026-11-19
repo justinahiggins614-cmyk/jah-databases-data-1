@@ -1,0 +1,34 @@
+{"id": "JAH-RDRGS-000001", "t": "What Reference Data Is (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000002", "t": "Code Lists and Code Values (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000003", "t": "Controlled Vocabularies (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000004", "t": "Taxonomies (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000005", "t": "Hierarchies and Parent-Child Codes (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000006", "t": "Units of Measure (Signature Edition)", "g": "Measures and Standards"}
+{"id": "JAH-RDRGS-000007", "t": "Currency Codes: ISO 4217 (Signature Edition)", "g": "Measures and Standards"}
+{"id": "JAH-RDRGS-000008", "t": "Country Codes: ISO 3166 (Signature Edition)", "g": "Measures and Standards"}
+{"id": "JAH-RDRGS-000009", "t": "Language Codes: ISO 639 (Signature Edition)", "g": "Measures and Standards"}
+{"id": "JAH-RDRGS-000010", "t": "Date, Time, and Calendar Conventions (Signature Edition)", "g": "Measures and Standards"}
+{"id": "JAH-RDRGS-000011", "t": "Status and Lifecycle Codes (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000012", "t": "Mapping Tables Between Code Sets (Signature Edition)", "g": "Code Lists and Vocabularies"}
+{"id": "JAH-RDRGS-000013", "t": "Crosswalks Between Standards (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000014", "t": "Versioning Reference Data (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000015", "t": "Deprecation and Supersession (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000016", "t": "Effective Dating (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000017", "t": "Canonical vs Local Codes (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000018", "t": "Reference Data Stewardship (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000019", "t": "Change Requests and Approval (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000020", "t": "Publication and Distribution (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000021", "t": "Reference Data APIs (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000022", "t": "Caching and Fallback Copies (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000023", "t": "Reference Data Quality Monitoring (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000024", "t": "Multilingual Reference Data (Signature Edition)", "g": "Registry Governance"}
+{"id": "JAH-RDRGS-000025", "t": "Multi-Standard Harmonization (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000026", "t": "Semantic Mapping with SKOS and OWL (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000027", "t": "Multilingual Labels (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000028", "t": "Reference Data Quality Metrics (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000029", "t": "Federation of Registries (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000030", "t": "Reference Data for a Million-Database Network (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000031", "t": "Emergency Code Extensions (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000032", "t": "Provenance of Reference Lists (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000033", "t": "Audit and Compliance Reporting (Signature Edition)", "g": "Advanced Registry Topics"}
+{"id": "JAH-RDRGS-000034", "t": "Reference Data Registry Mastery Review (Signature Edition)", "g": "Advanced Registry Topics"}

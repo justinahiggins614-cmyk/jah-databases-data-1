@@ -1,0 +1,34 @@
+{"id": "JAH-DDES-000001", "t": "Document and Data Extraction Signature Database: Extract Key-Value Pairs", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000002", "t": "Document and Data Extraction Signature Database: Extract Table (CSV)", "c": 0, "g": "tables"}
+{"id": "JAH-DDES-000003", "t": "Document and Data Extraction Signature Database: Extract Table (aligned)", "c": 0, "g": "tables"}
+{"id": "JAH-DDES-000004", "t": "Document and Data Extraction Signature Database: Extract Dates", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000005", "t": "Document and Data Extraction Signature Database: Extract Money", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000006", "t": "Document and Data Extraction Signature Database: Extract Emails", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000007", "t": "Document and Data Extraction Signature Database: Extract Phones", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000008", "t": "Document and Data Extraction Signature Database: Extract Headings", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000009", "t": "Document and Data Extraction Signature Database: Extract Lists", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000010", "t": "Document and Data Extraction Signature Database: Clean OCR Text", "c": 0, "g": "scanned"}
+{"id": "JAH-DDES-000011", "t": "Document and Data Extraction Signature Database: Dehyphenate", "c": 0, "g": "scanned"}
+{"id": "JAH-DDES-000012", "t": "Document and Data Extraction Signature Database: Extract URLs", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000013", "t": "Document and Data Extraction Signature Database: Extract Units", "c": 0, "g": "technical"}
+{"id": "JAH-DDES-000014", "t": "Document and Data Extraction Signature Database: Normalize Whitespace", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000015", "t": "Document and Data Extraction Signature Database: Split Sentences", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000016", "t": "Document and Data Extraction Signature Database: Extract Acronyms", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000017", "t": "Document and Data Extraction Signature Database: Detect Language", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000018", "t": "Document and Data Extraction Signature Database: Extract Footnotes", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000019", "t": "Document and Data Extraction Signature Database: Table to JSON", "c": 0, "g": "tables"}
+{"id": "JAH-DDES-000020", "t": "Document and Data Extraction Signature Database: Deduplicate Lines", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000021", "t": "Document and Data Extraction Signature Database: Extract Signatures", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000022", "t": "Document and Data Extraction Signature Database: Section Split", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000023", "t": "Document and Data Extraction Signature Database: Extract Totals", "c": 0, "g": "tables"}
+{"id": "JAH-DDES-000024", "t": "Document and Data Extraction Signature Database: Confidence Scoring", "c": 0, "g": "quality"}
+{"id": "JAH-DDES-000025", "t": "Document and Data Extraction Signature Database: Merge Extractions", "c": 0, "g": "quality"}
+{"id": "JAH-DDES-000026", "t": "Document and Data Extraction Signature Database: Validate Schema", "c": 0, "g": "quality"}
+{"id": "JAH-DDES-000027", "t": "Document and Data Extraction Signature Database: Extract Metadata", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000028", "t": "Document and Data Extraction Signature Database: Redact PII", "c": 0, "g": "quality"}
+{"id": "JAH-DDES-000029", "t": "Document and Data Extraction Signature Database: Chunk Text", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000030", "t": "Document and Data Extraction Signature Database: Overlap Chunks", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000031", "t": "Document and Data Extraction Signature Database: Extract Citations", "c": 0, "g": "structure"}
+{"id": "JAH-DDES-000032", "t": "Document and Data Extraction Signature Database: Detect Encoding", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000033", "t": "Document and Data Extraction Signature Database: Normalize Dates", "c": 0, "g": "text"}
+{"id": "JAH-DDES-000034", "t": "Document and Data Extraction Signature Database: Capstone: Document Pipeline", "c": 0, "g": "structure"}

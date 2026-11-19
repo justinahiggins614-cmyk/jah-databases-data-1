@@ -1,0 +1,34 @@
+{"id": "JAH-OWL-000001", "t": "Great Horned Owl (Bubo virginianus)", "g": "Foundations"}
+{"id": "JAH-OWL-000002", "t": "Eurasian Eagle-Owl (Bubo bubo)", "g": "Foundations"}
+{"id": "JAH-OWL-000003", "t": "Snowy Owl (Bubo scandiacus)", "g": "Foundations"}
+{"id": "JAH-OWL-000004", "t": "Barn Owl (Tyto alba)", "g": "Foundations"}
+{"id": "JAH-OWL-000005", "t": "Barred Owl (Strix varia)", "g": "Foundations"}
+{"id": "JAH-OWL-000006", "t": "Great Gray Owl (Strix nebulosa)", "g": "Foundations"}
+{"id": "JAH-OWL-000007", "t": "Tawny Owl (Strix aluco)", "g": "Foundations"}
+{"id": "JAH-OWL-000008", "t": "Spotted Owl (Strix occidentalis)", "g": "Foundations"}
+{"id": "JAH-OWL-000009", "t": "Long-eared Owl (Asio otus)", "g": "Foundations"}
+{"id": "JAH-OWL-000010", "t": "Short-eared Owl (Asio flammeus)", "g": "Foundations"}
+{"id": "JAH-OWL-000011", "t": "Eastern Screech-Owl (Megascops asio)", "g": "Foundations"}
+{"id": "JAH-OWL-000012", "t": "Western Screech-Owl (Megascops kennicottii)", "g": "Compounded"}
+{"id": "JAH-OWL-000013", "t": "Northern Saw-whet Owl (Aegolius acadicus)", "g": "Compounded"}
+{"id": "JAH-OWL-000014", "t": "Boreal Owl (Aegolius funereus)", "g": "Compounded"}
+{"id": "JAH-OWL-000015", "t": "Burrowing Owl (Athene cunicularia)", "g": "Compounded"}
+{"id": "JAH-OWL-000016", "t": "Little Owl (Athene noctua)", "g": "Compounded"}
+{"id": "JAH-OWL-000017", "t": "Elf Owl (Micrathene whitneyi)", "g": "Compounded"}
+{"id": "JAH-OWL-000018", "t": "Northern Pygmy-Owl (Glaucidium gnoma)", "g": "Compounded"}
+{"id": "JAH-OWL-000019", "t": "Eurasian Pygmy Owl (Glaucidium passerinum)", "g": "Compounded"}
+{"id": "JAH-OWL-000020", "t": "Northern Hawk Owl (Surnia ulula)", "g": "Compounded"}
+{"id": "JAH-OWL-000021", "t": "Spectacled Owl (Pulsatrix perspicillata)", "g": "Compounded"}
+{"id": "JAH-OWL-000022", "t": "Mottled Owl (Strix virgata)", "g": "Compounded"}
+{"id": "JAH-OWL-000023", "t": "Striped Owl (Asio clamator)", "g": "Compounded"}
+{"id": "JAH-OWL-000024", "t": "Stygian Owl (Asio stygius)", "g": "Advanced"}
+{"id": "JAH-OWL-000025", "t": "Philippine Eagle-Owl (Ketupa philippensis)", "g": "Advanced"}
+{"id": "JAH-OWL-000026", "t": "Blakiston's Fish Owl (Ketupa blakistoni)", "g": "Advanced"}
+{"id": "JAH-OWL-000027", "t": "Tawny Fish Owl (Ketupa flavipes)", "g": "Advanced"}
+{"id": "JAH-OWL-000028", "t": "Brown Fish Owl (Ketupa zeylonensis)", "g": "Advanced"}
+{"id": "JAH-OWL-000029", "t": "Verreaux's Eagle-Owl (Ketupa lactea)", "g": "Advanced"}
+{"id": "JAH-OWL-000030", "t": "Powerful Owl (Ninox strenua)", "g": "Advanced"}
+{"id": "JAH-OWL-000031", "t": "Southern Boobook (Ninox boobook)", "g": "Advanced"}
+{"id": "JAH-OWL-000032", "t": "Morepork (Ninox novaeseelandiae)", "g": "Advanced"}
+{"id": "JAH-OWL-000033", "t": "Oriental Scops Owl (Otus sunia)", "g": "Advanced"}
+{"id": "JAH-OWL-000034", "t": "Eurasian Scops Owl (Otus scops)", "g": "Advanced"}

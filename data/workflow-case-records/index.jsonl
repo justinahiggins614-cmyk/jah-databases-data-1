@@ -1,0 +1,34 @@
+{"id": "JAH-WFR-000001", "t": "What Is a Workflow", "g": "Foundations"}
+{"id": "JAH-WFR-000002", "t": "Tasks, Cases, and Processes", "g": "Foundations"}
+{"id": "JAH-WFR-000003", "t": "Ownership and Roles", "g": "Foundations"}
+{"id": "JAH-WFR-000004", "t": "Status and the Status Lifecycle", "g": "Foundations"}
+{"id": "JAH-WFR-000005", "t": "Deadlines and Due Dates", "g": "Foundations"}
+{"id": "JAH-WFR-000006", "t": "Handoffs Between People and Teams", "g": "Foundations"}
+{"id": "JAH-WFR-000007", "t": "The Audit Trail of Status Changes", "g": "Foundations"}
+{"id": "JAH-WFR-000008", "t": "Outcomes Versus Outputs", "g": "Foundations"}
+{"id": "JAH-WFR-000009", "t": "A Day in the Life of a Simple Workflow", "g": "Foundations"}
+{"id": "JAH-WFR-000010", "t": "State Machines and Transition Rules", "g": "Compounded"}
+{"id": "JAH-WFR-000011", "t": "Basic Workflow Patterns: Sequence, Parallel, and Choice", "g": "Compounded"}
+{"id": "JAH-WFR-000012", "t": "The Four Dependency Types", "g": "Compounded"}
+{"id": "JAH-WFR-000013", "t": "Advanced Control-Flow Patterns", "g": "Compounded"}
+{"id": "JAH-WFR-000014", "t": "BPMN 2.0 Notation Basics", "g": "Compounded"}
+{"id": "JAH-WFR-000015", "t": "Critical Path and Schedule Math", "g": "Compounded"}
+{"id": "JAH-WFR-000016", "t": "SLA Fundamentals and Tracking", "g": "Compounded"}
+{"id": "JAH-WFR-000017", "t": "Case Management Lifecycles", "g": "Compounded"}
+{"id": "JAH-WFR-000018", "t": "Escalation Paths and Tiers", "g": "Compounded"}
+{"id": "JAH-WFR-000019", "t": "Triage and Prioritization", "g": "Compounded"}
+{"id": "JAH-WFR-000020", "t": "Queues and Little's Law", "g": "Compounded"}
+{"id": "JAH-WFR-000021", "t": "Multi-Instance and Loop Patterns", "g": "Compounded"}
+{"id": "JAH-WFR-000022", "t": "Cancellation, Exceptions, and Compensation", "g": "Compounded"}
+{"id": "JAH-WFR-000023", "t": "Handoff Protocols and Acceptance Criteria", "g": "Compounded"}
+{"id": "JAH-WFR-000024", "t": "BPMN 2.0 Execution Semantics", "g": "Advanced"}
+{"id": "JAH-WFR-000025", "t": "Orchestration Versus Choreography", "g": "Advanced"}
+{"id": "JAH-WFR-000026", "t": "Sagas and Long-Running Transactions", "g": "Advanced"}
+{"id": "JAH-WFR-000027", "t": "Deadlock Detection in Dependency Graphs", "g": "Advanced"}
+{"id": "JAH-WFR-000028", "t": "SLA Breach Prediction", "g": "Advanced"}
+{"id": "JAH-WFR-000029", "t": "Hash-Chained Audit Trails", "g": "Advanced"}
+{"id": "JAH-WFR-000030", "t": "Cycle Time and Flow Analytics", "g": "Advanced"}
+{"id": "JAH-WFR-000031", "t": "Versioning Running Workflow Instances", "g": "Advanced"}
+{"id": "JAH-WFR-000032", "t": "Dynamic Escalation Routing", "g": "Advanced"}
+{"id": "JAH-WFR-000033", "t": "Workflow Engines and Durable Execution", "g": "Advanced"}
+{"id": "JAH-WFR-000034", "t": "Case Records at Scale", "g": "Advanced"}

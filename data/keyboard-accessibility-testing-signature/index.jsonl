@@ -1,0 +1,34 @@
+{"id": "JAH-KAT-000001", "t": "Signature Why Keyboard Testing (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000002", "t": "Signature Unplug the Mouse (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000003", "t": "Signature Tab Order Logic (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000004", "t": "Signature Focus Visibility (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000005", "t": "Signature Keyboard Traps (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000006", "t": "Signature Skip Links (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000007", "t": "Signature Shortcuts (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000008", "t": "Signature Modals and Focus (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000009", "t": "Signature Dropdowns and Menus (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000010", "t": "Signature The Keyboard Test Playbook (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000011", "t": "Signature ARIA for Keyboard (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000012", "t": "Signature Roving Tabindex (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000013", "t": "Signature Focus on SPAs (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000014", "t": "Signature Testing Tools (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000015", "t": "Signature Screen Reader + Keyboard (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000016", "t": "Signature Forms Keyboard Testing (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000017", "t": "Signature Tables Keyboard (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000018", "t": "Signature Carousels Keyboard (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000019", "t": "Signature Video Player Keyboard (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000020", "t": "Signature Drag-and-Drop Alternatives (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000021", "t": "Signature Timeout Adjustments (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000022", "t": "Signature Motion Sensitivity (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000023", "t": "Signature Character Key Shortcuts (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000024", "t": "Signature Testing Checklists (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000025", "t": "Signature User Testing (Disabled Users) (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000026", "t": "Signature Regression Testing (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000027", "t": "Signature Keyboard Testing Reports (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000028", "t": "Signature Training Teams (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000029", "t": "Signature Legal Risk (ADA) (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000030", "t": "Signature Mobile Keyboard A11y (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000031", "t": "Signature Gaming Keyboard A11y (Signature Edition)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000032", "t": "Signature Documentation (Signature Edition)", "g": "focus-management"}
+{"id": "JAH-KAT-000033", "t": "Signature The Keyboard-First Manifesto (Signature Edition)", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000034", "t": "Signature Annual Keyboard Audit (Signature Edition)", "g": "keyboard-testing-methods"}

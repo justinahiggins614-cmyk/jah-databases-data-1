@@ -1,0 +1,34 @@
+{"id": "JAH-AIPES-000001", "t": "Prompt Anatomy (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000002", "t": "Being Specific (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000003", "t": "Context Setting (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000004", "t": "Few-Shot Examples (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000005", "t": "Zero-Shot Instructions (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000006", "t": "Chain of Thought (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000007", "t": "Role Prompting (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000008", "t": "Format Constraints (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000009", "t": "Decomposing Tasks (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000010", "t": "Iterative Refinement (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000011", "t": "System Prompts (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AIPES-000012", "t": "Prompt Templates (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000013", "t": "Image Prompting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000014", "t": "Code Prompting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000015", "t": "Prompt Injection Awareness (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000016", "t": "Evaluating Outputs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000017", "t": "Prompt Libraries (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000018", "t": "Collaborative Prompting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000019", "t": "Domain Prompting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000020", "t": "Multilingual Prompting (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000021", "t": "Long Context Use (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000022", "t": "Prompt Chaining (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000023", "t": "Negative Prompts (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AIPES-000024", "t": "Tone and Style Control (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000025", "t": "Prompt Testing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000026", "t": "Cost Awareness (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000027", "t": "Teaching Prompting (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000028", "t": "Prompt Anti-Patterns (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000029", "t": "Staying Current (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000030", "t": "The Prompt Audit (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000031", "t": "Prompt Versioning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000032", "t": "Few-Shot Selection (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000033", "t": "Instruction Hierarchy (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AIPES-000034", "t": "Prompt Debugging (Signature Edition)", "g": "Advanced"}

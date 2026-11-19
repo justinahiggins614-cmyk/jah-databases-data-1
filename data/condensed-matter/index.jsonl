@@ -1,0 +1,34 @@
+{"id": "JAH-CONDM-000001", "t": "What Is Condensed Matter Physics", "g": "Fundamentals"}
+{"id": "JAH-CONDM-000002", "t": "States of Matter Revisited", "g": "Crystals"}
+{"id": "JAH-CONDM-000003", "t": "Crystal Lattices and Bravais Lattices", "g": "Crystals"}
+{"id": "JAH-CONDM-000004", "t": "Unit Cells and Miller Indices", "g": "Crystals"}
+{"id": "JAH-CONDM-000005", "t": "X-ray Diffraction and Bragg's Law", "g": "Crystals"}
+{"id": "JAH-CONDM-000006", "t": "Bonding in Solids", "g": "Bonding"}
+{"id": "JAH-CONDM-000007", "t": "The Free Electron Model", "g": "Electrons"}
+{"id": "JAH-CONDM-000008", "t": "Electrical Conductivity Basics", "g": "Electrons"}
+{"id": "JAH-CONDM-000009", "t": "Insulators, Semiconductors, Conductors", "g": "Electrons"}
+{"id": "JAH-CONDM-000010", "t": "Thermal Properties: Heat Capacity", "g": "Thermal"}
+{"id": "JAH-CONDM-000011", "t": "Magnetism Basics: Dia, Para, Ferro", "g": "Magnetism"}
+{"id": "JAH-CONDM-000012", "t": "Band Theory: Nearly Free Electrons", "g": "Bands"}
+{"id": "JAH-CONDM-000013", "t": "Band Gaps and Semiconductors", "g": "Bands"}
+{"id": "JAH-CONDM-000014", "t": "The p-n Junction", "g": "Devices"}
+{"id": "JAH-CONDM-000015", "t": "Lattice Vibrations: Phonons", "g": "Lattice"}
+{"id": "JAH-CONDM-000016", "t": "Specific Heat: Einstein and Debye Models", "g": "Thermal"}
+{"id": "JAH-CONDM-000017", "t": "Diamagnetism and Paramagnetism (Curie)", "g": "Magnetism"}
+{"id": "JAH-CONDM-000018", "t": "Ferromagnetism: Exchange and Domains", "g": "Magnetism"}
+{"id": "JAH-CONDM-000019", "t": "Antiferromagnetism and Ferrimagnetism", "g": "Magnetism"}
+{"id": "JAH-CONDM-000020", "t": "Dielectrics and Ferroelectricity", "g": "Dielectrics"}
+{"id": "JAH-CONDM-000021", "t": "Optical Properties of Solids", "g": "Optical"}
+{"id": "JAH-CONDM-000022", "t": "Defects: Vacancies, Dislocations", "g": "Defects"}
+{"id": "JAH-CONDM-000023", "t": "Amorphous Solids and Glasses", "g": "Disorder"}
+{"id": "JAH-CONDM-000024", "t": "Tight-Binding Model", "g": "Bands"}
+{"id": "JAH-CONDM-000025", "t": "Fermi Surfaces", "g": "Bands"}
+{"id": "JAH-CONDM-000026", "t": "Superconductivity: Phenomena", "g": "Superconductivity"}
+{"id": "JAH-CONDM-000027", "t": "BCS Theory (Introduction)", "g": "Superconductivity"}
+{"id": "JAH-CONDM-000028", "t": "High-Tc Superconductors", "g": "Superconductivity"}
+{"id": "JAH-CONDM-000029", "t": "The Quantum Hall Effect", "g": "Topology"}
+{"id": "JAH-CONDM-000030", "t": "Topological Insulators (Introduction)", "g": "Topology"}
+{"id": "JAH-CONDM-000031", "t": "Phase Transitions: Landau Theory", "g": "Phase"}
+{"id": "JAH-CONDM-000032", "t": "Critical Phenomena (Introduction)", "g": "Phase"}
+{"id": "JAH-CONDM-000033", "t": "Low-Dimensional Systems: Graphene", "g": "Low-D"}
+{"id": "JAH-CONDM-000034", "t": "Computational Condensed Matter (DFT Introduction)", "g": "Computational"}

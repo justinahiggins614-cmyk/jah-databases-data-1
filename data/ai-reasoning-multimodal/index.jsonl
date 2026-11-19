@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-MM-000001", "t": "What multimodal is: reasoning across senses", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000002", "t": "Modalities: the senses of the machine", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000003", "t": "Image understanding basics: seeing", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000004", "t": "Text about images: captions and descriptions", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000005", "t": "Audio basics: hearing", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000006", "t": "Video basics: seeing in time", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000007", "t": "The first multimodal task: a complete example", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000008", "t": "Describing images: the faithful caption", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000009", "t": "Answering about images: visual QA", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000010", "t": "Modality limits: what each sense cannot do", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000011", "t": "The honest perceiver: the foundation standard", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MM-000012", "t": "Vision-language models: the combined mind", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000013", "t": "CLIP-style alignment: matching across senses", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000014", "t": "Cross-modal retrieval: finding across senses", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000015", "t": "Fusion strategies: combining the senses", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000016", "t": "Grounding: tying words to the world", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000017", "t": "Referring expressions: which one", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000018", "t": "Chart understanding: reading the visual data", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000019", "t": "Document images: pages as pictures", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000020", "t": "Video understanding: the moving picture", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000021", "t": "Audio understanding: the deep listen", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000022", "t": "Evaluation: measuring the multimodal", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000023", "t": "Any-to-any models: the universal interface", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MM-000024", "t": "Embodied multimodal: the situated senses", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000025", "t": "3D understanding: depth and space", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000026", "t": "Temporal reasoning: time across modalities", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000027", "t": "Multimodal generation: creating across senses", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000028", "t": "Deepfake awareness: the honest senses", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000029", "t": "The fused mind: integration at depth", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000030", "t": "The complete perceiver: the final standard", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000031", "t": "Tactile and sensor modalities: beyond sight and sound", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000032", "t": "Multimodal dialogue: conversation across senses", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000033", "t": "Cross-modal translation: describing in another sense", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MM-000034", "t": "The sensory audit: verifying perception", "g": "multimodal-advanced"}

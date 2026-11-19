@@ -1,0 +1,34 @@
+{"id": "JAH-DATACPS-000001", "t": "Profiling Data (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000002", "t": "Missing Values (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000003", "t": "Duplicate Detection (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000004", "t": "Outlier Treatment (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000005", "t": "Standardizing Formats (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000006", "t": "Text Cleaning (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000007", "t": "Validating Ranges (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000008", "t": "Referential Integrity (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000009", "t": "Cleaning Pipelines (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000010", "t": "Documenting Decisions (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000011", "t": "Cleaning for Analysis (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DATACPS-000012", "t": "Teaching Data Cleaning (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000013", "t": "The Data Quality Review (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000014", "t": "Handling Categorical Data (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000015", "t": "Date and Time Cleaning (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000016", "t": "Numeric Scaling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000017", "t": "Merging Datasets (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000018", "t": "Reshaping Data (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000019", "t": "Sampling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000020", "t": "Data Entry Errors (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000021", "t": "Address Standardization (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000022", "t": "Name Matching (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000023", "t": "Currency and Units (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DATACPS-000024", "t": "Survey Data Cleaning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000025", "t": "Time Series Gaps (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000026", "t": "Cleaning Logs (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000027", "t": "Automated Checks (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000028", "t": "Cleaning at Scale (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000029", "t": "Privacy in Cleaning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000030", "t": "Versioning Cleaned Data (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000031", "t": "Collaborative Cleaning (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000032", "t": "When to Stop (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000033", "t": "Cleaning Checklist (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DATACPS-000034", "t": "The Data Quality Report (Signature Edition)", "g": "Advanced"}

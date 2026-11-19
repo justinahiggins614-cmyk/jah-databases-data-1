@@ -1,0 +1,34 @@
+{"id": "JAH-DQR-000001", "t": "Signature The Six Dimensions (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000002", "t": "Signature Data Profiling (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000003", "t": "Signature Completeness Rules (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000004", "t": "Signature Uniqueness Rules (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000005", "t": "Signature Validity Rules (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000006", "t": "Signature Consistency Rules (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000007", "t": "Signature Accuracy Sampling (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000008", "t": "Signature Timeliness Rules (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000009", "t": "Signature Schema Validation (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000010", "t": "Signature Great Expectations Intro (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000011", "t": "Signature dbt Tests (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000012", "t": "Signature Anomaly Detection (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000013", "t": "Signature Data Quality Dashboards (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000014", "t": "Signature SLA/SLO for Data (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000015", "t": "Signature Data Contracts (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000016", "t": "Signature Quarantine Patterns (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000017", "t": "Signature Root Cause Analysis (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000018", "t": "Signature Data Lineage (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000019", "t": "Signature Master Data Management (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000020", "t": "Signature Reference Data Management (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000021", "t": "Signature Data Quality Roles (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000022", "t": "Signature Measuring Quality ROI (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000023", "t": "Signature The DQ Playbook (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000024", "t": "Signature Null Handling Rules (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000025", "t": "Signature Duplicate Detection Methods (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000026", "t": "Signature Outlier Treatment (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000027", "t": "Signature Standardization Rules (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000028", "t": "Signature Enrichment Validation (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000029", "t": "Signature Pipeline Data Tests (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000030", "t": "Signature Backfill Quality (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000031", "t": "Signature Streaming Quality (Signature Edition)", "g": "quality-profiling"}
+{"id": "JAH-DQR-000032", "t": "Signature DQ in ML Pipelines (Signature Edition)", "g": "validation-rules"}
+{"id": "JAH-DQR-000033", "t": "Signature Data Quality Scorecards (Signature Edition)", "g": "quality-monitoring"}
+{"id": "JAH-DQR-000034", "t": "Signature Crowdsourced Quality (Signature Edition)", "g": "quality-profiling"}

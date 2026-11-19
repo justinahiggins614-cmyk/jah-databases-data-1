@@ -1,0 +1,34 @@
+{"id": "JAH-HKVES-000001", "t": "Historical Knowledge and Version Evolution Signature Database: Fact Lifecycle", "c": 0, "g": "foundations"}
+{"id": "JAH-HKVES-000002", "t": "Historical Knowledge and Version Evolution Signature Database: Theory Change", "c": 0, "g": "foundations"}
+{"id": "JAH-HKVES-000003", "t": "Historical Knowledge and Version Evolution Signature Database: Paradigm Shift", "c": 0, "g": "foundations"}
+{"id": "JAH-HKVES-000004", "t": "Historical Knowledge and Version Evolution Signature Database: Version History", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000005", "t": "Historical Knowledge and Version Evolution Signature Database: Deprecation", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000006", "t": "Historical Knowledge and Version Evolution Signature Database: Supersession", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000007", "t": "Historical Knowledge and Version Evolution Signature Database: Provenance Chain", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000008", "t": "Historical Knowledge and Version Evolution Signature Database: Source Criticism", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000009", "t": "Historical Knowledge and Version Evolution Signature Database: Anachronism", "c": 0, "g": "pitfalls"}
+{"id": "JAH-HKVES-000010", "t": "Historical Knowledge and Version Evolution Signature Database: Presentism", "c": 0, "g": "pitfalls"}
+{"id": "JAH-HKVES-000011", "t": "Historical Knowledge and Version Evolution Signature Database: Primary Source", "c": 0, "g": "sources"}
+{"id": "JAH-HKVES-000012", "t": "Historical Knowledge and Version Evolution Signature Database: Secondary Source", "c": 0, "g": "sources"}
+{"id": "JAH-HKVES-000013", "t": "Historical Knowledge and Version Evolution Signature Database: Tertiary Source", "c": 0, "g": "sources"}
+{"id": "JAH-HKVES-000014", "t": "Historical Knowledge and Version Evolution Signature Database: Oral History", "c": 0, "g": "sources"}
+{"id": "JAH-HKVES-000015", "t": "Historical Knowledge and Version Evolution Signature Database: Archive", "c": 0, "g": "sources"}
+{"id": "JAH-HKVES-000016", "t": "Historical Knowledge and Version Evolution Signature Database: Chronology", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000017", "t": "Historical Knowledge and Version Evolution Signature Database: Periodization", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000018", "t": "Historical Knowledge and Version Evolution Signature Database: Technology Generations", "c": 0, "g": "technology"}
+{"id": "JAH-HKVES-000019", "t": "Historical Knowledge and Version Evolution Signature Database: Theory: Geocentrism", "c": 0, "g": "theories"}
+{"id": "JAH-HKVES-000020", "t": "Historical Knowledge and Version Evolution Signature Database: Theory: Phlogiston", "c": 0, "g": "theories"}
+{"id": "JAH-HKVES-000021", "t": "Historical Knowledge and Version Evolution Signature Database: Theory: Humors", "c": 0, "g": "theories"}
+{"id": "JAH-HKVES-000022", "t": "Historical Knowledge and Version Evolution Signature Database: Discovery: Penicillin", "c": 0, "g": "discoveries"}
+{"id": "JAH-HKVES-000023", "t": "Historical Knowledge and Version Evolution Signature Database: Invention: Printing", "c": 0, "g": "discoveries"}
+{"id": "JAH-HKVES-000024", "t": "Historical Knowledge and Version Evolution Signature Database: Standard: Metric", "c": 0, "g": "standards"}
+{"id": "JAH-HKVES-000025", "t": "Historical Knowledge and Version Evolution Signature Database: Unit Redefinition", "c": 0, "g": "standards"}
+{"id": "JAH-HKVES-000026", "t": "Historical Knowledge and Version Evolution Signature Database: Calendar Reform", "c": 0, "g": "standards"}
+{"id": "JAH-HKVES-000027", "t": "Historical Knowledge and Version Evolution Signature Database: Time Zones", "c": 0, "g": "standards"}
+{"id": "JAH-HKVES-000028", "t": "Historical Knowledge and Version Evolution Signature Database: Changelog", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000029", "t": "Historical Knowledge and Version Evolution Signature Database: Revisionism", "c": 0, "g": "pitfalls"}
+{"id": "JAH-HKVES-000030", "t": "Historical Knowledge and Version Evolution Signature Database: Continuity", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000031", "t": "Historical Knowledge and Version Evolution Signature Database: Discontinuity", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000032", "t": "Historical Knowledge and Version Evolution Signature Database: Historical Analogy", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000033", "t": "Historical Knowledge and Version Evolution Signature Database: Counterfactual", "c": 0, "g": "methods"}
+{"id": "JAH-HKVES-000034", "t": "Historical Knowledge and Version Evolution Signature Database: Capstone: Historical Record", "c": 0, "g": "methods"}

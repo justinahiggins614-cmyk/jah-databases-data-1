@@ -1,0 +1,34 @@
+{"id": "JAH-TMTD-000001", "t": "AI Testing and Debugging Database: Unit Testing Fundamentals", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000002", "t": "AI Testing and Debugging Database: Test Doubles: Mocks, Stubs, Fakes", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000003", "t": "AI Testing and Debugging Database: Testing Async Code", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000004", "t": "AI Testing and Debugging Database: Property-Based Testing", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000005", "t": "AI Testing and Debugging Database: Snapshot Testing: When and How", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000006", "t": "AI Testing and Debugging Database: Testing Error Paths", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000007", "t": "AI Testing and Debugging Database: Test Coverage That Means Something", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000008", "t": "AI Testing and Debugging Database: API Integration Testing", "c": 0, "g": "integration-testing"}
+{"id": "JAH-TMTD-000009", "t": "AI Testing and Debugging Database: Database Integration Testing", "c": 0, "g": "integration-testing"}
+{"id": "JAH-TMTD-000010", "t": "AI Testing and Debugging Database: Contract Testing Between Services", "c": 0, "g": "integration-testing"}
+{"id": "JAH-TMTD-000011", "t": "AI Testing and Debugging Database: Testing Third-Party Integrations", "c": 0, "g": "integration-testing"}
+{"id": "JAH-TMTD-000012", "t": "AI Testing and Debugging Database: Test Data Management", "c": 0, "g": "integration-testing"}
+{"id": "JAH-TMTD-000013", "t": "AI Testing and Debugging Database: Playwright E2E: First Real Test", "c": 0, "g": "e2e-testing"}
+{"id": "JAH-TMTD-000014", "t": "AI Testing and Debugging Database: E2E Test Data and Isolation", "c": 0, "g": "e2e-testing"}
+{"id": "JAH-TMTD-000015", "t": "AI Testing and Debugging Database: Visual Regression Testing", "c": 0, "g": "e2e-testing"}
+{"id": "JAH-TMTD-000016", "t": "AI Testing and Debugging Database: Testing on Real Devices", "c": 0, "g": "e2e-testing"}
+{"id": "JAH-TMTD-000017", "t": "AI Testing and Debugging Database: Load Testing Basics", "c": 0, "g": "e2e-testing"}
+{"id": "JAH-TMTD-000018", "t": "AI Testing and Debugging Database: Reading Stack Traces", "c": 0, "g": "debugging-techniques"}
+{"id": "JAH-TMTD-000019", "t": "AI Testing and Debugging Database: Binary Search Debugging (Bisect)", "c": 0, "g": "debugging-techniques"}
+{"id": "JAH-TMTD-000020", "t": "AI Testing and Debugging Database: Rubber-Duck and Systematic Logging", "c": 0, "g": "debugging-techniques"}
+{"id": "JAH-TMTD-000021", "t": "AI Testing and Debugging Database: Debugging Production (Safely)", "c": 0, "g": "debugging-techniques"}
+{"id": "JAH-TMTD-000022", "t": "AI Testing and Debugging Database: Memory Leak Hunting", "c": 0, "g": "debugging-techniques"}
+{"id": "JAH-TMTD-000023", "t": "AI Testing and Debugging Database: Race Condition Reproduction", "c": 0, "g": "debugging-techniques"}
+{"id": "JAH-TMTD-000024", "t": "AI Testing and Debugging Database: CI Pipeline for Tests", "c": 0, "g": "test-automation"}
+{"id": "JAH-TMTD-000025", "t": "AI Testing and Debugging Database: Flaky Test Quarantine", "c": 0, "g": "test-automation"}
+{"id": "JAH-TMTD-000026", "t": "AI Testing and Debugging Database: Mutation Testing in CI", "c": 0, "g": "test-automation"}
+{"id": "JAH-TMTD-000027", "t": "AI Testing and Debugging Database: Test Parallelization", "c": 0, "g": "test-automation"}
+{"id": "JAH-TMTD-000028", "t": "AI Testing and Debugging Database: Unit Testing Fundamentals (variant 1)", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000029", "t": "AI Testing and Debugging Database: Test Doubles: Mocks, Stubs, Fakes (variant 1)", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000030", "t": "AI Testing and Debugging Database: Testing Async Code (variant 1)", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000031", "t": "AI Testing and Debugging Database: Property-Based Testing (variant 1)", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000032", "t": "AI Testing and Debugging Database: Snapshot Testing: When and How (variant 1)", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000033", "t": "AI Testing and Debugging Database: Testing Error Paths (variant 1)", "c": 0, "g": "unit-testing"}
+{"id": "JAH-TMTD-000034", "t": "AI Testing and Debugging Database: Test Coverage That Means Something (variant 1)", "c": 0, "g": "unit-testing"}

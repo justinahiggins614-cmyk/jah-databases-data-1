@@ -1,0 +1,34 @@
+{"id": "JAH-SMP-000001", "t": "Symbolic Mathematics and Proofs Signature Database: Sum of First n Integers", "c": 0, "g": "algebra"}
+{"id": "JAH-SMP-000002", "t": "Symbolic Mathematics and Proofs Signature Database: Difference of Squares", "c": 0, "g": "algebra"}
+{"id": "JAH-SMP-000003", "t": "Symbolic Mathematics and Proofs Signature Database: Quadratic Formula", "c": 0, "g": "algebra"}
+{"id": "JAH-SMP-000004", "t": "Symbolic Mathematics and Proofs Signature Database: Binomial Theorem (n=2,3)", "c": 0, "g": "algebra"}
+{"id": "JAH-SMP-000005", "t": "Symbolic Mathematics and Proofs Signature Database: Sum of Geometric Series", "c": 0, "g": "algebra"}
+{"id": "JAH-SMP-000006", "t": "Symbolic Mathematics and Proofs Signature Database: AM-GM Inequality (2 variables)", "c": 0, "g": "algebra"}
+{"id": "JAH-SMP-000007", "t": "Symbolic Mathematics and Proofs Signature Database: De Morgan Laws", "c": 0, "g": "logic"}
+{"id": "JAH-SMP-000008", "t": "Symbolic Mathematics and Proofs Signature Database: Modus Ponens", "c": 0, "g": "logic"}
+{"id": "JAH-SMP-000009", "t": "Symbolic Mathematics and Proofs Signature Database: Proof by Induction: Sum of Odds", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000010", "t": "Symbolic Mathematics and Proofs Signature Database: Euclid: Infinitely Many Primes", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000011", "t": "Symbolic Mathematics and Proofs Signature Database: Irrationality of √2", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000012", "t": "Symbolic Mathematics and Proofs Signature Database: Derivative of x² from First Principles", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000013", "t": "Symbolic Mathematics and Proofs Signature Database: Fundamental Theorem Preview: ∫2x dx = x²", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000014", "t": "Symbolic Mathematics and Proofs Signature Database: Chain Rule Example", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000015", "t": "Symbolic Mathematics and Proofs Signature Database: Pigeonhole Principle", "c": 0, "g": "combinatorics"}
+{"id": "JAH-SMP-000016", "t": "Symbolic Mathematics and Proofs Signature Database: Binomial Coefficient Symmetry", "c": 0, "g": "combinatorics"}
+{"id": "JAH-SMP-000017", "t": "Symbolic Mathematics and Proofs Signature Database: Pascal Identity", "c": 0, "g": "combinatorics"}
+{"id": "JAH-SMP-000018", "t": "Symbolic Mathematics and Proofs Signature Database: Angles of a Triangle Sum to 180°", "c": 0, "g": "geometry"}
+{"id": "JAH-SMP-000019", "t": "Symbolic Mathematics and Proofs Signature Database: Pythagorean Theorem (Rearrangement)", "c": 0, "g": "geometry"}
+{"id": "JAH-SMP-000020", "t": "Symbolic Mathematics and Proofs Signature Database: Circle Area via Polygons", "c": 0, "g": "geometry"}
+{"id": "JAH-SMP-000021", "t": "Symbolic Mathematics and Proofs Signature Database: Derivative of sin(x)", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000022", "t": "Symbolic Mathematics and Proofs Signature Database: Integration by Parts Instance", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000023", "t": "Symbolic Mathematics and Proofs Signature Database: Contrapositive Equivalence", "c": 0, "g": "logic"}
+{"id": "JAH-SMP-000024", "t": "Symbolic Mathematics and Proofs Signature Database: Divisibility by 3 Rule", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000025", "t": "Symbolic Mathematics and Proofs Signature Database: Handshake Lemma", "c": 0, "g": "combinatorics"}
+{"id": "JAH-SMP-000026", "t": "Symbolic Mathematics and Proofs Signature Database: Euler's Formula V−E+F=2", "c": 0, "g": "geometry"}
+{"id": "JAH-SMP-000027", "t": "Symbolic Mathematics and Proofs Signature Database: Squeeze Theorem Instance", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000028", "t": "Symbolic Mathematics and Proofs Signature Database: Cantor: Rationals Are Countable", "c": 0, "g": "logic"}
+{"id": "JAH-SMP-000029", "t": "Symbolic Mathematics and Proofs Signature Database: GCD × LCM = Product", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000030", "t": "Symbolic Mathematics and Proofs Signature Database: Derivative of a Constant Is Zero", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000031", "t": "Symbolic Mathematics and Proofs Signature Database: Sum of Two Evens Is Even", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000032", "t": "Symbolic Mathematics and Proofs Signature Database: Product Rule Instance", "c": 0, "g": "calculus"}
+{"id": "JAH-SMP-000033", "t": "Symbolic Mathematics and Proofs Signature Database: Irrationality of e (Sketch)", "c": 0, "g": "number-theory"}
+{"id": "JAH-SMP-000034", "t": "Symbolic Mathematics and Proofs Signature Database: Tower of Hanoi Recurrence", "c": 0, "g": "combinatorics"}

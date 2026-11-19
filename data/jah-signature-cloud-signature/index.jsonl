@@ -1,0 +1,34 @@
+{"id": "JAH-CLDS-000001", "t": "What Cloud Computing Is (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000002", "t": "The Five Essential Cloud Characteristics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000003", "t": "Service Models: IaaS, PaaS, and SaaS (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000004", "t": "Deployment Models: Public, Private, Hybrid, and Community (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000005", "t": "The Shared Responsibility Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000006", "t": "Virtualization and Hypervisors (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000007", "t": "Regions, Availability Zones, and Edge Locations (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000008", "t": "Virtual Networking: VPCs, Subnets, and Security Groups (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000009", "t": "Cloud Storage Types: Object, Block, and File (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000010", "t": "Identity and Access Management Basics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000011", "t": "Pay-as-You-Go Pricing and Measured Service (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000012", "t": "Cloud APIs and the Control Plane (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CLDS-000013", "t": "Virtual Machines and Instance Families (Signature Edition)", "g": "Compute"}
+{"id": "JAH-CLDS-000014", "t": "Containers and Container Images (Signature Edition)", "g": "Compute"}
+{"id": "JAH-CLDS-000015", "t": "Container Orchestration with Kubernetes (Signature Edition)", "g": "Compute"}
+{"id": "JAH-CLDS-000016", "t": "Serverless Computing and Functions as a Service (Signature Edition)", "g": "Compute"}
+{"id": "JAH-CLDS-000017", "t": "Object Storage Deep Dive (Signature Edition)", "g": "Storage"}
+{"id": "JAH-CLDS-000018", "t": "Block and File Storage Systems (Signature Edition)", "g": "Storage"}
+{"id": "JAH-CLDS-000019", "t": "Managed Databases: Relational and NoSQL (Signature Edition)", "g": "Storage"}
+{"id": "JAH-CLDS-000020", "t": "Load Balancing and Auto Scaling (Signature Edition)", "g": "Networking"}
+{"id": "JAH-CLDS-000021", "t": "Content Delivery Networks and Edge Caching (Signature Edition)", "g": "Networking"}
+{"id": "JAH-CLDS-000022", "t": "Cloud Network Security: Firewalls, TLS, and Zero Trust (Signature Edition)", "g": "Security"}
+{"id": "JAH-CLDS-000023", "t": "Monitoring, Logging, and Observability (Signature Edition)", "g": "Operations"}
+{"id": "JAH-CLDS-000024", "t": "Infrastructure as Code (Signature Edition)", "g": "Operations"}
+{"id": "JAH-CLDS-000025", "t": "Message Queues and Event-Driven Architecture (Signature Edition)", "g": "Architecture"}
+{"id": "JAH-CLDS-000026", "t": "Backup and Disaster Recovery: RPO and RTO (Signature Edition)", "g": "Operations"}
+{"id": "JAH-CLDS-000027", "t": "CI/CD Pipelines and Deployment Strategies (Signature Edition)", "g": "Operations"}
+{"id": "JAH-CLDS-000028", "t": "Cloud Cost Optimization and FinOps (Signature Edition)", "g": "Operations"}
+{"id": "JAH-CLDS-000029", "t": "Cloud-Native Design: The Twelve-Factor App (Signature Edition)", "g": "Architecture"}
+{"id": "JAH-CLDS-000030", "t": "Multi-Region Architecture and the CAP Theorem (Signature Edition)", "g": "Architecture"}
+{"id": "JAH-CLDS-000031", "t": "Cloud Migration: The Six Rs (Signature Edition)", "g": "Architecture"}
+{"id": "JAH-CLDS-000032", "t": "Service Mesh and Advanced Traffic Control (Signature Edition)", "g": "Networking"}
+{"id": "JAH-CLDS-000033", "t": "Confidential Computing and Key Management (Signature Edition)", "g": "Security"}
+{"id": "JAH-CLDS-000034", "t": "The Well-Architected Framework and SRE (Signature Edition)", "g": "Architecture"}

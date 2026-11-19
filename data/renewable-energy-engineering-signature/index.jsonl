@@ -1,0 +1,34 @@
+{"id": "JAH-REES-000001", "t": "Renewable Energy Engineering Signature Database: PV Panel Power", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000002", "t": "Renewable Energy Engineering Signature Database: Daily PV Energy", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000003", "t": "Renewable Energy Engineering Signature Database: Temperature Derate", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000004", "t": "Renewable Energy Engineering Signature Database: Inverter Efficiency", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000005", "t": "Renewable Energy Engineering Signature Database: PV Array Sizing", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000006", "t": "Renewable Energy Engineering Signature Database: Annual PV Production", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000007", "t": "Renewable Energy Engineering Signature Database: Wind Power (cubic)", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000008", "t": "Renewable Energy Engineering Signature Database: Betz Limit Power", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000009", "t": "Renewable Energy Engineering Signature Database: Rotor Swept Area", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000010", "t": "Renewable Energy Engineering Signature Database: Wind Shear Extrapolation", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000011", "t": "Renewable Energy Engineering Signature Database: Annual Wind Energy", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000012", "t": "Renewable Energy Engineering Signature Database: Wind Capacity Factor", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000013", "t": "Renewable Energy Engineering Signature Database: Hydro Power", "c": 0, "g": "hydro"}
+{"id": "JAH-REES-000014", "t": "Renewable Energy Engineering Signature Database: Pumped Storage Energy", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000015", "t": "Renewable Energy Engineering Signature Database: Battery Energy", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000016", "t": "Renewable Energy Engineering Signature Database: Usable Battery Energy", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000017", "t": "Renewable Energy Engineering Signature Database: Battery Charging Time", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000018", "t": "Renewable Energy Engineering Signature Database: Battery Bank Sizing", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000019", "t": "Renewable Energy Engineering Signature Database: State of Charge", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000020", "t": "Renewable Energy Engineering Signature Database: C-Rate", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000021", "t": "Renewable Energy Engineering Signature Database: Round-Trip Efficiency", "c": 0, "g": "storage"}
+{"id": "JAH-REES-000022", "t": "Renewable Energy Engineering Signature Database: Biomass Energy", "c": 0, "g": "bioenergy"}
+{"id": "JAH-REES-000023", "t": "Renewable Energy Engineering Signature Database: CO2 Avoided", "c": 0, "g": "environment"}
+{"id": "JAH-REES-000024", "t": "Renewable Energy Engineering Signature Database: Simple LCOE", "c": 0, "g": "economics"}
+{"id": "JAH-REES-000025", "t": "Renewable Energy Engineering Signature Database: Simple Payback", "c": 0, "g": "economics"}
+{"id": "JAH-REES-000026", "t": "Renewable Energy Engineering Signature Database: Diesel Offset", "c": 0, "g": "economics"}
+{"id": "JAH-REES-000027", "t": "Renewable Energy Engineering Signature Database: Panel Degradation", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000028", "t": "Renewable Energy Engineering Signature Database: Specific Yield", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000029", "t": "Renewable Energy Engineering Signature Database: Wind Power Density", "c": 0, "g": "wind"}
+{"id": "JAH-REES-000030", "t": "Renewable Energy Engineering Signature Database: Hydro Flow from Power", "c": 0, "g": "hydro"}
+{"id": "JAH-REES-000031", "t": "Renewable Energy Engineering Signature Database: Geothermal Power", "c": 0, "g": "geothermal"}
+{"id": "JAH-REES-000032", "t": "Renewable Energy Engineering Signature Database: Concentrated Solar Power", "c": 0, "g": "solar"}
+{"id": "JAH-REES-000033", "t": "Renewable Energy Engineering Signature Database: Electrolyzer Hydrogen", "c": 0, "g": "hydrogen"}
+{"id": "JAH-REES-000034", "t": "Renewable Energy Engineering Signature Database: Off-Grid Sizing Capstone", "c": 0, "g": "storage"}

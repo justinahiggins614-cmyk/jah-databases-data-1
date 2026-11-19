@@ -1,0 +1,34 @@
+{"id": "JAH-CLGS-000001", "t": "C History and the Toolchain — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000002", "t": "C Hello World and Compilation — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000003", "t": "C Variables and Data Types — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000004", "t": "C Operators — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000005", "t": "C printf and scanf — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000006", "t": "C if else — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000007", "t": "C Loops — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000008", "t": "C Functions — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000009", "t": "C Arrays — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000010", "t": "C Strings as Character Arrays — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000011", "t": "C Pointers Introduction — Signature Edition", "g": "Foundations"}
+{"id": "JAH-CLGS-000012", "t": "C Pointer Arithmetic — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000013", "t": "C Structs — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000014", "t": "C Unions and Enums — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000015", "t": "C Dynamic Memory: malloc and free — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000016", "t": "C const and Storage Classes — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000017", "t": "C Header Files — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000018", "t": "C Preprocessor — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000019", "t": "C File IO — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000020", "t": "C Command Line Arguments — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000021", "t": "C Recursion — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000022", "t": "C Multidimensional Arrays — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000023", "t": "C Bitwise Operators — Signature Edition", "g": "Compounded"}
+{"id": "JAH-CLGS-000024", "t": "C Function Pointers — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000025", "t": "C Linked Lists — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000026", "t": "C Memory Layout: Stack Versus Heap — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000027", "t": "C Undefined Behavior — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000028", "t": "C Debugging with gdb — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000029", "t": "C Makefiles — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000030", "t": "C Signals — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000031", "t": "C System Calls Intro — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000032", "t": "C Volatile and Atomics — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000033", "t": "C Performance Optimization — Signature Edition", "g": "Advanced"}
+{"id": "JAH-CLGS-000034", "t": "C Standards: C89 to C23 — Signature Edition", "g": "Advanced"}

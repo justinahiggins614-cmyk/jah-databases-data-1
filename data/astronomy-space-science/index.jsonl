@@ -1,0 +1,34 @@
+{"id": "JAH-ASS-000001", "t": "Astronomy and Space Science Database: Light Travel Time (1 AU)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000002", "t": "Astronomy and Space Science Database: Parsec to Light-Years", "c": 0, "g": "distances"}
+{"id": "JAH-ASS-000003", "t": "Astronomy and Space Science Database: Kepler Third Law (solar)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000004", "t": "Astronomy and Space Science Database: Orbital Period (Earth)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000005", "t": "Astronomy and Space Science Database: Distance Modulus", "c": 0, "g": "distances"}
+{"id": "JAH-ASS-000006", "t": "Astronomy and Space Science Database: Absolute Magnitude", "c": 0, "g": "distances"}
+{"id": "JAH-ASS-000007", "t": "Astronomy and Space Science Database: Stellar Luminosity (Sun)", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000008", "t": "Astronomy and Space Science Database: Stefan-Boltzmann Flux", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000009", "t": "Astronomy and Space Science Database: Wien Displacement", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000010", "t": "Astronomy and Space Science Database: Hubble Law", "c": 0, "g": "cosmology"}
+{"id": "JAH-ASS-000011", "t": "Astronomy and Space Science Database: Redshift", "c": 0, "g": "cosmology"}
+{"id": "JAH-ASS-000012", "t": "Astronomy and Space Science Database: Roche Limit (fluid)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000013", "t": "Astronomy and Space Science Database: Synodic Period", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000014", "t": "Astronomy and Space Science Database: Hill Sphere (Earth)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000015", "t": "Astronomy and Space Science Database: Magnitude Difference", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000016", "t": "Astronomy and Space Science Database: Flux Ratio", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000017", "t": "Astronomy and Space Science Database: Angular Size (Moon)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000018", "t": "Astronomy and Space Science Database: Parallax Distance", "c": 0, "g": "distances"}
+{"id": "JAH-ASS-000019", "t": "Astronomy and Space Science Database: Main-Sequence Lifetime", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000020", "t": "Astronomy and Space Science Database: Mass-Luminosity", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000021", "t": "Astronomy and Space Science Database: Surface Gravity (Sun)", "c": 0, "g": "stars"}
+{"id": "JAH-ASS-000022", "t": "Astronomy and Space Science Database: Planet Density (Earth)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000023", "t": "Astronomy and Space Science Database: Geostationary Radius", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000024", "t": "Astronomy and Space Science Database: Redshift Velocity", "c": 0, "g": "cosmology"}
+{"id": "JAH-ASS-000025", "t": "Astronomy and Space Science Database: Solar Flux at Mars", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000026", "t": "Astronomy and Space Science Database: Equilibrium Temperature", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000027", "t": "Astronomy and Space Science Database: Escape Velocity (Moon)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000028", "t": "Astronomy and Space Science Database: Orbital Period (Moon)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000029", "t": "Astronomy and Space Science Database: Orbital Angular Momentum", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000030", "t": "Astronomy and Space Science Database: Schwarzschild Radius (Earth)", "c": 0, "g": "modern"}
+{"id": "JAH-ASS-000031", "t": "Astronomy and Space Science Database: Roche Limit (rigid)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000032", "t": "Astronomy and Space Science Database: Light Travel (Sun-Pluto)", "c": 0, "g": "solar-system"}
+{"id": "JAH-ASS-000033", "t": "Astronomy and Space Science Database: Orbital Velocity (Earth)", "c": 0, "g": "orbits"}
+{"id": "JAH-ASS-000034", "t": "Astronomy and Space Science Database: Hubble Time Capstone", "c": 0, "g": "cosmology"}

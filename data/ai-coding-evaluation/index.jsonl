@@ -1,0 +1,34 @@
+{"id": "JAH-ACE-000001", "t": "AI Coding Evaluation: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-ACE-000002", "t": "AI Coding Evaluation: How It Actually Works", "g": "foundations"}
+{"id": "JAH-ACE-000003", "t": "AI Coding Evaluation: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-ACE-000004", "t": "AI Coding Evaluation: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-ACE-000005", "t": "AI Coding Evaluation: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-ACE-000006", "t": "AI Coding Evaluation: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-ACE-000007", "t": "AI Coding Evaluation: Prompting and Control", "g": "foundations"}
+{"id": "JAH-ACE-000008", "t": "AI Coding Evaluation: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-ACE-000009", "t": "AI Coding Evaluation: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-ACE-000010", "t": "AI Coding Evaluation: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-ACE-000011", "t": "AI Coding Evaluation: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-ACE-000012", "t": "AI Coding Evaluation: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-ACE-000013", "t": "AI Coding Evaluation: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-ACE-000014", "t": "AI Coding Evaluation: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-ACE-000015", "t": "AI Coding Evaluation: Deployment Realities", "g": "compounded"}
+{"id": "JAH-ACE-000016", "t": "AI Coding Evaluation: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-ACE-000017", "t": "AI Coding Evaluation: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-ACE-000018", "t": "AI Coding Evaluation: Documentation for AI", "g": "compounded"}
+{"id": "JAH-ACE-000019", "t": "AI Coding Evaluation: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-ACE-000020", "t": "AI Coding Evaluation: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-ACE-000021", "t": "AI Coding Evaluation: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-ACE-000022", "t": "AI Coding Evaluation: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-ACE-000023", "t": "AI Coding Evaluation: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-ACE-000024", "t": "AI Coding Evaluation: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-ACE-000025", "t": "AI Coding Evaluation: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-ACE-000026", "t": "AI Coding Evaluation: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-ACE-000027", "t": "AI Coding Evaluation: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-ACE-000028", "t": "AI Coding Evaluation: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-ACE-000029", "t": "AI Coding Evaluation: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-ACE-000030", "t": "AI Coding Evaluation: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-ACE-000031", "t": "AI Coding Evaluation: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-ACE-000032", "t": "AI Coding Evaluation: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-ACE-000033", "t": "AI Coding Evaluation: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-ACE-000034", "t": "AI Coding Evaluation: Advanced: Teaching AI Systems", "g": "advanced"}

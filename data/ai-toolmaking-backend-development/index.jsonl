@@ -1,0 +1,34 @@
+{"id": "JAH-TMBE-000001", "t": "AI Backend Development Database: REST API Server from Scratch (Node)", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000002", "t": "AI Backend Development Database: Request Validation with Schemas", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000003", "t": "AI Backend Development Database: Consistent Error Handling", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000004", "t": "AI Backend Development Database: Pagination, Filtering, Sorting", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000005", "t": "AI Backend Development Database: File Uploads Done Safely", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000006", "t": "AI Backend Development Database: Graceful Shutdown", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000007", "t": "AI Backend Development Database: API Versioning Strategy", "c": 0, "g": "api-servers"}
+{"id": "JAH-TMBE-000008", "t": "AI Backend Development Database: Password Hashing and Storage", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000009", "t": "AI Backend Development Database: Session Auth with Cookies", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000010", "t": "AI Backend Development Database: JWT Auth Done Safely", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000011", "t": "AI Backend Development Database: OAuth 2.0 / OpenID Connect Integration", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000012", "t": "AI Backend Development Database: Multi-Factor Authentication (TOTP)", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000013", "t": "AI Backend Development Database: Role-Based Access Control (RBAC)", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000014", "t": "AI Backend Development Database: API Keys for Machine Clients", "c": 0, "g": "auth-systems"}
+{"id": "JAH-TMBE-000015", "t": "AI Backend Development Database: Job Queue with BullMQ/Redis", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000016", "t": "AI Backend Development Database: Scheduled Jobs (Cron)", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000017", "t": "AI Backend Development Database: Webhooks: Sending Them Reliably", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000018", "t": "AI Backend Development Database: Idempotency for Mutations", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000019", "t": "AI Backend Development Database: Worker Concurrency and Backpressure", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000020", "t": "AI Backend Development Database: Dead-Letter Queues and Poison Messages", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000021", "t": "AI Backend Development Database: Transactional Outbox Pattern", "c": 0, "g": "background-jobs"}
+{"id": "JAH-TMBE-000022", "t": "AI Backend Development Database: Redis Caching Patterns", "c": 0, "g": "caching"}
+{"id": "JAH-TMBE-000023", "t": "AI Backend Development Database: HTTP Caching Headers", "c": 0, "g": "caching"}
+{"id": "JAH-TMBE-000024", "t": "AI Backend Development Database: CDN and Edge Caching", "c": 0, "g": "caching"}
+{"id": "JAH-TMBE-000025", "t": "AI Backend Development Database: Database Query Caching", "c": 0, "g": "caching"}
+{"id": "JAH-TMBE-000026", "t": "AI Backend Development Database: Memoization and In-Process Caches", "c": 0, "g": "caching"}
+{"id": "JAH-TMBE-000027", "t": "AI Backend Development Database: Cache Invalidation Strategies", "c": 0, "g": "caching"}
+{"id": "JAH-TMBE-000028", "t": "AI Backend Development Database: WebSockets from Scratch", "c": 0, "g": "realtime"}
+{"id": "JAH-TMBE-000029", "t": "AI Backend Development Database: Server-Sent Events (SSE)", "c": 0, "g": "realtime"}
+{"id": "JAH-TMBE-000030", "t": "AI Backend Development Database: Realtime with Polling Fallback", "c": 0, "g": "realtime"}
+{"id": "JAH-TMBE-000031", "t": "AI Backend Development Database: Presence: Who's Online", "c": 0, "g": "realtime"}
+{"id": "JAH-TMBE-000032", "t": "AI Backend Development Database: Collaborative Editing Basics (OT/CRDT)", "c": 0, "g": "realtime"}
+{"id": "JAH-TMBE-000033", "t": "AI Backend Development Database: Live Dashboards that Scale", "c": 0, "g": "realtime"}
+{"id": "JAH-TMBE-000034", "t": "AI Backend Development Database: REST API Server from Scratch (Node) (variant 1)", "c": 0, "g": "api-servers"}

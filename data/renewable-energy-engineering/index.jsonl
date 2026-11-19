@@ -1,0 +1,34 @@
+{"id": "JAH-REE-000001", "t": "Renewable Energy Engineering Database: PV Panel Power", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000002", "t": "Renewable Energy Engineering Database: Daily PV Energy", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000003", "t": "Renewable Energy Engineering Database: Temperature Derate", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000004", "t": "Renewable Energy Engineering Database: Inverter Efficiency", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000005", "t": "Renewable Energy Engineering Database: PV Array Sizing", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000006", "t": "Renewable Energy Engineering Database: Annual PV Production", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000007", "t": "Renewable Energy Engineering Database: Wind Power (cubic)", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000008", "t": "Renewable Energy Engineering Database: Betz Limit Power", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000009", "t": "Renewable Energy Engineering Database: Rotor Swept Area", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000010", "t": "Renewable Energy Engineering Database: Wind Shear Extrapolation", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000011", "t": "Renewable Energy Engineering Database: Annual Wind Energy", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000012", "t": "Renewable Energy Engineering Database: Wind Capacity Factor", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000013", "t": "Renewable Energy Engineering Database: Hydro Power", "c": 0, "g": "hydro"}
+{"id": "JAH-REE-000014", "t": "Renewable Energy Engineering Database: Pumped Storage Energy", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000015", "t": "Renewable Energy Engineering Database: Battery Energy", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000016", "t": "Renewable Energy Engineering Database: Usable Battery Energy", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000017", "t": "Renewable Energy Engineering Database: Battery Charging Time", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000018", "t": "Renewable Energy Engineering Database: Battery Bank Sizing", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000019", "t": "Renewable Energy Engineering Database: State of Charge", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000020", "t": "Renewable Energy Engineering Database: C-Rate", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000021", "t": "Renewable Energy Engineering Database: Round-Trip Efficiency", "c": 0, "g": "storage"}
+{"id": "JAH-REE-000022", "t": "Renewable Energy Engineering Database: Biomass Energy", "c": 0, "g": "bioenergy"}
+{"id": "JAH-REE-000023", "t": "Renewable Energy Engineering Database: CO2 Avoided", "c": 0, "g": "environment"}
+{"id": "JAH-REE-000024", "t": "Renewable Energy Engineering Database: Simple LCOE", "c": 0, "g": "economics"}
+{"id": "JAH-REE-000025", "t": "Renewable Energy Engineering Database: Simple Payback", "c": 0, "g": "economics"}
+{"id": "JAH-REE-000026", "t": "Renewable Energy Engineering Database: Diesel Offset", "c": 0, "g": "economics"}
+{"id": "JAH-REE-000027", "t": "Renewable Energy Engineering Database: Panel Degradation", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000028", "t": "Renewable Energy Engineering Database: Specific Yield", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000029", "t": "Renewable Energy Engineering Database: Wind Power Density", "c": 0, "g": "wind"}
+{"id": "JAH-REE-000030", "t": "Renewable Energy Engineering Database: Hydro Flow from Power", "c": 0, "g": "hydro"}
+{"id": "JAH-REE-000031", "t": "Renewable Energy Engineering Database: Geothermal Power", "c": 0, "g": "geothermal"}
+{"id": "JAH-REE-000032", "t": "Renewable Energy Engineering Database: Concentrated Solar Power", "c": 0, "g": "solar"}
+{"id": "JAH-REE-000033", "t": "Renewable Energy Engineering Database: Electrolyzer Hydrogen", "c": 0, "g": "hydrogen"}
+{"id": "JAH-REE-000034", "t": "Renewable Energy Engineering Database: Off-Grid Sizing Capstone", "c": 0, "g": "storage"}

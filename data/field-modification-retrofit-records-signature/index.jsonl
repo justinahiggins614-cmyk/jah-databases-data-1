@@ -1,0 +1,34 @@
+{"id": "JAH-FMRRS-000001", "t": "Documenting a Field Modification (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000002", "t": "Guard Addition to Exposed Belt Drive (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000003", "t": "Emergency Stop Addition (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000004", "t": "Lighting Upgrade in a Work Area (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000005", "t": "Labeling and Placard Retrofit (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000006", "t": "Vibration Isolation Pad Retrofit (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000007", "t": "Drip Tray Addition Under Hydraulics (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000008", "t": "Cord and Plug Strain Relief (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000009", "t": "Setpoint Limit Adjustment (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000010", "t": "Alarm Addition to Existing Panel (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000011", "t": "Variable Speed Drive Retrofit (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000012", "t": "Pneumatic to Electric Actuator Swap (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000013", "t": "Bearing Upgrade to Sealed Type (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000014", "t": "PLC I/O Expansion in the Field (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000015", "t": "HMI Replacement Retrofit (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000016", "t": "Motor Efficiency Upgrade (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000017", "t": "Dust Collection Retrofit (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000018", "t": "Noise Reduction Enclosure Retrofit (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000019", "t": "Safety Relay Retrofit (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000020", "t": "Lockout/Tagout Station Addition (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000021", "t": "Firmware Update in the Field (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000022", "t": "Sensor Upgrade Retrofit (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000023", "t": "Structural Reinforcement for Added Load (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000024", "t": "Hazardous-Area Reclassification Retrofit (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000025", "t": "Functional Safety Upgrade to PLd (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000026", "t": "Legacy Control System Migration (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000027", "t": "Pressure Vessel Alteration Record (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000028", "t": "Electrical Service Capacity Increase (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000029", "t": "Seismic Restraint Retrofit (Signature Edition)", "g": "Mechanical Modifications"}
+{"id": "JAH-FMRRS-000030", "t": "Fire Suppression System Retrofit (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000031", "t": "Energy Metering Retrofit (Signature Edition)", "g": "Electrical Modifications"}
+{"id": "JAH-FMRRS-000032", "t": "Cybersecurity Hardening Retrofit (Signature Edition)", "g": "Control & Software Modifications"}
+{"id": "JAH-FMRRS-000033", "t": "Modification Reversal Procedure (Signature Edition)", "g": "Safety & Compliance"}
+{"id": "JAH-FMRRS-000034", "t": "Fleet-Wide Modification Rollout (Signature Edition)", "g": "Safety & Compliance"}

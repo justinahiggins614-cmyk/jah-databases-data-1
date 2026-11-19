@@ -1,0 +1,34 @@
+{"id": "JAH-MIDUS-000001", "t": "Multimodal Image and Diagram Understanding Signature Database: Image Inventory", "c": 0, "g": "foundations"}
+{"id": "JAH-MIDUS-000002", "t": "Multimodal Image and Diagram Understanding Signature Database: Schematic Symbols", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDUS-000003", "t": "Multimodal Image and Diagram Understanding Signature Database: Engineering Drawing", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000004", "t": "Multimodal Image and Diagram Understanding Signature Database: Chart Data Extraction", "c": 0, "g": "charts"}
+{"id": "JAH-MIDUS-000005", "t": "Multimodal Image and Diagram Understanding Signature Database: Flowchart Logic", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000006", "t": "Multimodal Image and Diagram Understanding Signature Database: Floor Plan", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000007", "t": "Multimodal Image and Diagram Understanding Signature Database: P&ID Reading", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDUS-000008", "t": "Multimodal Image and Diagram Understanding Signature Database: Map Reading", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000009", "t": "Multimodal Image and Diagram Understanding Signature Database: Table Image", "c": 0, "g": "tables"}
+{"id": "JAH-MIDUS-000010", "t": "Multimodal Image and Diagram Understanding Signature Database: Handwriting", "c": 0, "g": "scanned"}
+{"id": "JAH-MIDUS-000011", "t": "Multimodal Image and Diagram Understanding Signature Database: Diagram Arrows", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000012", "t": "Multimodal Image and Diagram Understanding Signature Database: Color Coding", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000013", "t": "Multimodal Image and Diagram Understanding Signature Database: Scale Bars", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000014", "t": "Multimodal Image and Diagram Understanding Signature Database: Cross-Sections", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000015", "t": "Multimodal Image and Diagram Understanding Signature Database: Circuit Tracing", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDUS-000016", "t": "Multimodal Image and Diagram Understanding Signature Database: BOM from Drawing", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000017", "t": "Multimodal Image and Diagram Understanding Signature Database: Revision Clouds", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000018", "t": "Multimodal Image and Diagram Understanding Signature Database: Title Blocks", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000019", "t": "Multimodal Image and Diagram Understanding Signature Database: Wiring Diagrams", "c": 0, "g": "schematics"}
+{"id": "JAH-MIDUS-000020", "t": "Multimodal Image and Diagram Understanding Signature Database: Isometric Views", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000021", "t": "Multimodal Image and Diagram Understanding Signature Database: Graph Extraction", "c": 0, "g": "charts"}
+{"id": "JAH-MIDUS-000022", "t": "Multimodal Image and Diagram Understanding Signature Database: Pie Charts", "c": 0, "g": "charts"}
+{"id": "JAH-MIDUS-000023", "t": "Multimodal Image and Diagram Understanding Signature Database: Heatmaps", "c": 0, "g": "charts"}
+{"id": "JAH-MIDUS-000024", "t": "Multimodal Image and Diagram Understanding Signature Database: Timelines (visual)", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000025", "t": "Multimodal Image and Diagram Understanding Signature Database: Org Charts", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000026", "t": "Multimodal Image and Diagram Understanding Signature Database: Network Diagrams", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000027", "t": "Multimodal Image and Diagram Understanding Signature Database: Venn Diagrams", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000028", "t": "Multimodal Image and Diagram Understanding Signature Database: State Diagrams", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000029", "t": "Multimodal Image and Diagram Understanding Signature Database: Gantt Charts", "c": 0, "g": "charts"}
+{"id": "JAH-MIDUS-000030", "t": "Multimodal Image and Diagram Understanding Signature Database: Spectrograms", "c": 0, "g": "charts"}
+{"id": "JAH-MIDUS-000031", "t": "Multimodal Image and Diagram Understanding Signature Database: Blueprint Symbols", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000032", "t": "Multimodal Image and Diagram Understanding Signature Database: Assembly Explosions", "c": 0, "g": "drawings"}
+{"id": "JAH-MIDUS-000033", "t": "Multimodal Image and Diagram Understanding Signature Database: Infographic Reading", "c": 0, "g": "diagrams"}
+{"id": "JAH-MIDUS-000034", "t": "Multimodal Image and Diagram Understanding Signature Database: Capstone: Visual Understanding", "c": 0, "g": "diagrams"}

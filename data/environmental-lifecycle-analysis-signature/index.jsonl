@@ -1,0 +1,34 @@
+{"id": "JAH-ENLAS-000001", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Carbon Footprint", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000002", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Water Footprint", "c": 0, "g": "water"}
+{"id": "JAH-ENLAS-000003", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Energy Intensity", "c": 0, "g": "energy"}
+{"id": "JAH-ENLAS-000004", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Waste Diversion Rate", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000005", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Recycling Rate", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000006", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Allocation Factor", "c": 0, "g": "lca-method"}
+{"id": "JAH-ENLAS-000007", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Lifetime Emissions", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000008", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Embodied Carbon", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000009", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Operational vs Embodied", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000010", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Carbon Payback", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000011", "t": "Environmental Impact and Lifecycle Analysis Signature Database: End-of-Life Recovery", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000012", "t": "Environmental Impact and Lifecycle Analysis Signature Database: ODP-Weighted", "c": 0, "g": "air"}
+{"id": "JAH-ENLAS-000013", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Smog Formation", "c": 0, "g": "air"}
+{"id": "JAH-ENLAS-000014", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Water Stress Index", "c": 0, "g": "water"}
+{"id": "JAH-ENLAS-000015", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Material Circularity", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000016", "t": "Environmental Impact and Lifecycle Analysis Signature Database: EROI", "c": 0, "g": "energy"}
+{"id": "JAH-ENLAS-000017", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Net Energy", "c": 0, "g": "energy"}
+{"id": "JAH-ENLAS-000018", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Acidification Potential", "c": 0, "g": "air"}
+{"id": "JAH-ENLAS-000019", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Eutrophication Potential", "c": 0, "g": "water"}
+{"id": "JAH-ENLAS-000020", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Land Occupation", "c": 0, "g": "land"}
+{"id": "JAH-ENLAS-000021", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Composting Diversion", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000022", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Landfill Methane", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000023", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Incineration Energy", "c": 0, "g": "energy"}
+{"id": "JAH-ENLAS-000024", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Hazardous Share", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000025", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Packaging Ratio", "c": 0, "g": "waste"}
+{"id": "JAH-ENLAS-000026", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Transport Emissions", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000027", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Use-Phase Energy", "c": 0, "g": "energy"}
+{"id": "JAH-ENLAS-000028", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Standby Energy", "c": 0, "g": "energy"}
+{"id": "JAH-ENLAS-000029", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Social Cost of Carbon", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000030", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Green Premium", "c": 0, "g": "economics"}
+{"id": "JAH-ENLAS-000031", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Abatement Cost", "c": 0, "g": "economics"}
+{"id": "JAH-ENLAS-000032", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Scope 3 Share", "c": 0, "g": "ghg"}
+{"id": "JAH-ENLAS-000033", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Biodiversity Impact", "c": 0, "g": "land"}
+{"id": "JAH-ENLAS-000034", "t": "Environmental Impact and Lifecycle Analysis Signature Database: Product LCA Capstone", "c": 0, "g": "lca-method"}

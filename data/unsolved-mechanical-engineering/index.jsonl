@@ -1,0 +1,34 @@
+{"id": "JAH-USMC-000001", "t": "Bearing Life Prediction Under Real Conditions", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000002", "t": "Heat-Exchanger Fouling Prediction", "g": "Energy Harvesting and Thermal"}
+{"id": "JAH-USMC-000003", "t": "Gear Contact Fatigue Prediction", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000004", "t": "Bolted-Joint Self-Loosening Prediction", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000005", "t": "Vibration Energy Harvesting Efficiency Limits", "g": "Energy Harvesting and Thermal"}
+{"id": "JAH-USMC-000006", "t": "Reliable 3D-Printed Load-Bearing Parts", "g": "Manufacturing and Metamaterials"}
+{"id": "JAH-USMC-000007", "t": "Machine Noise and Vibration Prediction", "g": "Soft Robotics and Control"}
+{"id": "JAH-USMC-000008", "t": "Small-Scale Pump and Turbine Efficiency", "g": "Energy Harvesting and Thermal"}
+{"id": "JAH-USMC-000009", "t": "Corrosion Under Insulation", "g": "Manufacturing and Metamaterials"}
+{"id": "JAH-USMC-000010", "t": "Predicting Friction and Wear in Real Machines", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000011", "t": "Cavitation Erosion Prediction", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000012", "t": "Thermal Packaging of Dense Electronics", "g": "Energy Harvesting and Thermal"}
+{"id": "JAH-USMC-000013", "t": "The Turbulence Closure Problem", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000014", "t": "Predicting Laminar-to-Turbulent Transition", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000015", "t": "Turbulence Drag Reduction in Pipes and Channels", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000016", "t": "Real Contact Area at the Nanoscale", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000017", "t": "Adhesive Wear and Galling", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000018", "t": "Multiphase Flow Regime Prediction", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000019", "t": "Flutter and Aeroelastic Instability", "g": "Soft Robotics and Control"}
+{"id": "JAH-USMC-000020", "t": "Thermoacoustic Instability in Combustors", "g": "Soft Robotics and Control"}
+{"id": "JAH-USMC-000021", "t": "Metamaterial Manufacturing at Scale", "g": "Manufacturing and Metamaterials"}
+{"id": "JAH-USMC-000022", "t": "Soft Robot Control (Infinite Degrees of Freedom)", "g": "Soft Robotics and Control"}
+{"id": "JAH-USMC-000023", "t": "Microrobot Swimming in Viscous Fluids", "g": "Soft Robotics and Control"}
+{"id": "JAH-USMC-000024", "t": "Topology Optimization to Manufacturable Parts at Scale", "g": "Manufacturing and Metamaterials"}
+{"id": "JAH-USMC-000025", "t": "Compliant Mechanism Fatigue", "g": "Manufacturing and Metamaterials"}
+{"id": "JAH-USMC-000026", "t": "Fatigue Life Under Random Loading", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000027", "t": "Creep-Fatigue Interaction at High Temperature", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000028", "t": "Superlubricity Beyond the Laboratory", "g": "Friction and Wear"}
+{"id": "JAH-USMC-000029", "t": "Real-Time Active Turbulence Control", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000030", "t": "Sustained Scramjet Combustion", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000031", "t": "Hypersonic Boundary-Layer Transition", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000032", "t": "The Navier-Stokes Regularity Question", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000033", "t": "Closed-Loop Control of Chaotic Mixing", "g": "Turbulence and Fluids"}
+{"id": "JAH-USMC-000034", "t": "Megastructure Tether Mechanics (Space Elevator Cable)", "g": "Manufacturing and Metamaterials"}

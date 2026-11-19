@@ -1,0 +1,34 @@
+{"id": "JAH-CDS-000001", "t": "Contradiction Detection (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-CDS-000002", "t": "Contradiction Detection (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-CDS-000003", "t": "Contradiction Detection (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-CDS-000004", "t": "Contradiction Detection (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-CDS-000005", "t": "Contradiction Detection (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-CDS-000006", "t": "Contradiction Detection (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-CDS-000007", "t": "Contradiction Detection (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-CDS-000008", "t": "Contradiction Detection (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-CDS-000009", "t": "Contradiction Detection (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-CDS-000010", "t": "Contradiction Detection (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-CDS-000011", "t": "Contradiction Detection (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-CDS-000012", "t": "Contradiction Detection (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-CDS-000013", "t": "Contradiction Detection (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-CDS-000014", "t": "Contradiction Detection (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-CDS-000015", "t": "Contradiction Detection (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-CDS-000016", "t": "Contradiction Detection (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-CDS-000017", "t": "Contradiction Detection (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-CDS-000018", "t": "Contradiction Detection (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-CDS-000019", "t": "Contradiction Detection (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-CDS-000020", "t": "Contradiction Detection (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-CDS-000021", "t": "Contradiction Detection (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-CDS-000022", "t": "Contradiction Detection (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-CDS-000023", "t": "Contradiction Detection (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-CDS-000024", "t": "Contradiction Detection (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-CDS-000025", "t": "Contradiction Detection (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-CDS-000026", "t": "Contradiction Detection (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-CDS-000027", "t": "Contradiction Detection (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-CDS-000028", "t": "Contradiction Detection (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-CDS-000029", "t": "Contradiction Detection (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-CDS-000030", "t": "Contradiction Detection (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-CDS-000031", "t": "Contradiction Detection (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-CDS-000032", "t": "Contradiction Detection (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-CDS-000033", "t": "Contradiction Detection (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-CDS-000034", "t": "Contradiction Detection (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-BSBS-000001", "t": "Biology and Systems Biology Signature Database: Hardy-Weinberg p\u00b2", "c": 0, "g": "genetics"}
+{"id": "JAH-BSBS-000002", "t": "Biology and Systems Biology Signature Database: Hardy-Weinberg 2pq", "c": 0, "g": "genetics"}
+{"id": "JAH-BSBS-000003", "t": "Biology and Systems Biology Signature Database: Hardy-Weinberg q\u00b2", "c": 0, "g": "genetics"}
+{"id": "JAH-BSBS-000004", "t": "Biology and Systems Biology Signature Database: Exponential Growth", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000005", "t": "Biology and Systems Biology Signature Database: Doubling Time", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000006", "t": "Biology and Systems Biology Signature Database: Logistic Step", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000007", "t": "Biology and Systems Biology Signature Database: Mean Fitness", "c": 0, "g": "genetics"}
+{"id": "JAH-BSBS-000008", "t": "Biology and Systems Biology Signature Database: Selection Allele Freq", "c": 0, "g": "genetics"}
+{"id": "JAH-BSBS-000009", "t": "Biology and Systems Biology Signature Database: Mutation-Selection Balance", "c": 0, "g": "genetics"}
+{"id": "JAH-BSBS-000010", "t": "Biology and Systems Biology Signature Database: Cardiac Output", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000011", "t": "Biology and Systems Biology Signature Database: BMI", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000012", "t": "Biology and Systems Biology Signature Database: Body Surface Area", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000013", "t": "Biology and Systems Biology Signature Database: Creatinine Clearance", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000014", "t": "Biology and Systems Biology Signature Database: Mean Arterial Pressure", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000015", "t": "Biology and Systems Biology Signature Database: Alveolar Ventilation", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000016", "t": "Biology and Systems Biology Signature Database: Lotka-Volterra Prey Step", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000017", "t": "Biology and Systems Biology Signature Database: Lotka-Volterra Predator Step", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000018", "t": "Biology and Systems Biology Signature Database: Shannon Diversity", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000019", "t": "Biology and Systems Biology Signature Database: Simpson Index", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000020", "t": "Biology and Systems Biology Signature Database: Species-Area", "c": 0, "g": "ecology"}
+{"id": "JAH-BSBS-000021", "t": "Biology and Systems Biology Signature Database: BMR (Mifflin)", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000022", "t": "Biology and Systems Biology Signature Database: Total Daily Energy", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000023", "t": "Biology and Systems Biology Signature Database: Surface-to-Volume (sphere)", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000024", "t": "Biology and Systems Biology Signature Database: Diffusion Time", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000025", "t": "Biology and Systems Biology Signature Database: Nernst (K+)", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000026", "t": "Biology and Systems Biology Signature Database: Michaelis-Menten", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000027", "t": "Biology and Systems Biology Signature Database: CFU per mL", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000028", "t": "Biology and Systems Biology Signature Database: Allometric BMR", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000029", "t": "Biology and Systems Biology Signature Database: Q10 Temperature", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000030", "t": "Biology and Systems Biology Signature Database: Fick Diffusion Flux", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSBS-000031", "t": "Biology and Systems Biology Signature Database: Ejection Fraction", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000032", "t": "Biology and Systems Biology Signature Database: Anion Gap", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000033", "t": "Biology and Systems Biology Signature Database: LDL (Friedewald)", "c": 0, "g": "physiology"}
+{"id": "JAH-BSBS-000034", "t": "Biology and Systems Biology Signature Database: R0 Capstone", "c": 0, "g": "ecology"}

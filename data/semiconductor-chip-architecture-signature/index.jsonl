@@ -1,0 +1,34 @@
+{"id": "JAH-SCAS-000001", "t": "Semiconductor and Chip Architecture Signature Database: MOSFET Operation", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000002", "t": "Semiconductor and Chip Architecture Signature Database: CMOS Inverter", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000003", "t": "Semiconductor and Chip Architecture Signature Database: FinFET Transistor", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000004", "t": "Semiconductor and Chip Architecture Signature Database: NAND Flash Cell", "c": 0, "g": "memory"}
+{"id": "JAH-SCAS-000005", "t": "Semiconductor and Chip Architecture Signature Database: SRAM Cell (6T)", "c": 0, "g": "memory"}
+{"id": "JAH-SCAS-000006", "t": "Semiconductor and Chip Architecture Signature Database: DRAM Cell (1T1C)", "c": 0, "g": "memory"}
+{"id": "JAH-SCAS-000007", "t": "Semiconductor and Chip Architecture Signature Database: Doping and pn Junction", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCAS-000008", "t": "Semiconductor and Chip Architecture Signature Database: Moore Law and Scaling", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCAS-000009", "t": "Semiconductor and Chip Architecture Signature Database: Dennard Scaling (and Its End)", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCAS-000010", "t": "Semiconductor and Chip Architecture Signature Database: Process Nodes (7nm, 5nm, 3nm)", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCAS-000011", "t": "Semiconductor and Chip Architecture Signature Database: EUV Lithography", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCAS-000012", "t": "Semiconductor and Chip Architecture Signature Database: Interconnect RC Delay", "c": 0, "g": "interconnect"}
+{"id": "JAH-SCAS-000013", "t": "Semiconductor and Chip Architecture Signature Database: Clock Tree Synthesis", "c": 0, "g": "interconnect"}
+{"id": "JAH-SCAS-000014", "t": "Semiconductor and Chip Architecture Signature Database: Power Gating", "c": 0, "g": "performance"}
+{"id": "JAH-SCAS-000015", "t": "Semiconductor and Chip Architecture Signature Database: DVFS", "c": 0, "g": "performance"}
+{"id": "JAH-SCAS-000016", "t": "Semiconductor and Chip Architecture Signature Database: Cache Hierarchy", "c": 0, "g": "memory"}
+{"id": "JAH-SCAS-000017", "t": "Semiconductor and Chip Architecture Signature Database: Pipelining", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000018", "t": "Semiconductor and Chip Architecture Signature Database: Superscalar Execution", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000019", "t": "Semiconductor and Chip Architecture Signature Database: Out-of-Order Execution", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000020", "t": "Semiconductor and Chip Architecture Signature Database: Branch Prediction", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000021", "t": "Semiconductor and Chip Architecture Signature Database: SIMD / Vector Units", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000022", "t": "Semiconductor and Chip Architecture Signature Database: GPU Streaming Multiprocessor", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000023", "t": "Semiconductor and Chip Architecture Signature Database: Systolic Array (TPU-style)", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000024", "t": "Semiconductor and Chip Architecture Signature Database: Memory Wall", "c": 0, "g": "memory"}
+{"id": "JAH-SCAS-000025", "t": "Semiconductor and Chip Architecture Signature Database: HBM and 3D Stacking", "c": 0, "g": "memory"}
+{"id": "JAH-SCAS-000026", "t": "Semiconductor and Chip Architecture Signature Database: Chiplet Architecture", "c": 0, "g": "packaging"}
+{"id": "JAH-SCAS-000027", "t": "Semiconductor and Chip Architecture Signature Database: Network-on-Chip (NoC)", "c": 0, "g": "interconnect"}
+{"id": "JAH-SCAS-000028", "t": "Semiconductor and Chip Architecture Signature Database: Flip-Chip Packaging", "c": 0, "g": "packaging"}
+{"id": "JAH-SCAS-000029", "t": "Semiconductor and Chip Architecture Signature Database: Thermal Design Power (TDP)", "c": 0, "g": "performance"}
+{"id": "JAH-SCAS-000030", "t": "Semiconductor and Chip Architecture Signature Database: Dark Silicon", "c": 0, "g": "performance"}
+{"id": "JAH-SCAS-000031", "t": "Semiconductor and Chip Architecture Signature Database: RISC vs CISC", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000032", "t": "Semiconductor and Chip Architecture Signature Database: Instruction Set Architecture (ISA)", "c": 0, "g": "logic"}
+{"id": "JAH-SCAS-000033", "t": "Semiconductor and Chip Architecture Signature Database: Hardware Verification (UVM)", "c": 0, "g": "fabrication"}
+{"id": "JAH-SCAS-000034", "t": "Semiconductor and Chip Architecture Signature Database: Gate-All-Around Nanosheet", "c": 0, "g": "logic"}

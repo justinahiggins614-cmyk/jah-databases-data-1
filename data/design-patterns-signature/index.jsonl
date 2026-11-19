@@ -1,0 +1,34 @@
+{"id": "JAH-DPS-000001", "t": "What Are Design Patterns — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000002", "t": "Why Design Patterns Matter — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000003", "t": "Creational Patterns Overview — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000004", "t": "Structural Patterns Overview — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000005", "t": "Behavioral Patterns Overview — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000006", "t": "UML Basics for Patterns — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000007", "t": "SOLID: Single Responsibility Principle — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000008", "t": "SOLID: Open Closed Principle — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000009", "t": "SOLID: Liskov Substitution Principle — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000010", "t": "SOLID: Interface Segregation Principle — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000011", "t": "SOLID: Dependency Inversion Principle — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DPS-000012", "t": "Singleton Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000013", "t": "Factory Method Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000014", "t": "Abstract Factory Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000015", "t": "Builder Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000016", "t": "Prototype Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000017", "t": "Adapter Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000018", "t": "Decorator Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000019", "t": "Facade Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000020", "t": "Proxy Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000021", "t": "Composite Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000022", "t": "Strategy Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000023", "t": "Observer Pattern — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DPS-000024", "t": "Command Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000025", "t": "State Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000026", "t": "Template Method Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000027", "t": "Iterator Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000028", "t": "Mediator Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000029", "t": "Memento Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000030", "t": "Chain of Responsibility Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000031", "t": "Visitor Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000032", "t": "Flyweight Pattern — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000033", "t": "Anti-Patterns to Avoid — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DPS-000034", "t": "Choosing Patterns Wisely — Signature Edition", "g": "Advanced"}

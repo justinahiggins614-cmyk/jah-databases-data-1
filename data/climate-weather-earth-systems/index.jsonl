@@ -1,0 +1,34 @@
+{"id": "JAH-CWES-000001", "t": "Climate, Weather, and Earth Systems Database: CO2 Radiative Forcing", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000002", "t": "Climate, Weather, and Earth Systems Database: Methane Forcing", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000003", "t": "Climate, Weather, and Earth Systems Database: Equilibrium Warming", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000004", "t": "Climate, Weather, and Earth Systems Database: Sea Level (Ice Melt)", "c": 0, "g": "cryosphere"}
+{"id": "JAH-CWES-000005", "t": "Climate, Weather, and Earth Systems Database: Thermal Expansion SLR", "c": 0, "g": "oceans"}
+{"id": "JAH-CWES-000006", "t": "Climate, Weather, and Earth Systems Database: Coal CO2 Emissions", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000007", "t": "Climate, Weather, and Earth Systems Database: Per Capita Emissions", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000008", "t": "Climate, Weather, and Earth Systems Database: ppm to Gigatonnes Carbon", "c": 0, "g": "carbon-cycle"}
+{"id": "JAH-CWES-000009", "t": "Climate, Weather, and Earth Systems Database: Gigatonnes Carbon to ppm", "c": 0, "g": "carbon-cycle"}
+{"id": "JAH-CWES-000010", "t": "Climate, Weather, and Earth Systems Database: Doubling Time", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000011", "t": "Climate, Weather, and Earth Systems Database: Exponential CO2 Growth", "c": 0, "g": "carbon-cycle"}
+{"id": "JAH-CWES-000012", "t": "Climate, Weather, and Earth Systems Database: Warming Trend", "c": 0, "g": "observations"}
+{"id": "JAH-CWES-000013", "t": "Climate, Weather, and Earth Systems Database: Energy Balance Incoming", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000014", "t": "Climate, Weather, and Earth Systems Database: Outgoing Longwave", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000015", "t": "Climate, Weather, and Earth Systems Database: Greenhouse Effect Size", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000016", "t": "Climate, Weather, and Earth Systems Database: Lapse Rate Temperature", "c": 0, "g": "atmosphere"}
+{"id": "JAH-CWES-000017", "t": "Climate, Weather, and Earth Systems Database: Home Carbon Footprint", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000018", "t": "Climate, Weather, and Earth Systems Database: Flight Emissions", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000019", "t": "Climate, Weather, and Earth Systems Database: Car Emissions", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000020", "t": "Climate, Weather, and Earth Systems Database: Tree Offset", "c": 0, "g": "mitigation"}
+{"id": "JAH-CWES-000021", "t": "Climate, Weather, and Earth Systems Database: Solar Panel Output", "c": 0, "g": "mitigation"}
+{"id": "JAH-CWES-000022", "t": "Climate, Weather, and Earth Systems Database: Wind Turbine Power", "c": 0, "g": "mitigation"}
+{"id": "JAH-CWES-000023", "t": "Climate, Weather, and Earth Systems Database: Hydro Power", "c": 0, "g": "mitigation"}
+{"id": "JAH-CWES-000024", "t": "Climate, Weather, and Earth Systems Database: Heating Energy", "c": 0, "g": "mitigation"}
+{"id": "JAH-CWES-000025", "t": "Climate, Weather, and Earth Systems Database: Ocean pH from H+", "c": 0, "g": "oceans"}
+{"id": "JAH-CWES-000026", "t": "Climate, Weather, and Earth Systems Database: Methane CO2e (GWP100)", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000027", "t": "Climate, Weather, and Earth Systems Database: N2O CO2e (GWP100)", "c": 0, "g": "emissions"}
+{"id": "JAH-CWES-000028", "t": "Climate, Weather, and Earth Systems Database: Renewable Share", "c": 0, "g": "mitigation"}
+{"id": "JAH-CWES-000029", "t": "Climate, Weather, and Earth Systems Database: Keeling Growth Rate", "c": 0, "g": "observations"}
+{"id": "JAH-CWES-000030", "t": "Climate, Weather, and Earth Systems Database: Airborne Fraction", "c": 0, "g": "carbon-cycle"}
+{"id": "JAH-CWES-000031", "t": "Climate, Weather, and Earth Systems Database: Ocean Carbon Uptake", "c": 0, "g": "carbon-cycle"}
+{"id": "JAH-CWES-000032", "t": "Climate, Weather, and Earth Systems Database: Land Carbon Uptake", "c": 0, "g": "carbon-cycle"}
+{"id": "JAH-CWES-000033", "t": "Climate, Weather, and Earth Systems Database: Effective Emission Temperature", "c": 0, "g": "greenhouse"}
+{"id": "JAH-CWES-000034", "t": "Climate, Weather, and Earth Systems Database: Carbon Budget 1.5C Capstone", "c": 0, "g": "mitigation"}

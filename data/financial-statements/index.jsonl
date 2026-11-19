@@ -1,0 +1,34 @@
+{"id": "JAH-FINST-000001", "t": "Financial Statements Database: What Financial Statements Are", "c": 0, "g": "income-statement"}
+{"id": "JAH-FINST-000002", "t": "Financial Statements Database: Revenue Recognition", "c": 0, "g": "income-statement"}
+{"id": "JAH-FINST-000003", "t": "Financial Statements Database: Cost of Goods Sold", "c": 0, "g": "income-statement"}
+{"id": "JAH-FINST-000004", "t": "Financial Statements Database: Operating Expenses", "c": 0, "g": "income-statement"}
+{"id": "JAH-FINST-000005", "t": "Financial Statements Database: Net Income", "c": 0, "g": "income-statement"}
+{"id": "JAH-FINST-000006", "t": "Financial Statements Database: The Balance Sheet Equation", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-FINST-000007", "t": "Financial Statements Database: Current Assets", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-FINST-000008", "t": "Financial Statements Database: Fixed Assets and Depreciation", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-FINST-000009", "t": "Financial Statements Database: Liabilities: Current and Long-Term", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-FINST-000010", "t": "Financial Statements Database: Shareholders' Equity", "c": 0, "g": "balance-sheet"}
+{"id": "JAH-FINST-000011", "t": "Financial Statements Database: Operating Cash Flow", "c": 0, "g": "cash-flow"}
+{"id": "JAH-FINST-000012", "t": "Financial Statements Database: Investing Cash Flow", "c": 0, "g": "cash-flow"}
+{"id": "JAH-FINST-000013", "t": "Financial Statements Database: Financing Cash Flow", "c": 0, "g": "cash-flow"}
+{"id": "JAH-FINST-000014", "t": "Financial Statements Database: Free Cash Flow", "c": 0, "g": "cash-flow"}
+{"id": "JAH-FINST-000015", "t": "Financial Statements Database: Gross Margin Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000016", "t": "Financial Statements Database: Operating Margin Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000017", "t": "Financial Statements Database: Net Margin Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000018", "t": "Financial Statements Database: Return on Equity (ROE)", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000019", "t": "Financial Statements Database: Return on Assets (ROA)", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000020", "t": "Financial Statements Database: Current Ratio", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000021", "t": "Financial Statements Database: Quick Ratio", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000022", "t": "Financial Statements Database: Debt-to-Equity Ratio", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000023", "t": "Financial Statements Database: Interest Coverage Ratio", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000024", "t": "Financial Statements Database: Inventory Turnover", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000025", "t": "Financial Statements Database: Receivables Turnover and DSO", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000026", "t": "Financial Statements Database: DuPont Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000027", "t": "Financial Statements Database: Common-Size Statements", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000028", "t": "Financial Statements Database: Reading the Footnotes", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000029", "t": "Financial Statements Database: Red Flags in Statements", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000030", "t": "Financial Statements Database: Segment Reporting", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000031", "t": "Financial Statements Database: Earnings Per Share Deep Dive", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000032", "t": "Financial Statements Database: Building a Three-Statement Model", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000033", "t": "Financial Statements Database: Capstone: The Complete Statement Reader", "c": 0, "g": "analysis"}
+{"id": "JAH-FINST-000034", "t": "Financial Statements Database: Reading an Annual Report (10-K)", "c": 0, "g": "analysis"}

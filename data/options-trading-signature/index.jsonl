@@ -1,0 +1,34 @@
+{"id": "JAH-OPTNS-000001", "t": "Signature Options Trading Database: What Options Are", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000002", "t": "Signature Options Trading Database: Calls: The Right to Buy", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000003", "t": "Signature Options Trading Database: Puts: The Right to Sell", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000004", "t": "Signature Options Trading Database: Option Premiums", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000005", "t": "Signature Options Trading Database: Strike Prices and Moneyness", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000006", "t": "Signature Options Trading Database: Expiration and Time Decay (Theta)", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000007", "t": "Signature Options Trading Database: The Option Chain", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000008", "t": "Signature Options Trading Database: Implied Volatility", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000009", "t": "Signature Options Trading Database: The Greeks: Delta", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTNS-000010", "t": "Signature Options Trading Database: The Greeks: Gamma", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTNS-000011", "t": "Signature Options Trading Database: The Greeks: Vega", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTNS-000012", "t": "Signature Options Trading Database: The Greeks: Rho", "c": 0, "g": "greeks"}
+{"id": "JAH-OPTNS-000013", "t": "Signature Options Trading Database: Covered Calls", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000014", "t": "Signature Options Trading Database: Cash-Secured Puts", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000015", "t": "Signature Options Trading Database: Protective Puts", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000016", "t": "Signature Options Trading Database: Vertical Spreads", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000017", "t": "Signature Options Trading Database: Iron Condors", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000018", "t": "Signature Options Trading Database: Straddles and Strangles", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000019", "t": "Signature Options Trading Database: Credit Spreads", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000020", "t": "Signature Options Trading Database: Debit Spreads", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000021", "t": "Signature Options Trading Database: LEAPS", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000022", "t": "Signature Options Trading Database: Options on ETFs and Indexes", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000023", "t": "Signature Options Trading Database: Earnings Plays", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000024", "t": "Signature Options Trading Database: Position Sizing for Options", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000025", "t": "Signature Options Trading Database: Assignment Risk", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000026", "t": "Signature Options Trading Database: Rolling Positions", "c": 0, "g": "strategies"}
+{"id": "JAH-OPTNS-000027", "t": "Signature Options Trading Database: Paper Trading Options", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000028", "t": "Signature Options Trading Database: Taxes on Options", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000029", "t": "Signature Options Trading Database: Volatility Crush", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000030", "t": "Signature Options Trading Database: Choosing a Broker for Options", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000031", "t": "Signature Options Trading Database: Options Trading Journal", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000032", "t": "Signature Options Trading Database: Common Options Mistakes", "c": 0, "g": "risk"}
+{"id": "JAH-OPTNS-000033", "t": "Signature Options Trading Database: Weekly Options", "c": 0, "g": "basics"}
+{"id": "JAH-OPTNS-000034", "t": "Signature Options Trading Database: Capstone: The Complete Options Trader", "c": 0, "g": "strategies"}

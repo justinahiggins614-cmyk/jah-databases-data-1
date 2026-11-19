@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-MMS-000001", "t": "What multimodal is: reasoning across senses (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000002", "t": "Modalities: the senses of the machine (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000003", "t": "Image understanding basics: seeing (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000004", "t": "Text about images: captions and descriptions (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000005", "t": "Audio basics: hearing (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000006", "t": "Video basics: seeing in time (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000007", "t": "The first multimodal task: a complete example (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000008", "t": "Describing images: the faithful caption (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000009", "t": "Answering about images: visual QA (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000010", "t": "Modality limits: what each sense cannot do (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000011", "t": "The honest perceiver: the foundation standard (Signature Edition)", "g": "multimodal-foundations"}
+{"id": "JAH-AIR-MMS-000012", "t": "Vision-language models: the combined mind (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000013", "t": "CLIP-style alignment: matching across senses (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000014", "t": "Cross-modal retrieval: finding across senses (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000015", "t": "Fusion strategies: combining the senses (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000016", "t": "Grounding: tying words to the world (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000017", "t": "Referring expressions: which one (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000018", "t": "Chart understanding: reading the visual data (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000019", "t": "Document images: pages as pictures (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000020", "t": "Video understanding: the moving picture (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000021", "t": "Audio understanding: the deep listen (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000022", "t": "Evaluation: measuring the multimodal (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000023", "t": "Any-to-any models: the universal interface (Signature Edition)", "g": "multimodal-compounded"}
+{"id": "JAH-AIR-MMS-000024", "t": "Embodied multimodal: the situated senses (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000025", "t": "3D understanding: depth and space (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000026", "t": "Temporal reasoning: time across modalities (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000027", "t": "Multimodal generation: creating across senses (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000028", "t": "Deepfake awareness: the honest senses (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000029", "t": "The fused mind: integration at depth (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000030", "t": "The complete perceiver: the final standard (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000031", "t": "Tactile and sensor modalities: beyond sight and sound (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000032", "t": "Multimodal dialogue: conversation across senses (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000033", "t": "Cross-modal translation: describing in another sense (Signature Edition)", "g": "multimodal-advanced"}
+{"id": "JAH-AIR-MMS-000034", "t": "The sensory audit: verifying perception (Signature Edition)", "g": "multimodal-advanced"}

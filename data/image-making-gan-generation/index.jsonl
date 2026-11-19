@@ -1,0 +1,34 @@
+{"id": "JAH-IMGN-000001", "t": "What GANs Are", "g": "Foundations"}
+{"id": "JAH-IMGN-000002", "t": "Latent Space: The Map of Possibilities", "g": "Foundations"}
+{"id": "JAH-IMGN-000003", "t": "StyleGAN: Faces and Beyond", "g": "Foundations"}
+{"id": "JAH-IMGN-000004", "t": "Training a GAN: Data and Discipline", "g": "Foundations"}
+{"id": "JAH-IMGN-000005", "t": "Deepfakes: How They Work", "g": "Foundations"}
+{"id": "JAH-IMGN-000006", "t": "GAN Art and Creative Coding", "g": "Foundations"}
+{"id": "JAH-IMGN-000007", "t": "Image-to-Image with GANs", "g": "Foundations"}
+{"id": "JAH-IMGN-000008", "t": "Super-Resolution GANs (ESRGAN)", "g": "Foundations"}
+{"id": "JAH-IMGN-000009", "t": "Inpainting with GANs", "g": "Foundations"}
+{"id": "JAH-IMGN-000010", "t": "Evaluating GAN Output", "g": "Foundations"}
+{"id": "JAH-IMGN-000011", "t": "The Ethics of Synthetic Faces", "g": "Foundations"}
+{"id": "JAH-IMGN-000012", "t": "GANs vs Diffusion: Choosing", "g": "Compounded"}
+{"id": "JAH-IMGN-000013", "t": "Latent Direction Discovery Methods", "g": "Compounded"}
+{"id": "JAH-IMGN-000014", "t": "Style Mixing in StyleGAN", "g": "Compounded"}
+{"id": "JAH-IMGN-000015", "t": "Projection: Real Images into Latent Space", "g": "Compounded"}
+{"id": "JAH-IMGN-000016", "t": "GAN Inversion Techniques", "g": "Compounded"}
+{"id": "JAH-IMGN-000017", "t": "Text-Guided GAN Editing", "g": "Compounded"}
+{"id": "JAH-IMGN-000018", "t": "Few-Shot GAN Adaptation", "g": "Compounded"}
+{"id": "JAH-IMGN-000019", "t": "GANs for Data Augmentation", "g": "Compounded"}
+{"id": "JAH-IMGN-000020", "t": "Anomaly Detection with GANs", "g": "Compounded"}
+{"id": "JAH-IMGN-000021", "t": "Super-Resolution Comparisons", "g": "Compounded"}
+{"id": "JAH-IMGN-000022", "t": "Denoising with GANs", "g": "Compounded"}
+{"id": "JAH-IMGN-000023", "t": "Paired Translation Masterclass", "g": "Compounded"}
+{"id": "JAH-IMGN-000024", "t": "Training StyleGAN from Scratch", "g": "Advanced"}
+{"id": "JAH-IMGN-000025", "t": "Dataset Design for GAN Training", "g": "Advanced"}
+{"id": "JAH-IMGN-000026", "t": "Compute Planning for Training", "g": "Advanced"}
+{"id": "JAH-IMGN-000027", "t": "Evaluating with Precision and Recall", "g": "Advanced"}
+{"id": "JAH-IMGN-000028", "t": "Bias in Generative Models", "g": "Advanced"}
+{"id": "JAH-IMGN-000029", "t": "Watermarking Synthetic Media", "g": "Advanced"}
+{"id": "JAH-IMGN-000030", "t": "Detection of GAN Images", "g": "Advanced"}
+{"id": "JAH-IMGN-000031", "t": "Legal Status of Training Data", "g": "Advanced"}
+{"id": "JAH-IMGN-000032", "t": "GANs in Production Systems", "g": "Advanced"}
+{"id": "JAH-IMGN-000033", "t": "The Research Frontier: Diffusion vs GAN", "g": "Advanced"}
+{"id": "JAH-IMGN-000034", "t": "Building a GAN Product", "g": "Advanced"}

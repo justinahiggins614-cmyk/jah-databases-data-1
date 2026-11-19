@@ -1,0 +1,34 @@
+{"id": "JAH-FLDYS-000001", "t": "Fluid Properties and the Continuum Hypothesis (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000002", "t": "Hydrostatics and Pressure Distribution (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000003", "t": "Buoyancy and Archimedes' Principle (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000004", "t": "Bernoulli's Principle in Flow (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000005", "t": "The Continuity Equation (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000006", "t": "Viscosity and Newton's Law of Viscosity (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000007", "t": "Laminar Flow in Pipes (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000008", "t": "The Reynolds Number (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000009", "t": "Streamlines, Streaklines, and Pathlines (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000010", "t": "Manometry and Pressure Measurement (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000011", "t": "Surface Tension and Capillarity (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000012", "t": "Dimensional Analysis and the Buckingham Pi Theorem (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000013", "t": "The Navier-Stokes Equations (Signature Edition)", "g": "Viscous Flows"}
+{"id": "JAH-FLDYS-000014", "t": "Boundary Layer Theory (Signature Edition)", "g": "Viscous Flows"}
+{"id": "JAH-FLDYS-000015", "t": "Pipe Flow and the Moody Chart (Signature Edition)", "g": "Viscous Flows"}
+{"id": "JAH-FLDYS-000016", "t": "Drag and Lift on Bodies (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000017", "t": "Potential Flow Theory (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000018", "t": "Vorticity and Circulation (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000019", "t": "Compressible Flow and Mach Number (Signature Edition)", "g": "Compressible Flows"}
+{"id": "JAH-FLDYS-000020", "t": "Normal Shock Waves (Signature Edition)", "g": "Compressible Flows"}
+{"id": "JAH-FLDYS-000021", "t": "Open-Channel Flow (Signature Edition)", "g": "Viscous Flows"}
+{"id": "JAH-FLDYS-000022", "t": "Pump and Turbine Fundamentals (Signature Edition)", "g": "Applications"}
+{"id": "JAH-FLDYS-000023", "t": "Flow Measurement: Venturi, Orifice, and Pitot (Signature Edition)", "g": "Applications"}
+{"id": "JAH-FLDYS-000024", "t": "Similarity and Model Testing (Signature Edition)", "g": "Fundamentals"}
+{"id": "JAH-FLDYS-000025", "t": "Turbulence Modeling: RANS, LES, DNS (Signature Edition)", "g": "Turbulence"}
+{"id": "JAH-FLDYS-000026", "t": "Computational Fluid Dynamics Fundamentals (Signature Edition)", "g": "Turbulence"}
+{"id": "JAH-FLDYS-000027", "t": "Aerodynamic Design of Wings (Signature Edition)", "g": "Compressible Flows"}
+{"id": "JAH-FLDYS-000028", "t": "Supersonic Nozzle Design (Signature Edition)", "g": "Compressible Flows"}
+{"id": "JAH-FLDYS-000029", "t": "Cavitation and Its Control (Signature Edition)", "g": "Multiphase Flows"}
+{"id": "JAH-FLDYS-000030", "t": "Multiphase Flow Regimes (Signature Edition)", "g": "Multiphase Flows"}
+{"id": "JAH-FLDYS-000031", "t": "Magnetohydrodynamics Basics (Signature Edition)", "g": "Multiphase Flows"}
+{"id": "JAH-FLDYS-000032", "t": "Microfluidics (Signature Edition)", "g": "Applications"}
+{"id": "JAH-FLDYS-000033", "t": "Wind Engineering and Building Aerodynamics (Signature Edition)", "g": "Applications"}
+{"id": "JAH-FLDYS-000034", "t": "Hemodynamics: Blood Flow Modeling (Signature Edition)", "g": "Applications"}

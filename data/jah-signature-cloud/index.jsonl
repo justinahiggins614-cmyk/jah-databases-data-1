@@ -1,0 +1,34 @@
+{"id": "JAH-CLD-000001", "t": "What Cloud Computing Is", "g": "Foundations"}
+{"id": "JAH-CLD-000002", "t": "The Five Essential Cloud Characteristics", "g": "Foundations"}
+{"id": "JAH-CLD-000003", "t": "Service Models: IaaS, PaaS, and SaaS", "g": "Foundations"}
+{"id": "JAH-CLD-000004", "t": "Deployment Models: Public, Private, Hybrid, and Community", "g": "Foundations"}
+{"id": "JAH-CLD-000005", "t": "The Shared Responsibility Model", "g": "Foundations"}
+{"id": "JAH-CLD-000006", "t": "Virtualization and Hypervisors", "g": "Foundations"}
+{"id": "JAH-CLD-000007", "t": "Regions, Availability Zones, and Edge Locations", "g": "Foundations"}
+{"id": "JAH-CLD-000008", "t": "Virtual Networking: VPCs, Subnets, and Security Groups", "g": "Foundations"}
+{"id": "JAH-CLD-000009", "t": "Cloud Storage Types: Object, Block, and File", "g": "Foundations"}
+{"id": "JAH-CLD-000010", "t": "Identity and Access Management Basics", "g": "Foundations"}
+{"id": "JAH-CLD-000011", "t": "Pay-as-You-Go Pricing and Measured Service", "g": "Foundations"}
+{"id": "JAH-CLD-000012", "t": "Cloud APIs and the Control Plane", "g": "Foundations"}
+{"id": "JAH-CLD-000013", "t": "Virtual Machines and Instance Families", "g": "Compute"}
+{"id": "JAH-CLD-000014", "t": "Containers and Container Images", "g": "Compute"}
+{"id": "JAH-CLD-000015", "t": "Container Orchestration with Kubernetes", "g": "Compute"}
+{"id": "JAH-CLD-000016", "t": "Serverless Computing and Functions as a Service", "g": "Compute"}
+{"id": "JAH-CLD-000017", "t": "Object Storage Deep Dive", "g": "Storage"}
+{"id": "JAH-CLD-000018", "t": "Block and File Storage Systems", "g": "Storage"}
+{"id": "JAH-CLD-000019", "t": "Managed Databases: Relational and NoSQL", "g": "Storage"}
+{"id": "JAH-CLD-000020", "t": "Load Balancing and Auto Scaling", "g": "Networking"}
+{"id": "JAH-CLD-000021", "t": "Content Delivery Networks and Edge Caching", "g": "Networking"}
+{"id": "JAH-CLD-000022", "t": "Cloud Network Security: Firewalls, TLS, and Zero Trust", "g": "Security"}
+{"id": "JAH-CLD-000023", "t": "Monitoring, Logging, and Observability", "g": "Operations"}
+{"id": "JAH-CLD-000024", "t": "Infrastructure as Code", "g": "Operations"}
+{"id": "JAH-CLD-000025", "t": "Message Queues and Event-Driven Architecture", "g": "Architecture"}
+{"id": "JAH-CLD-000026", "t": "Backup and Disaster Recovery: RPO and RTO", "g": "Operations"}
+{"id": "JAH-CLD-000027", "t": "CI/CD Pipelines and Deployment Strategies", "g": "Operations"}
+{"id": "JAH-CLD-000028", "t": "Cloud Cost Optimization and FinOps", "g": "Operations"}
+{"id": "JAH-CLD-000029", "t": "Cloud-Native Design: The Twelve-Factor App", "g": "Architecture"}
+{"id": "JAH-CLD-000030", "t": "Multi-Region Architecture and the CAP Theorem", "g": "Architecture"}
+{"id": "JAH-CLD-000031", "t": "Cloud Migration: The Six Rs", "g": "Architecture"}
+{"id": "JAH-CLD-000032", "t": "Service Mesh and Advanced Traffic Control", "g": "Networking"}
+{"id": "JAH-CLD-000033", "t": "Confidential Computing and Key Management", "g": "Security"}
+{"id": "JAH-CLD-000034", "t": "The Well-Architected Framework and SRE", "g": "Architecture"}

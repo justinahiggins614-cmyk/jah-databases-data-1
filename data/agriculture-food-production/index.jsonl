@@ -1,0 +1,34 @@
+{"id": "JAH-AFP-000001", "t": "Agriculture and Food Production Systems Database: Crop Yield", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000002", "t": "Agriculture and Food Production Systems Database: Plant Population", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000003", "t": "Agriculture and Food Production Systems Database: Germination Rate", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000004", "t": "Agriculture and Food Production Systems Database: Nitrogen Applied", "c": 0, "g": "soil"}
+{"id": "JAH-AFP-000005", "t": "Agriculture and Food Production Systems Database: Irrigation Depth", "c": 0, "g": "water"}
+{"id": "JAH-AFP-000006", "t": "Agriculture and Food Production Systems Database: Crop ET", "c": 0, "g": "water"}
+{"id": "JAH-AFP-000007", "t": "Agriculture and Food Production Systems Database: Seasonal Water Need", "c": 0, "g": "water"}
+{"id": "JAH-AFP-000008", "t": "Agriculture and Food Production Systems Database: Irrigation Efficiency", "c": 0, "g": "water"}
+{"id": "JAH-AFP-000009", "t": "Agriculture and Food Production Systems Database: Growing Degree Days", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000010", "t": "Agriculture and Food Production Systems Database: Harvest Index", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000011", "t": "Agriculture and Food Production Systems Database: Moisture Correction", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000012", "t": "Agriculture and Food Production Systems Database: Dry Matter", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000013", "t": "Agriculture and Food Production Systems Database: Feed Conversion Ratio", "c": 0, "g": "livestock"}
+{"id": "JAH-AFP-000014", "t": "Agriculture and Food Production Systems Database: Stocking Rate", "c": 0, "g": "livestock"}
+{"id": "JAH-AFP-000015", "t": "Agriculture and Food Production Systems Database: Bulk Density", "c": 0, "g": "soil"}
+{"id": "JAH-AFP-000016", "t": "Agriculture and Food Production Systems Database: Soil Porosity", "c": 0, "g": "soil"}
+{"id": "JAH-AFP-000017", "t": "Agriculture and Food Production Systems Database: Available Water", "c": 0, "g": "soil"}
+{"id": "JAH-AFP-000018", "t": "Agriculture and Food Production Systems Database: Gross Margin", "c": 0, "g": "economics"}
+{"id": "JAH-AFP-000019", "t": "Agriculture and Food Production Systems Database: Break-Even Yield", "c": 0, "g": "economics"}
+{"id": "JAH-AFP-000020", "t": "Agriculture and Food Production Systems Database: Return on Cost", "c": 0, "g": "economics"}
+{"id": "JAH-AFP-000021", "t": "Agriculture and Food Production Systems Database: Storage Loss", "c": 0, "g": "storage"}
+{"id": "JAH-AFP-000022", "t": "Agriculture and Food Production Systems Database: Milling Yield", "c": 0, "g": "storage"}
+{"id": "JAH-AFP-000023", "t": "Agriculture and Food Production Systems Database: Silo Capacity", "c": 0, "g": "storage"}
+{"id": "JAH-AFP-000024", "t": "Agriculture and Food Production Systems Database: Leaf Area Index", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000025", "t": "Agriculture and Food Production Systems Database: Water Use Efficiency", "c": 0, "g": "water"}
+{"id": "JAH-AFP-000026", "t": "Agriculture and Food Production Systems Database: Nitrogen Use Efficiency", "c": 0, "g": "soil"}
+{"id": "JAH-AFP-000027", "t": "Agriculture and Food Production Systems Database: Spray Dilution", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000028", "t": "Agriculture and Food Production Systems Database: Grain Drying", "c": 0, "g": "storage"}
+{"id": "JAH-AFP-000029", "t": "Agriculture and Food Production Systems Database: Silo Volume (cylinder)", "c": 0, "g": "storage"}
+{"id": "JAH-AFP-000030", "t": "Agriculture and Food Production Systems Database: Average Daily Gain", "c": 0, "g": "livestock"}
+{"id": "JAH-AFP-000031", "t": "Agriculture and Food Production Systems Database: Dressing Percentage", "c": 0, "g": "livestock"}
+{"id": "JAH-AFP-000032", "t": "Agriculture and Food Production Systems Database: Seed Needed", "c": 0, "g": "crops"}
+{"id": "JAH-AFP-000033", "t": "Agriculture and Food Production Systems Database: Fertilizer Cost", "c": 0, "g": "economics"}
+{"id": "JAH-AFP-000034", "t": "Agriculture and Food Production Systems Database: Whole-Farm Gross Margin Capstone", "c": 0, "g": "economics"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DOBSS-000001", "t": "What Data Observability Is (Signature Edition)", "g": "Observability Basics"}
+{"id": "JAH-DOBSS-000002", "t": "The Five Pillars of Observability (Signature Edition)", "g": "Observability Basics"}
+{"id": "JAH-DOBSS-000003", "t": "Freshness Tracking (Signature Edition)", "g": "Freshness and Volume"}
+{"id": "JAH-DOBSS-000004", "t": "SLA Clocks and Watermarks (Signature Edition)", "g": "Freshness and Volume"}
+{"id": "JAH-DOBSS-000005", "t": "Staleness Detection (Signature Edition)", "g": "Freshness and Volume"}
+{"id": "JAH-DOBSS-000006", "t": "Volume Monitoring (Signature Edition)", "g": "Freshness and Volume"}
+{"id": "JAH-DOBSS-000007", "t": "Row-Count Anomalies (Signature Edition)", "g": "Freshness and Volume"}
+{"id": "JAH-DOBSS-000008", "t": "Schema Drift Detection (Signature Edition)", "g": "Distribution and Drift"}
+{"id": "JAH-DOBSS-000009", "t": "Distribution Shift Detection (Signature Edition)", "g": "Distribution and Drift"}
+{"id": "JAH-DOBSS-000010", "t": "Statistical Tests for Drift: KS and PSI (Signature Edition)", "g": "Distribution and Drift"}
+{"id": "JAH-DOBSS-000011", "t": "Missing-Value Reports (Signature Edition)", "g": "Distribution and Drift"}
+{"id": "JAH-DOBSS-000012", "t": "Null-Rate Monitoring (Signature Edition)", "g": "Distribution and Drift"}
+{"id": "JAH-DOBSS-000013", "t": "Anomaly Detection Basics (Signature Edition)", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBSS-000014", "t": "Threshold Alerts vs ML Alerts (Signature Edition)", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBSS-000015", "t": "Alert Routing and On-Call (Signature Edition)", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBSS-000016", "t": "Alert Fatigue and Tuning (Signature Edition)", "g": "Anomalies and Alerts"}
+{"id": "JAH-DOBSS-000017", "t": "Pipeline-Failure Records (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000018", "t": "Retry and Backfill Records (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000019", "t": "Data Quality Scores (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000020", "t": "Quality Trend Dashboards (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000021", "t": "Profiling Schedules (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000022", "t": "Freshness for Streaming Data (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000023", "t": "Observability Metadata (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000024", "t": "Incident Timelines (Signature Edition)", "g": "Pipeline Health"}
+{"id": "JAH-DOBSS-000025", "t": "Root-Cause Correlation (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000026", "t": "Multi-Table Observability (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000027", "t": "Observability for ML Pipelines (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000028", "t": "Observability for a Million-Database Network (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000029", "t": "Cost of Observability (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000030", "t": "Observability SLAs for Observability (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000031", "t": "Provenance of Alerts (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000032", "t": "Automated Remediation Hooks (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000033", "t": "Observability Maturity Model (Signature Edition)", "g": "Advanced Observability"}
+{"id": "JAH-DOBSS-000034", "t": "Data Observability Mastery Review (Signature Edition)", "g": "Advanced Observability"}

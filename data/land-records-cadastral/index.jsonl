@@ -1,0 +1,34 @@
+{"id": "JAH-LANDREC-PUB-000001", "t": "Parcel Identification Numbers (APN)", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000002", "t": "Metes and Bounds Legal Descriptions", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000003", "t": "The Public Land Survey System (PLSS)", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000004", "t": "Warranty Deeds", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000005", "t": "Quitclaim Deeds", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000006", "t": "Title Search and Chain of Title", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000007", "t": "Survey Monuments and Markers", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000008", "t": "Plat Maps and Subdivisions", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000009", "t": "Easements", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000010", "t": "Liens on Real Property", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000011", "t": "Zoning and Land Use Controls", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000012", "t": "The County Recorder's Office", "g": "Foundations"}
+{"id": "JAH-LANDREC-PUB-000013", "t": "Torrens Title Registration", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000014", "t": "GIS Cadastral Mapping", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000015", "t": "LiDAR in Land Surveying", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000016", "t": "GPS and GNSS Land Surveying", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000017", "t": "Total Station Surveying", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000018", "t": "Boundary Dispute Resolution", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000019", "t": "Adverse Possession", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000020", "t": "Mineral Rights and Severed Estates", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000021", "t": "Water Rights: Prior Appropriation and Riparian Doctrines", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000022", "t": "Conservation Easements", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000023", "t": "Eminent Domain", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000024", "t": "Land Trusts", "g": "Compounded"}
+{"id": "JAH-LANDREC-PUB-000025", "t": "FGDC Cadastral Data Content Standard", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000026", "t": "Title Insurance and Deed Fraud", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000027", "t": "The 3D Cadastre", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000028", "t": "General Land Office (GLO) Historical Records", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000029", "t": "Bureau of Land Management (BLM) Land Records", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000030", "t": "Digital Land Registries", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000031", "t": "Parcel Data Accuracy Classes", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000032", "t": "Surveyor Licensing and Professional Ethics", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000033", "t": "Datums and Coordinate Systems (NAD83, NAVD88)", "g": "Advanced"}
+{"id": "JAH-LANDREC-PUB-000034", "t": "Land Records Disaster Recovery", "g": "Advanced"}

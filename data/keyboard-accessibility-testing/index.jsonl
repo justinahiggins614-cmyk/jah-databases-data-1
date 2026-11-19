@@ -1,0 +1,34 @@
+{"id": "JAH-KAT-000001", "t": "Why Keyboard Testing", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000002", "t": "Unplug the Mouse", "g": "focus-management"}
+{"id": "JAH-KAT-000003", "t": "Tab Order Logic", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000004", "t": "Focus Visibility", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000005", "t": "Keyboard Traps", "g": "focus-management"}
+{"id": "JAH-KAT-000006", "t": "Skip Links", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000007", "t": "Shortcuts", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000008", "t": "Modals and Focus", "g": "focus-management"}
+{"id": "JAH-KAT-000009", "t": "Dropdowns and Menus", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000010", "t": "The Keyboard Test Playbook", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000011", "t": "ARIA for Keyboard", "g": "focus-management"}
+{"id": "JAH-KAT-000012", "t": "Roving Tabindex", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000013", "t": "Focus on SPAs", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000014", "t": "Testing Tools", "g": "focus-management"}
+{"id": "JAH-KAT-000015", "t": "Screen Reader + Keyboard", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000016", "t": "Forms Keyboard Testing", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000017", "t": "Tables Keyboard", "g": "focus-management"}
+{"id": "JAH-KAT-000018", "t": "Carousels Keyboard", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000019", "t": "Video Player Keyboard", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000020", "t": "Drag-and-Drop Alternatives", "g": "focus-management"}
+{"id": "JAH-KAT-000021", "t": "Timeout Adjustments", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000022", "t": "Motion Sensitivity", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000023", "t": "Character Key Shortcuts", "g": "focus-management"}
+{"id": "JAH-KAT-000024", "t": "Testing Checklists", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000025", "t": "User Testing (Disabled Users)", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000026", "t": "Regression Testing", "g": "focus-management"}
+{"id": "JAH-KAT-000027", "t": "Keyboard Testing Reports", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000028", "t": "Training Teams", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000029", "t": "Legal Risk (ADA)", "g": "focus-management"}
+{"id": "JAH-KAT-000030", "t": "Mobile Keyboard A11y", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000031", "t": "Gaming Keyboard A11y", "g": "keyboard-testing-methods"}
+{"id": "JAH-KAT-000032", "t": "Documentation", "g": "focus-management"}
+{"id": "JAH-KAT-000033", "t": "The Keyboard-First Manifesto", "g": "wcag-compliance"}
+{"id": "JAH-KAT-000034", "t": "Annual Keyboard Audit", "g": "keyboard-testing-methods"}

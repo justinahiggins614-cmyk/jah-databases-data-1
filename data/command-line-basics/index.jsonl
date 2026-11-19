@@ -1,0 +1,34 @@
+{"id": "JAH-CLI-000001", "t": "What Is the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000002", "t": "Opening a Terminal", "g": "Foundations"}
+{"id": "JAH-CLI-000003", "t": "Command Anatomy", "g": "Foundations"}
+{"id": "JAH-CLI-000004", "t": "Navigating Directories on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000005", "t": "Listing Files on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000006", "t": "Creating and Removing on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000007", "t": "Copying and Moving on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000008", "t": "Reading Files on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000009", "t": "Tab Completion on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000010", "t": "Command History on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000011", "t": "Getting Help on the Command Line", "g": "Foundations"}
+{"id": "JAH-CLI-000012", "t": "Wildcards and Globbing", "g": "Compounded"}
+{"id": "JAH-CLI-000013", "t": "Redirection Deep Dive", "g": "Compounded"}
+{"id": "JAH-CLI-000014", "t": "Pipes Deep Dive", "g": "Compounded"}
+{"id": "JAH-CLI-000015", "t": "grep in Depth", "g": "Compounded"}
+{"id": "JAH-CLI-000016", "t": "sed Basics", "g": "Compounded"}
+{"id": "JAH-CLI-000017", "t": "awk Basics", "g": "Compounded"}
+{"id": "JAH-CLI-000018", "t": "sort and uniq", "g": "Compounded"}
+{"id": "JAH-CLI-000019", "t": "wc Counting", "g": "Compounded"}
+{"id": "JAH-CLI-000020", "t": "find in Depth", "g": "Compounded"}
+{"id": "JAH-CLI-000021", "t": "xargs", "g": "Compounded"}
+{"id": "JAH-CLI-000022", "t": "Environment Variables in Depth", "g": "Compounded"}
+{"id": "JAH-CLI-000023", "t": "Aliases on the Command Line", "g": "Compounded"}
+{"id": "JAH-CLI-000024", "t": "Shell Scripting on the Command Line", "g": "Advanced"}
+{"id": "JAH-CLI-000025", "t": "Shell Variables and Loops", "g": "Advanced"}
+{"id": "JAH-CLI-000026", "t": "Shell Conditionals", "g": "Advanced"}
+{"id": "JAH-CLI-000027", "t": "Shell Functions", "g": "Advanced"}
+{"id": "JAH-CLI-000028", "t": "Exit Codes on the Command Line", "g": "Advanced"}
+{"id": "JAH-CLI-000029", "t": "Job Control on the Command Line", "g": "Advanced"}
+{"id": "JAH-CLI-000030", "t": "SSH on the Command Line", "g": "Advanced"}
+{"id": "JAH-CLI-000031", "t": "curl and wget Downloading", "g": "Advanced"}
+{"id": "JAH-CLI-000032", "t": "tmux and screen Terminal Multiplexers", "g": "Advanced"}
+{"id": "JAH-CLI-000033", "t": "Text Processing Pipelines", "g": "Advanced"}
+{"id": "JAH-CLI-000034", "t": "Regex Mastery on the Command Line", "g": "Advanced"}

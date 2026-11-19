@@ -1,0 +1,34 @@
+{"id": "JAH-FELE-000001", "t": "What Electronics Is", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000002", "t": "The Core Question of Electronics", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000003", "t": "Assumptions: Lumped Elements", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000004", "t": "The Vocabulary: Voltage, Current, Components", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000005", "t": "Ohm's Law: The Fundamental Relationship", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000006", "t": "Circuit Analysis: The Primary Method", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000007", "t": "A Canonical First Example", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000008", "t": "How Electronics Measures", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000009", "t": "The Core Mechanism: The Transistor", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000010", "t": "The Simplest Law: Kirchhoff's Current Law", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000011", "t": "Common Misconceptions in Electronics", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000012", "t": "How Beginners Practice Electronics", "g": "Foundations", "c": 0}
+{"id": "JAH-FELE-000013", "t": "The Core Model: The Ideal Op-Amp", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000014", "t": "The Great Equation: V = IR (and P = VI)", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000015", "t": "Systems Thinking: Feedback", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000016", "t": "Invariance: Linearity and Superposition", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000017", "t": "Approximation: Ideal Models", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000018", "t": "Evidence Standards: The Measurement", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000019", "t": "Classic Discoveries", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000020", "t": "Core Trade-offs: Speed versus Power", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000021", "t": "Handling Uncertainty: Tolerances", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000022", "t": "Tools of the Trade", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000023", "t": "Ethics and Responsibility", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000024", "t": "Teaching Electronics", "g": "Compounded", "c": 0}
+{"id": "JAH-FELE-000025", "t": "The Frontier Question", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000026", "t": "Unifying Theories", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000027", "t": "Computational Electronics", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000028", "t": "Bridges to Other Fields", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000029", "t": "The Great Unsolved Problems", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000030", "t": "How New Claims Are Validated", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000031", "t": "The Great Debates", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000032", "t": "Failure Modes: When Electronics Gets It Wrong", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000033", "t": "Synthesis: Building on the Fundamentals", "g": "Advanced", "c": 0}
+{"id": "JAH-FELE-000034", "t": "The Signature Formulation: Electronics as Physical Bedrock", "g": "Advanced", "c": 0}

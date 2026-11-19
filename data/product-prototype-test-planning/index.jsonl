@@ -1,0 +1,34 @@
+{"id": "JAH-PPTP-000001", "t": "Prototype Levels", "g": "test-strategy"}
+{"id": "JAH-PPTP-000002", "t": "Test Planning Basics", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000003", "t": "Risk-Driven Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000004", "t": "The Prototype Test Playbook", "g": "test-strategy"}
+{"id": "JAH-PPTP-000005", "t": "Paper Prototypes", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000006", "t": "3D Printing for Prototypes", "g": "validation-systems"}
+{"id": "JAH-PPTP-000007", "t": "Breadboard Prototypes", "g": "test-strategy"}
+{"id": "JAH-PPTP-000008", "t": "Wizard of Oz Testing", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000009", "t": "Functional Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000010", "t": "Usability Testing", "g": "test-strategy"}
+{"id": "JAH-PPTP-000011", "t": "Durability Testing", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000012", "t": "Environmental Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000013", "t": "Drop and Shock Testing", "g": "test-strategy"}
+{"id": "JAH-PPTP-000014", "t": "Ingress Protection (IP)", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000015", "t": "EMC Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000016", "t": "Safety Testing", "g": "test-strategy"}
+{"id": "JAH-PPTP-000017", "t": "Beta Testing", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000018", "t": "A/B Product Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000019", "t": "Failure Analysis", "g": "test-strategy"}
+{"id": "JAH-PPTP-000020", "t": "HALT Testing", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000021", "t": "Reliability Demonstration", "g": "validation-systems"}
+{"id": "JAH-PPTP-000022", "t": "Test Fixtures", "g": "test-strategy"}
+{"id": "JAH-PPTP-000023", "t": "Test Automation", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000024", "t": "Regression Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000025", "t": "User Acceptance Testing", "g": "test-strategy"}
+{"id": "JAH-PPTP-000026", "t": "Test Documentation", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000027", "t": "Bug Tracking", "g": "validation-systems"}
+{"id": "JAH-PPTP-000028", "t": "Design of Experiments", "g": "test-strategy"}
+{"id": "JAH-PPTP-000029", "t": "Tolerance Testing", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000030", "t": "Human Factors Testing", "g": "validation-systems"}
+{"id": "JAH-PPTP-000031", "t": "Packaging Testing", "g": "test-strategy"}
+{"id": "JAH-PPTP-000032", "t": "Launch Readiness", "g": "prototype-levels"}
+{"id": "JAH-PPTP-000033", "t": "Post-Launch Monitoring", "g": "validation-systems"}
+{"id": "JAH-PPTP-000034", "t": "The Test Master Plan", "g": "test-strategy"}

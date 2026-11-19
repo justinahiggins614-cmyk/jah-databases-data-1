@@ -1,0 +1,34 @@
+{"id": "JAH-STRUS-000001", "t": "Loads: Dead, Live, Wind, Seismic (Signature Edition)", "g": "Loads & Basics"}
+{"id": "JAH-STRUS-000002", "t": "Stress and Strain (Signature Edition)", "g": "Loads & Basics"}
+{"id": "JAH-STRUS-000003", "t": "Beam Bending Theory (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000004", "t": "Shear Force and Bending Moment Diagrams (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000005", "t": "Truss Analysis: Method of Joints (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000006", "t": "Columns and Buckling (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000007", "t": "Concrete Fundamentals (Signature Edition)", "g": "Materials"}
+{"id": "JAH-STRUS-000008", "t": "Steel Fundamentals (Signature Edition)", "g": "Materials"}
+{"id": "JAH-STRUS-000009", "t": "Timber Basics (Signature Edition)", "g": "Materials"}
+{"id": "JAH-STRUS-000010", "t": "Masonry Basics (Signature Edition)", "g": "Materials"}
+{"id": "JAH-STRUS-000011", "t": "Factor of Safety and LRFD (Signature Edition)", "g": "Loads & Basics"}
+{"id": "JAH-STRUS-000012", "t": "Structural Drawings Reading (Signature Edition)", "g": "Loads & Basics"}
+{"id": "JAH-STRUS-000013", "t": "Indeterminate Structures: Slope-Deflection (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000014", "t": "Moment Distribution Method (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000015", "t": "Influence Lines (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000016", "t": "Reinforced Concrete Beam Design (Signature Edition)", "g": "Concrete Design"}
+{"id": "JAH-STRUS-000017", "t": "Reinforced Concrete Column Design (Signature Edition)", "g": "Concrete Design"}
+{"id": "JAH-STRUS-000018", "t": "Steel Connection Design (Signature Edition)", "g": "Steel Design"}
+{"id": "JAH-STRUS-000019", "t": "Welded Connections (Signature Edition)", "g": "Steel Design"}
+{"id": "JAH-STRUS-000020", "t": "Bolted Connections (Signature Edition)", "g": "Steel Design"}
+{"id": "JAH-STRUS-000021", "t": "Foundation Types and Bearing Capacity (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-STRUS-000022", "t": "Retaining Wall Design (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-STRUS-000023", "t": "Prestressed Concrete Basics (Signature Edition)", "g": "Concrete Design"}
+{"id": "JAH-STRUS-000024", "t": "Composite Steel-Concrete Design (Signature Edition)", "g": "Steel Design"}
+{"id": "JAH-STRUS-000025", "t": "Seismic Design and Ductility (Signature Edition)", "g": "Dynamics"}
+{"id": "JAH-STRUS-000026", "t": "Wind Engineering for Tall Buildings (Signature Edition)", "g": "Dynamics"}
+{"id": "JAH-STRUS-000027", "t": "Finite Element Analysis of Structures (Signature Edition)", "g": "Analysis"}
+{"id": "JAH-STRUS-000028", "t": "Progressive Collapse Prevention (Signature Edition)", "g": "Dynamics"}
+{"id": "JAH-STRUS-000029", "t": "Bridge Design: Girder and Cable-Stayed (Signature Edition)", "g": "Bridges"}
+{"id": "JAH-STRUS-000030", "t": "Long-Span Roof Structures (Signature Edition)", "g": "Bridges"}
+{"id": "JAH-STRUS-000031", "t": "Structural Health Monitoring (Signature Edition)", "g": "Practice"}
+{"id": "JAH-STRUS-000032", "t": "Blast-Resistant Design (Signature Edition)", "g": "Practice"}
+{"id": "JAH-STRUS-000033", "t": "Retrofit of Historic Structures (Signature Edition)", "g": "Practice"}
+{"id": "JAH-STRUS-000034", "t": "Performance-Based Design (Signature Edition)", "g": "Practice"}

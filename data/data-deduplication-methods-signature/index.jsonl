@@ -1,0 +1,34 @@
+{"id": "JAH-DDMS-000001", "t": "Normalization", "g": "Foundations"}
+{"id": "JAH-DDMS-000002", "t": "Exact Matching", "g": "Foundations"}
+{"id": "JAH-DDMS-000003", "t": "Fuzzy Scoring", "g": "Foundations"}
+{"id": "JAH-DDMS-000004", "t": "Blocking", "g": "Foundations"}
+{"id": "JAH-DDMS-000005", "t": "Record Linkage", "g": "Foundations"}
+{"id": "JAH-DDMS-000006", "t": "Clustering", "g": "Foundations"}
+{"id": "JAH-DDMS-000007", "t": "Golden Records", "g": "Foundations"}
+{"id": "JAH-DDMS-000008", "t": "Non-Destructive Design", "g": "Foundations"}
+{"id": "JAH-DDMS-000009", "t": "Review Sampling", "g": "Foundations"}
+{"id": "JAH-DDMS-000010", "t": "Incremental Dedupe", "g": "Foundations"}
+{"id": "JAH-DDMS-000011", "t": "Match-Rate Monitoring", "g": "Foundations"}
+{"id": "JAH-DDMS-000012", "t": "Rule Documentation", "g": "Compounded"}
+{"id": "JAH-DDMS-000013", "t": "Phonetic Matching", "g": "Compounded"}
+{"id": "JAH-DDMS-000014", "t": "Address Standardization", "g": "Compounded"}
+{"id": "JAH-DDMS-000015", "t": "Email Normalization", "g": "Compounded"}
+{"id": "JAH-DDMS-000016", "t": "Phone Normalization", "g": "Compounded"}
+{"id": "JAH-DDMS-000017", "t": "Name Parsing", "g": "Compounded"}
+{"id": "JAH-DDMS-000018", "t": "Date Handling", "g": "Compounded"}
+{"id": "JAH-DDMS-000019", "t": "Entity Resolution", "g": "Compounded"}
+{"id": "JAH-DDMS-000020", "t": "Probabilistic Linkage", "g": "Compounded"}
+{"id": "JAH-DDMS-000021", "t": "Machine Learning", "g": "Compounded"}
+{"id": "JAH-DDMS-000022", "t": "Active Learning", "g": "Compounded"}
+{"id": "JAH-DDMS-000023", "t": "Crowdsourced Review", "g": "Compounded"}
+{"id": "JAH-DDMS-000024", "t": "Dedupe at Scale", "g": "Advanced"}
+{"id": "JAH-DDMS-000025", "t": "Streaming Dedupe", "g": "Advanced"}
+{"id": "JAH-DDMS-000026", "t": "Privacy-Preserving", "g": "Advanced"}
+{"id": "JAH-DDMS-000027", "t": "Cross-Database", "g": "Advanced"}
+{"id": "JAH-DDMS-000028", "t": "Temporal Duplicates", "g": "Advanced"}
+{"id": "JAH-DDMS-000029", "t": "Near-Duplicate Content", "g": "Advanced"}
+{"id": "JAH-DDMS-000030", "t": "Image Dedupe", "g": "Advanced"}
+{"id": "JAH-DDMS-000031", "t": "Testing Strategies", "g": "Advanced"}
+{"id": "JAH-DDMS-000032", "t": "Performance Tuning", "g": "Advanced"}
+{"id": "JAH-DDMS-000033", "t": "Cost Analysis", "g": "Advanced"}
+{"id": "JAH-DDMS-000034", "t": "Case Studies", "g": "Advanced"}

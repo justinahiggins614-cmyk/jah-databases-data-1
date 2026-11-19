@@ -1,0 +1,34 @@
+{"id": "JAH-EIF-000001", "t": "Economic Indicators and Forecasting Database: GDP Growth", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIF-000002", "t": "Economic Indicators and Forecasting Database: Inflation (CPI)", "c": 0, "g": "prices"}
+{"id": "JAH-EIF-000003", "t": "Economic Indicators and Forecasting Database: Real Value", "c": 0, "g": "prices"}
+{"id": "JAH-EIF-000004", "t": "Economic Indicators and Forecasting Database: Unemployment Rate", "c": 0, "g": "labor"}
+{"id": "JAH-EIF-000005", "t": "Economic Indicators and Forecasting Database: Labor Force Participation", "c": 0, "g": "labor"}
+{"id": "JAH-EIF-000006", "t": "Economic Indicators and Forecasting Database: Real Interest Rate", "c": 0, "g": "monetary"}
+{"id": "JAH-EIF-000007", "t": "Economic Indicators and Forecasting Database: Yield Curve Spread", "c": 0, "g": "monetary"}
+{"id": "JAH-EIF-000008", "t": "Economic Indicators and Forecasting Database: Trade Balance", "c": 0, "g": "trade"}
+{"id": "JAH-EIF-000009", "t": "Economic Indicators and Forecasting Database: Exchange Rate Change", "c": 0, "g": "trade"}
+{"id": "JAH-EIF-000010", "t": "Economic Indicators and Forecasting Database: Moving Average", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000011", "t": "Economic Indicators and Forecasting Database: YoY Change", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000012", "t": "Economic Indicators and Forecasting Database: CAGR", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000013", "t": "Economic Indicators and Forecasting Database: Naive Forecast", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000014", "t": "Economic Indicators and Forecasting Database: Trend Forecast", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000015", "t": "Economic Indicators and Forecasting Database: MAPE", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000016", "t": "Economic Indicators and Forecasting Database: Confidence Band", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000017", "t": "Economic Indicators and Forecasting Database: Correlation (given)", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000018", "t": "Economic Indicators and Forecasting Database: Debt-to-GDP", "c": 0, "g": "fiscal"}
+{"id": "JAH-EIF-000019", "t": "Economic Indicators and Forecasting Database: Deficit % of GDP", "c": 0, "g": "fiscal"}
+{"id": "JAH-EIF-000020", "t": "Economic Indicators and Forecasting Database: Money Growth", "c": 0, "g": "monetary"}
+{"id": "JAH-EIF-000021", "t": "Economic Indicators and Forecasting Database: Index Rebase", "c": 0, "g": "methods"}
+{"id": "JAH-EIF-000022", "t": "Economic Indicators and Forecasting Database: Terms of Trade", "c": 0, "g": "trade"}
+{"id": "JAH-EIF-000023", "t": "Economic Indicators and Forecasting Database: Real Exchange Rate", "c": 0, "g": "trade"}
+{"id": "JAH-EIF-000024", "t": "Economic Indicators and Forecasting Database: Export Growth", "c": 0, "g": "trade"}
+{"id": "JAH-EIF-000025", "t": "Economic Indicators and Forecasting Database: Import Cover (months)", "c": 0, "g": "trade"}
+{"id": "JAH-EIF-000026", "t": "Economic Indicators and Forecasting Database: Inflation Differential", "c": 0, "g": "prices"}
+{"id": "JAH-EIF-000027", "t": "Economic Indicators and Forecasting Database: Growth Differential", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIF-000028", "t": "Economic Indicators and Forecasting Database: Output Gap (simple)", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIF-000029", "t": "Economic Indicators and Forecasting Database: Misery Index", "c": 0, "g": "labor"}
+{"id": "JAH-EIF-000030", "t": "Economic Indicators and Forecasting Database: Taylor Rule (lite)", "c": 0, "g": "monetary"}
+{"id": "JAH-EIF-000031", "t": "Economic Indicators and Forecasting Database: Velocity (given)", "c": 0, "g": "monetary"}
+{"id": "JAH-EIF-000032", "t": "Economic Indicators and Forecasting Database: Savings Rate", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIF-000033", "t": "Economic Indicators and Forecasting Database: Investment Share", "c": 0, "g": "national-accounts"}
+{"id": "JAH-EIF-000034", "t": "Economic Indicators and Forecasting Database: Economic Dashboard Capstone", "c": 0, "g": "methods"}

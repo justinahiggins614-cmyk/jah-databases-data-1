@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-PDS-000001", "t": "What planning is: from goal to action (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000002", "t": "Goals: the destination stated well (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000003", "t": "Decomposition: the goal in pieces (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000004", "t": "Tasks: the atoms of the plan (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000005", "t": "Ordering: what comes first (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000006", "t": "Dependencies: the links between tasks (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000007", "t": "The task list: the plan on one page (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000008", "t": "Estimates: how long things take (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000009", "t": "Milestones: the plan's checkpoints (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000010", "t": "The simple plan: planning for small goals (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000011", "t": "Plan vs wish: the honesty test (Signature Edition)", "g": "planning-decomposition-foundations"}
+{"id": "JAH-AIR-PDS-000012", "t": "Critical path: the tasks that set the date (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000013", "t": "PERT: planning with uncertainty (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000014", "t": "Resource allocation: who does what when (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000015", "t": "Risk registers: naming what could go wrong (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000016", "t": "Contingency plans: the plan B (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000017", "t": "Hierarchical planning: plans within plans (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000018", "t": "Monitoring: watching the plan run (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000019", "t": "Progress tracking: are we getting there (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000020", "t": "Replanning triggers: knowing when the plan broke (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000021", "t": "Plan repair: fixing without restarting (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000022", "t": "Multi-plan comparison: choosing between futures (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000023", "t": "Planning fallacies: the classic mistakes (Signature Edition)", "g": "planning-decomposition-compounded"}
+{"id": "JAH-AIR-PDS-000024", "t": "Classical planners: STRIPS and the foundations (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000025", "t": "PDDL: the language of planning (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000026", "t": "HTN planning: tasks that decompose (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000027", "t": "Planning under uncertainty: when the world may vary (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000028", "t": "Adversarial planning: when someone opposes you (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000029", "t": "Multi-agent planning: many planners, one world (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000030", "t": "Plan verification: proving the plan works (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000031", "t": "Plan libraries: the organization's plans (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000032", "t": "Learning to plan: the planner improves (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000033", "t": "The master plan: planning at the largest scale (Signature Edition)", "g": "planning-decomposition-advanced"}
+{"id": "JAH-AIR-PDS-000034", "t": "Planning as communication: the plan as agreement (Signature Edition)", "g": "planning-decomposition-advanced"}

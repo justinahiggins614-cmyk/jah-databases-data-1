@@ -1,0 +1,34 @@
+{"id": "JAH-EEL-000001", "t": "ETL vs ELT", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000002", "t": "Batch Patterns", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000003", "t": "Streaming Patterns", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000004", "t": "Micro-batch", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000005", "t": "Change Data Capture", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000006", "t": "API Extraction", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000007", "t": "File Ingestion", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000008", "t": "Web Scraping Pipelines", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000009", "t": "Incremental Loads", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000010", "t": "Full Reloads", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000011", "t": "Slowly Changing Dims (ETL)", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000012", "t": "Deduplication in Pipelines", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000013", "t": "Data Vault Modeling", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000014", "t": "Medallion Architecture", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000015", "t": "dbt Patterns", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000016", "t": "Airflow Patterns", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000017", "t": "Idempotency", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000018", "t": "Schema Evolution", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000019", "t": "Error Handling", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000020", "t": "Backfills", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000021", "t": "Pipeline Testing", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000022", "t": "Observability", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000023", "t": "Cost Optimization", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000024", "t": "The Pattern Library Index", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000025", "t": "Lambda Architecture", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000026", "t": "Kappa Architecture", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000027", "t": "Event Sourcing", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000028", "t": "CQRS", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000029", "t": "Fan-Out/Fan-In", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000030", "t": "Watermarking", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000031", "t": "Exactly-Once Semantics", "g": "extraction-patterns"}
+{"id": "JAH-EEL-000032", "t": "Schema Registry Pattern", "g": "transformation-patterns"}
+{"id": "JAH-EEL-000033", "t": "Data Mesh Pipelines", "g": "pipeline-operations"}
+{"id": "JAH-EEL-000034", "t": "Reverse ETL", "g": "extraction-patterns"}

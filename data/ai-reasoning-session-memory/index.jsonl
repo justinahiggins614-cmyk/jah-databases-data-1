@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-SM-000001", "t": "What session memory is: the conversation's working past", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000002", "t": "Turn boundaries: where one exchange ends and the next begins", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000003", "t": "Key-value capture: facts the user states outright", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000004", "t": "Preference capture: likes, constraints, and defaults", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000005", "t": "The running summary: compressing without losing decisions", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000006", "t": "Entity tracking: people, projects, and names across turns", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000007", "t": "Intent persistence: what the user is trying to accomplish", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000008", "t": "Correction memory: remembering 'I meant X, not Y'", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000009", "t": "Recency weighting: newer turns count more", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000010", "t": "Session handoff notes: what a fresh session must know", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000011", "t": "Forgetting on purpose: what session memory must drop", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SM-000012", "t": "Contradiction resolution across turns", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000013", "t": "Multi-thread conversations: parallel topics in one session", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000014", "t": "Reference resolution: 'it', 'that', 'the other one'", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000015", "t": "Temporal grounding: 'yesterday', 'last time', 'next week'", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000016", "t": "Goal stack tracking: nested sub-goals", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000017", "t": "Partial progress memory: half-finished tasks", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000018", "t": "Tool-result memory: what the tools returned", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000019", "t": "Error memory: what failed and the fix that worked", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000020", "t": "Style memory: tone and format the user prefers", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000021", "t": "Confidence memory: which answers were uncertain", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000022", "t": "Session memory vs context window: what lives where", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000023", "t": "Memory update rules: overwrite, merge, or append", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SM-000024", "t": "Long sessions: memory that survives 200+ turns", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000025", "t": "Adversarial memory: users testing consistency", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000026", "t": "Memory injection defense: not all stated facts are true", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000027", "t": "Privacy boundaries in session memory", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000028", "t": "Session memory audit: proving what was remembered", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000029", "t": "Cross-session stitching without cross-session storage", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000030", "t": "Emotional state tracking across a session", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000031", "t": "Decision rationale memory: why, not just what", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000032", "t": "Memory-driven proactivity: acting on remembered context", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000033", "t": "Multi-user sessions: whose memory is whose", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SM-000034", "t": "The session close-out: packaging memory for handoff", "g": "session-memory-advanced"}

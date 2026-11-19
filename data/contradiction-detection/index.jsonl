@@ -1,0 +1,34 @@
+{"id": "JAH-CD-000001", "t": "Contradiction Detection: The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-CD-000002", "t": "Contradiction Detection: How It Actually Works", "g": "foundations"}
+{"id": "JAH-CD-000003", "t": "Contradiction Detection: Minimal Working Example", "g": "foundations"}
+{"id": "JAH-CD-000004", "t": "Contradiction Detection: Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-CD-000005", "t": "Contradiction Detection: Common Failure Modes", "g": "foundations"}
+{"id": "JAH-CD-000006", "t": "Contradiction Detection: Data: The Real Work", "g": "foundations"}
+{"id": "JAH-CD-000007", "t": "Contradiction Detection: Prompting and Control", "g": "foundations"}
+{"id": "JAH-CD-000008", "t": "Contradiction Detection: Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-CD-000009", "t": "Contradiction Detection: Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-CD-000010", "t": "Contradiction Detection: Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-CD-000011", "t": "Contradiction Detection: Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-CD-000012", "t": "Contradiction Detection: Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-CD-000013", "t": "Contradiction Detection: Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-CD-000014", "t": "Contradiction Detection: Comparing Approaches", "g": "compounded"}
+{"id": "JAH-CD-000015", "t": "Contradiction Detection: Deployment Realities", "g": "compounded"}
+{"id": "JAH-CD-000016", "t": "Contradiction Detection: Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-CD-000017", "t": "Contradiction Detection: Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-CD-000018", "t": "Contradiction Detection: Documentation for AI", "g": "compounded"}
+{"id": "JAH-CD-000019", "t": "Contradiction Detection: Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-CD-000020", "t": "Contradiction Detection: Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-CD-000021", "t": "Contradiction Detection: Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-CD-000022", "t": "Contradiction Detection: Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-CD-000023", "t": "Contradiction Detection: Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-CD-000024", "t": "Contradiction Detection: Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-CD-000025", "t": "Contradiction Detection: Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-CD-000026", "t": "Contradiction Detection: Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-CD-000027", "t": "Contradiction Detection: Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-CD-000028", "t": "Contradiction Detection: Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-CD-000029", "t": "Contradiction Detection: Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-CD-000030", "t": "Contradiction Detection: Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-CD-000031", "t": "Contradiction Detection: Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-CD-000032", "t": "Contradiction Detection: Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-CD-000033", "t": "Contradiction Detection: Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-CD-000034", "t": "Contradiction Detection: Advanced: Teaching AI Systems", "g": "advanced"}

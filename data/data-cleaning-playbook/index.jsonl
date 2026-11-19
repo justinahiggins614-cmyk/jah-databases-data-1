@@ -1,0 +1,34 @@
+{"id": "JAH-DATACP-000001", "t": "Profiling Data", "g": "Foundations"}
+{"id": "JAH-DATACP-000002", "t": "Missing Values", "g": "Foundations"}
+{"id": "JAH-DATACP-000003", "t": "Duplicate Detection", "g": "Foundations"}
+{"id": "JAH-DATACP-000004", "t": "Outlier Treatment", "g": "Foundations"}
+{"id": "JAH-DATACP-000005", "t": "Standardizing Formats", "g": "Foundations"}
+{"id": "JAH-DATACP-000006", "t": "Text Cleaning", "g": "Foundations"}
+{"id": "JAH-DATACP-000007", "t": "Validating Ranges", "g": "Foundations"}
+{"id": "JAH-DATACP-000008", "t": "Referential Integrity", "g": "Foundations"}
+{"id": "JAH-DATACP-000009", "t": "Cleaning Pipelines", "g": "Foundations"}
+{"id": "JAH-DATACP-000010", "t": "Documenting Decisions", "g": "Foundations"}
+{"id": "JAH-DATACP-000011", "t": "Cleaning for Analysis", "g": "Foundations"}
+{"id": "JAH-DATACP-000012", "t": "Teaching Data Cleaning", "g": "Compounded"}
+{"id": "JAH-DATACP-000013", "t": "The Data Quality Review", "g": "Compounded"}
+{"id": "JAH-DATACP-000014", "t": "Handling Categorical Data", "g": "Compounded"}
+{"id": "JAH-DATACP-000015", "t": "Date and Time Cleaning", "g": "Compounded"}
+{"id": "JAH-DATACP-000016", "t": "Numeric Scaling", "g": "Compounded"}
+{"id": "JAH-DATACP-000017", "t": "Merging Datasets", "g": "Compounded"}
+{"id": "JAH-DATACP-000018", "t": "Reshaping Data", "g": "Compounded"}
+{"id": "JAH-DATACP-000019", "t": "Sampling", "g": "Compounded"}
+{"id": "JAH-DATACP-000020", "t": "Data Entry Errors", "g": "Compounded"}
+{"id": "JAH-DATACP-000021", "t": "Address Standardization", "g": "Compounded"}
+{"id": "JAH-DATACP-000022", "t": "Name Matching", "g": "Compounded"}
+{"id": "JAH-DATACP-000023", "t": "Currency and Units", "g": "Compounded"}
+{"id": "JAH-DATACP-000024", "t": "Survey Data Cleaning", "g": "Advanced"}
+{"id": "JAH-DATACP-000025", "t": "Time Series Gaps", "g": "Advanced"}
+{"id": "JAH-DATACP-000026", "t": "Cleaning Logs", "g": "Advanced"}
+{"id": "JAH-DATACP-000027", "t": "Automated Checks", "g": "Advanced"}
+{"id": "JAH-DATACP-000028", "t": "Cleaning at Scale", "g": "Advanced"}
+{"id": "JAH-DATACP-000029", "t": "Privacy in Cleaning", "g": "Advanced"}
+{"id": "JAH-DATACP-000030", "t": "Versioning Cleaned Data", "g": "Advanced"}
+{"id": "JAH-DATACP-000031", "t": "Collaborative Cleaning", "g": "Advanced"}
+{"id": "JAH-DATACP-000032", "t": "When to Stop", "g": "Advanced"}
+{"id": "JAH-DATACP-000033", "t": "Cleaning Checklist", "g": "Advanced"}
+{"id": "JAH-DATACP-000034", "t": "The Data Quality Report", "g": "Advanced"}

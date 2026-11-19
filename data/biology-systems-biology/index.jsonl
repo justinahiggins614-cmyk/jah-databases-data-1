@@ -1,0 +1,34 @@
+{"id": "JAH-BSB-000001", "t": "Biology and Systems Biology Database: Hardy-Weinberg p²", "c": 0, "g": "genetics"}
+{"id": "JAH-BSB-000002", "t": "Biology and Systems Biology Database: Hardy-Weinberg 2pq", "c": 0, "g": "genetics"}
+{"id": "JAH-BSB-000003", "t": "Biology and Systems Biology Database: Hardy-Weinberg q²", "c": 0, "g": "genetics"}
+{"id": "JAH-BSB-000004", "t": "Biology and Systems Biology Database: Exponential Growth", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000005", "t": "Biology and Systems Biology Database: Doubling Time", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000006", "t": "Biology and Systems Biology Database: Logistic Step", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000007", "t": "Biology and Systems Biology Database: Mean Fitness", "c": 0, "g": "genetics"}
+{"id": "JAH-BSB-000008", "t": "Biology and Systems Biology Database: Selection Allele Freq", "c": 0, "g": "genetics"}
+{"id": "JAH-BSB-000009", "t": "Biology and Systems Biology Database: Mutation-Selection Balance", "c": 0, "g": "genetics"}
+{"id": "JAH-BSB-000010", "t": "Biology and Systems Biology Database: Cardiac Output", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000011", "t": "Biology and Systems Biology Database: BMI", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000012", "t": "Biology and Systems Biology Database: Body Surface Area", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000013", "t": "Biology and Systems Biology Database: Creatinine Clearance", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000014", "t": "Biology and Systems Biology Database: Mean Arterial Pressure", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000015", "t": "Biology and Systems Biology Database: Alveolar Ventilation", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000016", "t": "Biology and Systems Biology Database: Lotka-Volterra Prey Step", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000017", "t": "Biology and Systems Biology Database: Lotka-Volterra Predator Step", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000018", "t": "Biology and Systems Biology Database: Shannon Diversity", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000019", "t": "Biology and Systems Biology Database: Simpson Index", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000020", "t": "Biology and Systems Biology Database: Species-Area", "c": 0, "g": "ecology"}
+{"id": "JAH-BSB-000021", "t": "Biology and Systems Biology Database: BMR (Mifflin)", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000022", "t": "Biology and Systems Biology Database: Total Daily Energy", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000023", "t": "Biology and Systems Biology Database: Surface-to-Volume (sphere)", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000024", "t": "Biology and Systems Biology Database: Diffusion Time", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000025", "t": "Biology and Systems Biology Database: Nernst (K+)", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000026", "t": "Biology and Systems Biology Database: Michaelis-Menten", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000027", "t": "Biology and Systems Biology Database: CFU per mL", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000028", "t": "Biology and Systems Biology Database: Allometric BMR", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000029", "t": "Biology and Systems Biology Database: Q10 Temperature", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000030", "t": "Biology and Systems Biology Database: Fick Diffusion Flux", "c": 0, "g": "cell-biology"}
+{"id": "JAH-BSB-000031", "t": "Biology and Systems Biology Database: Ejection Fraction", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000032", "t": "Biology and Systems Biology Database: Anion Gap", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000033", "t": "Biology and Systems Biology Database: LDL (Friedewald)", "c": 0, "g": "physiology"}
+{"id": "JAH-BSB-000034", "t": "Biology and Systems Biology Database: R0 Capstone", "c": 0, "g": "ecology"}

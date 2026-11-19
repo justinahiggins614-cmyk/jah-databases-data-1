@@ -1,0 +1,34 @@
+{"id": "JAH-BPWES-000001", "t": "Business Process and Workflow Engineering Signature Database: SIPOC Mapping", "c": 0, "g": "process-mapping"}
+{"id": "JAH-BPWES-000002", "t": "Business Process and Workflow Engineering Signature Database: Value Stream Mapping", "c": 0, "g": "process-mapping"}
+{"id": "JAH-BPWES-000003", "t": "Business Process and Workflow Engineering Signature Database: Bottleneck Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000004", "t": "Business Process and Workflow Engineering Signature Database: Cycle Time", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000005", "t": "Business Process and Workflow Engineering Signature Database: Throughput", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000006", "t": "Business Process and Workflow Engineering Signature Database: Little Law (WIP)", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000007", "t": "Business Process and Workflow Engineering Signature Database: Process Capacity", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000008", "t": "Business Process and Workflow Engineering Signature Database: Utilization", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000009", "t": "Business Process and Workflow Engineering Signature Database: Takt Time", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000010", "t": "Business Process and Workflow Engineering Signature Database: Lead Time", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000011", "t": "Business Process and Workflow Engineering Signature Database: Value-Add Ratio", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000012", "t": "Business Process and Workflow Engineering Signature Database: 8 Wastes (DOWNTIME)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000013", "t": "Business Process and Workflow Engineering Signature Database: 5S", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000014", "t": "Business Process and Workflow Engineering Signature Database: Kaizen Events", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000015", "t": "Business Process and Workflow Engineering Signature Database: Standard Work", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000016", "t": "Business Process and Workflow Engineering Signature Database: Poka-Yoke", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000017", "t": "Business Process and Workflow Engineering Signature Database: SMED (Changeover)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000018", "t": "Business Process and Workflow Engineering Signature Database: Kanban", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000019", "t": "Business Process and Workflow Engineering Signature Database: Control Charts (SPC)", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWES-000020", "t": "Business Process and Workflow Engineering Signature Database: Process Capability (Cp/Cpk)", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWES-000021", "t": "Business Process and Workflow Engineering Signature Database: DPMO / Six Sigma", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWES-000022", "t": "Business Process and Workflow Engineering Signature Database: FMEA (Process)", "c": 0, "g": "six-sigma"}
+{"id": "JAH-BPWES-000023", "t": "Business Process and Workflow Engineering Signature Database: 5 Whys", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000024", "t": "Business Process and Workflow Engineering Signature Database: Fishbone (Ishikawa)", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000025", "t": "Business Process and Workflow Engineering Signature Database: Pareto Analysis", "c": 0, "g": "analysis"}
+{"id": "JAH-BPWES-000026", "t": "Business Process and Workflow Engineering Signature Database: RACI Matrix", "c": 0, "g": "governance"}
+{"id": "JAH-BPWES-000027", "t": "Business Process and Workflow Engineering Signature Database: Swimlane Diagrams", "c": 0, "g": "process-mapping"}
+{"id": "JAH-BPWES-000028", "t": "Business Process and Workflow Engineering Signature Database: Decision Rules (DMN)", "c": 0, "g": "automation"}
+{"id": "JAH-BPWES-000029", "t": "Business Process and Workflow Engineering Signature Database: Workflow Automation (RPA)", "c": 0, "g": "automation"}
+{"id": "JAH-BPWES-000030", "t": "Business Process and Workflow Engineering Signature Database: Heijunka (Leveling)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000031", "t": "Business Process and Workflow Engineering Signature Database: Jidoka (Autonomation)", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000032", "t": "Business Process and Workflow Engineering Signature Database: Andon", "c": 0, "g": "lean"}
+{"id": "JAH-BPWES-000033", "t": "Business Process and Workflow Engineering Signature Database: Process Audit", "c": 0, "g": "governance"}
+{"id": "JAH-BPWES-000034", "t": "Business Process and Workflow Engineering Signature Database: Capstone: Process Excellence", "c": 0, "g": "governance"}

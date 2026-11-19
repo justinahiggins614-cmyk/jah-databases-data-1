@@ -1,0 +1,34 @@
+{"id": "JAH-USSE-000001", "t": "Bug-Free Software: The Correctness Dream", "g": "Correctness"}
+{"id": "JAH-USSE-000002", "t": "Software Estimation: The Scheduling Problem", "g": "Process"}
+{"id": "JAH-USSE-000003", "t": "Technical Debt: The Compounding Burden", "g": "Process"}
+{"id": "JAH-USSE-000004", "t": "Concurrency: The Parallel Programming Problem", "g": "Correctness"}
+{"id": "JAH-USSE-000005", "t": "Requirements: Knowing What to Build", "g": "Process"}
+{"id": "JAH-USSE-000006", "t": "Testing: The Completeness Problem", "g": "Correctness"}
+{"id": "JAH-USSE-000007", "t": "Legacy Modernization: The Rewrite Trap", "g": "Process"}
+{"id": "JAH-USSE-000008", "t": "Dependency Security: The Supply-Chain Problem", "g": "Security"}
+{"id": "JAH-USSE-000009", "t": "API Design: The Interface Problem", "g": "Design"}
+{"id": "JAH-USSE-000010", "t": "Documentation: The Knowledge Problem", "g": "Process"}
+{"id": "JAH-USSE-000011", "t": "Code Review: The Human Bottleneck", "g": "Process"}
+{"id": "JAH-USSE-000012", "t": "Debugging: The Science That Isn't", "g": "Correctness"}
+{"id": "JAH-USSE-000013", "t": "Distributed Systems: The Fallacies", "g": "Systems"}
+{"id": "JAH-USSE-000014", "t": "Software Architecture: The Science of Structure", "g": "Design"}
+{"id": "JAH-USSE-000015", "t": "Formal Methods: The Adoption Problem", "g": "Correctness"}
+{"id": "JAH-USSE-000016", "t": "AI-Generated Code: The Correctness Question", "g": "AI"}
+{"id": "JAH-USSE-000017", "t": "Software Maintenance: The 80% Problem", "g": "Process"}
+{"id": "JAH-USSE-000018", "t": "Programming Languages: The Perfect Language", "g": "Design"}
+{"id": "JAH-USSE-000019", "t": "Software Metrics: Measuring the Unmeasurable", "g": "Process"}
+{"id": "JAH-USSE-000020", "t": "Self-Healing Codebases", "g": "Systems"}
+{"id": "JAH-USSE-000021", "t": "Software Reuse: The Component Dream", "g": "Design"}
+{"id": "JAH-USSE-000022", "t": "Quantum Software Engineering", "g": "Systems"}
+{"id": "JAH-USSE-000023", "t": "Software Ethics: Engineering Responsibility", "g": "Process"}
+{"id": "JAH-USSE-000024", "t": "Program Synthesis: Writing Programs from Specs", "g": "AI"}
+{"id": "JAH-USSE-000025", "t": "Verification at Scale: The Million-Line Proof", "g": "Correctness"}
+{"id": "JAH-USSE-000026", "t": "Secure by Design: The Vulnerability-Free System", "g": "Security"}
+{"id": "JAH-USSE-000027", "t": "Software Economics: The Value Problem", "g": "Process"}
+{"id": "JAH-USSE-000028", "t": "HCI: The Usability Science", "g": "Design"}
+{"id": "JAH-USSE-000029", "t": "Distributed Trust: Beyond Blockchain", "g": "Systems"}
+{"id": "JAH-USSE-000030", "t": "Sustainable Software: The Carbon Code", "g": "Systems"}
+{"id": "JAH-USSE-000031", "t": "Software and Mind: The Consciousness Question", "g": "Theory"}
+{"id": "JAH-USSE-000032", "t": "Taming Complexity: The Essential Difficulty", "g": "Theory"}
+{"id": "JAH-USSE-000033", "t": "The Future of Software: A Century Ahead", "g": "Theory"}
+{"id": "JAH-USSE-000034", "t": "Software Engineering as Science", "g": "Theory"}

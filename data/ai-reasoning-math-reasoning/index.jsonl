@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-MR-000001", "t": "What math reasoning is: numbers with reasons", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000002", "t": "Arithmetic chains: the reliable calculation", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000003", "t": "Order of operations: the agreed sequence", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000004", "t": "Fractions and decimals: the exact forms", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000005", "t": "Percentages: the language of change", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000006", "t": "Estimation: the sanity check", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000007", "t": "Units: the meaning of numbers", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000008", "t": "Word problem basics: words to math", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000009", "t": "Checking answers: the verification", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000010", "t": "The calculator habit: tools for arithmetic", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000011", "t": "The first solution: a complete walkthrough", "g": "math-reasoning-foundations"}
+{"id": "JAH-AIR-MR-000012", "t": "Algebraic reasoning: symbols with meaning", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000013", "t": "Systems of equations: many unknowns", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000014", "t": "Proportional reasoning: ratios and scales", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000015", "t": "Program-aided math: computing exactly", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000016", "t": "Verification: the independent check", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000017", "t": "Error patterns: the classic mistakes", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000018", "t": "Multi-step problems: the long chain", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000019", "t": "Interpretation: what the numbers mean", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000020", "t": "Mathematical modeling: the world in equations", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000021", "t": "Evaluation: measuring math reasoning", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000022", "t": "Proofs: the certain argument", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000023", "t": "Formal verification: proofs by machine", "g": "math-reasoning-compounded"}
+{"id": "JAH-AIR-MR-000024", "t": "Competition problems: the hard ones", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000025", "t": "Neuro-symbolic math: intuition plus rigor", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000026", "t": "The honest mathematician: the final standard", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000027", "t": "Mathematics at the frontier: the open questions", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000028", "t": "Inequalities: the bounded answer", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000029", "t": "Functions: the mapping", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000030", "t": "Sequences and series: the pattern", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000031", "t": "Geometry reasoning: the spatial math", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000032", "t": "Statistics reasoning: the uncertain math", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000033", "t": "Discrete math: the countable", "g": "math-reasoning-advanced"}
+{"id": "JAH-AIR-MR-000034", "t": "The mathematical toolkit: the working methods", "g": "math-reasoning-advanced"}

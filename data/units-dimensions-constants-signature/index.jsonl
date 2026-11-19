@@ -1,0 +1,34 @@
+{"id": "JAH-UDCS-000001", "t": "Units, Dimensions, and Physical Constants Signature Database: Meters to Feet", "c": 0, "g": "length"}
+{"id": "JAH-UDCS-000002", "t": "Units, Dimensions, and Physical Constants Signature Database: Kilometers to Miles", "c": 0, "g": "length"}
+{"id": "JAH-UDCS-000003", "t": "Units, Dimensions, and Physical Constants Signature Database: Kilograms to Pounds", "c": 0, "g": "mass"}
+{"id": "JAH-UDCS-000004", "t": "Units, Dimensions, and Physical Constants Signature Database: Grams to Ounces", "c": 0, "g": "mass"}
+{"id": "JAH-UDCS-000005", "t": "Units, Dimensions, and Physical Constants Signature Database: Celsius to Fahrenheit", "c": 0, "g": "temperature"}
+{"id": "JAH-UDCS-000006", "t": "Units, Dimensions, and Physical Constants Signature Database: Fahrenheit to Celsius", "c": 0, "g": "temperature"}
+{"id": "JAH-UDCS-000007", "t": "Units, Dimensions, and Physical Constants Signature Database: Kelvin to Celsius", "c": 0, "g": "temperature"}
+{"id": "JAH-UDCS-000008", "t": "Units, Dimensions, and Physical Constants Signature Database: Liters to Gallons", "c": 0, "g": "volume"}
+{"id": "JAH-UDCS-000009", "t": "Units, Dimensions, and Physical Constants Signature Database: Milliliters to Fluid Ounces", "c": 0, "g": "volume"}
+{"id": "JAH-UDCS-000010", "t": "Units, Dimensions, and Physical Constants Signature Database: Square Meters to Square Feet", "c": 0, "g": "area"}
+{"id": "JAH-UDCS-000011", "t": "Units, Dimensions, and Physical Constants Signature Database: Hectares to Acres", "c": 0, "g": "area"}
+{"id": "JAH-UDCS-000012", "t": "Units, Dimensions, and Physical Constants Signature Database: Cubic Meters to Cubic Feet", "c": 0, "g": "volume"}
+{"id": "JAH-UDCS-000013", "t": "Units, Dimensions, and Physical Constants Signature Database: Kmh to Ms", "c": 0, "g": "speed"}
+{"id": "JAH-UDCS-000014", "t": "Units, Dimensions, and Physical Constants Signature Database: Mph to Kmh", "c": 0, "g": "speed"}
+{"id": "JAH-UDCS-000015", "t": "Units, Dimensions, and Physical Constants Signature Database: Knots to Kmh", "c": 0, "g": "speed"}
+{"id": "JAH-UDCS-000016", "t": "Units, Dimensions, and Physical Constants Signature Database: Pascals to PSI", "c": 0, "g": "pressure"}
+{"id": "JAH-UDCS-000017", "t": "Units, Dimensions, and Physical Constants Signature Database: Bar to PSI", "c": 0, "g": "pressure"}
+{"id": "JAH-UDCS-000018", "t": "Units, Dimensions, and Physical Constants Signature Database: Joules to Calories", "c": 0, "g": "energy"}
+{"id": "JAH-UDCS-000019", "t": "Units, Dimensions, and Physical Constants Signature Database: kWh to Joules", "c": 0, "g": "energy"}
+{"id": "JAH-UDCS-000020", "t": "Units, Dimensions, and Physical Constants Signature Database: Watts to Horsepower", "c": 0, "g": "power"}
+{"id": "JAH-UDCS-000021", "t": "Units, Dimensions, and Physical Constants Signature Database: Newtons to Pounds-Force", "c": 0, "g": "force"}
+{"id": "JAH-UDCS-000022", "t": "Units, Dimensions, and Physical Constants Signature Database: Electronvolts to Joules", "c": 0, "g": "energy"}
+{"id": "JAH-UDCS-000023", "t": "Units, Dimensions, and Physical Constants Signature Database: Light-Years to Kilometers", "c": 0, "g": "distance"}
+{"id": "JAH-UDCS-000024", "t": "Units, Dimensions, and Physical Constants Signature Database: AU to Kilometers", "c": 0, "g": "distance"}
+{"id": "JAH-UDCS-000025", "t": "Units, Dimensions, and Physical Constants Signature Database: Inches to Centimeters", "c": 0, "g": "length"}
+{"id": "JAH-UDCS-000026", "t": "Units, Dimensions, and Physical Constants Signature Database: Feet to Meters", "c": 0, "g": "length"}
+{"id": "JAH-UDCS-000027", "t": "Units, Dimensions, and Physical Constants Signature Database: Square Miles to Square Km", "c": 0, "g": "area"}
+{"id": "JAH-UDCS-000028", "t": "Units, Dimensions, and Physical Constants Signature Database: Acres to Square Meters", "c": 0, "g": "area"}
+{"id": "JAH-UDCS-000029", "t": "Units, Dimensions, and Physical Constants Signature Database: Gallons to Liters", "c": 0, "g": "volume"}
+{"id": "JAH-UDCS-000030", "t": "Units, Dimensions, and Physical Constants Signature Database: Ounces to Grams", "c": 0, "g": "mass"}
+{"id": "JAH-UDCS-000031", "t": "Units, Dimensions, and Physical Constants Signature Database: Pounds to Kilograms", "c": 0, "g": "mass"}
+{"id": "JAH-UDCS-000032", "t": "Units, Dimensions, and Physical Constants Signature Database: Metric Tons to Pounds", "c": 0, "g": "mass"}
+{"id": "JAH-UDCS-000033", "t": "Units, Dimensions, and Physical Constants Signature Database: Celsius to Kelvin", "c": 0, "g": "temperature"}
+{"id": "JAH-UDCS-000034", "t": "Units, Dimensions, and Physical Constants Signature Database: kWh to BTU Capstone", "c": 0, "g": "energy"}

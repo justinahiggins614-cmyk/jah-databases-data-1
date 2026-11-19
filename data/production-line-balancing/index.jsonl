@@ -1,0 +1,34 @@
+{"id": "JAH-PLB-000001", "t": "Takt Time", "g": "line-analysis"}
+{"id": "JAH-PLB-000002", "t": "Cycle Time vs Takt", "g": "balancing-methods"}
+{"id": "JAH-PLB-000003", "t": "Bottleneck Identification", "g": "flow-optimization"}
+{"id": "JAH-PLB-000004", "t": "Line Balancing Basics", "g": "line-analysis"}
+{"id": "JAH-PLB-000005", "t": "The Balancing Playbook", "g": "balancing-methods"}
+{"id": "JAH-PLB-000006", "t": "Workstation Design", "g": "flow-optimization"}
+{"id": "JAH-PLB-000007", "t": "Precedence Diagrams", "g": "line-analysis"}
+{"id": "JAH-PLB-000008", "t": "Largest Candidate Rule", "g": "balancing-methods"}
+{"id": "JAH-PLB-000009", "t": "Ranked Positional Weight", "g": "flow-optimization"}
+{"id": "JAH-PLB-000010", "t": "Efficiency Metrics", "g": "line-analysis"}
+{"id": "JAH-PLB-000011", "t": "Smoothness Index", "g": "balancing-methods"}
+{"id": "JAH-PLB-000012", "t": "Mixed-Model Lines", "g": "flow-optimization"}
+{"id": "JAH-PLB-000013", "t": "U-Shaped Lines", "g": "line-analysis"}
+{"id": "JAH-PLB-000014", "t": "One-Piece Flow", "g": "balancing-methods"}
+{"id": "JAH-PLB-000015", "t": "Pull Systems (Kanban)", "g": "flow-optimization"}
+{"id": "JAH-PLB-000016", "t": "WIP Limits", "g": "line-analysis"}
+{"id": "JAH-PLB-000017", "t": "Andon Systems", "g": "balancing-methods"}
+{"id": "JAH-PLB-000018", "t": "Poka-Yoke", "g": "flow-optimization"}
+{"id": "JAH-PLB-000019", "t": "SMED (Quick Changeover)", "g": "line-analysis"}
+{"id": "JAH-PLB-000020", "t": "Standard Work", "g": "balancing-methods"}
+{"id": "JAH-PLB-000021", "t": "Time Studies", "g": "flow-optimization"}
+{"id": "JAH-PLB-000022", "t": "Yamazumi Charts", "g": "line-analysis"}
+{"id": "JAH-PLB-000023", "t": "Operator Flexibility", "g": "balancing-methods"}
+{"id": "JAH-PLB-000024", "t": "Line-Side Inventory", "g": "flow-optimization"}
+{"id": "JAH-PLB-000025", "t": "Ergonomics on Lines", "g": "line-analysis"}
+{"id": "JAH-PLB-000026", "t": "Quality at the Source", "g": "balancing-methods"}
+{"id": "JAH-PLB-000027", "t": "Rebalancing Triggers", "g": "flow-optimization"}
+{"id": "JAH-PLB-000028", "t": "Simulation for Lines", "g": "line-analysis"}
+{"id": "JAH-PLB-000029", "t": "OEE (Overall Equipment Effectiveness)", "g": "balancing-methods"}
+{"id": "JAH-PLB-000030", "t": "Continuous Flow Cells", "g": "flow-optimization"}
+{"id": "JAH-PLB-000031", "t": "Heijunka (Leveling)", "g": "line-analysis"}
+{"id": "JAH-PLB-000032", "t": "The Flow Audit", "g": "balancing-methods"}
+{"id": "JAH-PLB-000033", "t": "Kaizen for Lines", "g": "flow-optimization"}
+{"id": "JAH-PLB-000034", "t": "Line Balancing Software", "g": "line-analysis"}

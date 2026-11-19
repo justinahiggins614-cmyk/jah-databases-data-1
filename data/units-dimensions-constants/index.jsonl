@@ -1,0 +1,34 @@
+{"id": "JAH-UDC-000001", "t": "Units, Dimensions, and Physical Constants Database: Meters to Feet", "c": 0, "g": "length"}
+{"id": "JAH-UDC-000002", "t": "Units, Dimensions, and Physical Constants Database: Kilometers to Miles", "c": 0, "g": "length"}
+{"id": "JAH-UDC-000003", "t": "Units, Dimensions, and Physical Constants Database: Kilograms to Pounds", "c": 0, "g": "mass"}
+{"id": "JAH-UDC-000004", "t": "Units, Dimensions, and Physical Constants Database: Grams to Ounces", "c": 0, "g": "mass"}
+{"id": "JAH-UDC-000005", "t": "Units, Dimensions, and Physical Constants Database: Celsius to Fahrenheit", "c": 0, "g": "temperature"}
+{"id": "JAH-UDC-000006", "t": "Units, Dimensions, and Physical Constants Database: Fahrenheit to Celsius", "c": 0, "g": "temperature"}
+{"id": "JAH-UDC-000007", "t": "Units, Dimensions, and Physical Constants Database: Kelvin to Celsius", "c": 0, "g": "temperature"}
+{"id": "JAH-UDC-000008", "t": "Units, Dimensions, and Physical Constants Database: Liters to Gallons", "c": 0, "g": "volume"}
+{"id": "JAH-UDC-000009", "t": "Units, Dimensions, and Physical Constants Database: Milliliters to Fluid Ounces", "c": 0, "g": "volume"}
+{"id": "JAH-UDC-000010", "t": "Units, Dimensions, and Physical Constants Database: Square Meters to Square Feet", "c": 0, "g": "area"}
+{"id": "JAH-UDC-000011", "t": "Units, Dimensions, and Physical Constants Database: Hectares to Acres", "c": 0, "g": "area"}
+{"id": "JAH-UDC-000012", "t": "Units, Dimensions, and Physical Constants Database: Cubic Meters to Cubic Feet", "c": 0, "g": "volume"}
+{"id": "JAH-UDC-000013", "t": "Units, Dimensions, and Physical Constants Database: Kmh to Ms", "c": 0, "g": "speed"}
+{"id": "JAH-UDC-000014", "t": "Units, Dimensions, and Physical Constants Database: Mph to Kmh", "c": 0, "g": "speed"}
+{"id": "JAH-UDC-000015", "t": "Units, Dimensions, and Physical Constants Database: Knots to Kmh", "c": 0, "g": "speed"}
+{"id": "JAH-UDC-000016", "t": "Units, Dimensions, and Physical Constants Database: Pascals to PSI", "c": 0, "g": "pressure"}
+{"id": "JAH-UDC-000017", "t": "Units, Dimensions, and Physical Constants Database: Bar to PSI", "c": 0, "g": "pressure"}
+{"id": "JAH-UDC-000018", "t": "Units, Dimensions, and Physical Constants Database: Joules to Calories", "c": 0, "g": "energy"}
+{"id": "JAH-UDC-000019", "t": "Units, Dimensions, and Physical Constants Database: kWh to Joules", "c": 0, "g": "energy"}
+{"id": "JAH-UDC-000020", "t": "Units, Dimensions, and Physical Constants Database: Watts to Horsepower", "c": 0, "g": "power"}
+{"id": "JAH-UDC-000021", "t": "Units, Dimensions, and Physical Constants Database: Newtons to Pounds-Force", "c": 0, "g": "force"}
+{"id": "JAH-UDC-000022", "t": "Units, Dimensions, and Physical Constants Database: Electronvolts to Joules", "c": 0, "g": "energy"}
+{"id": "JAH-UDC-000023", "t": "Units, Dimensions, and Physical Constants Database: Light-Years to Kilometers", "c": 0, "g": "distance"}
+{"id": "JAH-UDC-000024", "t": "Units, Dimensions, and Physical Constants Database: AU to Kilometers", "c": 0, "g": "distance"}
+{"id": "JAH-UDC-000025", "t": "Units, Dimensions, and Physical Constants Database: Inches to Centimeters", "c": 0, "g": "length"}
+{"id": "JAH-UDC-000026", "t": "Units, Dimensions, and Physical Constants Database: Feet to Meters", "c": 0, "g": "length"}
+{"id": "JAH-UDC-000027", "t": "Units, Dimensions, and Physical Constants Database: Square Miles to Square Km", "c": 0, "g": "area"}
+{"id": "JAH-UDC-000028", "t": "Units, Dimensions, and Physical Constants Database: Acres to Square Meters", "c": 0, "g": "area"}
+{"id": "JAH-UDC-000029", "t": "Units, Dimensions, and Physical Constants Database: Gallons to Liters", "c": 0, "g": "volume"}
+{"id": "JAH-UDC-000030", "t": "Units, Dimensions, and Physical Constants Database: Ounces to Grams", "c": 0, "g": "mass"}
+{"id": "JAH-UDC-000031", "t": "Units, Dimensions, and Physical Constants Database: Pounds to Kilograms", "c": 0, "g": "mass"}
+{"id": "JAH-UDC-000032", "t": "Units, Dimensions, and Physical Constants Database: Metric Tons to Pounds", "c": 0, "g": "mass"}
+{"id": "JAH-UDC-000033", "t": "Units, Dimensions, and Physical Constants Database: Celsius to Kelvin", "c": 0, "g": "temperature"}
+{"id": "JAH-UDC-000034", "t": "Units, Dimensions, and Physical Constants Database: kWh to BTU Capstone", "c": 0, "g": "energy"}

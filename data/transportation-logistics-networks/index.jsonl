@@ -1,0 +1,34 @@
+{"id": "JAH-TLN-000001", "t": "Transportation and Logistics Networks Database: Travel Time", "c": 0, "g": "routing"}
+{"id": "JAH-TLN-000002", "t": "Transportation and Logistics Networks Database: Average Speed", "c": 0, "g": "routing"}
+{"id": "JAH-TLN-000003", "t": "Transportation and Logistics Networks Database: Fuel Consumption", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000004", "t": "Transportation and Logistics Networks Database: Fuel Cost", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000005", "t": "Transportation and Logistics Networks Database: Freight Cost", "c": 0, "g": "freight"}
+{"id": "JAH-TLN-000006", "t": "Transportation and Logistics Networks Database: Fleet Capacity", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000007", "t": "Transportation and Logistics Networks Database: Fleet Utilization", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000008", "t": "Transportation and Logistics Networks Database: Trips Needed", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000009", "t": "Transportation and Logistics Networks Database: Inventory Turns", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000010", "t": "Transportation and Logistics Networks Database: Days of Supply", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000011", "t": "Transportation and Logistics Networks Database: Warehouse Utilization", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000012", "t": "Transportation and Logistics Networks Database: Order Fill Rate", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000013", "t": "Transportation and Logistics Networks Database: On-Time Delivery", "c": 0, "g": "freight"}
+{"id": "JAH-TLN-000014", "t": "Transportation and Logistics Networks Database: Perfect Order Rate", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000015", "t": "Transportation and Logistics Networks Database: Labor Productivity", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000016", "t": "Transportation and Logistics Networks Database: Center of Gravity", "c": 0, "g": "network"}
+{"id": "JAH-TLN-000017", "t": "Transportation and Logistics Networks Database: Traffic Flow", "c": 0, "g": "traffic"}
+{"id": "JAH-TLN-000018", "t": "Transportation and Logistics Networks Database: Headway", "c": 0, "g": "traffic"}
+{"id": "JAH-TLN-000019", "t": "Transportation and Logistics Networks Database: Braking Distance", "c": 0, "g": "traffic"}
+{"id": "JAH-TLN-000020", "t": "Transportation and Logistics Networks Database: Reaction Distance", "c": 0, "g": "traffic"}
+{"id": "JAH-TLN-000021", "t": "Transportation and Logistics Networks Database: Total Stopping Distance", "c": 0, "g": "traffic"}
+{"id": "JAH-TLN-000022", "t": "Transportation and Logistics Networks Database: Container Utilization", "c": 0, "g": "freight"}
+{"id": "JAH-TLN-000023", "t": "Transportation and Logistics Networks Database: Lead Time Demand", "c": 0, "g": "inventory"}
+{"id": "JAH-TLN-000024", "t": "Transportation and Logistics Networks Database: Ton-Miles", "c": 0, "g": "freight"}
+{"id": "JAH-TLN-000025", "t": "Transportation and Logistics Networks Database: Cost per Ton-Mile", "c": 0, "g": "freight"}
+{"id": "JAH-TLN-000026", "t": "Transportation and Logistics Networks Database: Empty Miles Share", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000027", "t": "Transportation and Logistics Networks Database: Driver Hours", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000028", "t": "Transportation and Logistics Networks Database: Cube Utilization", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000029", "t": "Transportation and Logistics Networks Database: Pallet Positions", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000030", "t": "Transportation and Logistics Networks Database: Inventory Accuracy", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000031", "t": "Transportation and Logistics Networks Database: Stockout Rate", "c": 0, "g": "inventory"}
+{"id": "JAH-TLN-000032", "t": "Transportation and Logistics Networks Database: Warehouse Cost per Unit", "c": 0, "g": "warehousing"}
+{"id": "JAH-TLN-000033", "t": "Transportation and Logistics Networks Database: Payload Efficiency", "c": 0, "g": "fleet"}
+{"id": "JAH-TLN-000034", "t": "Transportation and Logistics Networks Database: Landed Cost Capstone", "c": 0, "g": "freight"}

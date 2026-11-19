@@ -1,0 +1,34 @@
+{"id": "JAH-VTEAS-000001", "t": "Video and Temporal Event Analysis Signature Database: Frame Extraction", "c": 0, "g": "foundations"}
+{"id": "JAH-VTEAS-000002", "t": "Video and Temporal Event Analysis Signature Database: Shot Detection", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEAS-000003", "t": "Video and Temporal Event Analysis Signature Database: Scene Segmentation", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEAS-000004", "t": "Video and Temporal Event Analysis Signature Database: Keyframe Selection", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEAS-000005", "t": "Video and Temporal Event Analysis Signature Database: Object Tracking", "c": 0, "g": "tracking"}
+{"id": "JAH-VTEAS-000006", "t": "Video and Temporal Event Analysis Signature Database: Motion Detection", "c": 0, "g": "tracking"}
+{"id": "JAH-VTEAS-000007", "t": "Video and Temporal Event Analysis Signature Database: Event Timeline", "c": 0, "g": "temporal"}
+{"id": "JAH-VTEAS-000008", "t": "Video and Temporal Event Analysis Signature Database: Temporal Annotation", "c": 0, "g": "temporal"}
+{"id": "JAH-VTEAS-000009", "t": "Video and Temporal Event Analysis Signature Database: Action Recognition (workflow)", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000010", "t": "Video and Temporal Event Analysis Signature Database: Subtitle Extraction", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000011", "t": "Video and Temporal Event Analysis Signature Database: Chapter Detection", "c": 0, "g": "segmentation"}
+{"id": "JAH-VTEAS-000012", "t": "Video and Temporal Event Analysis Signature Database: Highlight Detection", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEAS-000013", "t": "Video and Temporal Event Analysis Signature Database: Video Summarization", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEAS-000014", "t": "Video and Temporal Event Analysis Signature Database: Anomaly Detection", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000015", "t": "Video and Temporal Event Analysis Signature Database: People Counting", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000016", "t": "Video and Temporal Event Analysis Signature Database: Dwell Time", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000017", "t": "Video and Temporal Event Analysis Signature Database: Queue Analysis", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000018", "t": "Video and Temporal Event Analysis Signature Database: Traffic Analysis", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000019", "t": "Video and Temporal Event Analysis Signature Database: Sports Analytics", "c": 0, "g": "recognition"}
+{"id": "JAH-VTEAS-000020", "t": "Video and Temporal Event Analysis Signature Database: Surveillance Review", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEAS-000021", "t": "Video and Temporal Event Analysis Signature Database: Video Forensics", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEAS-000022", "t": "Video and Temporal Event Analysis Signature Database: Timestamp Verification", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEAS-000023", "t": "Video and Temporal Event Analysis Signature Database: Frame Rate Check", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000024", "t": "Video and Temporal Event Analysis Signature Database: Codec Identification", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000025", "t": "Video and Temporal Event Analysis Signature Database: Metadata Extraction", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000026", "t": "Video and Temporal Event Analysis Signature Database: Thumbnail Generation", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEAS-000027", "t": "Video and Temporal Event Analysis Signature Database: Storyboard", "c": 0, "g": "summarization"}
+{"id": "JAH-VTEAS-000028", "t": "Video and Temporal Event Analysis Signature Database: Quality Check", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000029", "t": "Video and Temporal Event Analysis Signature Database: AV Sync Check", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000030", "t": "Video and Temporal Event Analysis Signature Database: Duplicate Detection", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000031", "t": "Video and Temporal Event Analysis Signature Database: Transcoding Workflow", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000032", "t": "Video and Temporal Event Analysis Signature Database: Live Stream Monitoring", "c": 0, "g": "quality"}
+{"id": "JAH-VTEAS-000033", "t": "Video and Temporal Event Analysis Signature Database: Privacy Redaction", "c": 0, "g": "forensics"}
+{"id": "JAH-VTEAS-000034", "t": "Video and Temporal Event Analysis Signature Database: Capstone: Video Pipeline", "c": 0, "g": "temporal"}

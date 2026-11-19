@@ -1,0 +1,34 @@
+{"id": "JAH-ANALC-000001", "t": "What Is Analytical Chemistry", "g": "Fundamentals"}
+{"id": "JAH-ANALC-000002", "t": "The Analytical Process: Sampling to Reporting", "g": "Fundamentals"}
+{"id": "JAH-ANALC-000003", "t": "Units, Significant Figures, and Error", "g": "Data"}
+{"id": "JAH-ANALC-000004", "t": "Precision vs Accuracy", "g": "Data"}
+{"id": "JAH-ANALC-000005", "t": "Statistical Treatment of Data", "g": "Data"}
+{"id": "JAH-ANALC-000006", "t": "Calibration Curves", "g": "Data"}
+{"id": "JAH-ANALC-000007", "t": "Quality Assurance and Quality Control", "g": "Quality"}
+{"id": "JAH-ANALC-000008", "t": "Sampling and Sample Preparation", "g": "Sampling"}
+{"id": "JAH-ANALC-000009", "t": "Gravimetric Analysis", "g": "Classical"}
+{"id": "JAH-ANALC-000010", "t": "Titrimetry: Principles", "g": "Classical"}
+{"id": "JAH-ANALC-000011", "t": "Acid-Base Titrations", "g": "Classical"}
+{"id": "JAH-ANALC-000012", "t": "Redox Titrations", "g": "Classical"}
+{"id": "JAH-ANALC-000013", "t": "Complexometric Titrations (EDTA)", "g": "Classical"}
+{"id": "JAH-ANALC-000014", "t": "Precipitation Titrations", "g": "Classical"}
+{"id": "JAH-ANALC-000015", "t": "Electroanalytical Methods: Potentiometry", "g": "Electroanalysis"}
+{"id": "JAH-ANALC-000016", "t": "Voltammetry and Amperometry", "g": "Electroanalysis"}
+{"id": "JAH-ANALC-000017", "t": "Introduction to Spectroscopy for Analysis", "g": "Spectroscopy"}
+{"id": "JAH-ANALC-000018", "t": "UV-Visible Spectrophotometry", "g": "Spectroscopy"}
+{"id": "JAH-ANALC-000019", "t": "Atomic Absorption and Emission", "g": "Spectroscopy"}
+{"id": "JAH-ANALC-000020", "t": "Introduction to Chromatography", "g": "Separations"}
+{"id": "JAH-ANALC-000021", "t": "Gas Chromatography", "g": "Separations"}
+{"id": "JAH-ANALC-000022", "t": "Liquid Chromatography (HPLC)", "g": "Separations"}
+{"id": "JAH-ANALC-000023", "t": "Mass Spectrometry Basics", "g": "Separations"}
+{"id": "JAH-ANALC-000024", "t": "NMR for Quantitative Analysis", "g": "Spectroscopy"}
+{"id": "JAH-ANALC-000025", "t": "Hyphenated Techniques (GC-MS, LC-MS)", "g": "Hyphenated"}
+{"id": "JAH-ANALC-000026", "t": "Method Validation", "g": "Validation"}
+{"id": "JAH-ANALC-000027", "t": "Detection Limits: LOD and LOQ", "g": "Validation"}
+{"id": "JAH-ANALC-000028", "t": "Chemometrics", "g": "Data"}
+{"id": "JAH-ANALC-000029", "t": "Environmental Sampling and Analysis", "g": "Applied"}
+{"id": "JAH-ANALC-000030", "t": "Trace Analysis and Contamination Control", "g": "Applied"}
+{"id": "JAH-ANALC-000031", "t": "Electrochemical Sensors", "g": "Electroanalysis"}
+{"id": "JAH-ANALC-000032", "t": "Capillary Electrophoresis", "g": "Separations"}
+{"id": "JAH-ANALC-000033", "t": "Thermal Analysis Methods", "g": "Thermal"}
+{"id": "JAH-ANALC-000034", "t": "Certified Reference Materials and Traceability", "g": "Quality"}

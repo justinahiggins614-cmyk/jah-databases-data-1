@@ -1,0 +1,34 @@
+{"id": "JAH-GO-000001", "t": "What go is: the surrounding game", "g": "Foundations"}
+{"id": "JAH-GO-000002", "t": "The board: 19x19, 9x9, and 13x13", "g": "Foundations"}
+{"id": "JAH-GO-000003", "t": "Stones and placing them", "g": "Foundations"}
+{"id": "JAH-GO-000004", "t": "Liberties: the core rule", "g": "Foundations"}
+{"id": "JAH-GO-000005", "t": "Capturing stones", "g": "Foundations"}
+{"id": "JAH-GO-000006", "t": "The ko rule", "g": "Foundations"}
+{"id": "JAH-GO-000007", "t": "Eyes: what makes a group alive", "g": "Foundations"}
+{"id": "JAH-GO-000008", "t": "Two eyes live: the life rule", "g": "Foundations"}
+{"id": "JAH-GO-000009", "t": "Seki: mutual life", "g": "Foundations"}
+{"id": "JAH-GO-000010", "t": "Atari: the warning call", "g": "Foundations"}
+{"id": "JAH-GO-000011", "t": "Counting liberties in a fight", "g": "Foundations"}
+{"id": "JAH-GO-000012", "t": "Scoring: territory and area", "g": "Foundations"}
+{"id": "JAH-GO-000013", "t": "Opening principles: corners, sides, center", "g": "Compounded"}
+{"id": "JAH-GO-000014", "t": "The 3-4, 4-4, and 3-3 points", "g": "Compounded"}
+{"id": "JAH-GO-000015", "t": "Joseki: corner patterns", "g": "Compounded"}
+{"id": "JAH-GO-000016", "t": "Approach moves and pincers", "g": "Compounded"}
+{"id": "JAH-GO-000017", "t": "Good shape and bad shape", "g": "Compounded"}
+{"id": "JAH-GO-000018", "t": "The empty triangle", "g": "Compounded"}
+{"id": "JAH-GO-000019", "t": "Cutting and connecting", "g": "Compounded"}
+{"id": "JAH-GO-000020", "t": "Ladders (shicho)", "g": "Compounded"}
+{"id": "JAH-GO-000021", "t": "Nets (geta)", "g": "Compounded"}
+{"id": "JAH-GO-000022", "t": "Life and death: reading it out", "g": "Compounded"}
+{"id": "JAH-GO-000023", "t": "Endgame: sente and gote", "g": "Compounded"}
+{"id": "JAH-GO-000024", "t": "Handicap stones and komi", "g": "Compounded"}
+{"id": "JAH-GO-000025", "t": "Direction of play", "g": "Advanced"}
+{"id": "JAH-GO-000026", "t": "Thickness and influence", "g": "Advanced"}
+{"id": "JAH-GO-000027", "t": "Invasion and reduction", "g": "Advanced"}
+{"id": "JAH-GO-000028", "t": "Ko fights and ko threats", "g": "Advanced"}
+{"id": "JAH-GO-000029", "t": "Reading: visualizing sequences", "g": "Advanced"}
+{"id": "JAH-GO-000030", "t": "Tesuji: the clever move", "g": "Advanced"}
+{"id": "JAH-GO-000031", "t": "Fuseki: whole-board strategy", "g": "Advanced"}
+{"id": "JAH-GO-000032", "t": "The middle game: fighting", "g": "Advanced"}
+{"id": "JAH-GO-000033", "t": "Studying professional games", "g": "Advanced"}
+{"id": "JAH-GO-000034", "t": "Building a go study routine", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-TMAW-000001", "t": "AI Automation Workflows Database: Shell Scripting for Automation", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000002", "t": "AI Automation Workflows Database: Makefiles as Task Runners", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000003", "t": "AI Automation Workflows Database: File Watching and Auto-Reload", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000004", "t": "AI Automation Workflows Database: Bulk Operations Safely", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000005", "t": "AI Automation Workflows Database: Notifications from Automation", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000006", "t": "AI Automation Workflows Database: Cron: Scheduling Recurring Tasks", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000007", "t": "AI Automation Workflows Database: Systemd Timers over Cron", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000008", "t": "AI Automation Workflows Database: Scheduled Reports and Digests", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000009", "t": "AI Automation Workflows Database: Certificate and Expiry Monitoring", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000010", "t": "AI Automation Workflows Database: Database Maintenance Jobs", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000011", "t": "AI Automation Workflows Database: Event-Driven Architecture Basics", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000012", "t": "AI Automation Workflows Database: Webhooks as Event Triggers", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000013", "t": "AI Automation Workflows Database: File System Triggers", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000014", "t": "AI Automation Workflows Database: Database Triggers and Change Data Capture", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000015", "t": "AI Automation Workflows Database: Zapier/Make-Style Integration Flows", "c": 0, "g": "integration-flows"}
+{"id": "JAH-TMAW-000016", "t": "AI Automation Workflows Database: ETL Pipelines (Extract-Transform-Load)", "c": 0, "g": "integration-flows"}
+{"id": "JAH-TMAW-000017", "t": "AI Automation Workflows Database: API-to-API Sync Patterns", "c": 0, "g": "integration-flows"}
+{"id": "JAH-TMAW-000018", "t": "AI Automation Workflows Database: RPA: Browser Automation Patterns", "c": 0, "g": "rpa-patterns"}
+{"id": "JAH-TMAW-000019", "t": "AI Automation Workflows Database: Screen Scraping Responsibly", "c": 0, "g": "rpa-patterns"}
+{"id": "JAH-TMAW-000020", "t": "AI Automation Workflows Database: Shell Scripting for Automation (variant 1)", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000021", "t": "AI Automation Workflows Database: Makefiles as Task Runners (variant 1)", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000022", "t": "AI Automation Workflows Database: File Watching and Auto-Reload (variant 1)", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000023", "t": "AI Automation Workflows Database: Bulk Operations Safely (variant 1)", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000024", "t": "AI Automation Workflows Database: Notifications from Automation (variant 1)", "c": 0, "g": "task-automation"}
+{"id": "JAH-TMAW-000025", "t": "AI Automation Workflows Database: Cron: Scheduling Recurring Tasks (variant 1)", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000026", "t": "AI Automation Workflows Database: Systemd Timers over Cron (variant 1)", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000027", "t": "AI Automation Workflows Database: Scheduled Reports and Digests (variant 1)", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000028", "t": "AI Automation Workflows Database: Certificate and Expiry Monitoring (variant 1)", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000029", "t": "AI Automation Workflows Database: Database Maintenance Jobs (variant 1)", "c": 0, "g": "scheduled-jobs"}
+{"id": "JAH-TMAW-000030", "t": "AI Automation Workflows Database: Event-Driven Architecture Basics (variant 1)", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000031", "t": "AI Automation Workflows Database: Webhooks as Event Triggers (variant 1)", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000032", "t": "AI Automation Workflows Database: File System Triggers (variant 1)", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000033", "t": "AI Automation Workflows Database: Database Triggers and Change Data Capture (variant 1)", "c": 0, "g": "event-triggers"}
+{"id": "JAH-TMAW-000034", "t": "AI Automation Workflows Database: Zapier/Make-Style Integration Flows (variant 1)", "c": 0, "g": "integration-flows"}

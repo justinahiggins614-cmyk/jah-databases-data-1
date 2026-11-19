@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-SUM-000001", "t": "What summarization is: the faithful brief", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000002", "t": "Extractive vs abstractive: two philosophies", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000003", "t": "Sentence scoring: ranking what matters", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000004", "t": "The lead baseline: surprisingly strong", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000005", "t": "Compression ratio: how short is right", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000006", "t": "Key sentences: finding the load-bearing", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000007", "t": "Faithfulness basics: do not invent", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000008", "t": "Summary purposes: briefs for someone", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000009", "t": "The first summary: a complete walkthrough", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000010", "t": "Length control: hitting the target", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000011", "t": "Reading the summary: the consumer's view", "g": "summarization-foundations"}
+{"id": "JAH-AIR-SUM-000012", "t": "TextRank: the graph method", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000013", "t": "Query-focused summaries: answering with context", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000014", "t": "Multi-document summarization: many sources, one brief", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000015", "t": "Meeting summaries: decisions and actions", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000016", "t": "Action items: the do-list extracted", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000017", "t": "Abstractive methods: writing the summary", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000018", "t": "Faithfulness checking: verifying the brief", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000019", "t": "ROUGE: the standard metric", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000020", "t": "Human evaluation: the gold standard", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000021", "t": "Domain adaptation: summaries for the field", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000022", "t": "Update summaries: what is new", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000023", "t": "Evaluation practice: the summarization lab", "g": "summarization-compounded"}
+{"id": "JAH-AIR-SUM-000024", "t": "Long-document summarization: the book problem", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000025", "t": "Hierarchical summaries: the telescoping brief", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000026", "t": "Faithfulness guarantees: the strong promise", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000027", "t": "Hallucination detection: catching the invented", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000028", "t": "Controllable summarization: summaries to order", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000029", "t": "Personalized summaries: briefs for you", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000030", "t": "Real-time summarization: the live brief", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000031", "t": "Summarization evaluation suites: the full battery", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000032", "t": "The briefing standard: the professional brief", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000033", "t": "The faithful brief: the final standard", "g": "summarization-advanced"}
+{"id": "JAH-AIR-SUM-000034", "t": "The living summary: briefs that stay current", "g": "summarization-advanced"}

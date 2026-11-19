@@ -1,0 +1,34 @@
+{"id": "JAH-IMTI-000001", "t": "How Diffusion Models Make Images", "g": "Foundations"}
+{"id": "JAH-IMTI-000002", "t": "Anatomy of a Great Prompt", "g": "Foundations"}
+{"id": "JAH-IMTI-000003", "t": "Samplers and Steps", "g": "Foundations"}
+{"id": "JAH-IMTI-000004", "t": "CFG Scale: Prompt Obedience", "g": "Foundations"}
+{"id": "JAH-IMTI-000005", "t": "Seeds: Controlling Randomness", "g": "Foundations"}
+{"id": "JAH-IMTI-000006", "t": "Negative Prompts That Work", "g": "Foundations"}
+{"id": "JAH-IMTI-000007", "t": "Aspect Ratios and Composition", "g": "Foundations"}
+{"id": "JAH-IMTI-000008", "t": "Styles: Photoreal to Anime", "g": "Foundations"}
+{"id": "JAH-IMTI-000009", "t": "Fixing Hands and Faces", "g": "Foundations"}
+{"id": "JAH-IMTI-000010", "t": "Upscaling AI Generations", "g": "Foundations"}
+{"id": "JAH-IMTI-000011", "t": "Inpainting Fixes on Generations", "g": "Foundations"}
+{"id": "JAH-IMTI-000012", "t": "Prompt Weighting and Emphasis", "g": "Compounded"}
+{"id": "JAH-IMTI-000013", "t": "Checkpoints and Fine-Tunes", "g": "Compounded"}
+{"id": "JAH-IMTI-000014", "t": "LoRAs: Teaching Concepts", "g": "Compounded"}
+{"id": "JAH-IMTI-000015", "t": "ControlNet: Posing the Model", "g": "Compounded"}
+{"id": "JAH-IMTI-000016", "t": "ComfyUI Workflows", "g": "Compounded"}
+{"id": "JAH-IMTI-000017", "t": "Batch Generation and X/Y Plots", "g": "Compounded"}
+{"id": "JAH-IMTI-000018", "t": "Ethics and Disclosure", "g": "Compounded"}
+{"id": "JAH-IMTI-000019", "t": "Copyright and AI Images", "g": "Compounded"}
+{"id": "JAH-IMTI-000020", "t": "Training Your Own Checkpoint", "g": "Compounded"}
+{"id": "JAH-IMTI-000021", "t": "Prompt Libraries and Versioning", "g": "Compounded"}
+{"id": "JAH-IMTI-000022", "t": "AI for Concept Art", "g": "Compounded"}
+{"id": "JAH-IMTI-000023", "t": "Photorealism Techniques", "g": "Compounded"}
+{"id": "JAH-IMTI-000024", "t": "Avoiding the AI Look", "g": "Advanced"}
+{"id": "JAH-IMTI-000025", "t": "Selling AI-Assisted Art", "g": "Advanced"}
+{"id": "JAH-IMTI-000026", "t": "The Future: Video and 3D from Diffusion", "g": "Advanced"}
+{"id": "JAH-IMTI-000027", "t": "Regional Prompting and Composition Control", "g": "Advanced"}
+{"id": "JAH-IMTI-000028", "t": "IP-Adapter: Image Prompts", "g": "Advanced"}
+{"id": "JAH-IMTI-000029", "t": "Multi-ControlNet Stacks", "g": "Advanced"}
+{"id": "JAH-IMTI-000030", "t": "Training LoRAs Professionally", "g": "Advanced"}
+{"id": "JAH-IMTI-000031", "t": "Dataset Curation for Training", "g": "Advanced"}
+{"id": "JAH-IMTI-000032", "t": "Model Merging", "g": "Advanced"}
+{"id": "JAH-IMTI-000033", "t": "API Deployment of Diffusion Models", "g": "Advanced"}
+{"id": "JAH-IMTI-000034", "t": "The AI Art Director's Workflow", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-BVAL-000001", "t": "Business Valuation Database: What Business Valuation Is", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000002", "t": "Business Valuation Database: Fair Market Value", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000003", "t": "Business Valuation Database: Book Value", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000004", "t": "Business Valuation Database: Liquidation Value", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000005", "t": "Business Valuation Database: Discounted Cash Flow (DCF)", "c": 0, "g": "dcf"}
+{"id": "JAH-BVAL-000006", "t": "Business Valuation Database: Terminal Value", "c": 0, "g": "dcf"}
+{"id": "JAH-BVAL-000007", "t": "Business Valuation Database: WACC: The Discount Rate", "c": 0, "g": "dcf"}
+{"id": "JAH-BVAL-000008", "t": "Business Valuation Database: Free Cash Flow to Firm", "c": 0, "g": "dcf"}
+{"id": "JAH-BVAL-000009", "t": "Business Valuation Database: Revenue Multiples", "c": 0, "g": "multiples"}
+{"id": "JAH-BVAL-000010", "t": "Business Valuation Database: EBITDA Multiples", "c": 0, "g": "multiples"}
+{"id": "JAH-BVAL-000011", "t": "Business Valuation Database: P/E Ratios", "c": 0, "g": "multiples"}
+{"id": "JAH-BVAL-000012", "t": "Business Valuation Database: PEG Ratio", "c": 0, "g": "multiples"}
+{"id": "JAH-BVAL-000013", "t": "Business Valuation Database: Precedent Transactions", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000014", "t": "Business Valuation Database: Control Premiums", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000015", "t": "Business Valuation Database: Minority Discounts (DLOM/DLOC)", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000016", "t": "Business Valuation Database: Normalizing Earnings", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000017", "t": "Business Valuation Database: Seller's Discretionary Earnings", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000018", "t": "Business Valuation Database: Asset-Based Valuation", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000019", "t": "Business Valuation Database: Valuing Intangible Assets", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000020", "t": "Business Valuation Database: Valuing a Startup (Pre-Revenue)", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000021", "t": "Business Valuation Database: Valuing a Professional Practice", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000022", "t": "Business Valuation Database: Buy-Sell Agreements", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000023", "t": "Business Valuation Database: Estate and Gift Tax Valuations", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000024", "t": "Business Valuation Database: Divorce Valuations", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000025", "t": "Business Valuation Database: Valuation for Fundraising", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000026", "t": "Business Valuation Database: Valuation in M&A Negotiations", "c": 0, "g": "deals"}
+{"id": "JAH-BVAL-000027", "t": "Business Valuation Database: Goodwill and Purchase Price Allocation", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000028", "t": "Business Valuation Database: Valuation Reports That Hold Up", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000029", "t": "Business Valuation Database: Industry-Specific Multiples", "c": 0, "g": "multiples"}
+{"id": "JAH-BVAL-000030", "t": "Business Valuation Database: Valuing Real Estate in a Business", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000031", "t": "Business Valuation Database: Recasting Financials", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000032", "t": "Business Valuation Database: Choosing the Right Valuator", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000033", "t": "Business Valuation Database: Valuation Mistakes to Avoid", "c": 0, "g": "methods"}
+{"id": "JAH-BVAL-000034", "t": "Business Valuation Database: Capstone: The Complete Valuator", "c": 0, "g": "methods"}

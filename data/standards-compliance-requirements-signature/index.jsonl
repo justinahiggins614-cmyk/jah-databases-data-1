@@ -1,0 +1,34 @@
+{"id": "JAH-SCRS-000001", "t": "Standards and Compliance Requirements Signature Database: Standard Identification", "c": 0, "g": "standards"}
+{"id": "JAH-SCRS-000002", "t": "Standards and Compliance Requirements Signature Database: Version Tracking", "c": 0, "g": "standards"}
+{"id": "JAH-SCRS-000003", "t": "Standards and Compliance Requirements Signature Database: Gap Assessment", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000004", "t": "Standards and Compliance Requirements Signature Database: Implementation Plan", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000005", "t": "Standards and Compliance Requirements Signature Database: Test Procedures", "c": 0, "g": "testing"}
+{"id": "JAH-SCRS-000006", "t": "Standards and Compliance Requirements Signature Database: ISO 9001", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000007", "t": "Standards and Compliance Requirements Signature Database: ISO 27001", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000008", "t": "Standards and Compliance Requirements Signature Database: SOC 2", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000009", "t": "Standards and Compliance Requirements Signature Database: CE Marking", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000010", "t": "Standards and Compliance Requirements Signature Database: UL Listing", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000011", "t": "Standards and Compliance Requirements Signature Database: FCC Compliance", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000012", "t": "Standards and Compliance Requirements Signature Database: PCI DSS", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000013", "t": "Standards and Compliance Requirements Signature Database: NIST CSF", "c": 0, "g": "frameworks"}
+{"id": "JAH-SCRS-000014", "t": "Standards and Compliance Requirements Signature Database: CIS Benchmarks", "c": 0, "g": "frameworks"}
+{"id": "JAH-SCRS-000015", "t": "Standards and Compliance Requirements Signature Database: GDPR Compliance", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000016", "t": "Standards and Compliance Requirements Signature Database: CCPA Compliance", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000017", "t": "Standards and Compliance Requirements Signature Database: RoHS", "c": 0, "g": "environmental"}
+{"id": "JAH-SCRS-000018", "t": "Standards and Compliance Requirements Signature Database: REACH", "c": 0, "g": "environmental"}
+{"id": "JAH-SCRS-000019", "t": "Standards and Compliance Requirements Signature Database: WCAG Accessibility", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000020", "t": "Standards and Compliance Requirements Signature Database: OSHA Safety", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000021", "t": "Standards and Compliance Requirements Signature Database: Audit Preparation", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000022", "t": "Standards and Compliance Requirements Signature Database: Evidence Collection", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000023", "t": "Standards and Compliance Requirements Signature Database: Corrective Actions", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000024", "t": "Standards and Compliance Requirements Signature Database: Management Review", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000025", "t": "Standards and Compliance Requirements Signature Database: Internal Audit", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000026", "t": "Standards and Compliance Requirements Signature Database: Surveillance Audit", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000027", "t": "Standards and Compliance Requirements Signature Database: Recertification", "c": 0, "g": "certification"}
+{"id": "JAH-SCRS-000028", "t": "Standards and Compliance Requirements Signature Database: Energy Star", "c": 0, "g": "environmental"}
+{"id": "JAH-SCRS-000029", "t": "Standards and Compliance Requirements Signature Database: Document Control", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000030", "t": "Standards and Compliance Requirements Signature Database: Training Records", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000031", "t": "Standards and Compliance Requirements Signature Database: Calibration", "c": 0, "g": "testing"}
+{"id": "JAH-SCRS-000032", "t": "Standards and Compliance Requirements Signature Database: Supplier Compliance", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000033", "t": "Standards and Compliance Requirements Signature Database: Regulatory Change", "c": 0, "g": "compliance"}
+{"id": "JAH-SCRS-000034", "t": "Standards and Compliance Requirements Signature Database: Capstone: Compliance Program", "c": 0, "g": "compliance"}

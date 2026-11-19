@@ -1,0 +1,34 @@
+{"id": "JAH-FLP-000001", "t": "Data Gathering", "g": "Foundations"}
+{"id": "JAH-FLP-000002", "t": "Flow Analysis", "g": "Foundations"}
+{"id": "JAH-FLP-000003", "t": "Relationship Charts", "g": "Foundations"}
+{"id": "JAH-FLP-000004", "t": "Space Calculation", "g": "Foundations"}
+{"id": "JAH-FLP-000005", "t": "Cellular Layouts", "g": "Foundations"}
+{"id": "JAH-FLP-000006", "t": "Material Handling", "g": "Foundations"}
+{"id": "JAH-FLP-000007", "t": "Flexibility", "g": "Foundations"}
+{"id": "JAH-FLP-000008", "t": "Safety and Egress", "g": "Foundations"}
+{"id": "JAH-FLP-000009", "t": "Three Alternatives", "g": "Foundations"}
+{"id": "JAH-FLP-000010", "t": "Quantitative Evaluation", "g": "Foundations"}
+{"id": "JAH-FLP-000011", "t": "Operator Input", "g": "Foundations"}
+{"id": "JAH-FLP-000012", "t": "Phased Implementation", "g": "Compounded"}
+{"id": "JAH-FLP-000013", "t": "Process Layouts", "g": "Compounded"}
+{"id": "JAH-FLP-000014", "t": "Product Layouts", "g": "Compounded"}
+{"id": "JAH-FLP-000015", "t": "Fixed Position", "g": "Compounded"}
+{"id": "JAH-FLP-000016", "t": "Hybrid Layouts", "g": "Compounded"}
+{"id": "JAH-FLP-000017", "t": "Lean Layout", "g": "Compounded"}
+{"id": "JAH-FLP-000018", "t": "5S Integration", "g": "Compounded"}
+{"id": "JAH-FLP-000019", "t": "Visual Management", "g": "Compounded"}
+{"id": "JAH-FLP-000020", "t": "Ergonomics", "g": "Compounded"}
+{"id": "JAH-FLP-000021", "t": "Noise Control", "g": "Compounded"}
+{"id": "JAH-FLP-000022", "t": "Lighting Design", "g": "Compounded"}
+{"id": "JAH-FLP-000023", "t": "Utilities Planning", "g": "Compounded"}
+{"id": "JAH-FLP-000024", "t": "Dock Design", "g": "Advanced"}
+{"id": "JAH-FLP-000025", "t": "Warehouse Adjacency", "g": "Advanced"}
+{"id": "JAH-FLP-000026", "t": "Office Integration", "g": "Advanced"}
+{"id": "JAH-FLP-000027", "t": "Expansion Planning", "g": "Advanced"}
+{"id": "JAH-FLP-000028", "t": "Relocation Projects", "g": "Advanced"}
+{"id": "JAH-FLP-000029", "t": "Brownfield Constraints", "g": "Advanced"}
+{"id": "JAH-FLP-000030", "t": "Greenfield Design", "g": "Advanced"}
+{"id": "JAH-FLP-000031", "t": "Simulation", "g": "Advanced"}
+{"id": "JAH-FLP-000032", "t": "Post-Occupancy Tuning", "g": "Advanced"}
+{"id": "JAH-FLP-000033", "t": "Layout Metrics", "g": "Advanced"}
+{"id": "JAH-FLP-000034", "t": "Case Studies", "g": "Advanced"}

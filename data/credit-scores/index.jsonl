@@ -1,0 +1,34 @@
+{"id": "JAH-CRDT-000001", "t": "Credit Scores Database: What Credit Scores Are", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000002", "t": "Credit Scores Database: FICO Score Breakdown", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000003", "t": "Credit Scores Database: VantageScore vs FICO", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000004", "t": "Credit Scores Database: Payment History: 35%", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000005", "t": "Credit Scores Database: Credit Utilization: 30%", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000006", "t": "Credit Scores Database: Length of Credit History: 15%", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000007", "t": "Credit Scores Database: New Credit: 10%", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000008", "t": "Credit Scores Database: Credit Mix: 10%", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000009", "t": "Credit Scores Database: Reading Your Credit Report", "c": 0, "g": "monitoring"}
+{"id": "JAH-CRDT-000010", "t": "Credit Scores Database: Disputing Errors", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000011", "t": "Credit Scores Database: Building Credit from Zero", "c": 0, "g": "building"}
+{"id": "JAH-CRDT-000012", "t": "Credit Scores Database: Secured Credit Cards", "c": 0, "g": "building"}
+{"id": "JAH-CRDT-000013", "t": "Credit Scores Database: Authorized User Strategy", "c": 0, "g": "building"}
+{"id": "JAH-CRDT-000014", "t": "Credit Scores Database: Credit-Builder Loans", "c": 0, "g": "building"}
+{"id": "JAH-CRDT-000015", "t": "Credit Scores Database: Paying Down Debt for Score Gains", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000016", "t": "Credit Scores Database: Debt Snowball vs Avalanche", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000017", "t": "Credit Scores Database: Negotiating with Creditors", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000018", "t": "Credit Scores Database: Pay-for-Delete Agreements", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000019", "t": "Credit Scores Database: Statute of Limitations on Debt", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000020", "t": "Credit Scores Database: Bankruptcy and Credit", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000021", "t": "Credit Scores Database: Divorce and Credit", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000022", "t": "Credit Scores Database: Identity Theft and Credit", "c": 0, "g": "monitoring"}
+{"id": "JAH-CRDT-000023", "t": "Credit Scores Database: Credit Freezes and Fraud Alerts", "c": 0, "g": "monitoring"}
+{"id": "JAH-CRDT-000024", "t": "Credit Scores Database: Monitoring Services", "c": 0, "g": "monitoring"}
+{"id": "JAH-CRDT-000025", "t": "Credit Scores Database: Credit Scores and Mortgages", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000026", "t": "Credit Scores Database: Credit Scores and Auto Loans", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000027", "t": "Credit Scores Database: Credit Scores and Renting", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000028", "t": "Credit Scores Database: Business Credit Scores", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000029", "t": "Credit Scores Database: Credit Myths Debunked", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000030", "t": "Credit Scores Database: When to Get Professional Help", "c": 0, "g": "repair"}
+{"id": "JAH-CRDT-000031", "t": "Credit Scores Database: Maintaining Excellent Credit", "c": 0, "g": "monitoring"}
+{"id": "JAH-CRDT-000032", "t": "Credit Scores Database: Capstone: The Complete Credit Master", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000033", "t": "Credit Scores Database: Credit Utilization Timing", "c": 0, "g": "scoring"}
+{"id": "JAH-CRDT-000034", "t": "Credit Scores Database: Co-Signing Dangers", "c": 0, "g": "building"}

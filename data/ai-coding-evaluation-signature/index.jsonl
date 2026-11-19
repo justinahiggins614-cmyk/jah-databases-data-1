@@ -1,0 +1,34 @@
+{"id": "JAH-ACES-000001", "t": "AI Coding Evaluation (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-ACES-000002", "t": "AI Coding Evaluation (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-ACES-000003", "t": "AI Coding Evaluation (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-ACES-000004", "t": "AI Coding Evaluation (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-ACES-000005", "t": "AI Coding Evaluation (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-ACES-000006", "t": "AI Coding Evaluation (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-ACES-000007", "t": "AI Coding Evaluation (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-ACES-000008", "t": "AI Coding Evaluation (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-ACES-000009", "t": "AI Coding Evaluation (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-ACES-000010", "t": "AI Coding Evaluation (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-ACES-000011", "t": "AI Coding Evaluation (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-ACES-000012", "t": "AI Coding Evaluation (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-ACES-000013", "t": "AI Coding Evaluation (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-ACES-000014", "t": "AI Coding Evaluation (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-ACES-000015", "t": "AI Coding Evaluation (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-ACES-000016", "t": "AI Coding Evaluation (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-ACES-000017", "t": "AI Coding Evaluation (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-ACES-000018", "t": "AI Coding Evaluation (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-ACES-000019", "t": "AI Coding Evaluation (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-ACES-000020", "t": "AI Coding Evaluation (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-ACES-000021", "t": "AI Coding Evaluation (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-ACES-000022", "t": "AI Coding Evaluation (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-ACES-000023", "t": "AI Coding Evaluation (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-ACES-000024", "t": "AI Coding Evaluation (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-ACES-000025", "t": "AI Coding Evaluation (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-ACES-000026", "t": "AI Coding Evaluation (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-ACES-000027", "t": "AI Coding Evaluation (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-ACES-000028", "t": "AI Coding Evaluation (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-ACES-000029", "t": "AI Coding Evaluation (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-ACES-000030", "t": "AI Coding Evaluation (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-ACES-000031", "t": "AI Coding Evaluation (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-ACES-000032", "t": "AI Coding Evaluation (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-ACES-000033", "t": "AI Coding Evaluation (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-ACES-000034", "t": "AI Coding Evaluation (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

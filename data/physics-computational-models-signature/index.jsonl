@@ -1,0 +1,34 @@
+{"id": "JAH-PHCMS-000001", "t": "Physics and Computational Models Signature Database: Newton Second Law", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000002", "t": "Physics and Computational Models Signature Database: Kinetic Energy", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000003", "t": "Physics and Computational Models Signature Database: Gravitational Potential Energy", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000004", "t": "Physics and Computational Models Signature Database: Mechanical Work", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000005", "t": "Physics and Computational Models Signature Database: Mechanical Power", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000006", "t": "Physics and Computational Models Signature Database: Linear Momentum", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000007", "t": "Physics and Computational Models Signature Database: Impulse", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000008", "t": "Physics and Computational Models Signature Database: Pressure", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000009", "t": "Physics and Computational Models Signature Database: Density", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000010", "t": "Physics and Computational Models Signature Database: Ohm Law", "c": 0, "g": "electromagnetism"}
+{"id": "JAH-PHCMS-000011", "t": "Physics and Computational Models Signature Database: Electric Power", "c": 0, "g": "electromagnetism"}
+{"id": "JAH-PHCMS-000012", "t": "Physics and Computational Models Signature Database: Coulomb Force", "c": 0, "g": "electromagnetism"}
+{"id": "JAH-PHCMS-000013", "t": "Physics and Computational Models Signature Database: Gravitational Force", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000014", "t": "Physics and Computational Models Signature Database: Wave Speed", "c": 0, "g": "waves"}
+{"id": "JAH-PHCMS-000015", "t": "Physics and Computational Models Signature Database: Frequency from Period", "c": 0, "g": "waves"}
+{"id": "JAH-PHCMS-000016", "t": "Physics and Computational Models Signature Database: Hooke Law", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000017", "t": "Physics and Computational Models Signature Database: Spring Potential Energy", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000018", "t": "Physics and Computational Models Signature Database: Centripetal Force", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000019", "t": "Physics and Computational Models Signature Database: Torque", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000020", "t": "Physics and Computational Models Signature Database: Angular Velocity", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000021", "t": "Physics and Computational Models Signature Database: Ideal Gas Pressure", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-PHCMS-000022", "t": "Physics and Computational Models Signature Database: Thermal Efficiency", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-PHCMS-000023", "t": "Physics and Computational Models Signature Database: Refractive Index", "c": 0, "g": "waves"}
+{"id": "JAH-PHCMS-000024", "t": "Physics and Computational Models Signature Database: Doppler Shift (approaching)", "c": 0, "g": "waves"}
+{"id": "JAH-PHCMS-000025", "t": "Physics and Computational Models Signature Database: Half-Life Remaining", "c": 0, "g": "modern"}
+{"id": "JAH-PHCMS-000026", "t": "Physics and Computational Models Signature Database: Radioactive Decay", "c": 0, "g": "modern"}
+{"id": "JAH-PHCMS-000027", "t": "Physics and Computational Models Signature Database: Thermal Kinetic Energy", "c": 0, "g": "thermodynamics"}
+{"id": "JAH-PHCMS-000028", "t": "Physics and Computational Models Signature Database: Escape Velocity (Earth)", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000029", "t": "Physics and Computational Models Signature Database: Orbital Velocity (LEO)", "c": 0, "g": "mechanics"}
+{"id": "JAH-PHCMS-000030", "t": "Physics and Computational Models Signature Database: Schwarzschild Radius (Sun)", "c": 0, "g": "modern"}
+{"id": "JAH-PHCMS-000031", "t": "Physics and Computational Models Signature Database: Lorentz Factor", "c": 0, "g": "modern"}
+{"id": "JAH-PHCMS-000032", "t": "Physics and Computational Models Signature Database: Photon Energy", "c": 0, "g": "modern"}
+{"id": "JAH-PHCMS-000033", "t": "Physics and Computational Models Signature Database: de Broglie Wavelength", "c": 0, "g": "modern"}
+{"id": "JAH-PHCMS-000034", "t": "Physics and Computational Models Signature Database: Projectile Range Capstone", "c": 0, "g": "mechanics"}

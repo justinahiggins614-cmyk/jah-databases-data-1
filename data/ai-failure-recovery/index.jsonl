@@ -1,0 +1,34 @@
+{"id": "JAH-AFR-000001", "t": "AI Failure Analysis and Recovery Database: Taxonomy: The Seven AI Failure Families", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000002", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Input Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000003", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Model Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000004", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Tool Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000005", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Data Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000006", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Integration Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000007", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Resource Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000008", "t": "AI Failure Analysis and Recovery Database: Taxonomy: Human Failures", "c": 0, "g": "taxonomy"}
+{"id": "JAH-AFR-000009", "t": "AI Failure Analysis and Recovery Database: Retry Policy: Exponential Backoff with Jitter", "c": 0, "g": "retry-policy"}
+{"id": "JAH-AFR-000010", "t": "AI Failure Analysis and Recovery Database: Retry Policy: Immediate Single Retry", "c": 0, "g": "retry-policy"}
+{"id": "JAH-AFR-000011", "t": "AI Failure Analysis and Recovery Database: Retry Policy: No Retry (Poison)", "c": 0, "g": "retry-policy"}
+{"id": "JAH-AFR-000012", "t": "AI Failure Analysis and Recovery Database: Fallback: Stale Cache Serving", "c": 0, "g": "fallback"}
+{"id": "JAH-AFR-000013", "t": "AI Failure Analysis and Recovery Database: Fallback: Degraded Mode", "c": 0, "g": "fallback"}
+{"id": "JAH-AFR-000014", "t": "AI Failure Analysis and Recovery Database: Fallback: Human Handoff", "c": 0, "g": "fallback"}
+{"id": "JAH-AFR-000015", "t": "AI Failure Analysis and Recovery Database: Diagnostics: The Five Whys for AI Incidents", "c": 0, "g": "diagnostics"}
+{"id": "JAH-AFR-000016", "t": "AI Failure Analysis and Recovery Database: Diagnostics: Incident Packet Format", "c": 0, "g": "diagnostics"}
+{"id": "JAH-AFR-000017", "t": "AI Failure Analysis and Recovery Database: Diagnostics: Bisecting a Regression", "c": 0, "g": "diagnostics"}
+{"id": "JAH-AFR-000018", "t": "AI Failure Analysis and Recovery Database: Recovery Workflow: The Calm Checklist", "c": 0, "g": "recovery-workflow"}
+{"id": "JAH-AFR-000019", "t": "AI Failure Analysis and Recovery Database: Recovery Workflow: Data Corruption Restore", "c": 0, "g": "recovery-workflow"}
+{"id": "JAH-AFR-000020", "t": "AI Failure Analysis and Recovery Database: Recovery Workflow: Model Rollback", "c": 0, "g": "recovery-workflow"}
+{"id": "JAH-AFR-000021", "t": "AI Failure Analysis and Recovery Database: Prevention: Pre-Mortems", "c": 0, "g": "prevention"}
+{"id": "JAH-AFR-000022", "t": "AI Failure Analysis and Recovery Database: Prevention: Chaos Drills", "c": 0, "g": "prevention"}
+{"id": "JAH-AFR-000023", "t": "AI Failure Analysis and Recovery Database: Prevention: Rate Limiting as Safety", "c": 0, "g": "prevention"}
+{"id": "JAH-AFR-000024", "t": "AI Failure Analysis and Recovery Database: Diagnostics: Log Triage Order", "c": 0, "g": "diagnostics"}
+{"id": "JAH-AFR-000025", "t": "AI Failure Analysis and Recovery Database: Retry Policy: Scheduled Retry (Cron)", "c": 0, "g": "retry-policy"}
+{"id": "JAH-AFR-000026", "t": "AI Failure Analysis and Recovery Database: Fallback: Read-Only Mode", "c": 0, "g": "fallback"}
+{"id": "JAH-AFR-000027", "t": "AI Failure Analysis and Recovery Database: Recovery Workflow: Communication Template", "c": 0, "g": "recovery-workflow"}
+{"id": "JAH-AFR-000028", "t": "AI Failure Analysis and Recovery Database: Prevention: Dependency Health Scores", "c": 0, "g": "prevention"}
+{"id": "JAH-AFR-000029", "t": "AI Failure Analysis and Recovery Database: Diagnostics: User Report Triage", "c": 0, "g": "diagnostics"}
+{"id": "JAH-AFR-000030", "t": "AI Failure Analysis and Recovery Database: Retry Policy: User-Confirmed Retry", "c": 0, "g": "retry-policy"}
+{"id": "JAH-AFR-000031", "t": "AI Failure Analysis and Recovery Database: Prevention: The Failure Budget", "c": 0, "g": "prevention"}
+{"id": "JAH-AFR-000032", "t": "AI Failure Analysis and Recovery Database: Recovery Workflow: Postmortem Format", "c": 0, "g": "recovery-workflow"}
+{"id": "JAH-AFR-000033", "t": "AI Failure Analysis and Recovery Database: Diagnostics: Canary Analysis", "c": 0, "g": "diagnostics"}
+{"id": "JAH-AFR-000034", "t": "AI Failure Analysis and Recovery Database: Fallback: Manual Override", "c": 0, "g": "fallback"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DMT-000001", "t": "Redaction", "g": "Foundations"}
+{"id": "JAH-DMT-000002", "t": "Character Masking", "g": "Foundations"}
+{"id": "JAH-DMT-000003", "t": "Tokenization", "g": "Foundations"}
+{"id": "JAH-DMT-000004", "t": "Format-Preserving Encryption", "g": "Foundations"}
+{"id": "JAH-DMT-000005", "t": "Generalization", "g": "Foundations"}
+{"id": "JAH-DMT-000006", "t": "True Anonymization", "g": "Foundations"}
+{"id": "JAH-DMT-000007", "t": "k-Anonymity", "g": "Foundations"}
+{"id": "JAH-DMT-000008", "t": "Differential Privacy", "g": "Foundations"}
+{"id": "JAH-DMT-000009", "t": "Consistency", "g": "Foundations"}
+{"id": "JAH-DMT-000010", "t": "Realistic Test Data", "g": "Foundations"}
+{"id": "JAH-DMT-000011", "t": "Lower Environments", "g": "Foundations"}
+{"id": "JAH-DMT-000012", "t": "Re-identification Audits", "g": "Compounded"}
+{"id": "JAH-DMT-000013", "t": "PII Inventory", "g": "Compounded"}
+{"id": "JAH-DMT-000014", "t": "Classification", "g": "Compounded"}
+{"id": "JAH-DMT-000015", "t": "Policy Engines", "g": "Compounded"}
+{"id": "JAH-DMT-000016", "t": "Dynamic Masking", "g": "Compounded"}
+{"id": "JAH-DMT-000017", "t": "Static Masking", "g": "Compounded"}
+{"id": "JAH-DMT-000018", "t": "On-the-Fly", "g": "Compounded"}
+{"id": "JAH-DMT-000019", "t": "Referential Integrity", "g": "Compounded"}
+{"id": "JAH-DMT-000020", "t": "Date Shifting", "g": "Compounded"}
+{"id": "JAH-DMT-000021", "t": "Numeric Perturbation", "g": "Compounded"}
+{"id": "JAH-DMT-000022", "t": "Synthetic Data", "g": "Compounded"}
+{"id": "JAH-DMT-000023", "t": "Masking Pipelines", "g": "Compounded"}
+{"id": "JAH-DMT-000024", "t": "Cloud Considerations", "g": "Advanced"}
+{"id": "JAH-DMT-000025", "t": "Regulatory Mapping", "g": "Advanced"}
+{"id": "JAH-DMT-000026", "t": "Breach Impact", "g": "Advanced"}
+{"id": "JAH-DMT-000027", "t": "Key Management", "g": "Advanced"}
+{"id": "JAH-DMT-000028", "t": "Performance", "g": "Advanced"}
+{"id": "JAH-DMT-000029", "t": "Testing Masked Data", "g": "Advanced"}
+{"id": "JAH-DMT-000030", "t": "Documentation", "g": "Advanced"}
+{"id": "JAH-DMT-000031", "t": "Training Teams", "g": "Advanced"}
+{"id": "JAH-DMT-000032", "t": "Vendor Data", "g": "Advanced"}
+{"id": "JAH-DMT-000033", "t": "Research Sharing", "g": "Advanced"}
+{"id": "JAH-DMT-000034", "t": "Evolving Techniques", "g": "Advanced"}

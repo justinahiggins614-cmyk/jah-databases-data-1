@@ -1,0 +1,34 @@
+{"id": "JAH-ABM-000001", "t": "What Counts as AI Bias", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000002", "t": "Disparate Impact", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000003", "t": "Demographic Parity", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000004", "t": "Equalized Odds", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000005", "t": "Equal Opportunity", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000006", "t": "Calibration Across Groups", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000007", "t": "Individual Fairness", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000008", "t": "Counterfactual Fairness", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000009", "t": "Bias in Training Data", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000010", "t": "Representation Analysis", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000011", "t": "Label Bias Detection", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000012", "t": "NLP Bias Tests (WEAT/SEAT)", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000013", "t": "LLM Bias Benchmarks", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000014", "t": "Vision Model Bias", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000015", "t": "Speech Model Bias", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000016", "t": "Recommender Bias", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000017", "t": "Hiring AI Audits", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000018", "t": "Lending Fairness Tests", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000019", "t": "Healthcare AI Bias", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000020", "t": "Intersectional Analysis", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000021", "t": "Bias Dashboards", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000022", "t": "A/B Testing for Fairness", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000023", "t": "Mitigation: Pre-processing", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000024", "t": "Mitigation: In-processing", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000025", "t": "Mitigation: Post-processing", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000026", "t": "Documenting Bias Findings", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000027", "t": "Stakeholder Review", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000028", "t": "The Bias Measurement Playbook", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000029", "t": "Fairness Toolkits", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000030", "t": "Bias in Human Labels", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000031", "t": "Temporal Bias Drift", "g": "bias-detection-methods"}
+{"id": "JAH-ABM-000032", "t": "Proxy Discrimination", "g": "fairness-metrics"}
+{"id": "JAH-ABM-000033", "t": "Explainability for Bias", "g": "bias-monitoring"}
+{"id": "JAH-ABM-000034", "t": "Red-Teaming for Bias", "g": "bias-detection-methods"}

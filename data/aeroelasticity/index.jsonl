@@ -1,0 +1,33 @@
+{"id": "JAH-AEL-000001", "t": "The Collar Triangle: Aerodynamics, Elasticity, and Inertia", "g": "Foundations"}
+{"id": "JAH-AEL-000002", "t": "Static Aeroelasticity: Steady Air Loads on Flexible Structure", "g": "Foundations"}
+{"id": "JAH-AEL-000003", "t": "Divergence: The Wing That Twists Itself Off", "g": "Foundations"}
+{"id": "JAH-AEL-000004", "t": "The Elastic Axis: The Line Where Twist Stays Honest", "g": "Foundations"}
+{"id": "JAH-AEL-000005", "t": "Control Reversal: The Aileron That Fights Its Pilot", "g": "Foundations"}
+{"id": "JAH-AEL-000006", "t": "Aileron Effectiveness: Counting the Control That Remains", "g": "Foundations"}
+{"id": "JAH-AEL-000007", "t": "Load Redistribution: The Wing That Re-Aims Its Own Lift", "g": "Foundations"}
+{"id": "JAH-AEL-000008", "t": "Sweep and Divergence: Bending Couples Into Twist", "g": "Foundations"}
+{"id": "JAH-AEL-000009", "t": "Dynamic Aeroelasticity: When Motion Joins the Conversation", "g": "Unsteady Aerodynamics"}
+{"id": "JAH-AEL-000010", "t": "Unsteady Aerodynamics: Lift That Remembers the Past", "g": "Unsteady Aerodynamics"}
+{"id": "JAH-AEL-000011", "t": "The Theodorsen Function: The Wake's Memory in One Curve", "g": "Unsteady Aerodynamics"}
+{"id": "JAH-AEL-000012", "t": "The Wagner Function: Lift After a Sudden Start", "g": "Unsteady Aerodynamics"}
+{"id": "JAH-AEL-000013", "t": "The Kuessner Function: Answering the Sharp-Edged Gust", "g": "Unsteady Aerodynamics"}
+{"id": "JAH-AEL-000014", "t": "Bending-Torsion Flutter: The Two Modes That Fall in Love", "g": "Flutter"}
+{"id": "JAH-AEL-000015", "t": "Flutter Prediction: The p-k and V-g Methods", "g": "Flutter"}
+{"id": "JAH-AEL-000016", "t": "Panel Flutter: The Skin That Sings Itself Apart", "g": "Flutter"}
+{"id": "JAH-AEL-000017", "t": "Propeller Whirl Flutter: The Engine That Nods Itself Loose", "g": "Flutter"}
+{"id": "JAH-AEL-000018", "t": "Stall Flutter: When Separation Joins the Dance", "g": "Flutter"}
+{"id": "JAH-AEL-000019", "t": "The Transonic Flutter Dip: Danger in the Middle", "g": "Flutter"}
+{"id": "JAH-AEL-000020", "t": "Buffeting: The Wake That Shakes the Tail", "g": "Response & Nonlinear"}
+{"id": "JAH-AEL-000021", "t": "Limit-Cycle Oscillation: Instability With a Ceiling", "g": "Response & Nonlinear"}
+{"id": "JAH-AEL-000022", "t": "Rotor Aeroelasticity: Flap, Lag, and Whirl on Helicopters", "g": "Response & Nonlinear"}
+{"id": "JAH-AEL-000023", "t": "Civil Aeroelasticity: The Tacoma Narrows Lesson", "g": "Response & Nonlinear"}
+{"id": "JAH-AEL-000024", "t": "Aeroelastic Tailoring: Steering Modes With Composite Fibers", "g": "Design & Control"}
+{"id": "JAH-AEL-000025", "t": "Aeroservoelasticity: The Flight Computer Joins the Structure", "g": "Design & Control"}
+{"id": "JAH-AEL-000026", "t": "Flutter Suppression: Active Control of the Boundary", "g": "Design & Control"}
+{"id": "JAH-AEL-000027", "t": "Ground Vibration Testing: Listening to the Modes", "g": "Testing & Certification"}
+{"id": "JAH-AEL-000028", "t": "Wind-Tunnel Flutter Testing: Small Models, Full Physics", "g": "Testing & Certification"}
+{"id": "JAH-AEL-000029", "t": "Flight Flutter Testing: Expanding the Envelope Safely", "g": "Testing & Certification"}
+{"id": "JAH-AEL-000030", "t": "Certification: Proving the Envelope Under FAR 25.629", "g": "Testing & Certification"}
+{"id": "JAH-AEL-000031", "t": "Nonlinear Aeroelasticity: Freeplay, Friction, and Beyond", "g": "Advanced"}
+{"id": "JAH-AEL-000032", "t": "Gust Response and Alleviation: Riding the Rough Air", "g": "Advanced"}
+{"id": "JAH-AEL-000033", "t": "The Integrated Aeroelastic Design: Loads to Tailoring to Proof", "g": "Advanced"}

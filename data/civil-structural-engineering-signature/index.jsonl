@@ -1,0 +1,34 @@
+{"id": "JAH-CVSES-000001", "t": "Civil and Structural Engineering Signature Database: Axial Stress", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000002", "t": "Civil and Structural Engineering Signature Database: Axial Strain", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000003", "t": "Civil and Structural Engineering Signature Database: Young Modulus", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000004", "t": "Civil and Structural Engineering Signature Database: Axial Elongation", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000005", "t": "Civil and Structural Engineering Signature Database: Shear Stress", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000006", "t": "Civil and Structural Engineering Signature Database: Bending Stress", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000007", "t": "Civil and Structural Engineering Signature Database: Moment of Inertia (rectangle)", "c": 0, "g": "sections"}
+{"id": "JAH-CVSES-000008", "t": "Civil and Structural Engineering Signature Database: Section Modulus", "c": 0, "g": "sections"}
+{"id": "JAH-CVSES-000009", "t": "Civil and Structural Engineering Signature Database: Cantilever Deflection", "c": 0, "g": "deflection"}
+{"id": "JAH-CVSES-000010", "t": "Civil and Structural Engineering Signature Database: Simply Supported Deflection", "c": 0, "g": "deflection"}
+{"id": "JAH-CVSES-000011", "t": "Civil and Structural Engineering Signature Database: Uniform Load Deflection", "c": 0, "g": "deflection"}
+{"id": "JAH-CVSES-000012", "t": "Civil and Structural Engineering Signature Database: Euler Buckling", "c": 0, "g": "stability"}
+{"id": "JAH-CVSES-000013", "t": "Civil and Structural Engineering Signature Database: Slenderness Ratio", "c": 0, "g": "stability"}
+{"id": "JAH-CVSES-000014", "t": "Civil and Structural Engineering Signature Database: Factor of Safety", "c": 0, "g": "design"}
+{"id": "JAH-CVSES-000015", "t": "Civil and Structural Engineering Signature Database: Wind Pressure", "c": 0, "g": "loads"}
+{"id": "JAH-CVSES-000016", "t": "Civil and Structural Engineering Signature Database: Seismic Base Shear", "c": 0, "g": "loads"}
+{"id": "JAH-CVSES-000017", "t": "Civil and Structural Engineering Signature Database: Soil Bearing Pressure", "c": 0, "g": "geotechnical"}
+{"id": "JAH-CVSES-000018", "t": "Civil and Structural Engineering Signature Database: Footing Area", "c": 0, "g": "geotechnical"}
+{"id": "JAH-CVSES-000019", "t": "Civil and Structural Engineering Signature Database: Concrete Volume", "c": 0, "g": "construction"}
+{"id": "JAH-CVSES-000020", "t": "Civil and Structural Engineering Signature Database: Rebar Weight", "c": 0, "g": "construction"}
+{"id": "JAH-CVSES-000021", "t": "Civil and Structural Engineering Signature Database: Beam Shear (uniform)", "c": 0, "g": "beams"}
+{"id": "JAH-CVSES-000022", "t": "Civil and Structural Engineering Signature Database: Beam Moment (uniform)", "c": 0, "g": "beams"}
+{"id": "JAH-CVSES-000023", "t": "Civil and Structural Engineering Signature Database: Thermal Stress", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000024", "t": "Civil and Structural Engineering Signature Database: Torsional Shear", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000025", "t": "Civil and Structural Engineering Signature Database: Angle of Twist", "c": 0, "g": "mechanics"}
+{"id": "JAH-CVSES-000026", "t": "Civil and Structural Engineering Signature Database: Natural Frequency", "c": 0, "g": "dynamics"}
+{"id": "JAH-CVSES-000027", "t": "Civil and Structural Engineering Signature Database: Brick Count", "c": 0, "g": "construction"}
+{"id": "JAH-CVSES-000028", "t": "Civil and Structural Engineering Signature Database: Cement Bags", "c": 0, "g": "construction"}
+{"id": "JAH-CVSES-000029", "t": "Civil and Structural Engineering Signature Database: Water for Concrete", "c": 0, "g": "construction"}
+{"id": "JAH-CVSES-000030", "t": "Civil and Structural Engineering Signature Database: Steel Weight per Meter", "c": 0, "g": "construction"}
+{"id": "JAH-CVSES-000031", "t": "Civil and Structural Engineering Signature Database: Bolt Shear Capacity", "c": 0, "g": "connections"}
+{"id": "JAH-CVSES-000032", "t": "Civil and Structural Engineering Signature Database: Deflection Limit", "c": 0, "g": "deflection"}
+{"id": "JAH-CVSES-000033", "t": "Civil and Structural Engineering Signature Database: Bearing Capacity (sand)", "c": 0, "g": "geotechnical"}
+{"id": "JAH-CVSES-000034", "t": "Civil and Structural Engineering Signature Database: Beam Adequacy Capstone", "c": 0, "g": "design"}

@@ -1,0 +1,34 @@
+{"id": "JAH-SQES-000001", "t": "Search Query Expansion (Signature): The Idea in Working Terms", "g": "foundations"}
+{"id": "JAH-SQES-000002", "t": "Search Query Expansion (Signature): How It Actually Works", "g": "foundations"}
+{"id": "JAH-SQES-000003", "t": "Search Query Expansion (Signature): Minimal Working Example", "g": "foundations"}
+{"id": "JAH-SQES-000004", "t": "Search Query Expansion (Signature): Evaluating Whether It Works", "g": "foundations"}
+{"id": "JAH-SQES-000005", "t": "Search Query Expansion (Signature): Common Failure Modes", "g": "foundations"}
+{"id": "JAH-SQES-000006", "t": "Search Query Expansion (Signature): Data: The Real Work", "g": "foundations"}
+{"id": "JAH-SQES-000007", "t": "Search Query Expansion (Signature): Prompting and Control", "g": "foundations"}
+{"id": "JAH-SQES-000008", "t": "Search Query Expansion (Signature): Retrieval and Grounding", "g": "foundations"}
+{"id": "JAH-SQES-000009", "t": "Search Query Expansion (Signature): Keeping Knowledge Fresh", "g": "foundations"}
+{"id": "JAH-SQES-000010", "t": "Search Query Expansion (Signature): Cost and Latency Reality", "g": "foundations"}
+{"id": "JAH-SQES-000011", "t": "Search Query Expansion (Signature): Safety and Guardrails", "g": "foundations"}
+{"id": "JAH-SQES-000012", "t": "Search Query Expansion (Signature): Human-in-the-Loop Design", "g": "foundations"}
+{"id": "JAH-SQES-000013", "t": "Search Query Expansion (Signature): Debugging AI Behavior", "g": "compounded"}
+{"id": "JAH-SQES-000014", "t": "Search Query Expansion (Signature): Comparing Approaches", "g": "compounded"}
+{"id": "JAH-SQES-000015", "t": "Search Query Expansion (Signature): Deployment Realities", "g": "compounded"}
+{"id": "JAH-SQES-000016", "t": "Search Query Expansion (Signature): Privacy in AI Systems", "g": "compounded"}
+{"id": "JAH-SQES-000017", "t": "Search Query Expansion (Signature): Bias and Fairness Checks", "g": "compounded"}
+{"id": "JAH-SQES-000018", "t": "Search Query Expansion (Signature): Documentation for AI", "g": "compounded"}
+{"id": "JAH-SQES-000019", "t": "Search Query Expansion (Signature): Local and Private Deployment", "g": "compounded"}
+{"id": "JAH-SQES-000020", "t": "Search Query Expansion (Signature): Tool Integration Patterns", "g": "compounded"}
+{"id": "JAH-SQES-000021", "t": "Search Query Expansion (Signature): Multi-Step Reasoning", "g": "compounded"}
+{"id": "JAH-SQES-000022", "t": "Search Query Expansion (Signature): Memory for AI Systems", "g": "compounded"}
+{"id": "JAH-SQES-000023", "t": "Search Query Expansion (Signature): Advanced: Evaluation at Scale", "g": "compounded"}
+{"id": "JAH-SQES-000024", "t": "Search Query Expansion (Signature): Advanced: Fine-Tuning Wisely", "g": "compounded"}
+{"id": "JAH-SQES-000025", "t": "Search Query Expansion (Signature): Advanced: Distillation and Compression", "g": "advanced"}
+{"id": "JAH-SQES-000026", "t": "Search Query Expansion (Signature): Advanced: Agentic Workflows", "g": "advanced"}
+{"id": "JAH-SQES-000027", "t": "Search Query Expansion (Signature): Advanced: Multimodal Systems", "g": "advanced"}
+{"id": "JAH-SQES-000028", "t": "Search Query Expansion (Signature): Advanced: AI Security (Adversarial)", "g": "advanced"}
+{"id": "JAH-SQES-000029", "t": "Search Query Expansion (Signature): Advanced: Governance and Compliance", "g": "advanced"}
+{"id": "JAH-SQES-000030", "t": "Search Query Expansion (Signature): Advanced: The Research Frontier", "g": "advanced"}
+{"id": "JAH-SQES-000031", "t": "Search Query Expansion (Signature): Advanced: Building AI Products", "g": "advanced"}
+{"id": "JAH-SQES-000032", "t": "Search Query Expansion (Signature): Advanced: AI for Science", "g": "advanced"}
+{"id": "JAH-SQES-000033", "t": "Search Query Expansion (Signature): Advanced: Long-Horizon Planning", "g": "advanced"}
+{"id": "JAH-SQES-000034", "t": "Search Query Expansion (Signature): Advanced: Teaching AI Systems", "g": "advanced"}

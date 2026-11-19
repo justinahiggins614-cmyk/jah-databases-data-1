@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-CRS-000001", "t": "What code reasoning is: thinking that runs (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000002", "t": "Reading code: understanding the machine's text (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000003", "t": "Writing code: from intent to program (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000004", "t": "Running code: the ground truth (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000005", "t": "The error message: the machine talking (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000006", "t": "Simple debugging: find and fix (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000007", "t": "Tests as specification: the executable contract (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000008", "t": "The REPL loop: conversational coding (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000009", "t": "Code reading strategies: the systematic eye (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000010", "t": "Naming: the code's vocabulary (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000011", "t": "The first program: a complete example (Signature Edition)", "g": "code-reasoning-foundations"}
+{"id": "JAH-AIR-CRS-000012", "t": "Debugging systematically: the method (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000013", "t": "Test-driven generation: tests first (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000014", "t": "Code review: the second pair of eyes (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000015", "t": "Refactoring reasoning: improving without breaking (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000016", "t": "API reasoning: using others' code (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000017", "t": "Error handling: the robust program (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000018", "t": "Edge cases: the boundaries (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000019", "t": "Performance reasoning: the fast enough program (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000020", "t": "Reading others' code: the archaeology (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000021", "t": "Documentation: the code's story (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000022", "t": "Version control reasoning: the history (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000023", "t": "Evaluation: measuring code reasoning (Signature Edition)", "g": "code-reasoning-compounded"}
+{"id": "JAH-AIR-CRS-000024", "t": "Program synthesis: generating from specs (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000025", "t": "Verified code: proofs with programs (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000026", "t": "Static analysis: reading without running (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000027", "t": "Symbolic execution: all paths at once (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000028", "t": "Repository-scale reasoning: the whole codebase (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000029", "t": "Self-debugging agents: the loop automated (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000030", "t": "Secure code reasoning: the safe program (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000031", "t": "Concurrency reasoning: the parallel program (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000032", "t": "The senior engineer: the complete craft (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000033", "t": "The proven program: the final standard (Signature Edition)", "g": "code-reasoning-advanced"}
+{"id": "JAH-AIR-CRS-000034", "t": "The legacy rescue: reasoning about old code (Signature Edition)", "g": "code-reasoning-advanced"}

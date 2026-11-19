@@ -1,0 +1,34 @@
+{"id": "JAH-USCS-000001", "t": "The Busy Beaver Numbers", "g": "Computability"}
+{"id": "JAH-USCS-000002", "t": "P vs NP", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000003", "t": "Fast Integer Factorization", "g": "Cryptography"}
+{"id": "JAH-USCS-000004", "t": "How Many Pairs Break the Post Correspondence Problem", "g": "Computability"}
+{"id": "JAH-USCS-000005", "t": "The k-Server Conjecture", "g": "Algorithms"}
+{"id": "JAH-USCS-000006", "t": "The Dynamic Optimality Conjecture", "g": "Algorithms"}
+{"id": "JAH-USCS-000007", "t": "Graph Isomorphism in Polynomial Time", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000008", "t": "The Exponent of Matrix Multiplication", "g": "Algorithms"}
+{"id": "JAH-USCS-000009", "t": "Derandomizing Polynomial Identity Testing", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000010", "t": "Does Randomness Help? (P vs BPP)", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000011", "t": "Do One-Way Functions Exist?", "g": "Cryptography"}
+{"id": "JAH-USCS-000012", "t": "NP vs co-NP", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000013", "t": "The Unique Games Conjecture", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000014", "t": "The Exponential Time Hypothesis", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000015", "t": "Can Quantum Computers Crack NP-Complete Problems?", "g": "Quantum Computing"}
+{"id": "JAH-USCS-000016", "t": "Fault-Tolerant Quantum Computing at Scale", "g": "Quantum Computing"}
+{"id": "JAH-USCS-000017", "t": "The Quantum PCP Conjecture", "g": "Quantum Computing"}
+{"id": "JAH-USCS-000018", "t": "Superpolynomial Circuit Lower Bounds for NP", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000019", "t": "Algebraic P vs NP: VP vs VNP", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000020", "t": "The Minimum Circuit Size Problem", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000021", "t": "The Log-Rank Conjecture", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000022", "t": "Directed Reachability in Logarithmic Space", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000023", "t": "Planted Clique and Average-Case Hardness", "g": "Cryptography"}
+{"id": "JAH-USCS-000024", "t": "Frege Proof System Lower Bounds", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000025", "t": "Is the Polynomial Hierarchy Infinite?", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000026", "t": "The Berman-Hartmanis Isomorphism Conjecture", "g": "Complexity Theory"}
+{"id": "JAH-USCS-000027", "t": "Public-Key Crypto from One-Way Functions?", "g": "Cryptography"}
+{"id": "JAH-USCS-000028", "t": "Obfuscation from Standard Assumptions", "g": "Cryptography"}
+{"id": "JAH-USCS-000029", "t": "AI Alignment: Guaranteeing Safe Superintelligence", "g": "AI and Alignment"}
+{"id": "JAH-USCS-000030", "t": "Mechanistic Interpretability of Frontier Models", "g": "AI and Alignment"}
+{"id": "JAH-USCS-000031", "t": "Automatic Optimal Program Synthesis", "g": "Algorithms"}
+{"id": "JAH-USCS-000032", "t": "The Skolem Problem", "g": "Computability"}
+{"id": "JAH-USCS-000033", "t": "Complete Automatic Termination Proving", "g": "Computability"}
+{"id": "JAH-USCS-000034", "t": "The Physical Church-Turing Thesis and Hypercomputation", "g": "Computability"}

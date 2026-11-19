@@ -1,0 +1,34 @@
+{"id": "JAH-CHMP-000001", "t": "Chemistry and Molecular Properties Database: Molar Mass (Water)", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMP-000002", "t": "Chemistry and Molecular Properties Database: Moles from Mass", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMP-000003", "t": "Chemistry and Molecular Properties Database: Molarity", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000004", "t": "Chemistry and Molecular Properties Database: Dilution", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000005", "t": "Chemistry and Molecular Properties Database: Ideal Gas Moles", "c": 0, "g": "gases"}
+{"id": "JAH-CHMP-000006", "t": "Chemistry and Molecular Properties Database: pH", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMP-000007", "t": "Chemistry and Molecular Properties Database: pOH", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMP-000008", "t": "Chemistry and Molecular Properties Database: Hydrogen Ion from pH", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMP-000009", "t": "Chemistry and Molecular Properties Database: Henderson-Hasselbalch", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMP-000010", "t": "Chemistry and Molecular Properties Database: Rate Law", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMP-000011", "t": "Chemistry and Molecular Properties Database: Arrhenius Equation", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMP-000012", "t": "Chemistry and Molecular Properties Database: First-Order Half-Life", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMP-000013", "t": "Chemistry and Molecular Properties Database: First-Order Remaining", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMP-000014", "t": "Chemistry and Molecular Properties Database: Second-Order Half-Life", "c": 0, "g": "kinetics"}
+{"id": "JAH-CHMP-000015", "t": "Chemistry and Molecular Properties Database: Gibbs Free Energy", "c": 0, "g": "thermochemistry"}
+{"id": "JAH-CHMP-000016", "t": "Chemistry and Molecular Properties Database: Equilibrium Constant", "c": 0, "g": "thermochemistry"}
+{"id": "JAH-CHMP-000017", "t": "Chemistry and Molecular Properties Database: Nernst Equation", "c": 0, "g": "electrochemistry"}
+{"id": "JAH-CHMP-000018", "t": "Chemistry and Molecular Properties Database: Cell Potential", "c": 0, "g": "electrochemistry"}
+{"id": "JAH-CHMP-000019", "t": "Chemistry and Molecular Properties Database: Faraday Electrolysis", "c": 0, "g": "electrochemistry"}
+{"id": "JAH-CHMP-000020", "t": "Chemistry and Molecular Properties Database: Percent Yield", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMP-000021", "t": "Chemistry and Molecular Properties Database: Percent Composition", "c": 0, "g": "stoichiometry"}
+{"id": "JAH-CHMP-000022", "t": "Chemistry and Molecular Properties Database: Molality", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000023", "t": "Chemistry and Molecular Properties Database: Mole Fraction", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000024", "t": "Chemistry and Molecular Properties Database: Freezing Point Depression", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000025", "t": "Chemistry and Molecular Properties Database: Boiling Point Elevation", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000026", "t": "Chemistry and Molecular Properties Database: Osmotic Pressure", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000027", "t": "Chemistry and Molecular Properties Database: Graham Effusion", "c": 0, "g": "gases"}
+{"id": "JAH-CHMP-000028", "t": "Chemistry and Molecular Properties Database: Gas Density", "c": 0, "g": "gases"}
+{"id": "JAH-CHMP-000029", "t": "Chemistry and Molecular Properties Database: Combined Gas Law", "c": 0, "g": "gases"}
+{"id": "JAH-CHMP-000030", "t": "Chemistry and Molecular Properties Database: Charles Law", "c": 0, "g": "gases"}
+{"id": "JAH-CHMP-000031", "t": "Chemistry and Molecular Properties Database: Boyle Law", "c": 0, "g": "gases"}
+{"id": "JAH-CHMP-000032", "t": "Chemistry and Molecular Properties Database: Titration Volume", "c": 0, "g": "acids-bases"}
+{"id": "JAH-CHMP-000033", "t": "Chemistry and Molecular Properties Database: Solubility from Ksp", "c": 0, "g": "solutions"}
+{"id": "JAH-CHMP-000034", "t": "Chemistry and Molecular Properties Database: Combustion CO2 Capstone", "c": 0, "g": "stoichiometry"}

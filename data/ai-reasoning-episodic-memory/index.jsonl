@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-EM-000001", "t": "What episodic memory is: remembering what happened", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000002", "t": "Episode capture: writing down the experience", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000003", "t": "The episode shape: context, events, outcome, lesson", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000004", "t": "Temporal ordering: when things happened and in what order", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000005", "t": "Actors and roles: who did what", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000006", "t": "Outcomes: how it turned out, honestly", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000007", "t": "Lessons: the one sentence the episode teaches", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000008", "t": "Episode vs fact: stories are not rules", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000009", "t": "Salience: which episodes matter most", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000010", "t": "The episode log: the unbroken record", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000011", "t": "Retrieval basics: finding the right episode", "g": "episodic-memory-foundations"}
+{"id": "JAH-AIR-EM-000012", "t": "Similarity indexing: what 'like this' means", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000013", "t": "Case-based reasoning: solving from the closest case", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000014", "t": "Nearest-case retrieval in practice", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000015", "t": "Adapting solutions from cases", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000016", "t": "Experience replay: learning from the log", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000017", "t": "Narrative compression: the story in a paragraph", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000018", "t": "Episode clustering: finding the kinds of things that happen", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000019", "t": "Cross-episode patterns: what the log is trying to tell you", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000020", "t": "Counterfactual episodes: what if it had gone differently", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000021", "t": "Teaching with stories: episodes as instruction", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000022", "t": "Forgetting episodes: the log must shed weight", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000023", "t": "Episode verification: did it really happen that way", "g": "episodic-memory-compounded"}
+{"id": "JAH-AIR-EM-000024", "t": "Lifelong case libraries: the career of cases", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000025", "t": "Rare-episode preservation: the one time it happened", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000026", "t": "Adversarial episodes: when the story is the attack", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000027", "t": "Episode-driven planning: deciding from cases", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000028", "t": "Multi-actor episodes: many perspectives, one record", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000029", "t": "Causal analysis of episodes: why it really happened", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000030", "t": "Episode summarization at scale: the log in brief", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000031", "t": "The canon of cases: the episodes everyone knows", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000032", "t": "Episode ethics: stories about real people", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000033", "t": "The unbroken record: the complete life of the system", "g": "episodic-memory-advanced"}
+{"id": "JAH-AIR-EM-000034", "t": "Synthetic episodes: learning from imagined cases", "g": "episodic-memory-advanced"}

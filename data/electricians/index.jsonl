@@ -1,0 +1,34 @@
+{"id": "JAH-ELTR-000001", "t": "Ohm's Law for Electricians", "g": "Electrical Basics"}
+{"id": "JAH-ELTR-000002", "t": "Series and Parallel Circuits", "g": "Electrical Basics"}
+{"id": "JAH-ELTR-000003", "t": "AC vs DC", "g": "Electrical Basics"}
+{"id": "JAH-ELTR-000004", "t": "Reading Electrical Blueprints", "g": "Reading & Tools"}
+{"id": "JAH-ELTR-000005", "t": "Wire Types and Sizing", "g": "Wiring & Devices"}
+{"id": "JAH-ELTR-000006", "t": "The National Electrical Code Structure", "g": "Code & Safety"}
+{"id": "JAH-ELTR-000007", "t": "Grounding and Bonding Basics", "g": "Code & Safety"}
+{"id": "JAH-ELTR-000008", "t": "Boxes, Enclosures, and Fill", "g": "Wiring & Devices"}
+{"id": "JAH-ELTR-000009", "t": "Receptacles and Switches", "g": "Wiring & Devices"}
+{"id": "JAH-ELTR-000010", "t": "Lighting Circuits", "g": "Wiring & Devices"}
+{"id": "JAH-ELTR-000011", "t": "Using a Multimeter on the Job", "g": "Reading & Tools"}
+{"id": "JAH-ELTR-000012", "t": "Electrical Safety and PPE", "g": "Code & Safety"}
+{"id": "JAH-ELTR-000013", "t": "Service Panels and Load Calculations", "g": "Panels & Distribution"}
+{"id": "JAH-ELTR-000014", "t": "Branch Circuit Design", "g": "Panels & Distribution"}
+{"id": "JAH-ELTR-000015", "t": "GFCI and AFCI Protection", "g": "Protection"}
+{"id": "JAH-ELTR-000016", "t": "Conduit Bending: EMT", "g": "Wiring Methods"}
+{"id": "JAH-ELTR-000017", "t": "Three-Way and Four-Way Switching", "g": "Wiring & Devices"}
+{"id": "JAH-ELTR-000018", "t": "Motor Controls Basics", "g": "Motors"}
+{"id": "JAH-ELTR-000019", "t": "Transformers: Sizing and Wiring", "g": "Panels & Distribution"}
+{"id": "JAH-ELTR-000020", "t": "Low-Voltage Systems", "g": "Wiring & Devices"}
+{"id": "JAH-ELTR-000021", "t": "Smoke and CO Detector Circuits", "g": "Code & Safety"}
+{"id": "JAH-ELTR-000022", "t": "Kitchen and Bathroom Code Requirements", "g": "Code & Safety"}
+{"id": "JAH-ELTR-000023", "t": "Troubleshooting Dead Circuits", "g": "Troubleshooting"}
+{"id": "JAH-ELTR-000024", "t": "Megger Insulation Testing", "g": "Troubleshooting"}
+{"id": "JAH-ELTR-000025", "t": "Motor Branch Circuit Sizing", "g": "Industrial"}
+{"id": "JAH-ELTR-000026", "t": "Variable Frequency Drives", "g": "Industrial"}
+{"id": "JAH-ELTR-000027", "t": "PLC-Controlled Systems", "g": "Industrial"}
+{"id": "JAH-ELTR-000028", "t": "Solar PV Installation Basics", "g": "Renewables"}
+{"id": "JAH-ELTR-000029", "t": "EV Charger Installation", "g": "Renewables"}
+{"id": "JAH-ELTR-000030", "t": "Hazardous Location Wiring", "g": "Industrial"}
+{"id": "JAH-ELTR-000031", "t": "Backup Generators and Transfer Switches", "g": "Industrial"}
+{"id": "JAH-ELTR-000032", "t": "Arc-Flash Studies and Labeling", "g": "Code & Safety"}
+{"id": "JAH-ELTR-000033", "t": "Power Quality Investigations", "g": "Troubleshooting"}
+{"id": "JAH-ELTR-000034", "t": "Apprenticeship to Master Electrician", "g": "Career"}

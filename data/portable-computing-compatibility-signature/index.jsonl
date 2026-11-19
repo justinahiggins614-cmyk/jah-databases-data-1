@@ -1,0 +1,34 @@
+{"id": "JAH-PCC-000001", "t": "Signature OS Compatibility Basics (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000002", "t": "Signature App Compatibility Layers (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000003", "t": "Signature File Format Compatibility (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000004", "t": "Signature The Compatibility Playbook (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000005", "t": "Signature ARM vs x86 (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000006", "t": "Signature Apple Silicon Transition (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000007", "t": "Signature Virtual Machines Portable (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000008", "t": "Signature Containers Portable (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000009", "t": "Signature Web Apps Everywhere (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000010", "t": "Signature PWAs (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000011", "t": "Signature USB-C Everything (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000012", "t": "Signature Docking Stations (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000013", "t": "Signature External Monitors (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000014", "t": "Signature Bluetooth Peripherals (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000015", "t": "Signature Printer Compatibility (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000016", "t": "Signature Storage Compatibility (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000017", "t": "Signature Cloud Sync (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000018", "t": "Signature Offline Workflows (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000019", "t": "Signature Battery Optimization (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000020", "t": "Signature Power Banks (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000021", "t": "Signature Travel Adapters (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000022", "t": "Signature VPN on the Go (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000023", "t": "Signature Mobile Hotspots (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000024", "t": "Signature eSIM Travel (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000025", "t": "Signature Device Encryption (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000026", "t": "Signature Find My Devices (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000027", "t": "Signature Backup on the Go (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000028", "t": "Signature Tablet Workflows (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000029", "t": "Signature Phone as Computer (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000030", "t": "Signature Ergonomics Portable (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000031", "t": "Signature Security on the Road (Signature Edition)", "g": "cross-platform-compatibility"}
+{"id": "JAH-PCC-000032", "t": "Signature The Portable Setup (Signature Edition)", "g": "peripheral-compatibility"}
+{"id": "JAH-PCC-000033", "t": "Signature Compatibility Testing (Signature Edition)", "g": "mobile-workflows"}
+{"id": "JAH-PCC-000034", "t": "Signature Future-Proofing (Signature Edition)", "g": "cross-platform-compatibility"}

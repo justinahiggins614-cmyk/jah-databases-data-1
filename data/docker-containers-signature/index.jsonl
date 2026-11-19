@@ -1,0 +1,34 @@
+{"id": "JAH-DOCKS-000001", "t": "What Are Containers — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000002", "t": "Installing Docker — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000003", "t": "Running Your First Container — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000004", "t": "Docker Images Basics — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000005", "t": "Dockerfile Basics — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000006", "t": "Docker Volumes — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000007", "t": "Docker Networking Basics — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000008", "t": "Docker Logs and Inspection — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000009", "t": "Docker Hub and Registries — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000010", "t": "Docker Compose Basics — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000011", "t": "Docker Architecture: Client, Daemon, Registry — Signature Edition", "g": "Foundations"}
+{"id": "JAH-DOCKS-000012", "t": "Multi-Stage Docker Builds — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000013", "t": "Docker Layer Caching — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000014", "t": "Docker Security Basics — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000015", "t": "Docker Resource Limits — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000016", "t": "Docker Healthchecks — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000017", "t": "Docker Compose Advanced — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000018", "t": "Docker Environment Variables and Config — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000019", "t": "Docker Debugging Techniques — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000020", "t": "Docker Image Optimization — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000021", "t": "Docker in CI Pipelines — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000022", "t": "Docker Cleanup and Maintenance — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000023", "t": "Docker Alternatives: Podman — Signature Edition", "g": "Compounded"}
+{"id": "JAH-DOCKS-000024", "t": "Docker BuildKit Advanced — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000025", "t": "Docker Multi-Architecture Builds — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000026", "t": "Docker Secrets Management — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000027", "t": "Docker Orchestration Intro: Swarm vs Kubernetes — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000028", "t": "Docker Logging Drivers — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000029", "t": "Docker Monitoring — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000030", "t": "Docker Backup and Disaster Recovery — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000031", "t": "Docker Rootless Mode — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000032", "t": "Docker Content Trust and Signing — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000033", "t": "Docker Production Checklist — Signature Edition", "g": "Advanced"}
+{"id": "JAH-DOCKS-000034", "t": "Docker Capstone: Full Stack Deploy — Signature Edition", "g": "Advanced"}

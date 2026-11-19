@@ -1,0 +1,34 @@
+{"id": "JAH-ALCB-000001", "t": "Algorithm Complexity and Performance Bounds Database: Nested Loop Operations", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000002", "t": "Algorithm Complexity and Performance Bounds Database: Binary Search Steps", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000003", "t": "Algorithm Complexity and Performance Bounds Database: Merge Sort Comparisons", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000004", "t": "Algorithm Complexity and Performance Bounds Database: Linear Search Average", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000005", "t": "Algorithm Complexity and Performance Bounds Database: Selection Sort Comparisons", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000006", "t": "Algorithm Complexity and Performance Bounds Database: Insertion Sort Worst Case", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000007", "t": "Algorithm Complexity and Performance Bounds Database: Quicksort Average Comparisons", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000008", "t": "Algorithm Complexity and Performance Bounds Database: Binary Heap Height", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCB-000009", "t": "Algorithm Complexity and Performance Bounds Database: B-Tree Height", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCB-000010", "t": "Algorithm Complexity and Performance Bounds Database: Hash Table Load Factor", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCB-000011", "t": "Algorithm Complexity and Performance Bounds Database: Expected Hash Collisions", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCB-000012", "t": "Algorithm Complexity and Performance Bounds Database: Bloom Filter False Positives", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCB-000013", "t": "Algorithm Complexity and Performance Bounds Database: Birthday Bound", "c": 0, "g": "probability"}
+{"id": "JAH-ALCB-000014", "t": "Algorithm Complexity and Performance Bounds Database: Coupon Collector", "c": 0, "g": "probability"}
+{"id": "JAH-ALCB-000015", "t": "Algorithm Complexity and Performance Bounds Database: Amdahl Speedup", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000016", "t": "Algorithm Complexity and Performance Bounds Database: Gustafson Scaled Speedup", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000017", "t": "Algorithm Complexity and Performance Bounds Database: Parallel Efficiency", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000018", "t": "Algorithm Complexity and Performance Bounds Database: Karp-Flatt Metric", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000019", "t": "Algorithm Complexity and Performance Bounds Database: Work-Depth Bound", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000020", "t": "Algorithm Complexity and Performance Bounds Database: Master Theorem Polynomial", "c": 0, "g": "divide-conquer"}
+{"id": "JAH-ALCB-000021", "t": "Algorithm Complexity and Performance Bounds Database: Strassen Exponent", "c": 0, "g": "divide-conquer"}
+{"id": "JAH-ALCB-000022", "t": "Algorithm Complexity and Performance Bounds Database: Recursion Stack Depth", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000023", "t": "Algorithm Complexity and Performance Bounds Database: Naive Fibonacci Calls", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000024", "t": "Algorithm Complexity and Performance Bounds Database: TSP Brute Force Tours", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCB-000025", "t": "Algorithm Complexity and Performance Bounds Database: Subset Enumeration", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCB-000026", "t": "Algorithm Complexity and Performance Bounds Database: Permutation Count", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCB-000027", "t": "Algorithm Complexity and Performance Bounds Database: Full Binary Tree Leaves", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCB-000028", "t": "Algorithm Complexity and Performance Bounds Database: Blocked Matrix Multiply Traffic", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000029", "t": "Algorithm Complexity and Performance Bounds Database: Sorting Lower Bound", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCB-000030", "t": "Algorithm Complexity and Performance Bounds Database: Pigeonhole Minimum", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCB-000031", "t": "Algorithm Complexity and Performance Bounds Database: Parallel Prefix Steps", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000032", "t": "Algorithm Complexity and Performance Bounds Database: Amdahl Limit", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000033", "t": "Algorithm Complexity and Performance Bounds Database: Communication-Aware Time", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCB-000034", "t": "Algorithm Complexity and Performance Bounds Database: Algorithm Selection Capstone", "c": 0, "g": "big-o"}

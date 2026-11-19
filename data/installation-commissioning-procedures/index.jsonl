@@ -1,0 +1,34 @@
+{"id": "JAH-ICOP-000001", "t": "Site Survey and Readiness Checklist", "g": "Site Preparation"}
+{"id": "JAH-ICOP-000002", "t": "Receiving, Unpacking, and Damage Inspection", "g": "Site Preparation"}
+{"id": "JAH-ICOP-000003", "t": "Foundation and Anchoring Requirements", "g": "Site Preparation"}
+{"id": "JAH-ICOP-000004", "t": "Utility Requirements Verification", "g": "Site Preparation"}
+{"id": "JAH-ICOP-000005", "t": "Rigging and Placement Procedure", "g": "Mechanical Installation"}
+{"id": "JAH-ICOP-000006", "t": "Leveling and Alignment Basics", "g": "Mechanical Installation"}
+{"id": "JAH-ICOP-000007", "t": "Mechanical Assembly Sequence", "g": "Mechanical Installation"}
+{"id": "JAH-ICOP-000008", "t": "Piping and Ductwork Connection", "g": "Mechanical Installation"}
+{"id": "JAH-ICOP-000009", "t": "Electrical Supply Connection Procedure", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000010", "t": "Grounding and Bonding Verification", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000011", "t": "Control Panel Wiring Checkout", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000012", "t": "Sensor and Instrument Installation", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000013", "t": "Network and Communication Setup", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000014", "t": "Safety System Installation and Checkout", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000015", "t": "Lubrication System Fill and Prime", "g": "Startup"}
+{"id": "JAH-ICOP-000016", "t": "First-Energization Procedure", "g": "Startup"}
+{"id": "JAH-ICOP-000017", "t": "Dry-Run and Rotation Checks", "g": "Startup"}
+{"id": "JAH-ICOP-000018", "t": "Control Loop Tuning at Startup", "g": "Startup"}
+{"id": "JAH-ICOP-000019", "t": "Load Testing Procedure", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000020", "t": "Performance Verification Runs", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000021", "t": "Punch List Management", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000022", "t": "Operator Training Handover", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000023", "t": "Hazardous-Area Installation Requirements", "g": "Site Preparation"}
+{"id": "JAH-ICOP-000024", "t": "Seismic Anchoring and Restraint", "g": "Mechanical Installation"}
+{"id": "JAH-ICOP-000025", "t": "High-Voltage Connection Procedure", "g": "Electrical & Controls"}
+{"id": "JAH-ICOP-000026", "t": "Functional Safety Validation", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000027", "t": "Integrated Systems Test", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000028", "t": "72-Hour Continuous Run Trial", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000029", "t": "Environmental Compliance Verification", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000030", "t": "Spare Parts and Documentation Handover", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000031", "t": "Warranty Activation Procedure", "g": "Acceptance Testing"}
+{"id": "JAH-ICOP-000032", "t": "Remote Monitoring Commissioning", "g": "Startup"}
+{"id": "JAH-ICOP-000033", "t": "Multi-Unit Synchronized Startup", "g": "Startup"}
+{"id": "JAH-ICOP-000034", "t": "Final Sign-Off and Acceptance Certificate", "g": "Acceptance Testing"}

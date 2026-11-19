@@ -1,0 +1,34 @@
+{"id": "JAH-DCRGS-000001", "t": "What a Data Contract Is (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000002", "t": "Producer and Consumer Roles (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000003", "t": "The Open Data Contract Standard (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000004", "t": "Schema Guarantees (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000005", "t": "Field Definitions and Types (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000006", "t": "Required vs Optional Fields (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000007", "t": "Semantic Descriptions (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000008", "t": "Data Quality Promises (Signature Edition)", "g": "Contract Basics"}
+{"id": "JAH-DCRGS-000009", "t": "Freshness SLAs (Signature Edition)", "g": "SLAs and Promises"}
+{"id": "JAH-DCRGS-000010", "t": "Availability SLAs (Signature Edition)", "g": "SLAs and Promises"}
+{"id": "JAH-DCRGS-000011", "t": "Schema Compatibility Rules (Signature Edition)", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRGS-000012", "t": "Backward vs Forward Compatibility (Signature Edition)", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRGS-000013", "t": "Schema Evolution Histories (Signature Edition)", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRGS-000014", "t": "Versioning Contracts (Signature Edition)", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRGS-000015", "t": "Deprecation Notices (Signature Edition)", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRGS-000016", "t": "Breaking Change Policies (Signature Edition)", "g": "Schemas and Compatibility"}
+{"id": "JAH-DCRGS-000017", "t": "Contract Testing (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000018", "t": "Contract Linting and CI (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000019", "t": "Contract Negotiation Workflows (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000020", "t": "Sign-off and Approval (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000021", "t": "Contract Enforcement at Runtime (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000022", "t": "Contract Schema Registries (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000023", "t": "Contract-Driven Pipelines (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000024", "t": "Consumer Impact Analysis (Signature Edition)", "g": "Evolution and Governance"}
+{"id": "JAH-DCRGS-000025", "t": "Multi-Consumer Contracts (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000026", "t": "Contract Inheritance and Templates (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000027", "t": "Data Products and Contracts (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000028", "t": "Contract Metrics (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000029", "t": "Contract Breach Handling (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000030", "t": "Contracts for a Million-Database Network (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000031", "t": "Legal Terms in Contracts (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000032", "t": "Contract Provenance (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000033", "t": "Automated Contract Generation (Signature Edition)", "g": "Advanced Contract Topics"}
+{"id": "JAH-DCRGS-000034", "t": "Data Contract Registry Mastery Review (Signature Edition)", "g": "Advanced Contract Topics"}

@@ -1,0 +1,34 @@
+{"id": "JAH-IVP-000001", "t": "Signature Verification Levels (IAL) (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000002", "t": "Signature Document Verification (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000003", "t": "Signature Liveness Detection (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000004", "t": "Signature The Verification Playbook (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000005", "t": "Signature Biometric Modalities (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000006", "t": "Signature Face Match (Selfie vs ID) (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000007", "t": "Signature Deepfake Defense (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000008", "t": "Signature Knowledge-Based (KBA) (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000009", "t": "Signature Phone Verification (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000010", "t": "Signature Email Verification (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000011", "t": "Signature Address Verification (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000012", "t": "Signature SSN Verification (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000013", "t": "Signature eID and Digital Wallets (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000014", "t": "Signature Bank-ID Systems (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000015", "t": "Signature Reusable Identity (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000016", "t": "Signature Zero-Knowledge Proofs (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000017", "t": "Signature Decentralized Identifiers (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000018", "t": "Signature Verifiable Credentials (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000019", "t": "Signature Age Verification (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000020", "t": "Signature KYC/AML Basics (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000021", "t": "Signature Synthetic Identity Fraud (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000022", "t": "Signature Account Takeover Defense (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000023", "t": "Signature Step-Up Authentication (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000024", "t": "Signature Fallback Processes (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000025", "t": "Signature Accessibility in IDV (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000026", "t": "Signature Bias in Face Verification (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000027", "t": "Signature Data Retention (IDV) (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000028", "t": "Signature Vendor Selection (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000029", "t": "Signature Conversion vs Security (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000030", "t": "Signature Testing IDV Systems (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000031", "t": "Signature Regulatory Landscape (Signature Edition)", "g": "verification-methods"}
+{"id": "JAH-IVP-000032", "t": "Signature Incident Response (IDV) (Signature Edition)", "g": "fraud-prevention"}
+{"id": "JAH-IVP-000033", "t": "Signature The Trustworthy Verifier (Signature Edition)", "g": "privacy-preserving-verification"}
+{"id": "JAH-IVP-000034", "t": "Signature Future of Identity (Signature Edition)", "g": "verification-methods"}

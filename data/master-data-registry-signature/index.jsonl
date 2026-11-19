@@ -1,0 +1,34 @@
+{"id": "JAH-MDRGS-000001", "t": "What Master Data Is (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000002", "t": "Master Data vs Transactional vs Reference Data (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000003", "t": "Master Data Domains: Parties, Products, Locations, Assets (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000004", "t": "The Golden Record Concept (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000005", "t": "Identity Resolution Basics (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000006", "t": "Matching Rules: Deterministic (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000007", "t": "Matching Rules: Probabilistic (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000008", "t": "Match Scores and Thresholds (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000009", "t": "Data Profiling for MDM (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000010", "t": "Source System Inventory (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000011", "t": "Trust and Recency Signals (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000012", "t": "Survivorship Rules (Signature Edition)", "g": "Identity Foundations"}
+{"id": "JAH-MDRGS-000013", "t": "Merge and Split Operations (Signature Edition)", "g": "Merge and Survivorship"}
+{"id": "JAH-MDRGS-000014", "t": "Merge History and Audit Trails (Signature Edition)", "g": "Merge and Survivorship"}
+{"id": "JAH-MDRGS-000015", "t": "Hierarchy Management (Signature Edition)", "g": "Merge and Survivorship"}
+{"id": "JAH-MDRGS-000016", "t": "Cross-Domain Linking (Signature Edition)", "g": "Merge and Survivorship"}
+{"id": "JAH-MDRGS-000017", "t": "Data Stewardship Workflows (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000018", "t": "Steward Review Queues (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000019", "t": "Exception Handling (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000020", "t": "MDM Architecture Styles (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000021", "t": "Hub-and-Spoke Synchronization (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000022", "t": "Publish-Subscribe Distribution (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000023", "t": "Data Quality Dimensions in MDM (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000024", "t": "Continuous Cleansing Pipelines (Signature Edition)", "g": "Stewardship and Operations"}
+{"id": "JAH-MDRGS-000025", "t": "Survivorship at Scale (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000026", "t": "Entity Resolution with Graphs (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000027", "t": "Temporal Master Data (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000028", "t": "MDM for a Million-Database Network (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000029", "t": "Golden Record APIs (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000030", "t": "Conflict Resolution Policies (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000031", "t": "Provenance in the Registry (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000032", "t": "MDM Metrics and KPIs (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000033", "t": "Migration into the Registry (Signature Edition)", "g": "Advanced Registry Operations"}
+{"id": "JAH-MDRGS-000034", "t": "Master Data Registry Mastery Review (Signature Edition)", "g": "Advanced Registry Operations"}

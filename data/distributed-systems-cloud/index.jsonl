@@ -1,0 +1,34 @@
+{"id": "JAH-DSC-000001", "t": "Distributed Systems and Cloud Architecture Database: Quorum Reads and Writes", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000002", "t": "Distributed Systems and Cloud Architecture Database: Lamport Clocks", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000003", "t": "Distributed Systems and Cloud Architecture Database: Vector Clocks", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000004", "t": "Distributed Systems and Cloud Architecture Database: G-Counter CRDT", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000005", "t": "Distributed Systems and Cloud Architecture Database: Consistent Hashing", "c": 0, "g": "partitioning"}
+{"id": "JAH-DSC-000006", "t": "Distributed Systems and Cloud Architecture Database: Raft Leader Election (Vote Count)", "c": 0, "g": "consensus"}
+{"id": "JAH-DSC-000007", "t": "Distributed Systems and Cloud Architecture Database: Two-Phase Commit", "c": 0, "g": "consensus"}
+{"id": "JAH-DSC-000008", "t": "Distributed Systems and Cloud Architecture Database: Idempotent Receivers", "c": 0, "g": "queues"}
+{"id": "JAH-DSC-000009", "t": "Distributed Systems and Cloud Architecture Database: Saga Pattern", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000010", "t": "Distributed Systems and Cloud Architecture Database: Circuit Breaker", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000011", "t": "Distributed Systems and Cloud Architecture Database: Exponential Backoff With Jitter", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000012", "t": "Distributed Systems and Cloud Architecture Database: Bulkhead Isolation", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000013", "t": "Distributed Systems and Cloud Architecture Database: Service Discovery", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000014", "t": "Distributed Systems and Cloud Architecture Database: Weighted Load Balancing", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000015", "t": "Distributed Systems and Cloud Architecture Database: Cache Stampede Prevention", "c": 0, "g": "caching"}
+{"id": "JAH-DSC-000016", "t": "Distributed Systems and Cloud Architecture Database: Distributed Lock With Fencing", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000017", "t": "Distributed Systems and Cloud Architecture Database: Split-Brain Prevention", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000018", "t": "Distributed Systems and Cloud Architecture Database: Backpressure", "c": 0, "g": "queues"}
+{"id": "JAH-DSC-000019", "t": "Distributed Systems and Cloud Architecture Database: Graceful Degradation", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000020", "t": "Distributed Systems and Cloud Architecture Database: Event Sourcing", "c": 0, "g": "queues"}
+{"id": "JAH-DSC-000021", "t": "Distributed Systems and Cloud Architecture Database: CQRS Separation", "c": 0, "g": "queues"}
+{"id": "JAH-DSC-000022", "t": "Distributed Systems and Cloud Architecture Database: Shard Key Selection", "c": 0, "g": "partitioning"}
+{"id": "JAH-DSC-000023", "t": "Distributed Systems and Cloud Architecture Database: Replication Lag Monitoring", "c": 0, "g": "partitioning"}
+{"id": "JAH-DSC-000024", "t": "Distributed Systems and Cloud Architecture Database: Distributed Tracing", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000025", "t": "Distributed Systems and Cloud Architecture Database: Chaos Testing", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000026", "t": "Distributed Systems and Cloud Architecture Database: Health Checks (Liveness vs Readiness)", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000027", "t": "Distributed Systems and Cloud Architecture Database: Leader Lease", "c": 0, "g": "consensus"}
+{"id": "JAH-DSC-000028", "t": "Distributed Systems and Cloud Architecture Database: Gossip Dissemination", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000029", "t": "Distributed Systems and Cloud Architecture Database: Rate Limiting (Distributed)", "c": 0, "g": "queues"}
+{"id": "JAH-DSC-000030", "t": "Distributed Systems and Cloud Architecture Database: Exactly-Once (Transactional Outbox)", "c": 0, "g": "queues"}
+{"id": "JAH-DSC-000031", "t": "Distributed Systems and Cloud Architecture Database: Multi-Paxos (Simplified Ballot)", "c": 0, "g": "consensus"}
+{"id": "JAH-DSC-000032", "t": "Distributed Systems and Cloud Architecture Database: CRDT Shopping Cart (OR-Set)", "c": 0, "g": "coordination"}
+{"id": "JAH-DSC-000033", "t": "Distributed Systems and Cloud Architecture Database: Phi-Accrual Failure Detection", "c": 0, "g": "resilience"}
+{"id": "JAH-DSC-000034", "t": "Distributed Systems and Cloud Architecture Database: Request Hedging", "c": 0, "g": "resilience"}

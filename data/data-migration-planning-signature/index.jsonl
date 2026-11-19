@@ -1,0 +1,34 @@
+{"id": "JAH-DMP-000001", "t": "Signature Migration Strategy Choice (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000002", "t": "Signature Data Inventory (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000003", "t": "Signature Source System Analysis (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000004", "t": "Signature Target System Prep (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000005", "t": "Signature Data Mapping (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000006", "t": "Signature Data Cleansing (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000007", "t": "Signature Migration Tooling (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000008", "t": "Signature Test Migrations (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000009", "t": "Signature Validation Rules (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000010", "t": "Signature Downtime Planning (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000011", "t": "Signature Rollback Planning (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000012", "t": "Signature Cutover Execution (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000013", "t": "Signature Delta Migrations (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000014", "t": "Signature User Training (New System) (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000015", "t": "Signature Post-Migration Validation (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000016", "t": "Signature Legacy Decommission (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000017", "t": "Signature Data Archiving Strategy (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000018", "t": "Signature Cloud Migrations (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000019", "t": "Signature Email Migrations (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000020", "t": "Signature Database Migrations (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000021", "t": "Signature File Share Migrations (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000022", "t": "Signature Application Data Migration (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000023", "t": "Signature Migration Project Management (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000024", "t": "Signature Stakeholder Communication (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000025", "t": "Signature Risk Management (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000026", "t": "Signature Performance Baselines (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000027", "t": "Signature Security During Migration (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000028", "t": "Signature Small Business Migrations (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000029", "t": "Signature Migration Budgeting (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000030", "t": "Signature Lessons Learned (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000031", "t": "Signature The Migration Checklist (Signature Edition)", "g": "migration-assessment"}
+{"id": "JAH-DMP-000032", "t": "Signature Data Quality Gates (Signature Edition)", "g": "mapping-and-testing"}
+{"id": "JAH-DMP-000033", "t": "Signature Parallel Run Strategy (Signature Edition)", "g": "cutover-execution"}
+{"id": "JAH-DMP-000034", "t": "Signature Migration Runbook (Signature Edition)", "g": "migration-assessment"}

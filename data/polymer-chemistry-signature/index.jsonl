@@ -1,0 +1,34 @@
+{"id": "JAH-POLCS-000001", "t": "What Is a Polymer (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000002", "t": "Monomers and Repeat Units (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000003", "t": "Molecular Weight and Polydispersity (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000004", "t": "Step-Growth Polymerization (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000005", "t": "Chain-Growth Polymerization (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000006", "t": "Free-Radical Polymerization (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000007", "t": "Copolymers: Random, Block, Graft (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000008", "t": "Polymer Nomenclature (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000009", "t": "Thermoplastics vs Thermosets (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000010", "t": "Elastomers (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000011", "t": "The Glass Transition Temperature (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000012", "t": "Crystallinity in Polymers (Signature Edition)", "g": "Basics"}
+{"id": "JAH-POLCS-000013", "t": "Living and Controlled Polymerization (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000014", "t": "Ziegler-Natta Catalysis (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000015", "t": "Ring-Opening Polymerization (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000016", "t": "Emulsion Polymerization (Signature Edition)", "g": "Polymerization"}
+{"id": "JAH-POLCS-000017", "t": "Polymer Solutions and Flory-Huggins (Signature Edition)", "g": "Structure & Properties"}
+{"id": "JAH-POLCS-000018", "t": "Viscoelasticity (Signature Edition)", "g": "Structure & Properties"}
+{"id": "JAH-POLCS-000019", "t": "Mechanical Properties of Polymers (Signature Edition)", "g": "Structure & Properties"}
+{"id": "JAH-POLCS-000020", "t": "Thermal Analysis: DSC and TGA (Signature Edition)", "g": "Structure & Properties"}
+{"id": "JAH-POLCS-000021", "t": "Polymer Degradation Mechanisms (Signature Edition)", "g": "Structure & Properties"}
+{"id": "JAH-POLCS-000022", "t": "Additives: Plasticizers, Stabilizers, Fillers (Signature Edition)", "g": "Processing"}
+{"id": "JAH-POLCS-000023", "t": "Polymer Blends and Alloys (Signature Edition)", "g": "Processing"}
+{"id": "JAH-POLCS-000024", "t": "Biodegradable Polymers (Signature Edition)", "g": "Processing"}
+{"id": "JAH-POLCS-000025", "t": "Conducting Polymers (Signature Edition)", "g": "Advanced Materials"}
+{"id": "JAH-POLCS-000026", "t": "High-Performance Polymers: PEEK, Polyimides (Signature Edition)", "g": "Advanced Materials"}
+{"id": "JAH-POLCS-000027", "t": "Polymer Membranes for Separation (Signature Edition)", "g": "Advanced Materials"}
+{"id": "JAH-POLCS-000028", "t": "Hydrogels and Smart Polymers (Signature Edition)", "g": "Advanced Materials"}
+{"id": "JAH-POLCS-000029", "t": "Dendrimers and Hyperbranched Polymers (Signature Edition)", "g": "Advanced Materials"}
+{"id": "JAH-POLCS-000030", "t": "Polymer Nanocomposites (Signature Edition)", "g": "Advanced Materials"}
+{"id": "JAH-POLCS-000031", "t": "3D Printing with Polymers (Signature Edition)", "g": "Processing"}
+{"id": "JAH-POLCS-000032", "t": "Polymer Recycling: Mechanical and Chemical (Signature Edition)", "g": "Processing"}
+{"id": "JAH-POLCS-000033", "t": "Photopolymers and Lithography (Signature Edition)", "g": "Processing"}
+{"id": "JAH-POLCS-000034", "t": "Polymer Electrolytes for Batteries (Signature Edition)", "g": "Advanced Materials"}

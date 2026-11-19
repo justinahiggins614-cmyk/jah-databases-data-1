@@ -1,0 +1,34 @@
+{"id": "JAH-DLG-000001", "t": "Data Lake Governance: What 'Good Data' Means", "g": "foundations"}
+{"id": "JAH-DLG-000002", "t": "Data Lake Governance: Schema Design That Lasts", "g": "foundations"}
+{"id": "JAH-DLG-000003", "t": "Data Lake Governance: The Raw-vs-Curated Split", "g": "foundations"}
+{"id": "JAH-DLG-000004", "t": "Data Lake Governance: Data Quality Checks", "g": "foundations"}
+{"id": "JAH-DLG-000005", "t": "Data Lake Governance: Lineage: Knowing Where Data Came From", "g": "foundations"}
+{"id": "JAH-DLG-000006", "t": "Data Lake Governance: Cataloging Everything", "g": "foundations"}
+{"id": "JAH-DLG-000007", "t": "Data Lake Governance: Access Control for Data", "g": "foundations"}
+{"id": "JAH-DLG-000008", "t": "Data Lake Governance: Retention and Deletion", "g": "foundations"}
+{"id": "JAH-DLG-000009", "t": "Data Lake Governance: Privacy by Design", "g": "foundations"}
+{"id": "JAH-DLG-000010", "t": "Data Lake Governance: Pipelines That Do Not Break", "g": "foundations"}
+{"id": "JAH-DLG-000011", "t": "Data Lake Governance: Testing Data Pipelines", "g": "foundations"}
+{"id": "JAH-DLG-000012", "t": "Data Lake Governance: Backfills and Migrations", "g": "foundations"}
+{"id": "JAH-DLG-000013", "t": "Data Lake Governance: Monitoring Data Health", "g": "compounded"}
+{"id": "JAH-DLG-000014", "t": "Data Lake Governance: Cost of Data", "g": "compounded"}
+{"id": "JAH-DLG-000015", "t": "Data Lake Governance: Metadata That Matters", "g": "compounded"}
+{"id": "JAH-DLG-000016", "t": "Data Lake Governance: Data Contracts", "g": "compounded"}
+{"id": "JAH-DLG-000017", "t": "Data Lake Governance: Streaming vs Batch", "g": "compounded"}
+{"id": "JAH-DLG-000018", "t": "Data Lake Governance: The Lakehouse Pattern", "g": "compounded"}
+{"id": "JAH-DLG-000019", "t": "Data Lake Governance: Data Mesh Realities", "g": "compounded"}
+{"id": "JAH-DLG-000020", "t": "Data Lake Governance: Governance That Works", "g": "compounded"}
+{"id": "JAH-DLG-000021", "t": "Data Lake Governance: Audits and Compliance", "g": "compounded"}
+{"id": "JAH-DLG-000022", "t": "Data Lake Governance: Disaster Recovery for Data", "g": "compounded"}
+{"id": "JAH-DLG-000023", "t": "Data Lake Governance: Advanced: Real-Time Quality", "g": "compounded"}
+{"id": "JAH-DLG-000024", "t": "Data Lake Governance: Advanced: Data Products", "g": "compounded"}
+{"id": "JAH-DLG-000025", "t": "Data Lake Governance: Advanced: ML Feature Stores", "g": "advanced"}
+{"id": "JAH-DLG-000026", "t": "Data Lake Governance: Advanced: Privacy Engineering", "g": "advanced"}
+{"id": "JAH-DLG-000027", "t": "Data Lake Governance: Advanced: The Semantic Layer", "g": "advanced"}
+{"id": "JAH-DLG-000028", "t": "Data Lake Governance: Advanced: Data Observability", "g": "advanced"}
+{"id": "JAH-DLG-000029", "t": "Data Lake Governance: Advanced: FinOps for Data", "g": "advanced"}
+{"id": "JAH-DLG-000030", "t": "Data Lake Governance: Advanced: Sovereign and Regulated Data", "g": "advanced"}
+{"id": "JAH-DLG-000031", "t": "Data Lake Governance: Advanced: Archival at Scale", "g": "advanced"}
+{"id": "JAH-DLG-000032", "t": "Data Lake Governance: Advanced: Teaching Data Engineering", "g": "advanced"}
+{"id": "JAH-DLG-000033", "t": "Data Lake Governance: Advanced: The Future Data Stack", "g": "advanced"}
+{"id": "JAH-DLG-000034", "t": "Data Lake Governance: Advanced: Data as Strategy", "g": "advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-DCAS-000001", "t": "Cost Accounting Overview (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000002", "t": "Storage Cost Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000003", "t": "Compute Cost Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000004", "t": "Bandwidth and Egress Cost Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000005", "t": "Indexing Cost Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000006", "t": "Generation Cost Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000007", "t": "Retrieval Cost Model (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000008", "t": "Fixed vs Variable Costs (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000009", "t": "Cost Allocation Principles (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000010", "t": "Per-Record Cost Unit (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-DCAS-000011", "t": "Per-Database Cost Ledger (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000012", "t": "Shared-Cost Allocation Models (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000013", "t": "Storage Tiering Costs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000014", "t": "Index Rebuild Costs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000015", "t": "Generation Batch Costing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000016", "t": "Retrieval SLA Cost Tradeoffs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000017", "t": "Cache Cost-Benefit Analysis (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000018", "t": "Compression Savings Record (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000019", "t": "Backup and Disaster Recovery Costs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000020", "t": "Inter-Shard Transfer Costs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000021", "t": "Cost Anomaly Detection (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-DCAS-000022", "t": "Total Cost of Ownership at Scale (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000023", "t": "Forecasting-Driven Budgeting (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000024", "t": "Chargeback and Showback Models (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000025", "t": "Cost of Data Quality (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000026", "t": "Cost of Governance Overhead (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000027", "t": "Marginal Cost per Million Records (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000028", "t": "Public vs Signature Pipeline Cost Comparison (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000029", "t": "Energy and Carbon Cost Accounting (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000030", "t": "Cost Audit Record (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000031", "t": "Budget Variance Record (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000032", "t": "Cost Optimization Playbook (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000033", "t": "Cost Dashboard Exemplar (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-DCAS-000034", "t": "Cost Self-Audit and Mastery Record (Signature Edition)", "g": "Advanced"}

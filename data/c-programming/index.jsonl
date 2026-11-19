@@ -1,0 +1,34 @@
+{"id": "JAH-CLG-000001", "t": "C History and the Toolchain", "g": "Foundations"}
+{"id": "JAH-CLG-000002", "t": "C Hello World and Compilation", "g": "Foundations"}
+{"id": "JAH-CLG-000003", "t": "C Variables and Data Types", "g": "Foundations"}
+{"id": "JAH-CLG-000004", "t": "C Operators", "g": "Foundations"}
+{"id": "JAH-CLG-000005", "t": "C printf and scanf", "g": "Foundations"}
+{"id": "JAH-CLG-000006", "t": "C if else", "g": "Foundations"}
+{"id": "JAH-CLG-000007", "t": "C Loops", "g": "Foundations"}
+{"id": "JAH-CLG-000008", "t": "C Functions", "g": "Foundations"}
+{"id": "JAH-CLG-000009", "t": "C Arrays", "g": "Foundations"}
+{"id": "JAH-CLG-000010", "t": "C Strings as Character Arrays", "g": "Foundations"}
+{"id": "JAH-CLG-000011", "t": "C Pointers Introduction", "g": "Foundations"}
+{"id": "JAH-CLG-000012", "t": "C Pointer Arithmetic", "g": "Compounded"}
+{"id": "JAH-CLG-000013", "t": "C Structs", "g": "Compounded"}
+{"id": "JAH-CLG-000014", "t": "C Unions and Enums", "g": "Compounded"}
+{"id": "JAH-CLG-000015", "t": "C Dynamic Memory: malloc and free", "g": "Compounded"}
+{"id": "JAH-CLG-000016", "t": "C const and Storage Classes", "g": "Compounded"}
+{"id": "JAH-CLG-000017", "t": "C Header Files", "g": "Compounded"}
+{"id": "JAH-CLG-000018", "t": "C Preprocessor", "g": "Compounded"}
+{"id": "JAH-CLG-000019", "t": "C File IO", "g": "Compounded"}
+{"id": "JAH-CLG-000020", "t": "C Command Line Arguments", "g": "Compounded"}
+{"id": "JAH-CLG-000021", "t": "C Recursion", "g": "Compounded"}
+{"id": "JAH-CLG-000022", "t": "C Multidimensional Arrays", "g": "Compounded"}
+{"id": "JAH-CLG-000023", "t": "C Bitwise Operators", "g": "Compounded"}
+{"id": "JAH-CLG-000024", "t": "C Function Pointers", "g": "Advanced"}
+{"id": "JAH-CLG-000025", "t": "C Linked Lists", "g": "Advanced"}
+{"id": "JAH-CLG-000026", "t": "C Memory Layout: Stack Versus Heap", "g": "Advanced"}
+{"id": "JAH-CLG-000027", "t": "C Undefined Behavior", "g": "Advanced"}
+{"id": "JAH-CLG-000028", "t": "C Debugging with gdb", "g": "Advanced"}
+{"id": "JAH-CLG-000029", "t": "C Makefiles", "g": "Advanced"}
+{"id": "JAH-CLG-000030", "t": "C Signals", "g": "Advanced"}
+{"id": "JAH-CLG-000031", "t": "C System Calls Intro", "g": "Advanced"}
+{"id": "JAH-CLG-000032", "t": "C Volatile and Atomics", "g": "Advanced"}
+{"id": "JAH-CLG-000033", "t": "C Performance Optimization", "g": "Advanced"}
+{"id": "JAH-CLG-000034", "t": "C Standards: C89 to C23", "g": "Advanced"}

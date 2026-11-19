@@ -1,0 +1,34 @@
+{"id": "JAH-UTAD-000001", "t": "Universal Tool and API Directory Database: curl — Transfer Data with URLs", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000002", "t": "Universal Tool and API Directory Database: Python requests — HTTP for Humans", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000003", "t": "Universal Tool and API Directory Database: jq — Command-Line JSON Processor", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000004", "t": "Universal Tool and API Directory Database: pandas — Data Analysis in Python", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000005", "t": "Universal Tool and API Directory Database: SQLite — Serverless Relational Database", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000006", "t": "Universal Tool and API Directory Database: Git — Distributed Version Control", "c": 0, "g": "devops"}
+{"id": "JAH-UTAD-000007", "t": "Universal Tool and API Directory Database: Docker — Containerized Execution", "c": 0, "g": "devops"}
+{"id": "JAH-UTAD-000008", "t": "Universal Tool and API Directory Database: ffmpeg — Universal Media Converter", "c": 0, "g": "media"}
+{"id": "JAH-UTAD-000009", "t": "Universal Tool and API Directory Database: ImageMagick — Batch Image Processing", "c": 0, "g": "media"}
+{"id": "JAH-UTAD-000010", "t": "Universal Tool and API Directory Database: NumPy — Numerical Arrays in Python", "c": 0, "g": "math"}
+{"id": "JAH-UTAD-000011", "t": "Universal Tool and API Directory Database: SciPy — Scientific Computing Routines", "c": 0, "g": "math"}
+{"id": "JAH-UTAD-000012", "t": "Universal Tool and API Directory Database: Matplotlib — Plotting in Python", "c": 0, "g": "math"}
+{"id": "JAH-UTAD-000013", "t": "Universal Tool and API Directory Database: Node.js — JavaScript Beyond the Browser", "c": 0, "g": "system"}
+{"id": "JAH-UTAD-000014", "t": "Universal Tool and API Directory Database: cron — Scheduled Task Runner", "c": 0, "g": "system"}
+{"id": "JAH-UTAD-000015", "t": "Universal Tool and API Directory Database: rsync — Efficient File Synchronization", "c": 0, "g": "system"}
+{"id": "JAH-UTAD-000016", "t": "Universal Tool and API Directory Database: OpenSSL — Cryptography Toolkit", "c": 0, "g": "system"}
+{"id": "JAH-UTAD-000017", "t": "Universal Tool and API Directory Database: PostgreSQL — Production Relational Database", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000018", "t": "Universal Tool and API Directory Database: Redis — In-Memory Data Store", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000019", "t": "Universal Tool and API Directory Database: Nginx — Web Server and Reverse Proxy", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000020", "t": "Universal Tool and API Directory Database: GraphQL — Queryable APIs", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000021", "t": "Universal Tool and API Directory Database: WebSockets — Live Two-Way Channels", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000022", "t": "Universal Tool and API Directory Database: gRPC — Fast Service APIs", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000023", "t": "Universal Tool and API Directory Database: Apache Kafka — Event Streaming", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000024", "t": "Universal Tool and API Directory Database: Elasticsearch — Search and Analytics Engine", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000025", "t": "Universal Tool and API Directory Database: Terraform — Infrastructure as Code", "c": 0, "g": "devops"}
+{"id": "JAH-UTAD-000026", "t": "Universal Tool and API Directory Database: GitHub Actions — CI Pipelines", "c": 0, "g": "devops"}
+{"id": "JAH-UTAD-000027", "t": "Universal Tool and API Directory Database: Selenium and Playwright — Browser Automation", "c": 0, "g": "devops"}
+{"id": "JAH-UTAD-000028", "t": "Universal Tool and API Directory Database: FFmpeg-normalize — Loudness for Audio", "c": 0, "g": "media"}
+{"id": "JAH-UTAD-000029", "t": "Universal Tool and API Directory Database: Pandoc — Universal Document Converter", "c": 0, "g": "system"}
+{"id": "JAH-UTAD-000030", "t": "Universal Tool and API Directory Database: Tesseract Training — Custom OCR Models", "c": 0, "g": "media"}
+{"id": "JAH-UTAD-000031", "t": "Universal Tool and API Directory Database: yt-dlp — Media Download Utility", "c": 0, "g": "media"}
+{"id": "JAH-UTAD-000032", "t": "Universal Tool and API Directory Database: OpenAPI — API Contracts", "c": 0, "g": "web"}
+{"id": "JAH-UTAD-000033", "t": "Universal Tool and API Directory Database: JSON Schema — Data Contracts", "c": 0, "g": "data"}
+{"id": "JAH-UTAD-000034", "t": "Universal Tool and API Directory Database: Regex — Pattern Matching Language", "c": 0, "g": "system"}
