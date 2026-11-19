@@ -1,0 +1,59 @@
+{"id": "JAH-DS-000001", "t": "JSON Serializers", "g": "structure"}
+{"id": "JAH-DS-000002", "t": "BSON Encoders", "g": "structure"}
+{"id": "JAH-DS-000003", "t": "CBOR Encoders", "g": "structure"}
+{"id": "JAH-DS-000004", "t": "MessagePack Encoders", "g": "structure"}
+{"id": "JAH-DS-000005", "t": "Protocol Buffers", "g": "structure"}
+{"id": "JAH-DS-000006", "t": "FlatBuffers", "g": "structure"}
+{"id": "JAH-DS-000007", "t": "Cap'n Proto", "g": "structure"}
+{"id": "JAH-DS-000008", "t": "Avro Encoders", "g": "structure"}
+{"id": "JAH-DS-000009", "t": "Thrift Serializers", "g": "structure"}
+{"id": "JAH-DS-000010", "t": "XML Serializers", "g": "structure"}
+{"id": "JAH-DS-000011", "t": "YAML Serializers", "g": "structure"}
+{"id": "JAH-DS-000012", "t": "TOML Parsers", "g": "structure"}
+{"id": "JAH-DS-000013", "t": "INI Parsers", "g": "structure"}
+{"id": "JAH-DS-000014", "t": "CSV Parsers", "g": "structure"}
+{"id": "JAH-DS-000015", "t": "Parquet Writers", "g": "structure"}
+{"id": "JAH-DS-000016", "t": "ORC Writers", "g": "structure"}
+{"id": "JAH-DS-000017", "t": "Arrow Tables", "g": "structure"}
+{"id": "JAH-DS-000018", "t": "Feather Files", "g": "structure"}
+{"id": "JAH-DS-000019", "t": "HDF5 Files", "g": "structure"}
+{"id": "JAH-DS-000020", "t": "NetCDF Files", "g": "structure"}
+{"id": "JAH-DS-000021", "t": "Zarr Stores", "g": "structure"}
+{"id": "JAH-DS-000022", "t": "TileDB Arrays", "g": "structure"}
+{"id": "JAH-DS-000023", "t": "LMDB Stores", "g": "structure"}
+{"id": "JAH-DS-000024", "t": "RocksDB Stores", "g": "structure"}
+{"id": "JAH-DS-000025", "t": "LevelDB Stores", "g": "structure"}
+{"id": "JAH-DS-000026", "t": "B-Tree Implementations", "g": "structure"}
+{"id": "JAH-DS-000027", "t": "B+Tree Implementations", "g": "structure"}
+{"id": "JAH-DS-000028", "t": "LSM Trees", "g": "structure"}
+{"id": "JAH-DS-000029", "t": "Fractal Trees", "g": "structure"}
+{"id": "JAH-DS-000030", "t": "Trie Implementations", "g": "structure"}
+{"id": "JAH-DS-000031", "t": "Radix Trees", "g": "structure"}
+{"id": "JAH-DS-000032", "t": "Suffix Trees", "g": "structure"}
+{"id": "JAH-DS-000033", "t": "Suffix Arrays", "g": "structure"}
+{"id": "JAH-DS-000034", "t": "Bloom Filters", "g": "structure"}
+{"id": "JAH-DS-000035", "t": "Cuckoo Filters", "g": "structure"}
+{"id": "JAH-DS-000036", "t": "Count-Min Sketches", "g": "structure"}
+{"id": "JAH-DS-000037", "t": "HyperLogLog", "g": "structure"}
+{"id": "JAH-DS-000038", "t": "Quotient Filters", "g": "structure"}
+{"id": "JAH-DS-000039", "t": "Xor Filters", "g": "structure"}
+{"id": "JAH-DS-000040", "t": "Ring Buffers", "g": "structure"}
+{"id": "JAH-DS-000041", "t": "Lock-Free Queues", "g": "structure"}
+{"id": "JAH-DS-000042", "t": "Skip Lists", "g": "structure"}
+{"id": "JAH-DS-000043", "t": "Treaps", "g": "structure"}
+{"id": "JAH-DS-000044", "t": "Splay Trees", "g": "structure"}
+{"id": "JAH-DS-000045", "t": "Red-Black Trees", "g": "structure"}
+{"id": "JAH-DS-000046", "t": "AVL Trees", "g": "structure"}
+{"id": "JAH-DS-000047", "t": "Bw-Trees", "g": "structure"}
+{"id": "JAH-DS-000048", "t": "Hash Tables", "g": "structure"}
+{"id": "JAH-DS-000049", "t": "Cuckoo Hashing", "g": "structure"}
+{"id": "JAH-DS-000050", "t": "Hopscotch Hashing", "g": "structure"}
+{"id": "JAH-DS-000051", "t": "Swiss Tables", "g": "structure"}
+{"id": "JAH-DS-000052", "t": "Robin Hood Hashing", "g": "structure"}
+{"id": "JAH-DS-000053", "t": "Sparse Matrices", "g": "structure"}
+{"id": "JAH-DS-000054", "t": "Compressed Graphs", "g": "structure"}
+{"id": "JAH-DS-000055", "t": "Persistent Structures", "g": "structure"}
+{"id": "JAH-DS-000056", "t": "Write-Ahead Logs", "g": "structure"}
+{"id": "JAH-DS-000057", "t": "SSTables", "g": "structure"}
+{"id": "JAH-DS-000058", "t": "Memtables", "g": "structure"}
+{"id": "JAH-DS-000059", "t": "Journal Segments", "g": "structure"}

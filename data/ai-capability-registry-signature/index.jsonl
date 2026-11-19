@@ -1,0 +1,34 @@
+{"id": "JAH-ACAP-000001", "t": "Universal AI Capability Registry Signature Database: Keyword Search and Retrieval", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000002", "t": "Universal AI Capability Registry Signature Database: Speech Recognition (Audio to Text)", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000003", "t": "Universal AI Capability Registry Signature Database: Optical Character Recognition", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000004", "t": "Universal AI Capability Registry Signature Database: Image Classification", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000005", "t": "Universal AI Capability Registry Signature Database: Object Detection and Localization", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000006", "t": "Universal AI Capability Registry Signature Database: Face Detection (Not Identification)", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000007", "t": "Universal AI Capability Registry Signature Database: Image Segmentation", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000008", "t": "Universal AI Capability Registry Signature Database: Depth Estimation from a Single Image", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000009", "t": "Universal AI Capability Registry Signature Database: Text-to-Speech Synthesis", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000010", "t": "Universal AI Capability Registry Signature Database: Machine Translation", "c": 0, "g": "language"}
+{"id": "JAH-ACAP-000011", "t": "Universal AI Capability Registry Signature Database: Sentiment and Emotion Classification", "c": 0, "g": "language"}
+{"id": "JAH-ACAP-000012", "t": "Universal AI Capability Registry Signature Database: Named Entity Recognition", "c": 0, "g": "language"}
+{"id": "JAH-ACAP-000013", "t": "Universal AI Capability Registry Signature Database: Text Summarization", "c": 0, "g": "language"}
+{"id": "JAH-ACAP-000014", "t": "Universal AI Capability Registry Signature Database: Question Answering over Text", "c": 0, "g": "language"}
+{"id": "JAH-ACAP-000015", "t": "Universal AI Capability Registry Signature Database: Large Language Models (General Chat)", "c": 0, "g": "language"}
+{"id": "JAH-ACAP-000016", "t": "Universal AI Capability Registry Signature Database: Code Generation from Natural Language", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000017", "t": "Universal AI Capability Registry Signature Database: Vision-Language Understanding", "c": 0, "g": "perception"}
+{"id": "JAH-ACAP-000018", "t": "Universal AI Capability Registry Signature Database: Text-to-Image Generation", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000019", "t": "Universal AI Capability Registry Signature Database: Image-to-Image Editing", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000020", "t": "Universal AI Capability Registry Signature Database: Video Generation and Understanding", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000021", "t": "Universal AI Capability Registry Signature Database: Music and Audio Generation", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000022", "t": "Universal AI Capability Registry Signature Database: Tabular Data Prediction", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACAP-000023", "t": "Universal AI Capability Registry Signature Database: Time Series Forecasting", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACAP-000024", "t": "Universal AI Capability Registry Signature Database: Anomaly Detection", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACAP-000025", "t": "Universal AI Capability Registry Signature Database: Recommendation Systems", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACAP-000026", "t": "Universal AI Capability Registry Signature Database: Reinforcement Learning Control", "c": 0, "g": "control"}
+{"id": "JAH-ACAP-000027", "t": "Universal AI Capability Registry Signature Database: Robot Motion Planning", "c": 0, "g": "control"}
+{"id": "JAH-ACAP-000028", "t": "Universal AI Capability Registry Signature Database: Knowledge Graph Reasoning", "c": 0, "g": "reasoning"}
+{"id": "JAH-ACAP-000029", "t": "Universal AI Capability Registry Signature Database: Program Synthesis from Examples", "c": 0, "g": "generation"}
+{"id": "JAH-ACAP-000030", "t": "Universal AI Capability Registry Signature Database: Federated Learning Coordination", "c": 0, "g": "control"}
+{"id": "JAH-ACAP-000031", "t": "Universal AI Capability Registry Signature Database: Long-Term Memory for Agents", "c": 0, "g": "memory"}
+{"id": "JAH-ACAP-000032", "t": "Universal AI Capability Registry Signature Database: Tool Use and Function Calling", "c": 0, "g": "control"}
+{"id": "JAH-ACAP-000033", "t": "Universal AI Capability Registry Signature Database: Multi-Agent Orchestration", "c": 0, "g": "control"}
+{"id": "JAH-ACAP-000034", "t": "Universal AI Capability Registry Signature Database: Evaluation and Benchmarking of Models", "c": 0, "g": "reasoning"}

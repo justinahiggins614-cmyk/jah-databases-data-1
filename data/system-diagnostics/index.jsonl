@@ -1,0 +1,37 @@
+{"id": "JAH-SDG-000001", "t": "Hardware Inventory Scanner", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000002", "t": "System Information Dashboard", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000003", "t": "CPU Monitor", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000004", "t": "Memory Monitor", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000005", "t": "Storage Health Dashboard", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000006", "t": "Disk Space Analyzer", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000007", "t": "Process Explorer", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000008", "t": "Startup Program Manager", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000009", "t": "Service Manager", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000010", "t": "Driver Inventory and Diagnostics Tool", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000011", "t": "Device Manager Assistant", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000012", "t": "Event Log Analyzer", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000013", "t": "Crash Dump Analyzer", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000014", "t": "Blue-Screen Diagnostic Assistant", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000015", "t": "Battery and Power Analyzer", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000016", "t": "Temperature Monitoring Dashboard", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000017", "t": "Fan and Cooling Monitor", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000018", "t": "Performance Benchmark Suite", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000019", "t": "System Configuration Auditor", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000020", "t": "Automated Troubleshooting Engine", "g": "system-diagnostics"}
+{"id": "JAH-SDG-000021", "t": "Arbitrary Waveform Generator", "g": "Toolset"}
+{"id": "JAH-SDG-000022", "t": "OCCT System Stress Test", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000023", "t": "Netdata Real-Time Agent", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000024", "t": "btop++ System Monitor", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000025", "t": "Masscan Probe", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000026", "t": "iPerf3 Bandwidth Meter", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000027", "t": "MTR Network Diagnostic", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000028", "t": "Dig DNS Lookup", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000029", "t": "Whois Lookup Client", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000030", "t": "Hyperfine Benchmarker", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000031", "t": "UnifiedPush Proxy", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000032", "t": "NTFY Notification Engine", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000033", "t": "Gotify Notification Server", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000034", "t": "Apprise Notification Library", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000035", "t": "Bark iOS Notifier", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000036", "t": "Uptime Kuma Monitor", "g": "Bizarre Software"}
+{"id": "JAH-SDG-000037", "t": "VictoriaMetrics Engine", "g": "Bizarre Software"}

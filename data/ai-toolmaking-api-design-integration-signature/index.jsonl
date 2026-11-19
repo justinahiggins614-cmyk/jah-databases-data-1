@@ -1,0 +1,34 @@
+{"id": "JAH-TMAI-000001", "t": "AI API Design and Integration Signature Database: REST Resource Modeling", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000002", "t": "AI API Design and Integration Signature Database: Idempotent API Design", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000003", "t": "AI API Design and Integration Signature Database: Filtering, Sorting, Searching", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000004", "t": "AI API Design and Integration Signature Database: HATEOAS: Hypermedia APIs", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000005", "t": "AI API Design and Integration Signature Database: GraphQL Schema Design", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000006", "t": "AI API Design and Integration Signature Database: GraphQL N+1 and DataLoader", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000007", "t": "AI API Design and Integration Signature Database: GraphQL vs REST: Choosing", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000008", "t": "AI API Design and Integration Signature Database: Subscriptions: GraphQL Realtime", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000009", "t": "AI API Design and Integration Signature Database: Receiving Webhooks Securely", "c": 0, "g": "webhooks"}
+{"id": "JAH-TMAI-000010", "t": "AI API Design and Integration Signature Database: Sending Webhooks Reliably", "c": 0, "g": "webhooks"}
+{"id": "JAH-TMAI-000011", "t": "AI API Design and Integration Signature Database: Webhook Versioning and Evolution", "c": 0, "g": "webhooks"}
+{"id": "JAH-TMAI-000012", "t": "AI API Design and Integration Signature Database: Building SDK Clients", "c": 0, "g": "sdk-clients"}
+{"id": "JAH-TMAI-000013", "t": "AI API Design and Integration Signature Database: SDK Error Handling", "c": 0, "g": "sdk-clients"}
+{"id": "JAH-TMAI-000014", "t": "AI API Design and Integration Signature Database: API Versioning in Practice", "c": 0, "g": "api-versioning"}
+{"id": "JAH-TMAI-000015", "t": "AI API Design and Integration Signature Database: Deprecation Without Drama", "c": 0, "g": "api-versioning"}
+{"id": "JAH-TMAI-000016", "t": "AI API Design and Integration Signature Database: API Gateways and Aggregation", "c": 0, "g": "api-versioning"}
+{"id": "JAH-TMAI-000017", "t": "AI API Design and Integration Signature Database: REST Resource Modeling (variant 1)", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000018", "t": "AI API Design and Integration Signature Database: Idempotent API Design (variant 1)", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000019", "t": "AI API Design and Integration Signature Database: Filtering, Sorting, Searching (variant 1)", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000020", "t": "AI API Design and Integration Signature Database: HATEOAS: Hypermedia APIs (variant 1)", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000021", "t": "AI API Design and Integration Signature Database: GraphQL Schema Design (variant 1)", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000022", "t": "AI API Design and Integration Signature Database: GraphQL N+1 and DataLoader (variant 1)", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000023", "t": "AI API Design and Integration Signature Database: GraphQL vs REST: Choosing (variant 1)", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000024", "t": "AI API Design and Integration Signature Database: Subscriptions: GraphQL Realtime (variant 1)", "c": 0, "g": "graphql"}
+{"id": "JAH-TMAI-000025", "t": "AI API Design and Integration Signature Database: Receiving Webhooks Securely (variant 1)", "c": 0, "g": "webhooks"}
+{"id": "JAH-TMAI-000026", "t": "AI API Design and Integration Signature Database: Sending Webhooks Reliably (variant 1)", "c": 0, "g": "webhooks"}
+{"id": "JAH-TMAI-000027", "t": "AI API Design and Integration Signature Database: Webhook Versioning and Evolution (variant 1)", "c": 0, "g": "webhooks"}
+{"id": "JAH-TMAI-000028", "t": "AI API Design and Integration Signature Database: Building SDK Clients (variant 1)", "c": 0, "g": "sdk-clients"}
+{"id": "JAH-TMAI-000029", "t": "AI API Design and Integration Signature Database: SDK Error Handling (variant 1)", "c": 0, "g": "sdk-clients"}
+{"id": "JAH-TMAI-000030", "t": "AI API Design and Integration Signature Database: API Versioning in Practice (variant 1)", "c": 0, "g": "api-versioning"}
+{"id": "JAH-TMAI-000031", "t": "AI API Design and Integration Signature Database: Deprecation Without Drama (variant 1)", "c": 0, "g": "api-versioning"}
+{"id": "JAH-TMAI-000032", "t": "AI API Design and Integration Signature Database: API Gateways and Aggregation (variant 1)", "c": 0, "g": "api-versioning"}
+{"id": "JAH-TMAI-000033", "t": "AI API Design and Integration Signature Database: REST Resource Modeling (variant 2)", "c": 0, "g": "rest-design"}
+{"id": "JAH-TMAI-000034", "t": "AI API Design and Integration Signature Database: Idempotent API Design (variant 2)", "c": 0, "g": "rest-design"}

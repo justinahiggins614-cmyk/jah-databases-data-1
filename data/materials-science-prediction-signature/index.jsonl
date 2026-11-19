@@ -1,0 +1,34 @@
+{"id": "JAH-MSPS-000001", "t": "Materials Science and Property Prediction Signature Database: Density", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000002", "t": "Materials Science and Property Prediction Signature Database: Hooke Law (Uniaxial)", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000003", "t": "Materials Science and Property Prediction Signature Database: Thermal Expansion", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000004", "t": "Materials Science and Property Prediction Signature Database: Sensible Heat", "c": 0, "g": "thermal"}
+{"id": "JAH-MSPS-000005", "t": "Materials Science and Property Prediction Signature Database: Fourier Conduction", "c": 0, "g": "thermal"}
+{"id": "JAH-MSPS-000006", "t": "Materials Science and Property Prediction Signature Database: Electrical Resistance From Resistivity", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000007", "t": "Materials Science and Property Prediction Signature Database: Diffusion Depth", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000008", "t": "Materials Science and Property Prediction Signature Database: Arrhenius Rate", "c": 0, "g": "ceramics"}
+{"id": "JAH-MSPS-000009", "t": "Materials Science and Property Prediction Signature Database: Hall-Petch Strengthening", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000010", "t": "Materials Science and Property Prediction Signature Database: Rule of Mixtures (Modulus)", "c": 0, "g": "composites"}
+{"id": "JAH-MSPS-000011", "t": "Materials Science and Property Prediction Signature Database: Inverse Rule of Mixtures", "c": 0, "g": "composites"}
+{"id": "JAH-MSPS-000012", "t": "Materials Science and Property Prediction Signature Database: Weight Fraction From Volume", "c": 0, "g": "composites"}
+{"id": "JAH-MSPS-000013", "t": "Materials Science and Property Prediction Signature Database: Corrosion Rate", "c": 0, "g": "degradation"}
+{"id": "JAH-MSPS-000014", "t": "Materials Science and Property Prediction Signature Database: Creep Rate (Norton)", "c": 0, "g": "degradation"}
+{"id": "JAH-MSPS-000015", "t": "Materials Science and Property Prediction Signature Database: Larson-Miller Parameter", "c": 0, "g": "degradation"}
+{"id": "JAH-MSPS-000016", "t": "Materials Science and Property Prediction Signature Database: Fracture Toughness Stress Intensity", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000017", "t": "Materials Science and Property Prediction Signature Database: Critical Crack Size", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000018", "t": "Materials Science and Property Prediction Signature Database: Paris Crack Growth", "c": 0, "g": "degradation"}
+{"id": "JAH-MSPS-000019", "t": "Materials Science and Property Prediction Signature Database: Hardness-Tensile Approximation", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000020", "t": "Materials Science and Property Prediction Signature Database: Specific Strength", "c": 0, "g": "selection"}
+{"id": "JAH-MSPS-000021", "t": "Materials Science and Property Prediction Signature Database: Specific Stiffness", "c": 0, "g": "selection"}
+{"id": "JAH-MSPS-000022", "t": "Materials Science and Property Prediction Signature Database: Poisson Ratio From Strains", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000023", "t": "Materials Science and Property Prediction Signature Database: Bulk Modulus", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000024", "t": "Materials Science and Property Prediction Signature Database: Shear Modulus", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000025", "t": "Materials Science and Property Prediction Signature Database: Bragg Law (d-Spacing)", "c": 0, "g": "ceramics"}
+{"id": "JAH-MSPS-000026", "t": "Materials Science and Property Prediction Signature Database: ASTM Grain Size Number", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000027", "t": "Materials Science and Property Prediction Signature Database: Lever Rule (Phase Fraction)", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000028", "t": "Materials Science and Property Prediction Signature Database: Carbon Equivalent (Weldability)", "c": 0, "g": "selection"}
+{"id": "JAH-MSPS-000029", "t": "Materials Science and Property Prediction Signature Database: Electrical Conductivity", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000030", "t": "Materials Science and Property Prediction Signature Database: Magnetic Flux Density", "c": 0, "g": "metals"}
+{"id": "JAH-MSPS-000031", "t": "Materials Science and Property Prediction Signature Database: Parallel-Plate Capacitance", "c": 0, "g": "ceramics"}
+{"id": "JAH-MSPS-000032", "t": "Materials Science and Property Prediction Signature Database: Thermal Stress (Constrained)", "c": 0, "g": "thermal"}
+{"id": "JAH-MSPS-000033", "t": "Materials Science and Property Prediction Signature Database: Biot Number", "c": 0, "g": "thermal"}
+{"id": "JAH-MSPS-000034", "t": "Materials Science and Property Prediction Signature Database: Fourier Number", "c": 0, "g": "thermal"}

@@ -1,0 +1,48 @@
+{"id": "JAH-HFT-000001", "t": "Microcontrollers (MCUs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000002", "t": "Single-Board Computers (SBCs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000003", "t": "System-on-Chips (SoCs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000004", "t": "System-on-Modules (SoMs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000005", "t": "Field-Programmable Gate Arrays (FPGAs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000006", "t": "Complex Programmable Logic Devices (CPLDs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000007", "t": "Application-Specific Integrated Circuits (ASICs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000008", "t": "Processors", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000009", "t": "Central Processing Units (CPUs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000010", "t": "Graphics Processing Units (GPUs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000011", "t": "Tensor Processing Units (TPUs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000012", "t": "Neural Processing Units (NPUs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000013", "t": "Vision Processing Units (VPUs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000014", "t": "Digital Signal Processors (DSPs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000015", "t": "Logic Analyzers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000016", "t": "Oscilloscopes", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000017", "t": "Digital Storage Oscilloscopes (DSOs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000018", "t": "Signal Generators", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000019", "t": "Function Generators", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000020", "t": "Arbitrary Waveform Generators", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000021", "t": "Multimeters", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000022", "t": "Benchtop Power Supplies", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000023", "t": "CNC Mills", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000024", "t": "CNC Routers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000025", "t": "CNC Lathes", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000026", "t": "3D Printers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000027", "t": "Fused Deposition Modeling (FDM) Printers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000028", "t": "Stereolithography (SLA) Printers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000029", "t": "Selective Laser Sintering (SLS) Printers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000030", "t": "Laser Cutters", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000031", "t": "Laser Engravers", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000032", "t": "Pick-and-Place Machines", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000033", "t": "Reflow Ovens", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000034", "t": "Desoldering Stations", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000035", "t": "Hot Air Rework Stations", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000036", "t": "Breadboards", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000037", "t": "Solderless Breadboards", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000038", "t": "Stripboards / Perfboards", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000039", "t": "Printed Circuit Boards (PCBs)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000040", "t": "Single-Layer PCBs", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000041", "t": "Multi-Layer PCBs", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000042", "t": "Flexible PCBs (Flex Circuits)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000043", "t": "Rigid-Flex PCBs", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000044", "t": "Evaluation Kits", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000045", "t": "Development Boards", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000046", "t": "Breakout Boards", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000047", "t": "Expansion Shields / Hats", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}
+{"id": "JAH-HFT-000048", "t": "Programmer Units (ISP / JTAG / SWD)", "g": "HARDWARE, FABRICATION & PHYSICAL SYSTEM TYPES"}

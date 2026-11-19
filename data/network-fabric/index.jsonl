@@ -1,0 +1,58 @@
+{"id": "JAH-FAB-000001", "t": "CI/CD Pipelines", "g": "fabric"}
+{"id": "JAH-FAB-000002", "t": "Data Pipelines", "g": "fabric"}
+{"id": "JAH-FAB-000003", "t": "Graphics Pipelines", "g": "fabric"}
+{"id": "JAH-FAB-000004", "t": "Audio Pipelines", "g": "fabric"}
+{"id": "JAH-FAB-000005", "t": "Video Pipelines", "g": "fabric"}
+{"id": "JAH-FAB-000006", "t": "Stream Processors", "g": "fabric"}
+{"id": "JAH-FAB-000007", "t": "Event Streams", "g": "fabric"}
+{"id": "JAH-FAB-000008", "t": "Message Channels", "g": "fabric"}
+{"id": "JAH-FAB-000009", "t": "Data Channels", "g": "fabric"}
+{"id": "JAH-FAB-000010", "t": "Network Links", "g": "fabric"}
+{"id": "JAH-FAB-000011", "t": "Uplinks", "g": "fabric"}
+{"id": "JAH-FAB-000012", "t": "Downlinks", "g": "fabric"}
+{"id": "JAH-FAB-000013", "t": "Backbones", "g": "fabric"}
+{"id": "JAH-FAB-000014", "t": "Network Meshes", "g": "fabric"}
+{"id": "JAH-FAB-000015", "t": "Service Meshes", "g": "fabric"}
+{"id": "JAH-FAB-000016", "t": "Data Meshes", "g": "fabric"}
+{"id": "JAH-FAB-000017", "t": "Compute Meshes", "g": "fabric"}
+{"id": "JAH-FAB-000018", "t": "Sensor Meshes", "g": "fabric"}
+{"id": "JAH-FAB-000019", "t": "Cluster Nodes", "g": "fabric"}
+{"id": "JAH-FAB-000020", "t": "Edge Nodes", "g": "fabric"}
+{"id": "JAH-FAB-000021", "t": "Storage Nodes", "g": "fabric"}
+{"id": "JAH-FAB-000022", "t": "Endpoints", "g": "fabric"}
+{"id": "JAH-FAB-000023", "t": "API Endpoints", "g": "fabric"}
+{"id": "JAH-FAB-000024", "t": "Swarms", "g": "fabric"}
+{"id": "JAH-FAB-000025", "t": "Fleets", "g": "fabric"}
+{"id": "JAH-FAB-000026", "t": "Botnets", "g": "fabric"}
+{"id": "JAH-FAB-000027", "t": "Overlays", "g": "fabric"}
+{"id": "JAH-FAB-000028", "t": "Underlays", "g": "fabric"}
+{"id": "JAH-FAB-000029", "t": "Fabrics", "g": "fabric"}
+{"id": "JAH-FAB-000030", "t": "InfiniBand Fabrics", "g": "fabric"}
+{"id": "JAH-FAB-000031", "t": "Fibre Channel Fabrics", "g": "fabric"}
+{"id": "JAH-FAB-000032", "t": "Buses", "g": "fabric"}
+{"id": "JAH-FAB-000033", "t": "System Buses", "g": "fabric"}
+{"id": "JAH-FAB-000034", "t": "Message Buses", "g": "fabric"}
+{"id": "JAH-FAB-000035", "t": "Enterprise Service Buses", "g": "fabric"}
+{"id": "JAH-FAB-000036", "t": "Event Buses", "g": "fabric"}
+{"id": "JAH-FAB-000037", "t": "Queues", "g": "fabric"}
+{"id": "JAH-FAB-000038", "t": "Priority Queues", "g": "fabric"}
+{"id": "JAH-FAB-000039", "t": "Dead-Letter Queues", "g": "fabric"}
+{"id": "JAH-FAB-000040", "t": "Brokers", "g": "fabric"}
+{"id": "JAH-FAB-000041", "t": "Exchanges", "g": "fabric"}
+{"id": "JAH-FAB-000042", "t": "Topics", "g": "fabric"}
+{"id": "JAH-FAB-000043", "t": "Partitions", "g": "fabric"}
+{"id": "JAH-FAB-000044", "t": "Consumer Groups", "g": "fabric"}
+{"id": "JAH-FAB-000045", "t": "Streams", "g": "fabric"}
+{"id": "JAH-FAB-000046", "t": "Stream Joins", "g": "fabric"}
+{"id": "JAH-FAB-000047", "t": "Changefeeds", "g": "fabric"}
+{"id": "JAH-FAB-000048", "t": "Replication Streams", "g": "fabric"}
+{"id": "JAH-FAB-000049", "t": "Gossip Protocols", "g": "fabric"}
+{"id": "JAH-FAB-000050", "t": "Consensus Fabrics", "g": "fabric"}
+{"id": "JAH-FAB-000051", "t": "Rings", "g": "fabric"}
+{"id": "JAH-FAB-000052", "t": "Chord Rings", "g": "fabric"}
+{"id": "JAH-FAB-000053", "t": "Kademlia Networks", "g": "fabric"}
+{"id": "JAH-FAB-000054", "t": "Gnutella Meshes", "g": "fabric"}
+{"id": "JAH-FAB-000055", "t": "BitTorrent Swarms", "g": "fabric"}
+{"id": "JAH-FAB-000056", "t": "Content Fabrics", "g": "fabric"}
+{"id": "JAH-FAB-000057", "t": "Delivery Networks", "g": "fabric"}
+{"id": "JAH-FAB-000058", "t": "Anycast Fabrics", "g": "fabric"}

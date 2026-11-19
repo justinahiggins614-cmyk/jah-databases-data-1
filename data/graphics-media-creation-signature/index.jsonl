@@ -1,0 +1,86 @@
+{"id": "JAH-GMCG-000001", "t": "Image Restoration Workbench (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000002", "t": "Computer Vision Inspection System (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000003", "t": "Video Analytics Engine (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000004", "t": "3D Modeling Studio (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000005", "t": "Photogrammetry Reconstruction Engine (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000006", "t": "3D Point-Cloud Analyzer (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000007", "t": "CAD Design Workbench (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000008", "t": "CAM Toolpath Generator (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000009", "t": "Finite Element Model Visualizer (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000010", "t": "Real-Time Rendering Engine (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000011", "t": "Ray-Tracing Renderer (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000012", "t": "Video Editing and Compositing Studio (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000013", "t": "Audio Production Workstation (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000014", "t": "Speech Enhancement Engine (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000015", "t": "3D Animation Pipeline (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000016", "t": "Procedural World Generator (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000017", "t": "Digital Asset Catalog (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000018", "t": "Digital Twin Visualization Studio (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000019", "t": "Simulation Visualization Engine (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000020", "t": "AI-Assisted Content Production Pipeline (Signature Edition)", "g": "graphics-media-creation"}
+{"id": "JAH-GMCG-000021", "t": "Wi-Fi Camera Streaming Node (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-GMCG-000022", "t": "Wi-Fi Audio Streaming Receiver (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-GMCG-000023", "t": "Framebuffer Initialization Drivers (Signature Edition)", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Boot & Kernel Initialization"}
+{"id": "JAH-GMCG-000024", "t": "Vertex Shaders (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000025", "t": "Fragment / Pixel Shaders (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000026", "t": "Compute Shaders (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000027", "t": "Geometry Shaders (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000028", "t": "Tessellation Shaders (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000029", "t": "Ray Tracing Acceleration Structures (BVH - Bounding Volume Hierarchy) (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000030", "t": "Framebuffers (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000031", "t": "Sprite Sheets (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000032", "t": "Voxel Engines (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000033", "t": "Software Renderers (Rasterizers) (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMCG-000034", "t": "Digital Audio Workstations (DAWs) (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Audio, DSP & Signal Processing"}
+{"id": "JAH-GMCG-000035", "t": "Software Synthesizers (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Audio, DSP & Signal Processing"}
+{"id": "JAH-GMCG-000036", "t": "Vocoders (Signature Edition)", "g": "Media, Synthesis & Graphics Processing / Audio, DSP & Signal Processing"}
+{"id": "JAH-GMCG-000037", "t": "Game Engines (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-GMCG-000038", "t": "Parametric CAD Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000039", "t": "Neural Vocoder Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000040", "t": "Mesh Decimation Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000041", "t": "Count-Min Sketch Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000042", "t": "Ray Tracing BVH Builder (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000043", "t": "Framebuffer Blitter (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000044", "t": "Vocoder Pitch Detector (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000045", "t": "Parametric Lofting Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000046", "t": "Albedo Texture Sampler (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000047", "t": "Morphe (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000048", "t": "Navidrome (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000049", "t": "Feishin (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000050", "t": "LosslessCut (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000051", "t": "MakeMKV (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000052", "t": "K-Lite Codec Pack (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000053", "t": "Eagle Media Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000054", "t": "GIMP Image Editor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000055", "t": "Shotcut Video Editor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000056", "t": "UPDF Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000057", "t": "Digital Twin Scanner System (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000058", "t": "DNA Storage Synthesizer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000059", "t": "GOP Framebuffer Painter (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000060", "t": "tmux Terminal Multiplexer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000061", "t": "Just Command Runner (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000062", "t": "Hyprland Compositor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000063", "t": "ActivityPub Protocol Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000064", "t": "Whisper.cpp Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000065", "t": "Suno Bark Vocoder (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000066", "t": "FFmpeg Multimedia Framework (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000067", "t": "GStreamer Pipeline Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000068", "t": "ImageMagick Suite (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000069", "t": "GraphicsMagick Tools (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000070", "t": "RawTherapee Converter (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000071", "t": "Darktable Digital Darkroom (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000072", "t": "DigiKam Photo Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000073", "t": "Inkscape Vector Editor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000074", "t": "Blender 3D Suite (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000075", "t": "LuxCoreRender Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000076", "t": "Appleseed Renderer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000077", "t": "PrusaSlicer Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000078", "t": "PlayCanvas Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000079", "t": "Phaser Game Framework (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000080", "t": "Godot Engine Runtime (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000081", "t": "Raylib C Framework (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000082", "t": "GLFW Windowing Toolkit (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000083", "t": "Mesa 3D Driver Suite (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000084", "t": "Asahi Linux GPU Driver (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000085", "t": "Zink OpenGL-on-Vulkan (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-GMCG-000086", "t": "PPSSPP Emulator (Signature Edition)", "g": "Bizarre Software"}

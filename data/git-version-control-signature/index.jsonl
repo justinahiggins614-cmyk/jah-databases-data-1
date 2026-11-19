@@ -1,0 +1,68 @@
+{"id": "JAH-VCSS-000001", "t": "What Is Version Control — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000002", "t": "Installing Git and First Configuration — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000003", "t": "Git init and Your First Commit — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000004", "t": "Git Three Areas: Working Staging Repository — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000005", "t": "Git status and log — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000006", "t": "Git add in Depth — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000007", "t": "Git commit Messages That Help — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000008", "t": "Git diff: Reading Changes — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000009", "t": "Git gitignore — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000010", "t": "Git clone — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000011", "t": "Git Checking Out Commits — Signature Edition", "g": "Foundations"}
+{"id": "JAH-VCSS-000012", "t": "Git Branching — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000013", "t": "Git Merging — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000014", "t": "Git Merge Conflicts — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000015", "t": "Git stash — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000016", "t": "Git reset Versus revert — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000017", "t": "Git Remotes push and pull — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000018", "t": "Git fetch Versus pull — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000019", "t": "Git Pull Requests — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000020", "t": "Git Tags — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000021", "t": "Git blame — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000022", "t": "Git Aliases and Config — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000023", "t": "Git Undoing Mistakes Safely — Signature Edition", "g": "Compounded"}
+{"id": "JAH-VCSS-000024", "t": "Git Rebasing — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000025", "t": "Git Interactive Rebase — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000026", "t": "Git Cherry Pick — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000027", "t": "Git Submodules — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000028", "t": "Git Hooks — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000029", "t": "Git bisect Debugging — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000030", "t": "Git reflog: The Safety Net — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000031", "t": "Git Worktrees — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000032", "t": "GitHub Actions Intro — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000033", "t": "Git Signing Commits — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000034", "t": "Git Monorepos Versus Polyrepos — Signature Edition", "g": "Advanced"}
+{"id": "JAH-VCSS-000035", "t": "AI-Generated Commit Messages", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000036", "t": "AI Blame Interpretation", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000037", "t": "AI Remotes Troubleshooting", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000038", "t": "AI GPG Troubleshooting", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000039", "t": "AI Reviews Your Commit Before Push", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000040", "t": "AI Bisect Automation", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000041", "t": "AI Interactive Rebase Planning", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000042", "t": "Git Aliases and Config", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000043", "t": "Git reflog: The Safety Net", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000044", "t": "Git Submodules", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000045", "t": "AI Generates Useful Aliases", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000046", "t": "AI Generates Useful Aliases", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000047", "t": "Git Merge Conflicts", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000048", "t": "AI Interactive Rebase Planning", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000049", "t": "AI Rebase Assistance", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000050", "t": "Git Merge Conflicts", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000051", "t": "Installing Git and First Configuration", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000052", "t": "What Is Version Control", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000053", "t": "AI Explains Detached HEAD", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000054", "t": "AI Summarizes a Diff", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000055", "t": "AI Submodule Explanations", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000056", "t": "Git Checking Out Commits", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000057", "t": "Git Hooks", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000058", "t": "AI Stash Management Tips", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000059", "t": "AI Stash Management Tips", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000060", "t": "Git status and log", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000061", "t": "AI Pull Request Descriptions", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCSS-000062", "t": "Git Hooks", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000063", "t": "Installing Git and First Configuration", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000064", "t": "Git Signing Commits", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000065", "t": "Git gitignore", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000066", "t": "What Is Version Control", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCSS-000067", "t": "Git Signing Commits", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCSS-000068", "t": "Git fetch Versus pull", "c": 1, "g": "Compounded"}

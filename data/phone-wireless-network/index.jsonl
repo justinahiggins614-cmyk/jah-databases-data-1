@@ -1,0 +1,40 @@
+{"id": "JAH-PWN-000001", "t": "Wi-Fi Coverage Heatmap Generator", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000002", "t": "Wireless Roaming Analyzer", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000003", "t": "Bluetooth Beacon Surveyor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000004", "t": "Network Quality Time-Series Recorder", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000005", "t": "Network Service Availability Monitor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000006", "t": "Local Network Topology Mapper", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000007", "t": "TLS Certificate Inspector", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000008", "t": "Website Security Configuration Auditor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000009", "t": "DNS Change Monitor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000010", "t": "Network Configuration Backup Tool", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000011", "t": "Firewall Rule Review Assistant", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000012", "t": "Wi-Fi Security Audit Assistant", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000013", "t": "Bluetooth Privacy Auditor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000014", "t": "Local API Discovery Catalog", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000015", "t": "Packet Capture Timeline Analyzer", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000016", "t": "Network Traffic Baseline Builder", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000017", "t": "Connectivity Failover Tester", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000018", "t": "VPN Health Monitor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000019", "t": "Secure File Transfer Controller", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000020", "t": "Network Asset Change Detector", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000021", "t": "Mapping Home Dead Zones With a Wi-Fi Heatmap", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000022", "t": "Router Placement: Central, Elevated, and Open", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000023", "t": "Choosing Between 2.4 GHz, 5 GHz, and 6 GHz", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000024", "t": "Mesh Systems vs Single Router vs Extenders", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000025", "t": "Channel Selection and Interference", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000026", "t": "Wired Backhaul for Mesh Nodes", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000027", "t": "Powerline and MoCA Adapters", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000028", "t": "Outdoor Coverage: Patios, Yards, and Garages", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000029", "t": "Multi-Story Homes: A Node Per Floor", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000030", "t": "Thick Walls: Plaster, Brick, and Concrete", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000031", "t": "Guest Network Setup", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000032", "t": "IoT Device Segregation", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000033", "t": "Speed Testing the Right Way", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000034", "t": "ISP Plan Speed vs Real Throughput", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000035", "t": "Firmware Updates for Routers and Nodes", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000036", "t": "Antenna Orientation", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000037", "t": "Neighbor Wi-Fi Interference in Apartments", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000038", "t": "Garage and Basement Dead Zones", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000039", "t": "Wi-Fi Calling Reliability", "g": "phone-wireless-network"}
+{"id": "JAH-PWN-000040", "t": "Future-Proofing: Wi-Fi 6, 6E, and 7", "g": "phone-wireless-network"}

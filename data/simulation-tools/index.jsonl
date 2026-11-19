@@ -1,0 +1,85 @@
+{"id": "JAH-SIM-000001", "t": "Hardware Emulators", "g": "simulation"}
+{"id": "JAH-SIM-000002", "t": "CPU Emulators", "g": "simulation"}
+{"id": "JAH-SIM-000003", "t": "Terminal Emulators", "g": "simulation"}
+{"id": "JAH-SIM-000004", "t": "Flight Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000005", "t": "Circuit Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000006", "t": "Physics Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000007", "t": "Network Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000008", "t": "Isolation Sandboxes", "g": "simulation"}
+{"id": "JAH-SIM-000009", "t": "Type-1 Hypervisors", "g": "simulation"}
+{"id": "JAH-SIM-000010", "t": "Type-2 Hypervisors", "g": "simulation"}
+{"id": "JAH-SIM-000011", "t": "Virtual Machines", "g": "simulation"}
+{"id": "JAH-SIM-000012", "t": "Container Runtimes", "g": "simulation"}
+{"id": "JAH-SIM-000013", "t": "Testbeds", "g": "simulation"}
+{"id": "JAH-SIM-000014", "t": "Prototyping Engines", "g": "simulation"}
+{"id": "JAH-SIM-000015", "t": "Physics Engines", "g": "simulation"}
+{"id": "JAH-SIM-000016", "t": "Rendering Engines", "g": "simulation"}
+{"id": "JAH-SIM-000017", "t": "2D Engines", "g": "simulation"}
+{"id": "JAH-SIM-000018", "t": "3D Engines", "g": "simulation"}
+{"id": "JAH-SIM-000019", "t": "Audio Engines", "g": "simulation"}
+{"id": "JAH-SIM-000020", "t": "Inference Engines", "g": "simulation"}
+{"id": "JAH-SIM-000021", "t": "Neural Network Engines", "g": "simulation"}
+{"id": "JAH-SIM-000022", "t": "Execution Engines", "g": "simulation"}
+{"id": "JAH-SIM-000023", "t": "Rule Engines", "g": "simulation"}
+{"id": "JAH-SIM-000024", "t": "Workflow Engines", "g": "simulation"}
+{"id": "JAH-SIM-000025", "t": "Policy Engines", "g": "simulation"}
+{"id": "JAH-SIM-000026", "t": "Mock Service Frameworks", "g": "simulation"}
+{"id": "JAH-SIM-000027", "t": "Device Farms", "g": "simulation"}
+{"id": "JAH-SIM-000028", "t": "Render Farms", "g": "simulation"}
+{"id": "JAH-SIM-000029", "t": "Build Farms", "g": "simulation"}
+{"id": "JAH-SIM-000030", "t": "Haptic Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000031", "t": "VR Toolkits", "g": "simulation"}
+{"id": "JAH-SIM-000032", "t": "Digital Twins", "g": "simulation"}
+{"id": "JAH-SIM-000033", "t": "Chaos Engines", "g": "simulation"}
+{"id": "JAH-SIM-000034", "t": "Load Balancer Sims", "g": "simulation"}
+{"id": "JAH-SIM-000035", "t": "Cache Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000036", "t": "CPU Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000037", "t": "Network Emulators", "g": "simulation"}
+{"id": "JAH-SIM-000038", "t": "API Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000039", "t": "Data Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000040", "t": "Environment Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000041", "t": "Economic Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000042", "t": "Climate Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000043", "t": "Traffic Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000044", "t": "Crowd Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000045", "t": "Epidemic Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000046", "t": "Quantum Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000047", "t": "Molecular Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000048", "t": "Structural Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000049", "t": "Fluid Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000050", "t": "Electromagnetic Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000051", "t": "Hardware-in-Loop Rigs", "g": "simulation"}
+{"id": "JAH-SIM-000052", "t": "Software-in-Loop Rigs", "g": "simulation"}
+{"id": "JAH-SIM-000053", "t": "Robot Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000054", "t": "Autonomous Driving Sims", "g": "simulation"}
+{"id": "JAH-SIM-000055", "t": "Drone Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000056", "t": "Factory Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000057", "t": "Power Grid Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000058", "t": "Chemical Process Sims", "g": "simulation"}
+{"id": "JAH-SIM-000059", "t": "Building Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000060", "t": "Acoustic Simulators", "g": "simulation"}
+{"id": "JAH-SIM-000061", "t": "Presence: The Core Illusion", "g": "vr-universe"}
+{"id": "JAH-SIM-000062", "t": "The Headset Landscape", "g": "vr-universe"}
+{"id": "JAH-SIM-000063", "t": "Locomotion Without Nausea", "g": "vr-universe"}
+{"id": "JAH-SIM-000064", "t": "Social VR: The New Gathering", "g": "vr-universe"}
+{"id": "JAH-SIM-000065", "t": "VR for Learning", "g": "vr-universe"}
+{"id": "JAH-SIM-000066", "t": "VR Fitness", "g": "vr-universe"}
+{"id": "JAH-SIM-000067", "t": "Creating VR Worlds", "g": "vr-universe"}
+{"id": "JAH-SIM-000068", "t": "The Empathy Machine Debate", "g": "vr-universe"}
+{"id": "JAH-SIM-000069", "t": "VR Accessibility", "g": "vr-universe"}
+{"id": "JAH-SIM-000070", "t": "The Business of VR", "g": "vr-universe"}
+{"id": "JAH-SIM-000071", "t": "AR: VR’s Sibling", "g": "vr-universe"}
+{"id": "JAH-SIM-000072", "t": "The Ethics of Virtual Worlds", "g": "vr-universe"}
+{"id": "JAH-SIM-000073", "t": "Haptics: Touching the Virtual", "g": "vr-universe"}
+{"id": "JAH-SIM-000074", "t": "Your First 30 Days in VR", "g": "vr-universe"}
+{"id": "JAH-SIM-000075", "t": "The Universe Awaits", "g": "vr-universe"}
+{"id": "JAH-SIM-000076", "t": "The Haptic Horizon", "g": "vr-universe"}
+{"id": "JAH-SIM-000077", "t": "The Shared Dream Engine", "g": "vr-universe"}
+{"id": "JAH-SIM-000078", "t": "The Avatar's Wardrobe", "g": "vr-universe"}
+{"id": "JAH-SIM-000079", "t": "The Virtual Campfire", "g": "vr-universe"}
+{"id": "JAH-SIM-000080", "t": "The Impossible Architecture", "g": "vr-universe"}
+{"id": "JAH-SIM-000081", "t": "The Time-Dilated Classroom", "g": "vr-universe"}
+{"id": "JAH-SIM-000082", "t": "The VR Field Trip", "g": "vr-universe"}
+{"id": "JAH-SIM-000083", "t": "The Sensory Garden", "g": "vr-universe"}
+{"id": "JAH-SIM-000084", "t": "The Memory Palace VR", "g": "vr-universe"}
+{"id": "JAH-SIM-000085", "t": "The Universe Builders", "g": "vr-universe"}

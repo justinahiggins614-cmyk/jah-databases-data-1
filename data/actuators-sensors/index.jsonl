@@ -1,0 +1,52 @@
+{"id": "JAH-ACT-000001", "t": "What Are Actuators and Sensors: The Muscle and the Senses of Every Machine", "g": "Foundations"}
+{"id": "JAH-ACT-000002", "t": "The Energy Families of Motion: Electric, Hydraulic, and Pneumatic Power", "g": "Foundations"}
+{"id": "JAH-ACT-000003", "t": "DC Motors: The Spinning Workhorse of Machines", "g": "Foundations"}
+{"id": "JAH-ACT-000004", "t": "Torque, Speed, and Power: The Three Numbers Every Motor Lives By", "g": "Foundations"}
+{"id": "JAH-ACT-000005", "t": "What Sensors Do: Turning the Physical World into Numbers", "g": "Foundations"}
+{"id": "JAH-ACT-000006", "t": "Brushless DC Motors: Magnets That Switch Themselves", "g": "Foundations"}
+{"id": "JAH-ACT-000007", "t": "Stepper Motors: Motion in Counted Steps", "g": "Foundations"}
+{"id": "JAH-ACT-000008", "t": "Measurement Truth: Accuracy, Precision, Resolution, and Calibration", "g": "Foundations"}
+{"id": "JAH-ACT-000009", "t": "Servo Motors and Drives: Closing the Loop on Motion", "g": "Compounded"}
+{"id": "JAH-ACT-000010", "t": "Gearboxes, Leadscrews, and Ballscrews: Trading Speed for Force", "g": "Compounded"}
+{"id": "JAH-ACT-000011", "t": "Solenoids and Contactors: The Electromagnetic Push and Pull", "g": "Compounded"}
+{"id": "JAH-ACT-000012", "t": "Voice Coils and Linear Motors: Force Without Gears", "g": "Compounded"}
+{"id": "JAH-ACT-000013", "t": "Hydraulic Actuators: Huge Force from Pressurized Oil", "g": "Compounded"}
+{"id": "JAH-ACT-000014", "t": "Pneumatic Actuators: Fast Muscle from Compressed Air", "g": "Compounded"}
+{"id": "JAH-ACT-000015", "t": "Piezoelectric Actuators: Crystal Precision for Tiny Moves", "g": "Compounded"}
+{"id": "JAH-ACT-000016", "t": "Shape-Memory Alloys: Metal That Remembers Its Shape", "g": "Compounded"}
+{"id": "JAH-ACT-000017", "t": "Magnetostrictive Actuators: Giant Magnetism, Tiny Stretch", "g": "Compounded"}
+{"id": "JAH-ACT-000018", "t": "Position Sensors: Encoders and Resolvers That Count Rotation", "g": "Compounded"}
+{"id": "JAH-ACT-000019", "t": "Force, Torque, and Strain: Weighing and Feeling the Load", "g": "Compounded"}
+{"id": "JAH-ACT-000020", "t": "Pressure Sensors: Feeling the Push of Fluids", "g": "Compounded"}
+{"id": "JAH-ACT-000021", "t": "Temperature Sensors: Thermocouples, RTDs, and Thermistors", "g": "Compounded"}
+{"id": "JAH-ACT-000022", "t": "Proximity and Distance: Ultrasonic, Infrared, and Capacitive Eyes", "g": "Compounded"}
+{"id": "JAH-ACT-000023", "t": "Vision Sensors: Cameras That Measure the World", "g": "Compounded"}
+{"id": "JAH-ACT-000024", "t": "IMUs: Accelerometers and Gyroscopes That Feel Motion", "g": "Compounded"}
+{"id": "JAH-ACT-000025", "t": "LIDAR and Radar: Mapping the World with Light and Radio", "g": "Compounded"}
+{"id": "JAH-ACT-000026", "t": "Tactile Sensors: Giving Machines a Sense of Touch", "g": "Compounded"}
+{"id": "JAH-ACT-000027", "t": "Signal Conditioning: From Microvolts to Clean Data", "g": "Advanced"}
+{"id": "JAH-ACT-000028", "t": "ADCs and DACs: The Border Crossing Between Worlds", "g": "Advanced"}
+{"id": "JAH-ACT-000029", "t": "Talking to Chips: I2C, SPI, and CAN Buses", "g": "Advanced"}
+{"id": "JAH-ACT-000030", "t": "Sensor Fusion: Kalman and Complementary Filters", "g": "Advanced"}
+{"id": "JAH-ACT-000031", "t": "Sizing and Selection: Picking the Right Actuator and Sensor", "g": "Advanced"}
+{"id": "JAH-ACT-000032", "t": "Failure, Safety, and Maintenance: What Breaks and How to Know", "g": "Advanced"}
+{"id": "JAH-ACT-000033", "t": "DC Brushed Motors: Selection Basics", "g": "Advanced"}
+{"id": "JAH-ACT-000034", "t": "Brushless DC (BLDC) Motors", "g": "Advanced"}
+{"id": "JAH-ACT-000035", "t": "Stepper Motors: Precision Positioning", "g": "Advanced"}
+{"id": "JAH-ACT-000036", "t": "Servo Motors (RC and Industrial)", "g": "Advanced"}
+{"id": "JAH-ACT-000037", "t": "Linear Actuators: Electric", "g": "Advanced"}
+{"id": "JAH-ACT-000038", "t": "Pneumatic Actuators", "g": "Advanced"}
+{"id": "JAH-ACT-000039", "t": "Hydraulic Actuators", "g": "Advanced"}
+{"id": "JAH-ACT-000040", "t": "Solenoids: Linear and Rotary", "g": "Advanced"}
+{"id": "JAH-ACT-000041", "t": "Gearmotors: Torque Multiplication", "g": "Advanced"}
+{"id": "JAH-ACT-000042", "t": "Piezoelectric Actuators", "g": "Advanced"}
+{"id": "JAH-ACT-000043", "t": "Shape Memory Alloy Actuators", "g": "Advanced"}
+{"id": "JAH-ACT-000044", "t": "Voice Coil Actuators", "g": "Advanced"}
+{"id": "JAH-ACT-000045", "t": "Motor Drivers and Controllers", "g": "Advanced"}
+{"id": "JAH-ACT-000046", "t": "Selecting for Hazardous Environments", "g": "Advanced"}
+{"id": "JAH-ACT-000047", "t": "Torque, Speed, and Power Calculations", "g": "Advanced"}
+{"id": "JAH-ACT-000048", "t": "Thermal Management for Motors", "g": "Advanced"}
+{"id": "JAH-ACT-000049", "t": "Position Feedback: Encoders and Resolvers", "g": "Advanced"}
+{"id": "JAH-ACT-000050", "t": "Motor Selection Workflow: Putting It Together", "g": "Advanced"}
+{"id": "JAH-ACT-000051", "t": "Maintenance and Failure Modes", "g": "Advanced"}
+{"id": "JAH-ACT-000052", "t": "Matching Motors to Loads: Inertia and Duty", "g": "Advanced"}

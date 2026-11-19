@@ -1,0 +1,61 @@
+{"id": "JAH-ENT-000001", "t": "What Is an Insect: The Six-Legged Kingdom", "g": "Foundations"}
+{"id": "JAH-ENT-000002", "t": "Insect Anatomy I: Head, Thorax, Abdomen", "g": "Foundations"}
+{"id": "JAH-ENT-000003", "t": "The Exoskeleton and Molting", "g": "Foundations"}
+{"id": "JAH-ENT-000004", "t": "Insect Legs: Walking, Jumping, Swimming", "g": "Foundations"}
+{"id": "JAH-ENT-000005", "t": "Insect Mouthparts: Chewing, Piercing, Sponging", "g": "Foundations"}
+{"id": "JAH-ENT-000006", "t": "Insect Eyes and Vision", "g": "Foundations"}
+{"id": "JAH-ENT-000007", "t": "Antennae and Smell", "g": "Foundations"}
+{"id": "JAH-ENT-000008", "t": "Insect Wings and Flight", "g": "Foundations"}
+{"id": "JAH-ENT-000009", "t": "Insect Blood and Breathing: Hemolymph and Tracheae", "g": "Foundations"}
+{"id": "JAH-ENT-000010", "t": "Metamorphosis I: Hemimetaboly (Incomplete)", "g": "Compounded"}
+{"id": "JAH-ENT-000011", "t": "Metamorphosis II: Holometaboly (Complete)", "g": "Compounded"}
+{"id": "JAH-ENT-000012", "t": "The Insect Orders: Coleoptera, the Beetles", "g": "Compounded"}
+{"id": "JAH-ENT-000013", "t": "The Insect Orders: Diptera and Hymenoptera", "g": "Compounded"}
+{"id": "JAH-ENT-000014", "t": "The Insect Orders: Lepidoptera, Orthoptera, Hemiptera", "g": "Compounded"}
+{"id": "JAH-ENT-000015", "t": "Insect Taxonomy and Classification", "g": "Compounded"}
+{"id": "JAH-ENT-000016", "t": "Insect Behavior: Communication", "g": "Compounded"}
+{"id": "JAH-ENT-000017", "t": "Social Insects: Ants and Termites", "g": "Compounded"}
+{"id": "JAH-ENT-000018", "t": "Social Insects: Bees and Wasps", "g": "Compounded"}
+{"id": "JAH-ENT-000019", "t": "Pollination Ecology", "g": "Compounded"}
+{"id": "JAH-ENT-000020", "t": "Insect-Plant Interactions: Herbivory", "g": "Compounded"}
+{"id": "JAH-ENT-000021", "t": "Beneficial Insects: Predators and Parasitoids", "g": "Compounded"}
+{"id": "JAH-ENT-000022", "t": "Insect Physiology: The Nervous System", "g": "Compounded"}
+{"id": "JAH-ENT-000023", "t": "Insect Reproduction and Eggs", "g": "Compounded"}
+{"id": "JAH-ENT-000024", "t": "Insect Migration", "g": "Compounded"}
+{"id": "JAH-ENT-000025", "t": "Collection and Identification Methods", "g": "Compounded"}
+{"id": "JAH-ENT-000026", "t": "Integrated Pest Management", "g": "Advanced"}
+{"id": "JAH-ENT-000027", "t": "Agricultural Entomology: Crop Pests", "g": "Advanced"}
+{"id": "JAH-ENT-000028", "t": "Medical and Veterinary Entomology: Vectors", "g": "Advanced"}
+{"id": "JAH-ENT-000029", "t": "Stored-Product Entomology", "g": "Advanced"}
+{"id": "JAH-ENT-000030", "t": "Insecticide Modes of Action and Resistance", "g": "Advanced"}
+{"id": "JAH-ENT-000031", "t": "Forensic Entomology", "g": "Advanced"}
+{"id": "JAH-ENT-000032", "t": "Insect Physiology: Diapause and Cold Hardiness", "g": "Advanced"}
+{"id": "JAH-ENT-000033", "t": "Insect Genetics and Genomics", "g": "Advanced"}
+{"id": "JAH-ENT-000034", "t": "Insect Diversity: Why Insects Rule", "g": "Advanced"}
+{"id": "JAH-ENT-000035", "t": "Urban Entomology: Bed Bugs, Cockroaches, Termites", "g": "Advanced"}
+{"id": "JAH-ENT-000036", "t": "Conservation of Insects: Pollinator Declines", "g": "Advanced"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000037", "t": "The Ant Supercolony"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000038", "t": "The Monarch Migration"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000039", "t": "The Bombardier Beetle"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000040", "t": "The Honeybee Waggle Dance"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000041", "t": "The Cicada Prime Cycles"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000042", "t": "The Mantis Shrimp Punch"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000043", "t": "The Firefly Synchronization"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000044", "t": "The Leafcutter Highway"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000045", "t": "The Dragonfly's Flight"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000046", "t": "The Termite Mound Climate"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000047", "t": "The Jewel Wasp's Surgery"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000048", "t": "The Mosquito's Stealth"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000049", "t": "The Butterfly's Metamorphosis"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000050", "t": "The Ant's Farming"}
+{"g": "Insect Superworld", "id": "JAH-ENT-000051", "t": "The Insect Apocalypse and Hope"}
+{"id": "JAH-ENT-000052", "t": "The Bombardier Beetle's Chemical Cannon", "g": "insect-superworld"}
+{"id": "JAH-ENT-000053", "t": "The Monarch's Four-Thousand-Kilometer Migration", "g": "insect-superworld"}
+{"id": "JAH-ENT-000055", "t": "The Bullet Ant's Legendary Sting", "g": "insect-superworld"}
+{"id": "JAH-ENT-000056", "t": "Dragonfly Flight: Nature's Helicopter", "g": "insect-superworld"}
+{"id": "JAH-ENT-000057", "t": "Leafcutter Ants: Fungus Farmers", "g": "insect-superworld"}
+{"id": "JAH-ENT-000058", "t": "Fireflies: Living Lanterns", "g": "insect-superworld"}
+{"id": "JAH-ENT-000059", "t": "Periodical Cicadas: Prime-Number Years", "g": "insect-superworld"}
+{"id": "JAH-ENT-000060", "t": "The Dung Beetle's Milky Way Compass", "g": "insect-superworld"}
+{"id": "JAH-ENT-000061", "t": "The Atlas Moth: A Snake in Disguise", "g": "insect-superworld"}
+{"id": "JAH-ENT-000062", "t": "The Army Ant's Living Bridge", "g": "insect-superworld"}

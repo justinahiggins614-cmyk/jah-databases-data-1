@@ -1,0 +1,54 @@
+{"id": "JAH-DEIS-000001", "t": "What Interoperability Is: Systems That Talk", "g": "Foundations"}
+{"id": "JAH-DEIS-000002", "t": "Data Formats for Exchange: JSON, XML, CSV", "g": "Foundations"}
+{"id": "JAH-DEIS-000003", "t": "Character Encodings: UTF-8 Everywhere", "g": "Foundations"}
+{"id": "JAH-DEIS-000004", "t": "Identifiers: UUIDs, DOIs, and URIs", "g": "Foundations"}
+{"id": "JAH-DEIS-000005", "t": "Schemas: Contracts for Data Shape", "g": "Foundations"}
+{"id": "JAH-DEIS-000006", "t": "JSON Schema in Practice", "g": "Foundations"}
+{"id": "JAH-DEIS-000007", "t": "Serialization: Bytes on the Wire", "g": "Foundations"}
+{"id": "JAH-DEIS-000008", "t": "Delimited Text Done Right: CSV Rules", "g": "Foundations"}
+{"id": "JAH-DEIS-000009", "t": "Timestamps and Timezones in Exchange (ISO 8601)", "g": "Foundations"}
+{"id": "JAH-DEIS-000010", "t": "Units in Data Exchange: QUDT", "g": "Foundations"}
+{"id": "JAH-DEIS-000011", "t": "Nulls and Missing Values Across Systems", "g": "Foundations"}
+{"id": "JAH-DEIS-000012", "t": "Versioning Data Formats", "g": "Foundations"}
+{"id": "JAH-DEIS-000013", "t": "REST API Contracts", "g": "Compounded"}
+{"id": "JAH-DEIS-000014", "t": "OpenAPI: Describing the Contract", "g": "Compounded"}
+{"id": "JAH-DEIS-000015", "t": "Identifiers That Last: DOI, ORCID, ARK", "g": "Compounded"}
+{"id": "JAH-DEIS-000016", "t": "XML, XSD, and Namespaces", "g": "Compounded"}
+{"id": "JAH-DEIS-000017", "t": "Binary Serialization: Avro and Protocol Buffers", "g": "Compounded"}
+{"id": "JAH-DEIS-000018", "t": "ETL: Extract, Transform, Load", "g": "Compounded"}
+{"id": "JAH-DEIS-000019", "t": "Field Mapping and Compatibility Tables", "g": "Compounded"}
+{"id": "JAH-DEIS-000020", "t": "API Versioning Strategies", "g": "Compounded"}
+{"id": "JAH-DEIS-000021", "t": "Error Handling and Status Codes", "g": "Compounded"}
+{"id": "JAH-DEIS-000022", "t": "Pagination for Large Result Sets", "g": "Compounded"}
+{"id": "JAH-DEIS-000023", "t": "Authentication for Data Exchange", "g": "Compounded"}
+{"id": "JAH-DEIS-000024", "t": "Webhooks and Event-Driven Exchange", "g": "Compounded"}
+{"id": "JAH-DEIS-000025", "t": "Ontologies and Shared Vocabularies", "g": "Advanced"}
+{"id": "JAH-DEIS-000026", "t": "Linked Data and RDF", "g": "Advanced"}
+{"id": "JAH-DEIS-000027", "t": "Schema Evolution: Compatible Changes", "g": "Advanced"}
+{"id": "JAH-DEIS-000028", "t": "Compatibility Mappings Between Standards", "g": "Advanced"}
+{"id": "JAH-DEIS-000029", "t": "Data Quality Gates in Pipelines", "g": "Advanced"}
+{"id": "JAH-DEIS-000030", "t": "Master Data Management", "g": "Advanced"}
+{"id": "JAH-DEIS-000031", "t": "Exchange Auditing and Provenance", "g": "Advanced"}
+{"id": "JAH-DEIS-000032", "t": "High-Volume Streaming Exchange", "g": "Advanced"}
+{"id": "JAH-DEIS-000033", "t": "FHIR: Healthcare Exchange Case Study", "g": "Advanced"}
+{"id": "JAH-DEIS-000034", "t": "The Interoperability Test Suite: Proving It Works", "g": "Advanced"}
+{"id": "JAH-DEIS-000035", "t": "Interoperability Test Strategy", "g": "Advanced"}
+{"id": "JAH-DEIS-000036", "t": "Contract Testing (Consumer-Driven)", "g": "Advanced"}
+{"id": "JAH-DEIS-000037", "t": "Schema Validation Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000038", "t": "API Interoperability Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000039", "t": "Protocol Conformance Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000040", "t": "End-to-End Interop Test Scenarios", "g": "Advanced"}
+{"id": "JAH-DEIS-000041", "t": "Negative and Fault-Injection Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000042", "t": "Performance and Load Interop Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000043", "t": "Security Interop Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000044", "t": "Data Mapping and Transformation Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000045", "t": "Version Compatibility Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000046", "t": "Interop Test Automation", "g": "Advanced"}
+{"id": "JAH-DEIS-000047", "t": "Interop Monitoring in Production", "g": "Advanced"}
+{"id": "JAH-DEIS-000048", "t": "Cross-Organization Interop Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000049", "t": "Regulatory Interop Testing (Healthcare, Finance)", "g": "Advanced"}
+{"id": "JAH-DEIS-000050", "t": "Legacy System Interop Testing", "g": "Advanced"}
+{"id": "JAH-DEIS-000051", "t": "Interop Test Data Management", "g": "Advanced"}
+{"id": "JAH-DEIS-000052", "t": "Measuring Interop Maturity", "g": "Advanced"}
+{"id": "JAH-DEIS-000053", "t": "The Interop Test Lab", "g": "Advanced"}
+{"id": "JAH-DEIS-000054", "t": "Interop Incident Response", "g": "Advanced"}

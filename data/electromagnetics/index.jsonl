@@ -1,0 +1,37 @@
+{"id": "JAH-ELM-000001", "t": "What Electromagnetics Is: The Science of Fields That Fill Space", "g": "Foundations"}
+{"id": "JAH-ELM-000002", "t": "Coulomb's Law: The Force Between Charges, and the Birth of the Field", "g": "Foundations"}
+{"id": "JAH-ELM-000003", "t": "The Electric Field and Gauss's Law: Flux Through Closed Surfaces", "g": "Foundations"}
+{"id": "JAH-ELM-000004", "t": "Electric Potential and Voltage: The Landscape Charges Slide Down", "g": "Foundations"}
+{"id": "JAH-ELM-000005", "t": "Capacitance: Storing Electric Energy Between Plates", "g": "Foundations"}
+{"id": "JAH-ELM-000006", "t": "Electric Current and Ohm's Law: Charge in Motion", "g": "Foundations"}
+{"id": "JAH-ELM-000007", "t": "Magnetic Fields from Currents: Biot-Savart and Ampere's Law", "g": "Foundations"}
+{"id": "JAH-ELM-000008", "t": "The Lorentz Force: How Fields Push Moving Charge", "g": "Foundations"}
+{"id": "JAH-ELM-000009", "t": "Magnetic Materials: Domains, Hysteresis, and Permanent Magnets", "g": "Foundations"}
+{"id": "JAH-ELM-000010", "t": "Faraday's Law and Lenz's Law: Electricity from Changing Magnetism", "g": "Foundations"}
+{"id": "JAH-ELM-000011", "t": "Inductance: Storing Energy in Magnetic Fields", "g": "Foundations"}
+{"id": "JAH-ELM-000012", "t": "Maxwell's Equations: Four Laws, One Universe", "g": "Foundations"}
+{"id": "JAH-ELM-000013", "t": "Displacement Current: The Term That Makes Light Possible", "g": "Compounded"}
+{"id": "JAH-ELM-000014", "t": "Boundary Conditions: What Fields Do at Material Interfaces", "g": "Compounded"}
+{"id": "JAH-ELM-000015", "t": "The Wave Equation: How Maxwell's Equations Predict Light", "g": "Compounded"}
+{"id": "JAH-ELM-000016", "t": "Plane Waves in Free Space: E, H, and the Speed of Light", "g": "Compounded"}
+{"id": "JAH-ELM-000017", "t": "Polarization: The Shape Traced by the Electric Field", "g": "Compounded"}
+{"id": "JAH-ELM-000018", "t": "The Poynting Vector: Where the Electromagnetic Energy Goes", "g": "Compounded"}
+{"id": "JAH-ELM-000019", "t": "Waves in Lossy Media: Skin Depth and the Good Conductor", "g": "Compounded"}
+{"id": "JAH-ELM-000020", "t": "Reflection and Transmission at a Boundary: The Fresnel Coefficients", "g": "Compounded"}
+{"id": "JAH-ELM-000021", "t": "Snell's Law and Total Internal Reflection: Bending Light on Purpose", "g": "Compounded"}
+{"id": "JAH-ELM-000022", "t": "Transmission Lines: When Wires Become Waveguides", "g": "Compounded"}
+{"id": "JAH-ELM-000023", "t": "The Telegrapher's Equations: The Transmission Line's Laws of Motion", "g": "Compounded"}
+{"id": "JAH-ELM-000024", "t": "Reflection, VSWR, and the Smith Chart: Reading the Circle", "g": "Compounded"}
+{"id": "JAH-ELM-000025", "t": "S-Parameters: The Language of High-Frequency Circuits", "g": "Compounded"}
+{"id": "JAH-ELM-000026", "t": "Impedance Matching: Quarter-Wave Transformers and Stubs", "g": "Compounded"}
+{"id": "JAH-ELM-000027", "t": "Waveguides: Guiding Waves Between Metal Walls", "g": "Advanced"}
+{"id": "JAH-ELM-000028", "t": "Cavity Resonators: Trapping Waves in a Box", "g": "Advanced"}
+{"id": "JAH-ELM-000029", "t": "Antennas: Turning Guided Waves into Free Space", "g": "Advanced"}
+{"id": "JAH-ELM-000030", "t": "The Half-Wave Dipole: The Reference Antenna", "g": "Advanced"}
+{"id": "JAH-ELM-000031", "t": "Antenna Arrays: Steering Beams Without Moving", "g": "Advanced"}
+{"id": "JAH-ELM-000032", "t": "The Friis Equation: Radio Link Arithmetic", "g": "Advanced"}
+{"id": "JAH-ELM-000033", "t": "Why Accelerated Charge Radiates: The Larmor Formula", "g": "Advanced"}
+{"id": "JAH-ELM-000034", "t": "Scattering and Radar Cross Section: How Big You Look to Radar", "g": "Advanced"}
+{"id": "JAH-ELM-000035", "t": "Radar Fundamentals: Pulses, Echoes, and Doppler", "g": "Advanced"}
+{"id": "JAH-ELM-000036", "t": "EMI and EMC: When Fields Misbehave - Emissions and Immunity", "g": "Advanced"}
+{"id": "JAH-ELM-000037", "t": "Computational Electromagnetics: FDTD, FEM, and the Method of Moments", "g": "Advanced"}

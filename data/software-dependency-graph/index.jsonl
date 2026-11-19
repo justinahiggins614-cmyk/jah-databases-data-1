@@ -1,0 +1,54 @@
+{"id": "JAH-SDGR-000001", "t": "Software Dependency and Compatibility Graph Database: Semver Parse", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000002", "t": "Software Dependency and Compatibility Graph Database: Semver Compare", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000003", "t": "Software Dependency and Compatibility Graph Database: Caret Range Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000004", "t": "Software Dependency and Compatibility Graph Database: Tilde Range Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000005", "t": "Software Dependency and Compatibility Graph Database: Exact Pin Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000006", "t": "Software Dependency and Compatibility Graph Database: Dependency Tree Flatten", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000007", "t": "Software Dependency and Compatibility Graph Database: Dependency Cycle Detection", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGR-000008", "t": "Software Dependency and Compatibility Graph Database: Topological Sort", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000009", "t": "Software Dependency and Compatibility Graph Database: Version Conflict Detection", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGR-000010", "t": "Software Dependency and Compatibility Graph Database: Lockfile Integrity Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000011", "t": "Software Dependency and Compatibility Graph Database: License Allowlist Check", "c": 0, "g": "licenses"}
+{"id": "JAH-SDGR-000012", "t": "Software Dependency and Compatibility Graph Database: Transitive Closure", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000013", "t": "Software Dependency and Compatibility Graph Database: Peer Dependency Check", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGR-000014", "t": "Software Dependency and Compatibility Graph Database: Duplicate Package Detection", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGR-000015", "t": "Software Dependency and Compatibility Graph Database: Outdated Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000016", "t": "Software Dependency and Compatibility Graph Database: Minimal Version Selection", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGR-000017", "t": "Software Dependency and Compatibility Graph Database: Range Intersection", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000018", "t": "Software Dependency and Compatibility Graph Database: Prerelease Ordering", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000019", "t": "Software Dependency and Compatibility Graph Database: Dependency Depth", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000020", "t": "Software Dependency and Compatibility Graph Database: Reverse Dependency Lookup", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000021", "t": "Software Dependency and Compatibility Graph Database: SBOM Generation (CycloneDX-lite)", "c": 0, "g": "licenses"}
+{"id": "JAH-SDGR-000022", "t": "Software Dependency and Compatibility Graph Database: Integrity Hash Verification", "c": 0, "g": "vulnerabilities"}
+{"id": "JAH-SDGR-000023", "t": "Software Dependency and Compatibility Graph Database: Yanked Version Detection", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000024", "t": "Software Dependency and Compatibility Graph Database: Engine Compatibility Check", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGR-000025", "t": "Software Dependency and Compatibility Graph Database: OS/Arch Compatibility", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGR-000026", "t": "Software Dependency and Compatibility Graph Database: Optional Dependency Handling", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGR-000027", "t": "Software Dependency and Compatibility Graph Database: Dev vs Prod Split", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000028", "t": "Software Dependency and Compatibility Graph Database: Hoisting Simulation", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGR-000029", "t": "Software Dependency and Compatibility Graph Database: Nearest-Wins Resolution", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGR-000030", "t": "Software Dependency and Compatibility Graph Database: Advisory Range Matching", "c": 0, "g": "vulnerabilities"}
+{"id": "JAH-SDGR-000031", "t": "Software Dependency and Compatibility Graph Database: Deprecation Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGR-000032", "t": "Software Dependency and Compatibility Graph Database: Dist-Tag Resolution", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGR-000033", "t": "Software Dependency and Compatibility Graph Database: Workspace Protocol", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGR-000034", "t": "Software Dependency and Compatibility Graph Database: Full Dependency Audit", "c": 0, "g": "vulnerabilities"}
+{"id": "JAH-SDGR-000035", "t": "Software Dependency and Compatibility Graph Database: Circular Dependency Between Modules", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000036", "t": "Software Dependency and Compatibility Graph Database: God Module With Too Many Dependents", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000037", "t": "Software Dependency and Compatibility Graph Database: Deep Transitive Chain", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000038", "t": "Software Dependency and Compatibility Graph Database: Undeclared Dependency", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000039", "t": "Software Dependency and Compatibility Graph Database: Version Conflict (Diamond)", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000040", "t": "Software Dependency and Compatibility Graph Database: Abandoned Transitive Dependency", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000041", "t": "Software Dependency and Compatibility Graph Database: Dev Dependency Leaking to Prod", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000042", "t": "Software Dependency and Compatibility Graph Database: Duplicate Package Versions", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000043", "t": "Software Dependency and Compatibility Graph Database: Overly Broad Version Ranges", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000044", "t": "Software Dependency and Compatibility Graph Database: Missing Peer Dependency", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000045", "t": "Software Dependency and Compatibility Graph Database: Native Module Build Fragility", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000046", "t": "Software Dependency and Compatibility Graph Database: License Conflict in Tree", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000047", "t": "Software Dependency and Compatibility Graph Database: Registry Outage Single Point", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000048", "t": "Software Dependency and Compatibility Graph Database: Supply-Chain Injection via Install Scripts", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000049", "t": "Software Dependency and Compatibility Graph Database: Stale Lockfile Drift", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000050", "t": "Software Dependency and Compatibility Graph Database: Platform-Specific Dependency", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000051", "t": "Software Dependency and Compatibility Graph Database: Heavy Dependency for Trivial Use", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000052", "t": "Software Dependency and Compatibility Graph Database: Unpinned Git Dependency", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000053", "t": "Software Dependency and Compatibility Graph Database: Circular Workspace References", "c": 1, "g": "dependency-patterns"}
+{"id": "JAH-SDGR-000054", "t": "Software Dependency and Compatibility Graph Database: Phantom Peer Duplication", "c": 1, "g": "dependency-patterns"}

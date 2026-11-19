@@ -1,0 +1,54 @@
+{"id": "JAH-TRX-000001", "t": "What Is a Transaction Record", "g": "Foundations"}
+{"id": "JAH-TRX-000002", "t": "The Anatomy of a Transaction Record", "g": "Foundations"}
+{"id": "JAH-TRX-000003", "t": "Transaction Lifecycle States: Pending, Settled, Reversed", "g": "Foundations"}
+{"id": "JAH-TRX-000004", "t": "Orders, Purchases, Payments, and Transfers", "g": "Foundations"}
+{"id": "JAH-TRX-000005", "t": "Double-Entry Bookkeeping in One Lesson", "g": "Foundations"}
+{"id": "JAH-TRX-000006", "t": "Reading a Receipt Like a Record", "g": "Foundations"}
+{"id": "JAH-TRX-000007", "t": "Money in Minor Units: Cents, Rounding, and Precision", "g": "Foundations"}
+{"id": "JAH-TRX-000008", "t": "Timestamps, Time Zones, and Value Dates", "g": "Foundations"}
+{"id": "JAH-TRX-000009", "t": "The Parties to a Transaction", "g": "Foundations"}
+{"id": "JAH-TRX-000010", "t": "Transaction Identifiers and Reference Numbers", "g": "Foundations"}
+{"id": "JAH-TRX-000011", "t": "Order Records: Carts, Line Items, and Order States", "g": "Compounded"}
+{"id": "JAH-TRX-000012", "t": "Authorization and Capture: The Two-Step Card Payment", "g": "Compounded"}
+{"id": "JAH-TRX-000013", "t": "Payment Methods Compared: Cards, ACH, Wires, Wallets", "g": "Compounded"}
+{"id": "JAH-TRX-000014", "t": "Idempotency Keys and Exactly-Once Processing", "g": "Compounded"}
+{"id": "JAH-TRX-000015", "t": "Refunds: Full, Partial, and How They Post", "g": "Compounded"}
+{"id": "JAH-TRX-000016", "t": "Returns and Reverse Logistics Records", "g": "Compounded"}
+{"id": "JAH-TRX-000017", "t": "Chargebacks and the Dispute Lifecycle", "g": "Compounded"}
+{"id": "JAH-TRX-000018", "t": "Bank Transfers: ACH Batches and Wire Records", "g": "Compounded"}
+{"id": "JAH-TRX-000019", "t": "The Card Transaction Flow: Authorization to Clearing", "g": "Compounded"}
+{"id": "JAH-TRX-000020", "t": "Reconciliation: Matching Two Ledgers", "g": "Compounded"}
+{"id": "JAH-TRX-000021", "t": "Clearing and Settlement", "g": "Compounded"}
+{"id": "JAH-TRX-000022", "t": "The Anatomy of a Fee: Interchange, Assessment, Markup", "g": "Compounded"}
+{"id": "JAH-TRX-000023", "t": "Double-Entry Reconciliation at Scale", "g": "Advanced"}
+{"id": "JAH-TRX-000024", "t": "ISO 20022: The MX Message Grammar", "g": "Advanced"}
+{"id": "JAH-TRX-000025", "t": "SWIFT MT and MX Messages for Cross-Border Payments", "g": "Advanced"}
+{"id": "JAH-TRX-000026", "t": "NACHA and the ACH Record Layout", "g": "Advanced"}
+{"id": "JAH-TRX-000027", "t": "PCI DSS and Protecting Card Data", "g": "Advanced"}
+{"id": "JAH-TRX-000028", "t": "Fraud Signals Hidden in Transaction Records", "g": "Advanced"}
+{"id": "JAH-TRX-000029", "t": "Audit Trails: Hash Chains and Immutable History", "g": "Advanced"}
+{"id": "JAH-TRX-000030", "t": "Multi-Currency Transactions and FX", "g": "Advanced"}
+{"id": "JAH-TRX-000031", "t": "Designing an Append-Only Transaction Ledger", "g": "Advanced"}
+{"id": "JAH-TRX-000032", "t": "Reversal Records and Compensating Transactions", "g": "Advanced"}
+{"id": "JAH-TRX-000033", "t": "Real-Time Payments: RTP and FedNow Records", "g": "Advanced"}
+{"id": "JAH-TRX-000034", "t": "The Full Transaction Lifecycle, End to End", "g": "Advanced"}
+{"id": "JAH-TRX-000035", "t": "Reading a Return Policy Before You Buy", "g": "Advanced"}
+{"id": "JAH-TRX-000036", "t": "Refund Timelines: How Long a Store May Take", "g": "Advanced"}
+{"id": "JAH-TRX-000037", "t": "Return Windows: Days, Receipts, and Exclusions", "g": "Advanced"}
+{"id": "JAH-TRX-000038", "t": "Online vs In-Store Returns: Who Pays the Shipping", "g": "Advanced"}
+{"id": "JAH-TRX-000039", "t": "Restocking Fees: When They Apply and How to Avoid Them", "g": "Advanced"}
+{"id": "JAH-TRX-000040", "t": "Final Sale Items: The Rights You Keep", "g": "Advanced"}
+{"id": "JAH-TRX-000041", "t": "Defective Product Refunds: The Broken-on-Arrival Playbook", "g": "Advanced"}
+{"id": "JAH-TRX-000042", "t": "Refunds Without a Receipt: Store Credit and ID-Based Returns", "g": "Advanced"}
+{"id": "JAH-TRX-000043", "t": "Chargebacks: The Last-Resort Refund", "g": "Advanced"}
+{"id": "JAH-TRX-000044", "t": "Subscription Cancellation Refunds", "g": "Advanced"}
+{"id": "JAH-TRX-000045", "t": "Travel Refunds: Flights, Hotels, and Cancellation Tiers", "g": "Advanced"}
+{"id": "JAH-TRX-000046", "t": "Digital Purchase Refunds: Apps, Games, and Downloads", "g": "Advanced"}
+{"id": "JAH-TRX-000047", "t": "Gift Returns: Refunds Without the Receipt", "g": "Advanced"}
+{"id": "JAH-TRX-000048", "t": "Warranty vs Return: Which Claim to File First", "g": "Advanced"}
+{"id": "JAH-TRX-000049", "t": "Partial Refunds and Price Adjustments", "g": "Advanced"}
+{"id": "JAH-TRX-000050", "t": "Return Shipping Damage: Who Bears the Loss", "g": "Advanced"}
+{"id": "JAH-TRX-000051", "t": "Cross-Border Returns: Duties, Taxes, and International Headaches", "g": "Advanced"}
+{"id": "JAH-TRX-000052", "t": "Refund Scams to Avoid", "g": "Advanced"}
+{"id": "JAH-TRX-000053", "t": "Documenting a Return: The Paper Trail That Wins", "g": "Advanced"}
+{"id": "JAH-TRX-000054", "t": "Small-Claims Court: When a Refund Is Worth Fighting For", "g": "Advanced"}

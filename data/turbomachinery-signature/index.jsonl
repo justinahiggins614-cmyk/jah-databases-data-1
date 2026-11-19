@@ -1,0 +1,37 @@
+{"id": "JAH-TMS-000001", "t": "What Turbomachinery Is: The Machines That Move Fluids Through Spinning Blades (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000002", "t": "The Fluid Mechanics Foundation: Pressure, Velocity, and the Duct (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000003", "t": "The Conservation Laws: Mass, Momentum, and Energy Across the Machine (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000004", "t": "The Euler Turbine Equation: The One Equation That Rules Every Rotor (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000005", "t": "Velocity Triangles: The Language Every Blade Speaks (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000006", "t": "Degree of Reaction: Splitting the Pressure Change Between Rotor and Stator (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000007", "t": "The Turbomachinery Family: Turbines, Compressors, Pumps, and Fans (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000008", "t": "Axial, Radial, and Mixed Flow: Three Geometries, One Physics (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000009", "t": "Dimensionless Performance: The Flow, Head, and Power Coefficients (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000010", "t": "Specific Speed and Specific Diameter: The Machine Selector's Compass (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000011", "t": "The Affinity Laws: How Speed Changes Everything, Predictably (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000012", "t": "Losses and Efficiency: Where the Energy Goes (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-TMS-000013", "t": "Steam Turbines: Impulse, Reaction, and the Rankine Workhorse (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000014", "t": "Gas Turbines: The Brayton Cycle Made of Metal (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000015", "t": "Wind Turbines: Harvesting the Sky Within the Betz Limit (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000016", "t": "Hydraulic Turbines: Pelton, Francis, and Kaplan by Head and Flow (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000017", "t": "Axial Compressors: Building Pressure Stage by Stage (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000018", "t": "Centrifugal Compressors: The Impeller, the Slip, and the Diffuser (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000019", "t": "Centrifugal and Axial Pumps: The Rotodynamic Workhorses (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000020", "t": "Positive Displacement Pumps: When Flow Must Be Forced, Not Flung (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000021", "t": "Fans and Blowers: Moving Air at Low Pressure Rise (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000022", "t": "Performance Maps: Reading the Compressor and Pump Chart (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000023", "t": "Blade Cascades and Airfoils: The Two-Dimensional Heart of the Blade (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000024", "t": "Cavitation: When Liquid Boils Inside the Pump (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000025", "t": "Net Positive Suction Head: The Guard Against Cavitation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-TMS-000026", "t": "Surge and Stall: The Instability Twins of Compression (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000027", "t": "Rotordynamics: Critical Speeds and the Spinning Shaft (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000028", "t": "Bearings: Rolling, Fluid-Film, and Magnetic (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000029", "t": "Seals and Leakage Control: Labyrinths, Brushes, and Dry Gas Seals (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000030", "t": "Blade Cooling and High-Temperature Materials: Surviving the Furnace (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000031", "t": "Tip Clearance and Secondary Flows: The Efficiency Thieves (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000032", "t": "Multi-Stage Matching and Off-Design Operation (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000033", "t": "Variable Geometry: Inlet Guide Vanes and Variable Stators (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000034", "t": "Combined Cycles and Cogeneration: Squeezing Every Joule (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000035", "t": "Condition Monitoring and Failure Modes: Listening to the Machine (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000036", "t": "The Design Workflow: From Duty Point to Manufactured Blade (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-TMS-000037", "t": "The Frontier: Hydrogen Turbines and Supercritical Carbon Dioxide (Signature Edition)", "g": "Advanced"}

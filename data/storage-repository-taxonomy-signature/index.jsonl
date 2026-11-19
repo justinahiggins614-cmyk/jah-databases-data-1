@@ -1,0 +1,52 @@
+{"id": "JAH-SRTS-000001", "t": "Registries (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000002", "t": "Package Registries (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000003", "t": "Container Registries (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000004", "t": "Model Registries (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000005", "t": "Schema Registries (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000006", "t": "Repositories (Repos) (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000007", "t": "Source Repositories (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000008", "t": "Artifact Repositories (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000009", "t": "Binary Repositories (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000010", "t": "Vaults (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000011", "t": "Secret Vaults (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000012", "t": "Key Vaults (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000013", "t": "Archives (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000014", "t": "Cold Storage Archives (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000015", "t": "Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000016", "t": "Relational Databases (RDBMS) (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000017", "t": "Time-Series Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000018", "t": "Key-Value Stores (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000019", "t": "Document Stores (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000020", "t": "Graph Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000021", "t": "Vector Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000022", "t": "Object Stores (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000023", "t": "Blob Stores (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000024", "t": "Spatial Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000025", "t": "In-Memory Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000026", "t": "Embedded Databases (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000027", "t": "Ledgers (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000028", "t": "Immutable Ledgers (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000029", "t": "Blockchains (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000030", "t": "Caches (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000031", "t": "Distributed Caches (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000032", "t": "Memory Caches (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000033", "t": "L1/L2/L3 Hardware Caches (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000034", "t": "Content Delivery Caches (CDN) (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000035", "t": "Stores (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000036", "t": "Dumps (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000037", "t": "Memory Dumps (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000038", "t": "Database Dumps (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000039", "t": "Core Dumps (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000040", "t": "Indices (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000041", "t": "Search Indices (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000042", "t": "Catalogs (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000043", "t": "Data Catalogs (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000044", "t": "Asset Catalogs (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000045", "t": "Inventories (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000046", "t": "Manifests (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000047", "t": "Deployment Manifests (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000048", "t": "Asset Manifests (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000049", "t": "Data Lakes (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000050", "t": "Data Warehouses (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000051", "t": "Data Marts (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRTS-000052", "t": "Lakehouses (Signature Edition)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}

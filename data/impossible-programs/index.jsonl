@@ -1,0 +1,60 @@
+{"id": "JAH-IP-000001", "t": "Wordfreq — word frequency CLI", "g": "command-line-tools"}
+{"id": "JAH-IP-000002", "t": "Lexcount — word frequency CLI", "g": "command-line-tools"}
+{"id": "JAH-IP-000003", "t": "Termtally — word frequency CLI", "g": "command-line-tools"}
+{"id": "JAH-IP-000004", "t": "Vocabscan — word frequency CLI", "g": "command-line-tools"}
+{"id": "JAH-IP-000005", "t": "Wordrank — word frequency CLI", "g": "command-line-tools"}
+{"id": "JAH-IP-000006", "t": "Textprobe — word frequency CLI", "g": "command-line-tools"}
+{"id": "JAH-IP-000007", "t": "Csvsum — CSV column summarizer", "g": "data-utilities"}
+{"id": "JAH-IP-000008", "t": "Colstat — CSV column summarizer", "g": "data-utilities"}
+{"id": "JAH-IP-000009", "t": "Numscan — CSV column summarizer", "g": "data-utilities"}
+{"id": "JAH-IP-000010", "t": "Csvprobe — CSV column summarizer", "g": "data-utilities"}
+{"id": "JAH-IP-000011", "t": "Fieldavg — CSV column summarizer", "g": "data-utilities"}
+{"id": "JAH-IP-000012", "t": "Datasum — CSV column summarizer", "g": "data-utilities"}
+{"id": "JAH-IP-000013", "t": "Jsonlfilter — JSONL record filter (eq)", "g": "data-utilities"}
+{"id": "JAH-IP-000014", "t": "Jsonlfilter — JSONL record filter (gt)", "g": "data-utilities"}
+{"id": "JAH-IP-000015", "t": "Jsonlfilter — JSONL record filter (contains)", "g": "data-utilities"}
+{"id": "JAH-IP-000016", "t": "Recfilter — JSONL record filter (eq)", "g": "data-utilities"}
+{"id": "JAH-IP-000017", "t": "Recfilter — JSONL record filter (gt)", "g": "data-utilities"}
+{"id": "JAH-IP-000018", "t": "Jsonscan — JSONL record filter (contains)", "g": "data-utilities"}
+{"id": "JAH-IP-000019", "t": "Dedup — duplicate file remover (keep first)", "g": "file-tools"}
+{"id": "JAH-IP-000020", "t": "Dedup — duplicate file remover (keep last)", "g": "file-tools"}
+{"id": "JAH-IP-000021", "t": "Uniquify — duplicate file remover (keep first)", "g": "file-tools"}
+{"id": "JAH-IP-000022", "t": "Uniquify — duplicate file remover (keep last)", "g": "file-tools"}
+{"id": "JAH-IP-000023", "t": "Dupeshave — duplicate file remover (keep first)", "g": "file-tools"}
+{"id": "JAH-IP-000024", "t": "Dupeshave — duplicate file remover (keep last)", "g": "file-tools"}
+{"id": "JAH-IP-000025", "t": "Tablefmt — text table formatter", "g": "text-tools"}
+{"id": "JAH-IP-000026", "t": "Mdtable — text table formatter", "g": "text-tools"}
+{"id": "JAH-IP-000027", "t": "Colalign — text table formatter", "g": "text-tools"}
+{"id": "JAH-IP-000028", "t": "Textgrid — text table formatter", "g": "text-tools"}
+{"id": "JAH-IP-000029", "t": "Asciitable — text table formatter", "g": "text-tools"}
+{"id": "JAH-IP-000030", "t": "Prettyrows — text table formatter", "g": "text-tools"}
+{"id": "JAH-IP-000031", "t": "Linkcheck — documentation link checker", "g": "developer-tools"}
+{"id": "JAH-IP-000032", "t": "Doclinks — documentation link checker", "g": "developer-tools"}
+{"id": "JAH-IP-000033", "t": "Mdlinkscan — documentation link checker", "g": "developer-tools"}
+{"id": "JAH-IP-000034", "t": "Linkaudit — documentation link checker", "g": "developer-tools"}
+{"id": "JAH-IP-000035", "t": "Refcheck — documentation link checker", "g": "developer-tools"}
+{"id": "JAH-IP-000036", "t": "Linkhunter — documentation link checker", "g": "developer-tools"}
+{"id": "JAH-IP-000037", "t": "Passgen — password generator (16 chars, symbols)", "g": "system-utilities"}
+{"id": "JAH-IP-000038", "t": "Passgen — password generator (20 chars, symbols)", "g": "system-utilities"}
+{"id": "JAH-IP-000039", "t": "Passgen — password generator (12 chars, no symbols)", "g": "system-utilities"}
+{"id": "JAH-IP-000040", "t": "Keyforge — password generator (24 chars, symbols)", "g": "system-utilities"}
+{"id": "JAH-IP-000041", "t": "Safekey — password generator (16 chars, no symbols)", "g": "system-utilities"}
+{"id": "JAH-IP-000042", "t": "Passgen — password generator (32 chars, symbols)", "g": "system-utilities"}
+{"id": "JAH-IP-000043", "t": "Diffstat — line diff summarizer", "g": "text-tools"}
+{"id": "JAH-IP-000044", "t": "Linediff — line diff summarizer", "g": "text-tools"}
+{"id": "JAH-IP-000045", "t": "Changediff — line diff summarizer", "g": "text-tools"}
+{"id": "JAH-IP-000046", "t": "Diffsum — line diff summarizer", "g": "text-tools"}
+{"id": "JAH-IP-000047", "t": "Patchstat — line diff summarizer", "g": "text-tools"}
+{"id": "JAH-IP-000048", "t": "Diffstat — line diff summarizer (2)", "g": "text-tools"}
+{"id": "JAH-IP-000049", "t": "Treereport — directory tree size reporter", "g": "file-tools"}
+{"id": "JAH-IP-000050", "t": "Dirsize — directory tree size reporter", "g": "file-tools"}
+{"id": "JAH-IP-000051", "t": "Sizetree — directory tree size reporter", "g": "file-tools"}
+{"id": "JAH-IP-000052", "t": "Treereport — directory tree size reporter (2)", "g": "file-tools"}
+{"id": "JAH-IP-000053", "t": "Foldstat — directory tree size reporter", "g": "file-tools"}
+{"id": "JAH-IP-000054", "t": "Dirtreemap — directory tree size reporter", "g": "file-tools"}
+{"id": "JAH-IP-000055", "t": "Waypoint Auditor — timestamp monotonicity (live archive)", "g": "data-utilities"}
+{"id": "JAH-IP-000056", "t": "Waypoint Auditor — coordinate bounds (live archive)", "g": "data-utilities"}
+{"id": "JAH-IP-000057", "t": "Waypoint Auditor — segment speed plausibility (live archive)", "g": "data-utilities"}
+{"id": "JAH-IP-000058", "t": "Waypoint Auditor — required fields present (live archive)", "g": "data-utilities"}
+{"id": "JAH-IP-000059", "t": "Waypoint Auditor — id format and uniqueness (live archive)", "g": "data-utilities"}
+{"id": "JAH-IP-000060", "t": "Waypoint Auditor — full audit report (live archive)", "g": "data-utilities"}

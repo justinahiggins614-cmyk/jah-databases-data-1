@@ -1,0 +1,34 @@
+{"id": "JAH-FLRS-000001", "t": "Formal Logic and Automated Reasoning Signature Database: Truth Table Evaluation", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000002", "t": "Formal Logic and Automated Reasoning Signature Database: De Morgan Laws", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000003", "t": "Formal Logic and Automated Reasoning Signature Database: Modus Ponens", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000004", "t": "Formal Logic and Automated Reasoning Signature Database: Modus Tollens", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000005", "t": "Formal Logic and Automated Reasoning Signature Database: Hypothetical Syllogism", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000006", "t": "Formal Logic and Automated Reasoning Signature Database: Disjunctive Syllogism", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000007", "t": "Formal Logic and Automated Reasoning Signature Database: Proof by Contradiction", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000008", "t": "Formal Logic and Automated Reasoning Signature Database: Proof by Induction", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000009", "t": "Formal Logic and Automated Reasoning Signature Database: Contrapositive", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000010", "t": "Formal Logic and Automated Reasoning Signature Database: Implication Rewriting", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000011", "t": "Formal Logic and Automated Reasoning Signature Database: CNF Conversion", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000012", "t": "Formal Logic and Automated Reasoning Signature Database: Propositional Resolution", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000013", "t": "Formal Logic and Automated Reasoning Signature Database: Unification", "c": 0, "g": "predicate"}
+{"id": "JAH-FLRS-000014", "t": "Formal Logic and Automated Reasoning Signature Database: Brute-Force SAT (n=2)", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000015", "t": "Formal Logic and Automated Reasoning Signature Database: Tautology Check", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000016", "t": "Formal Logic and Automated Reasoning Signature Database: Syllogism Validity", "c": 0, "g": "predicate"}
+{"id": "JAH-FLRS-000017", "t": "Formal Logic and Automated Reasoning Signature Database: Quantifier Negation", "c": 0, "g": "predicate"}
+{"id": "JAH-FLRS-000018", "t": "Formal Logic and Automated Reasoning Signature Database: NAND Completeness", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000019", "t": "Formal Logic and Automated Reasoning Signature Database: Exclusive-Or Properties", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000020", "t": "Formal Logic and Automated Reasoning Signature Database: Distributive Laws", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000021", "t": "Formal Logic and Automated Reasoning Signature Database: Absorption Laws", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000022", "t": "Formal Logic and Automated Reasoning Signature Database: Exportation", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000023", "t": "Formal Logic and Automated Reasoning Signature Database: Constructive Dilemma", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000024", "t": "Formal Logic and Automated Reasoning Signature Database: Proof by Cases", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000025", "t": "Formal Logic and Automated Reasoning Signature Database: Natural Deduction (\u2192Elim/Intro)", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000026", "t": "Formal Logic and Automated Reasoning Signature Database: Existential Instantiation", "c": 0, "g": "predicate"}
+{"id": "JAH-FLRS-000027", "t": "Formal Logic and Automated Reasoning Signature Database: Universal Generalization", "c": 0, "g": "predicate"}
+{"id": "JAH-FLRS-000028", "t": "Formal Logic and Automated Reasoning Signature Database: Soundness Check", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000029", "t": "Formal Logic and Automated Reasoning Signature Database: Biconditional Split", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000030", "t": "Formal Logic and Automated Reasoning Signature Database: Proof Checker (MP Chain)", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000031", "t": "Formal Logic and Automated Reasoning Signature Database: DPLL Unit Propagation", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000032", "t": "Formal Logic and Automated Reasoning Signature Database: Horn Clause Inference", "c": 0, "g": "propositional"}
+{"id": "JAH-FLRS-000033", "t": "Formal Logic and Automated Reasoning Signature Database: Capstone: Full Proof Verification", "c": 0, "g": "proof-methods"}
+{"id": "JAH-FLRS-000034", "t": "Formal Logic and Automated Reasoning Signature Database: Double Negation", "c": 0, "g": "propositional"}

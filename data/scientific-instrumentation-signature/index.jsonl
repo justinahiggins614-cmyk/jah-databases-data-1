@@ -1,0 +1,34 @@
+{"id": "JAH-SINST-000001", "t": "Scientific Instrumentation and Measurement Signature Database: Thermocouple (Type K)", "c": 0, "g": "thermal"}
+{"id": "JAH-SINST-000002", "t": "Scientific Instrumentation and Measurement Signature Database: Oscilloscope", "c": 0, "g": "electrical"}
+{"id": "JAH-SINST-000003", "t": "Scientific Instrumentation and Measurement Signature Database: Digital Multimeter", "c": 0, "g": "electrical"}
+{"id": "JAH-SINST-000004", "t": "Scientific Instrumentation and Measurement Signature Database: Spectrometer (UV-Vis)", "c": 0, "g": "optical"}
+{"id": "JAH-SINST-000005", "t": "Scientific Instrumentation and Measurement Signature Database: pH Meter", "c": 0, "g": "chemical"}
+{"id": "JAH-SINST-000006", "t": "Scientific Instrumentation and Measurement Signature Database: Analytical Balance", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000007", "t": "Scientific Instrumentation and Measurement Signature Database: Pressure Transducer", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000008", "t": "Scientific Instrumentation and Measurement Signature Database: Flow Meter (Turbine)", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000009", "t": "Scientific Instrumentation and Measurement Signature Database: Thermistor", "c": 0, "g": "thermal"}
+{"id": "JAH-SINST-000010", "t": "Scientific Instrumentation and Measurement Signature Database: RTD (Pt100)", "c": 0, "g": "thermal"}
+{"id": "JAH-SINST-000011", "t": "Scientific Instrumentation and Measurement Signature Database: Load Cell", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000012", "t": "Scientific Instrumentation and Measurement Signature Database: Accelerometer (MEMS)", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000013", "t": "Scientific Instrumentation and Measurement Signature Database: Lux Meter", "c": 0, "g": "optical"}
+{"id": "JAH-SINST-000014", "t": "Scientific Instrumentation and Measurement Signature Database: Sound Level Meter", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000015", "t": "Scientific Instrumentation and Measurement Signature Database: Gas Sensor (NDIR CO₂)", "c": 0, "g": "chemical"}
+{"id": "JAH-SINST-000016", "t": "Scientific Instrumentation and Measurement Signature Database: Humidity Sensor (Capacitive)", "c": 0, "g": "thermal"}
+{"id": "JAH-SINST-000017", "t": "Scientific Instrumentation and Measurement Signature Database: Barometer", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000018", "t": "Scientific Instrumentation and Measurement Signature Database: Anemometer (Cup)", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000019", "t": "Scientific Instrumentation and Measurement Signature Database: Turbidity Meter", "c": 0, "g": "chemical"}
+{"id": "JAH-SINST-000020", "t": "Scientific Instrumentation and Measurement Signature Database: Dissolved Oxygen Probe", "c": 0, "g": "chemical"}
+{"id": "JAH-SINST-000021", "t": "Scientific Instrumentation and Measurement Signature Database: Conductivity Meter", "c": 0, "g": "chemical"}
+{"id": "JAH-SINST-000022", "t": "Scientific Instrumentation and Measurement Signature Database: Microscope (Compound)", "c": 0, "g": "optical"}
+{"id": "JAH-SINST-000023", "t": "Scientific Instrumentation and Measurement Signature Database: Calipers (Digital)", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000024", "t": "Scientific Instrumentation and Measurement Signature Database: Micrometer", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000025", "t": "Scientific Instrumentation and Measurement Signature Database: Torque Wrench (Click)", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000026", "t": "Scientific Instrumentation and Measurement Signature Database: Function Generator", "c": 0, "g": "electrical"}
+{"id": "JAH-SINST-000027", "t": "Scientific Instrumentation and Measurement Signature Database: LCR Meter", "c": 0, "g": "electrical"}
+{"id": "JAH-SINST-000028", "t": "Scientific Instrumentation and Measurement Signature Database: Thermal Camera", "c": 0, "g": "thermal"}
+{"id": "JAH-SINST-000029", "t": "Scientific Instrumentation and Measurement Signature Database: Vibration Meter", "c": 0, "g": "mechanical"}
+{"id": "JAH-SINST-000030", "t": "Scientific Instrumentation and Measurement Signature Database: Refractometer", "c": 0, "g": "optical"}
+{"id": "JAH-SINST-000031", "t": "Scientific Instrumentation and Measurement Signature Database: Data Logger", "c": 0, "g": "calibration"}
+{"id": "JAH-SINST-000032", "t": "Scientific Instrumentation and Measurement Signature Database: Uncertainty Budget (GUM)", "c": 0, "g": "calibration"}
+{"id": "JAH-SINST-000033", "t": "Scientific Instrumentation and Measurement Signature Database: Calibration Lab Procedure", "c": 0, "g": "calibration"}
+{"id": "JAH-SINST-000034", "t": "Scientific Instrumentation and Measurement Signature Database: Tachometer (Optical)", "c": 0, "g": "mechanical"}

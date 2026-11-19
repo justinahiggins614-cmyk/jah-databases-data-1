@@ -1,0 +1,34 @@
+{"id": "JAH-ELDSS-000001", "t": "Electrical and Electronic Design Systems Signature Database: Ohm Law", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000002", "t": "Electrical and Electronic Design Systems Signature Database: Resistor Power Dissipation", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000003", "t": "Electrical and Electronic Design Systems Signature Database: Series Resistance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000004", "t": "Electrical and Electronic Design Systems Signature Database: Parallel Resistance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000005", "t": "Electrical and Electronic Design Systems Signature Database: Voltage Divider", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000006", "t": "Electrical and Electronic Design Systems Signature Database: Capacitor Energy", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000007", "t": "Electrical and Electronic Design Systems Signature Database: RC Time Constant", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000008", "t": "Electrical and Electronic Design Systems Signature Database: RL Time Constant", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000009", "t": "Electrical and Electronic Design Systems Signature Database: Resonant Frequency (LC)", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000010", "t": "Electrical and Electronic Design Systems Signature Database: Capacitive Reactance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000011", "t": "Electrical and Electronic Design Systems Signature Database: Inductive Reactance", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000012", "t": "Electrical and Electronic Design Systems Signature Database: LED Series Resistor", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000013", "t": "Electrical and Electronic Design Systems Signature Database: Non-Inverting Op-Amp Gain", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000014", "t": "Electrical and Electronic Design Systems Signature Database: Inverting Op-Amp Gain", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000015", "t": "Electrical and Electronic Design Systems Signature Database: 555 Astable Frequency", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000016", "t": "Electrical and Electronic Design Systems Signature Database: Voltage Regulator Power Loss", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000017", "t": "Electrical and Electronic Design Systems Signature Database: Decoupling Capacitor Charge", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000018", "t": "Electrical and Electronic Design Systems Signature Database: PCB Trace Current (IPC-2221 ext)", "c": 0, "g": "pcb"}
+{"id": "JAH-ELDSS-000019", "t": "Electrical and Electronic Design Systems Signature Database: Differential Pair Impedance (approx)", "c": 0, "g": "pcb"}
+{"id": "JAH-ELDSS-000020", "t": "Electrical and Electronic Design Systems Signature Database: Antenna Wavelength", "c": 0, "g": "rf"}
+{"id": "JAH-ELDSS-000021", "t": "Electrical and Electronic Design Systems Signature Database: Friis Path Loss", "c": 0, "g": "rf"}
+{"id": "JAH-ELDSS-000022", "t": "Electrical and Electronic Design Systems Signature Database: dBm to Watts", "c": 0, "g": "rf"}
+{"id": "JAH-ELDSS-000023", "t": "Electrical and Electronic Design Systems Signature Database: Battery Life Estimate", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000024", "t": "Electrical and Electronic Design Systems Signature Database: ADC LSB Size", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000025", "t": "Electrical and Electronic Design Systems Signature Database: UART Baud Error", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000026", "t": "Electrical and Electronic Design Systems Signature Database: Pull-Up Resistor (Max Bound)", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000027", "t": "Electrical and Electronic Design Systems Signature Database: SPI Max Theoretical Rate", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000028", "t": "Electrical and Electronic Design Systems Signature Database: I2C Pull-Up vs Speed", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000029", "t": "Electrical and Electronic Design Systems Signature Database: Op-Amp Slew Limit", "c": 0, "g": "analog"}
+{"id": "JAH-ELDSS-000030", "t": "Electrical and Electronic Design Systems Signature Database: Thermal Resistance Junction", "c": 0, "g": "power"}
+{"id": "JAH-ELDSS-000031", "t": "Electrical and Electronic Design Systems Signature Database: Fuse I2t Let-Through", "c": 0, "g": "protection"}
+{"id": "JAH-ELDSS-000032", "t": "Electrical and Electronic Design Systems Signature Database: TVS Clamping Check", "c": 0, "g": "protection"}
+{"id": "JAH-ELDSS-000033", "t": "Electrical and Electronic Design Systems Signature Database: Ground Bounce Estimate", "c": 0, "g": "digital"}
+{"id": "JAH-ELDSS-000034", "t": "Electrical and Electronic Design Systems Signature Database: Crosstalk Estimate (capacitive)", "c": 0, "g": "pcb"}

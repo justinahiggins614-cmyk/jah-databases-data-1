@@ -1,0 +1,34 @@
+{"id": "JAH-MCIS-000001", "t": "Mechanical Component and Assembly Intelligence Signature Database: Bolt Tensile Stress", "c": 0, "g": "fasteners"}
+{"id": "JAH-MCIS-000002", "t": "Mechanical Component and Assembly Intelligence Signature Database: Bolt Preload Torque", "c": 0, "g": "fasteners"}
+{"id": "JAH-MCIS-000003", "t": "Mechanical Component and Assembly Intelligence Signature Database: Ball Bearing L10 Life", "c": 0, "g": "bearings"}
+{"id": "JAH-MCIS-000004", "t": "Mechanical Component and Assembly Intelligence Signature Database: Gear Ratio", "c": 0, "g": "gears"}
+{"id": "JAH-MCIS-000005", "t": "Mechanical Component and Assembly Intelligence Signature Database: Gear Module", "c": 0, "g": "gears"}
+{"id": "JAH-MCIS-000006", "t": "Mechanical Component and Assembly Intelligence Signature Database: Shaft Torsional Shear Stress", "c": 0, "g": "shafts"}
+{"id": "JAH-MCIS-000007", "t": "Mechanical Component and Assembly Intelligence Signature Database: Shaft Power From Torque and Speed", "c": 0, "g": "shafts"}
+{"id": "JAH-MCIS-000008", "t": "Mechanical Component and Assembly Intelligence Signature Database: Open Belt Length", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000009", "t": "Mechanical Component and Assembly Intelligence Signature Database: Helical Spring Rate", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000010", "t": "Mechanical Component and Assembly Intelligence Signature Database: Spring Deflection", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000011", "t": "Mechanical Component and Assembly Intelligence Signature Database: Euler Column Buckling", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000012", "t": "Mechanical Component and Assembly Intelligence Signature Database: Beam Bending Stress", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000013", "t": "Mechanical Component and Assembly Intelligence Signature Database: Cantilever End-Load Deflection", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000014", "t": "Mechanical Component and Assembly Intelligence Signature Database: Shaft Torsional Deflection", "c": 0, "g": "shafts"}
+{"id": "JAH-MCIS-000015", "t": "Mechanical Component and Assembly Intelligence Signature Database: Press-Fit Interface Pressure", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000016", "t": "Mechanical Component and Assembly Intelligence Signature Database: Fatigue Life (Basquin)", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000017", "t": "Mechanical Component and Assembly Intelligence Signature Database: Hertz Contact Pressure (Cylinders)", "c": 0, "g": "bearings"}
+{"id": "JAH-MCIS-000018", "t": "Mechanical Component and Assembly Intelligence Signature Database: Thread Stripping Shear (Nut)", "c": 0, "g": "fasteners"}
+{"id": "JAH-MCIS-000019", "t": "Mechanical Component and Assembly Intelligence Signature Database: Key Shear Stress", "c": 0, "g": "shafts"}
+{"id": "JAH-MCIS-000020", "t": "Mechanical Component and Assembly Intelligence Signature Database: Key Bearing (Crushing) Stress", "c": 0, "g": "shafts"}
+{"id": "JAH-MCIS-000021", "t": "Mechanical Component and Assembly Intelligence Signature Database: Fillet Weld Throat Stress", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000022", "t": "Mechanical Component and Assembly Intelligence Signature Database: Flywheel Energy Storage", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000023", "t": "Mechanical Component and Assembly Intelligence Signature Database: Shaft Critical Speed", "c": 0, "g": "shafts"}
+{"id": "JAH-MCIS-000024", "t": "Mechanical Component and Assembly Intelligence Signature Database: Belt Power Transmission", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000025", "t": "Mechanical Component and Assembly Intelligence Signature Database: Chain Drive Speed", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000026", "t": "Mechanical Component and Assembly Intelligence Signature Database: Cam Follower Displacement (SHM)", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000027", "t": "Mechanical Component and Assembly Intelligence Signature Database: Disc Brake Torque", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000028", "t": "Mechanical Component and Assembly Intelligence Signature Database: Clutch Torque (Uniform Wear)", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCIS-000029", "t": "Mechanical Component and Assembly Intelligence Signature Database: Journal Bearing Friction (Petroff)", "c": 0, "g": "bearings"}
+{"id": "JAH-MCIS-000030", "t": "Mechanical Component and Assembly Intelligence Signature Database: Spur Gear Bending Stress (Lewis)", "c": 0, "g": "gears"}
+{"id": "JAH-MCIS-000031", "t": "Mechanical Component and Assembly Intelligence Signature Database: Helical Gear Axial Thrust", "c": 0, "g": "gears"}
+{"id": "JAH-MCIS-000032", "t": "Mechanical Component and Assembly Intelligence Signature Database: Worm Gear Ratio", "c": 0, "g": "gears"}
+{"id": "JAH-MCIS-000033", "t": "Mechanical Component and Assembly Intelligence Signature Database: Rack and Pinion Travel", "c": 0, "g": "gears"}
+{"id": "JAH-MCIS-000034", "t": "Mechanical Component and Assembly Intelligence Signature Database: Tolerance Stack-Up (Worst Case)", "c": 0, "g": "assemblies"}

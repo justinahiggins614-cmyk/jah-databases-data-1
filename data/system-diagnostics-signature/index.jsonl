@@ -1,0 +1,40 @@
+{"id": "JAH-SDGG-000001", "t": "Hardware Inventory Scanner (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000002", "t": "System Information Dashboard (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000003", "t": "CPU Monitor (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000004", "t": "Memory Monitor (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000005", "t": "Storage Health Dashboard (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000006", "t": "Disk Space Analyzer (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000007", "t": "Process Explorer (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000008", "t": "Startup Program Manager (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000009", "t": "Service Manager (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000010", "t": "Driver Inventory and Diagnostics Tool (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000011", "t": "Device Manager Assistant (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000012", "t": "Event Log Analyzer (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000013", "t": "Crash Dump Analyzer (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000014", "t": "Blue-Screen Diagnostic Assistant (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000015", "t": "Battery and Power Analyzer (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000016", "t": "Temperature Monitoring Dashboard (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000017", "t": "Fan and Cooling Monitor (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000018", "t": "Performance Benchmark Suite (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000019", "t": "System Configuration Auditor (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000020", "t": "Automated Troubleshooting Engine (Signature Edition)", "g": "system-diagnostics"}
+{"id": "JAH-SDGG-000021", "t": "Arbitrary Waveform Generator (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-SDGG-000022", "t": "Port Scanners (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Network Protocols & Low-Level Traffic"}
+{"id": "JAH-SDGG-000023", "t": "Benchmarkers (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-SDGG-000024", "t": "Stress Test Tools (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-SDGG-000025", "t": "OCCT System Stress Test (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000026", "t": "Netdata Real-Time Agent (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000027", "t": "btop++ System Monitor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000028", "t": "Masscan Probe (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000029", "t": "iPerf3 Bandwidth Meter (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000030", "t": "MTR Network Diagnostic (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000031", "t": "Dig DNS Lookup (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000032", "t": "Whois Lookup Client (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000033", "t": "Hyperfine Benchmarker (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000034", "t": "UnifiedPush Proxy (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000035", "t": "NTFY Notification Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000036", "t": "Gotify Notification Server (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000037", "t": "Apprise Notification Library (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000038", "t": "Bark iOS Notifier (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000039", "t": "Uptime Kuma Monitor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SDGG-000040", "t": "VictoriaMetrics Engine (Signature Edition)", "g": "Bizarre Software"}

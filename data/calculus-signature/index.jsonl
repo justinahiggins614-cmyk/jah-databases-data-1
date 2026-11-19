@@ -1,0 +1,36 @@
+{"id": "JAH-CALCS-000001", "t": "What Calculus Is (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000002", "t": "Functions and Mathematical Models (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000003", "t": "The Idea of the Limit (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000004", "t": "Computing Limits (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000005", "t": "Continuity of Functions: The Unbroken Graph (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000006", "t": "The Derivative: Instantaneous Rate of Change (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000007", "t": "Differentiation Rules: Power, Product, and Quotient (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000008", "t": "The Chain Rule: Differentiating Composite Functions (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CALCS-000009", "t": "Implicit Differentiation (Signature Edition)", "g": "Differentiation"}
+{"id": "JAH-CALCS-000010", "t": "Higher-Order Derivatives (Signature Edition)", "g": "Differentiation"}
+{"id": "JAH-CALCS-000011", "t": "Related Rates (Signature Edition)", "g": "Applications of Derivatives"}
+{"id": "JAH-CALCS-000012", "t": "Optimization (Signature Edition)", "g": "Applications of Derivatives"}
+{"id": "JAH-CALCS-000013", "t": "Extrema, Concavity, and Curve Sketching (Signature Edition)", "g": "Applications of Derivatives"}
+{"id": "JAH-CALCS-000014", "t": "L'Hôpital's Rule (Signature Edition)", "g": "Differentiation"}
+{"id": "JAH-CALCS-000015", "t": "Antiderivatives (Signature Edition)", "g": "Integration"}
+{"id": "JAH-CALCS-000016", "t": "Riemann Sums and the Definite Integral (Signature Edition)", "g": "Integration"}
+{"id": "JAH-CALCS-000017", "t": "The Fundamental Theorem of Calculus (Signature Edition)", "g": "Integration"}
+{"id": "JAH-CALCS-000018", "t": "Integration by Substitution (Signature Edition)", "g": "Integration Techniques"}
+{"id": "JAH-CALCS-000019", "t": "Integration by Parts: A Product Rule in Reverse (Signature Edition)", "g": "Integration Techniques"}
+{"id": "JAH-CALCS-000020", "t": "Trigonometric Integrals and Substitutions (Signature Edition)", "g": "Integration Techniques"}
+{"id": "JAH-CALCS-000021", "t": "Partial Fractions (Signature Edition)", "g": "Integration Techniques"}
+{"id": "JAH-CALCS-000022", "t": "Improper Integrals (Signature Edition)", "g": "Integration"}
+{"id": "JAH-CALCS-000023", "t": "Area Between Curves (Signature Edition)", "g": "Applications of Integrals"}
+{"id": "JAH-CALCS-000024", "t": "Volumes of Revolution: Disks, Washers, and Shells (Signature Edition)", "g": "Applications of Integrals"}
+{"id": "JAH-CALCS-000025", "t": "Arc Length, Surface Area, and Work (Signature Edition)", "g": "Applications of Integrals"}
+{"id": "JAH-CALCS-000026", "t": "Sequences (Signature Edition)", "g": "Sequences and Series"}
+{"id": "JAH-CALCS-000027", "t": "Series and the Convergence Tests (Signature Edition)", "g": "Sequences and Series"}
+{"id": "JAH-CALCS-000028", "t": "Taylor and Maclaurin Series: Approximating Functions (Signature Edition)", "g": "Sequences and Series"}
+{"id": "JAH-CALCS-000029", "t": "Power Series (Signature Edition)", "g": "Sequences and Series"}
+{"id": "JAH-CALCS-000030", "t": "Parametric Equations and Polar Calculus (Signature Edition)", "g": "Parametric and Polar"}
+{"id": "JAH-CALCS-000031", "t": "Partial Derivatives and the Gradient (Signature Edition)", "g": "Multivariable Calculus"}
+{"id": "JAH-CALCS-000032", "t": "Multiple Integrals (Signature Edition)", "g": "Multivariable Calculus"}
+{"id": "JAH-CALCS-000033", "t": "Vector Fields: Line and Surface Integrals (Signature Edition)", "g": "Vector Calculus"}
+{"id": "JAH-CALCS-000034", "t": "Green's, Stokes', and the Divergence Theorems (Signature Edition)", "g": "Vector Calculus"}
+{"id": "JAH-CALCS-000035", "t": "First-Order Differential Equations (Signature Edition)", "g": "Differential Equations"}
+{"id": "JAH-CALCS-000036", "t": "Second-Order Equations, Laplace Transforms, and Numerical Methods (Signature Edition)", "g": "Differential Equations"}

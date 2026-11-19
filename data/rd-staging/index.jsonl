@@ -1,0 +1,58 @@
+{"id": "JAH-RD-000001", "t": "R&D Environments", "g": "staging"}
+{"id": "JAH-RD-000002", "t": "Proving Grounds", "g": "staging"}
+{"id": "JAH-RD-000003", "t": "Innovation Labs", "g": "staging"}
+{"id": "JAH-RD-000004", "t": "Incubators", "g": "staging"}
+{"id": "JAH-RD-000005", "t": "Accelerators", "g": "staging"}
+{"id": "JAH-RD-000006", "t": "Development Rigs", "g": "staging"}
+{"id": "JAH-RD-000007", "t": "Simulation Rigs", "g": "staging"}
+{"id": "JAH-RD-000008", "t": "Cleanrooms", "g": "staging"}
+{"id": "JAH-RD-000009", "t": "Compute Clusters", "g": "staging"}
+{"id": "JAH-RD-000010", "t": "Server Farms", "g": "staging"}
+{"id": "JAH-RD-000011", "t": "Render Farms", "g": "staging"}
+{"id": "JAH-RD-000012", "t": "Build Farms", "g": "staging"}
+{"id": "JAH-RD-000013", "t": "Test Farms", "g": "staging"}
+{"id": "JAH-RD-000014", "t": "Device Farms", "g": "staging"}
+{"id": "JAH-RD-000015", "t": "Staging Environments", "g": "staging"}
+{"id": "JAH-RD-000016", "t": "Pre-Production", "g": "staging"}
+{"id": "JAH-RD-000017", "t": "QA Environments", "g": "staging"}
+{"id": "JAH-RD-000018", "t": "UAT Environments", "g": "staging"}
+{"id": "JAH-RD-000019", "t": "Integration Environments", "g": "staging"}
+{"id": "JAH-RD-000020", "t": "Performance Environments", "g": "staging"}
+{"id": "JAH-RD-000021", "t": "Chaos Ranges", "g": "staging"}
+{"id": "JAH-RD-000022", "t": "Dark Labs", "g": "staging"}
+{"id": "JAH-RD-000023", "t": "Air-Gapped Labs", "g": "staging"}
+{"id": "JAH-RD-000024", "t": "Zero-Trust Testbeds", "g": "staging"}
+{"id": "JAH-RD-000025", "t": "Honeypot Labs", "g": "staging"}
+{"id": "JAH-RD-000026", "t": "Red Team Ranges", "g": "staging"}
+{"id": "JAH-RD-000027", "t": "Blue Team Labs", "g": "staging"}
+{"id": "JAH-RD-000028", "t": "Purple Team Ranges", "g": "staging"}
+{"id": "JAH-RD-000029", "t": "Capture-the-Flag Arenas", "g": "staging"}
+{"id": "JAH-RD-000030", "t": "Bug Bounty Sandboxes", "g": "staging"}
+{"id": "JAH-RD-000031", "t": "Pen-Test Labs", "g": "staging"}
+{"id": "JAH-RD-000032", "t": "Fuzzing Clusters", "g": "staging"}
+{"id": "JAH-RD-000033", "t": "Symbolic Execution Labs", "g": "staging"}
+{"id": "JAH-RD-000034", "t": "Model Checking Labs", "g": "staging"}
+{"id": "JAH-RD-000035", "t": "Theorem Proving Workstations", "g": "staging"}
+{"id": "JAH-RD-000036", "t": "Formal Methods Labs", "g": "staging"}
+{"id": "JAH-RD-000037", "t": "Digital Twin Labs", "g": "staging"}
+{"id": "JAH-RD-000038", "t": "Hardware-in-Loop Labs", "g": "staging"}
+{"id": "JAH-RD-000039", "t": "Software-in-Loop Labs", "g": "staging"}
+{"id": "JAH-RD-000040", "t": "Prototype Shops", "g": "staging"}
+{"id": "JAH-RD-000041", "t": "Pilot Plants", "g": "staging"}
+{"id": "JAH-RD-000042", "t": "Beta Programs", "g": "staging"}
+{"id": "JAH-RD-000043", "t": "Canary Environments", "g": "staging"}
+{"id": "JAH-RD-000044", "t": "Feature Flag Platforms", "g": "staging"}
+{"id": "JAH-RD-000045", "t": "Experiment Platforms", "g": "staging"}
+{"id": "JAH-RD-000046", "t": "Observability Labs", "g": "staging"}
+{"id": "JAH-RD-000047", "t": "Load Generation Farms", "g": "staging"}
+{"id": "JAH-RD-000048", "t": "Soak Test Rigs", "g": "staging"}
+{"id": "JAH-RD-000049", "t": "Compatibility Matrices", "g": "staging"}
+{"id": "JAH-RD-000050", "t": "Accessibility Labs", "g": "staging"}
+{"id": "JAH-RD-000051", "t": "Localization Labs", "g": "staging"}
+{"id": "JAH-RD-000052", "t": "Green Computing Labs", "g": "staging"}
+{"id": "JAH-RD-000053", "t": "Quantum Labs", "g": "staging"}
+{"id": "JAH-RD-000054", "t": "Photonics Labs", "g": "staging"}
+{"id": "JAH-RD-000055", "t": "Nanofabrication Labs", "g": "staging"}
+{"id": "JAH-RD-000056", "t": "Bioinformatics Labs", "g": "staging"}
+{"id": "JAH-RD-000057", "t": "Climate Modeling Labs", "g": "staging"}
+{"id": "JAH-RD-000058", "t": "Materials Labs", "g": "staging"}

@@ -1,0 +1,34 @@
+{"id": "JAH-PDIS-000001", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Weight-Based Dosing", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000002", "t": "Pharmacology and Drug Interaction Evidence Signature Database: IV Drip Rate", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000003", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Unit Conversion (mg/mcg)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000004", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Infusion Time", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000005", "t": "Pharmacology and Drug Interaction Evidence Signature Database: BSA Dosing (Mosteller)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000006", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Half-Life", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000007", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Loading Dose", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000008", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Five Rights", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000009", "t": "Pharmacology and Drug Interaction Evidence Signature Database: High-Alert Medications", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000010", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Renal Dose Adjustment", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000011", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Pediatric Dosing (Clark)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000012", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Opioid MME Conversion", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000013", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Heparin Weight-Based Protocol", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000014", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Warfarin INR Monitoring", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000015", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Insulin Basal-Bolus", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000016", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Drug Interaction Check", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000017", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Look-Alike Sound-Alike", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000018", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Antibiotic Stewardship", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000019", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Adverse Reaction Reporting", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000020", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Medication Error Prevention", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000021", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Dilution Calculations", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000022", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Geriatric Dosing", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000023", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Therapeutic Drug Monitoring", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000024", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Allergy Cross-Reactivity", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000025", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Hepatic Dose Adjustment", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000026", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Vaccine Scheduling", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000027", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Capstone: Order Verification", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000028", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Creatinine Clearance", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000029", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Weight Conversion (lb to kg)", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000030", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Percentage Strength", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000031", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Milliequivalents", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000032", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Vancomycin Trough Timing", "c": 0, "g": "calculations"}
+{"id": "JAH-PDIS-000033", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Chemotherapy Double Check", "c": 0, "g": "safety"}
+{"id": "JAH-PDIS-000034", "t": "Pharmacology and Drug Interaction Evidence Signature Database: Medication Timing (Q6H)", "c": 0, "g": "calculations"}

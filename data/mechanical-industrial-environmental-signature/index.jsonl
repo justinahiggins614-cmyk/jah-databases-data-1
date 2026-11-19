@@ -1,0 +1,41 @@
+{"id": "JAH-MIEG-000001", "t": "Digital Caliper Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000002", "t": "Coordinate Measurement System Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000003", "t": "Laser Distance Meter Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000004", "t": "Digital Tachometer Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000005", "t": "Laser Doppler Vibrometer Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000006", "t": "Ultrasonic Thickness Gauge Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000007", "t": "Ultrasonic Leak Detector Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000008", "t": "Ground Penetrating Radar Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000009", "t": "Rebar Detector Interface (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000010", "t": "Industrial Pressure Sensor Monitor (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000011", "t": "Temperature Sensor Measurement Station (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000012", "t": "Humidity and Dew Point Monitor (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000013", "t": "Air Quality Measurement Station (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000014", "t": "Particulate Matter Sensor Monitor (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000015", "t": "Gas Sensor Measurement Station (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000016", "t": "Weather Station Console (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000017", "t": "Wind Speed and Direction Measurement Station (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000018", "t": "Soil Moisture Measurement Station (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000019", "t": "Water Quality Sensor Console (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000020", "t": "Industrial Vibration Monitoring Station (Signature Edition)", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIEG-000021", "t": "Non-Contact Infrared Thermometer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-MIEG-000022", "t": "Stroboscopic Tachometer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-MIEG-000023", "t": "Ultrasonic Thickness Gauge (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-MIEG-000024", "t": "Thermal Wire Stripper (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-MIEG-000025", "t": "Modular Plug Crimper (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-MIEG-000026", "t": "PLC Trainer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-MIEG-000027", "t": "Semantic Routers (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-MIEG-000028", "t": "Autorouters (Signature Edition)", "g": "Hardware, Fabrication & Manufacturing Labs / PCB Design & Circuit Engineering"}
+{"id": "JAH-MIEG-000029", "t": "NAT Traversal Relays (STUN/TURN/ICE) (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Network Protocols & Low-Level Traffic"}
+{"id": "JAH-MIEG-000030", "t": "Semantic Router (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000031", "t": "Semantic Similarity Router (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000032", "t": "STUN/TURN Relay Server (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000033", "t": "TorBox Proxy (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000034", "t": "Self-Healing Concrete Sensor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000035", "t": "Keepalived Controller (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000036", "t": "Socat Relay (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000037", "t": "Nostr Protocol Relay (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000038", "t": "FLAC Audio Encoder (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000039", "t": "MozJPEG Encoder (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000040", "t": "OpenPLC Runtime (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-MIEG-000041", "t": "Beremiz IDE (Signature Edition)", "g": "Bizarre Software"}

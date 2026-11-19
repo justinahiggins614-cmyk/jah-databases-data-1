@@ -1,0 +1,60 @@
+{"id": "JAH-IA-000001", "t": "Perceptron — perceptron classifier (dataset 1)", "g": "classifiers"}
+{"id": "JAH-IA-000002", "t": "Perceptron — perceptron classifier (dataset 2)", "g": "classifiers"}
+{"id": "JAH-IA-000003", "t": "Linearunit — perceptron classifier (dataset 3)", "g": "classifiers"}
+{"id": "JAH-IA-000004", "t": "Perceptron — perceptron classifier (dataset 4)", "g": "classifiers"}
+{"id": "JAH-IA-000005", "t": "Binaryunit — perceptron classifier (dataset 5)", "g": "classifiers"}
+{"id": "JAH-IA-000006", "t": "Perceptron — perceptron classifier (dataset 6)", "g": "classifiers"}
+{"id": "JAH-IA-000007", "t": "Knn — k-NN classifier (k=1)", "g": "classifiers"}
+{"id": "JAH-IA-000008", "t": "Knn — k-NN classifier (k=3)", "g": "classifiers"}
+{"id": "JAH-IA-000009", "t": "Knn — k-NN classifier (k=5)", "g": "classifiers"}
+{"id": "JAH-IA-000010", "t": "Nearestneighbors — k-NN classifier (k=3)", "g": "classifiers"}
+{"id": "JAH-IA-000011", "t": "Knn — k-NN classifier (k=7)", "g": "classifiers"}
+{"id": "JAH-IA-000012", "t": "Knn — k-NN classifier (k=3) (2)", "g": "classifiers"}
+{"id": "JAH-IA-000013", "t": "Naivebayes — naive Bayes sentiment classifier", "g": "classifiers"}
+{"id": "JAH-IA-000014", "t": "Naivebayes — naive Bayes speed classifier", "g": "classifiers"}
+{"id": "JAH-IA-000015", "t": "Bayesclassifier — naive Bayes weather classifier", "g": "classifiers"}
+{"id": "JAH-IA-000016", "t": "Naivebayes — naive Bayes size classifier", "g": "classifiers"}
+{"id": "JAH-IA-000017", "t": "Textbayes — naive Bayes mood classifier", "g": "classifiers"}
+{"id": "JAH-IA-000018", "t": "Naivebayes — naive Bayes cleanliness classifier", "g": "classifiers"}
+{"id": "JAH-IA-000019", "t": "Logreg — logistic regression (threshold 0.5)", "g": "classifiers"}
+{"id": "JAH-IA-000020", "t": "Logreg — logistic regression (threshold -1.0)", "g": "classifiers"}
+{"id": "JAH-IA-000021", "t": "Logistic — logistic regression (threshold 1.5)", "g": "classifiers"}
+{"id": "JAH-IA-000022", "t": "Logreg — logistic regression (threshold 0.0)", "g": "classifiers"}
+{"id": "JAH-IA-000023", "t": "Sigmoidfit — logistic regression (threshold 2.0)", "g": "classifiers"}
+{"id": "JAH-IA-000024", "t": "Logreg — logistic regression (threshold -0.5)", "g": "classifiers"}
+{"id": "JAH-IA-000025", "t": "Kmeans — k-means clustering (layout 1)", "g": "clustering"}
+{"id": "JAH-IA-000026", "t": "Kmeans — k-means clustering (layout 2)", "g": "clustering"}
+{"id": "JAH-IA-000027", "t": "Lloydcluster — k-means clustering (layout 3)", "g": "clustering"}
+{"id": "JAH-IA-000028", "t": "Kmeans — k-means clustering (layout 4)", "g": "clustering"}
+{"id": "JAH-IA-000029", "t": "Blobcluster — k-means clustering (layout 5)", "g": "clustering"}
+{"id": "JAH-IA-000030", "t": "Kmeans — k-means clustering (layout 6)", "g": "clustering"}
+{"id": "JAH-IA-000031", "t": "Qlearn — Q-learning gridworld (3000 episodes)", "g": "reinforcement-learning"}
+{"id": "JAH-IA-000032", "t": "Qlearn — Q-learning gridworld (4000 episodes)", "g": "reinforcement-learning"}
+{"id": "JAH-IA-000033", "t": "Gridlearner — Q-learning gridworld (2500 episodes)", "g": "reinforcement-learning"}
+{"id": "JAH-IA-000034", "t": "Qlearn — Q-learning gridworld (5000 episodes)", "g": "reinforcement-learning"}
+{"id": "JAH-IA-000035", "t": "Qagent — Q-learning gridworld (3000 episodes)", "g": "reinforcement-learning"}
+{"id": "JAH-IA-000036", "t": "Qlearn — Q-learning gridworld (3500 episodes)", "g": "reinforcement-learning"}
+{"id": "JAH-IA-000037", "t": "Geneticalgo — genetic optimizer (seed 2)", "g": "evolutionary-methods"}
+{"id": "JAH-IA-000038", "t": "Geneticalgo — genetic optimizer (seed 7)", "g": "evolutionary-methods"}
+{"id": "JAH-IA-000039", "t": "Evolver — genetic optimizer (seed 11)", "g": "evolutionary-methods"}
+{"id": "JAH-IA-000040", "t": "Geneticalgo — genetic optimizer (seed 13)", "g": "evolutionary-methods"}
+{"id": "JAH-IA-000041", "t": "Geneticopt — genetic optimizer (seed 17)", "g": "evolutionary-methods"}
+{"id": "JAH-IA-000042", "t": "Geneticalgo — genetic optimizer (seed 19)", "g": "evolutionary-methods"}
+{"id": "JAH-IA-000043", "t": "Mlpxor — MLP solving XOR (4 hidden)", "g": "neural-networks"}
+{"id": "JAH-IA-000044", "t": "Mlpxor — MLP solving XOR (6 hidden)", "g": "neural-networks"}
+{"id": "JAH-IA-000045", "t": "Neuralxor — MLP solving XOR (3 hidden)", "g": "neural-networks"}
+{"id": "JAH-IA-000046", "t": "Mlpxor — MLP solving XOR (5 hidden)", "g": "neural-networks"}
+{"id": "JAH-IA-000047", "t": "Tinybrain — MLP solving XOR (4 hidden)", "g": "neural-networks"}
+{"id": "JAH-IA-000048", "t": "Mlpxor — MLP solving XOR (8 hidden)", "g": "neural-networks"}
+{"id": "JAH-IA-000049", "t": "Dectree — decision tree (depth 2)", "g": "classifiers"}
+{"id": "JAH-IA-000050", "t": "Dectree — decision tree (depth 2) (2)", "g": "classifiers"}
+{"id": "JAH-IA-000051", "t": "Ginitree — decision tree (depth 3)", "g": "classifiers"}
+{"id": "JAH-IA-000052", "t": "Dectree — decision tree (depth 2) (3)", "g": "classifiers"}
+{"id": "JAH-IA-000053", "t": "Splittree — decision tree (depth 3)", "g": "classifiers"}
+{"id": "JAH-IA-000054", "t": "Dectree — decision tree (depth 2) (4)", "g": "classifiers"}
+{"id": "JAH-IA-000055", "t": "Pca — PCA projection (layout 1)", "g": "dimensionality-reduction"}
+{"id": "JAH-IA-000056", "t": "Pca — PCA projection (layout 2)", "g": "dimensionality-reduction"}
+{"id": "JAH-IA-000057", "t": "Powerpca — PCA projection (layout 3)", "g": "dimensionality-reduction"}
+{"id": "JAH-IA-000058", "t": "Pca — PCA projection (layout 4)", "g": "dimensionality-reduction"}
+{"id": "JAH-IA-000059", "t": "Eigproject — PCA projection (layout 5)", "g": "dimensionality-reduction"}
+{"id": "JAH-IA-000060", "t": "Pca — PCA projection (layout 6)", "g": "dimensionality-reduction"}

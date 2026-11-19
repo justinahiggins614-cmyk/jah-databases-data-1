@@ -1,0 +1,34 @@
+{"id": "JAH-TMDB-000001", "t": "AI Database Design and Management Signature Database: Relational Schema Design", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000002", "t": "AI Database Design and Management Signature Database: Choosing: SQL vs NoSQL vs NewSQL", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000003", "t": "AI Database Design and Management Signature Database: UUIDs vs Serial Keys", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000004", "t": "AI Database Design and Management Signature Database: JSONB: Flexible Inside Relational", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000005", "t": "AI Database Design and Management Signature Database: Constraints as Business Rules", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000006", "t": "AI Database Design and Management Signature Database: Soft Deletes vs Hard Deletes", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000007", "t": "AI Database Design and Management Signature Database: Multi-Tenancy Patterns", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000008", "t": "AI Database Design and Management Signature Database: Migration Workflow", "c": 0, "g": "migrations"}
+{"id": "JAH-TMDB-000009", "t": "AI Database Design and Management Signature Database: Zero-Downtime Migration Techniques", "c": 0, "g": "migrations"}
+{"id": "JAH-TMDB-000010", "t": "AI Database Design and Management Signature Database: Seed Data and Fixtures", "c": 0, "g": "migrations"}
+{"id": "JAH-TMDB-000011", "t": "AI Database Design and Management Signature Database: B-Tree Index Fundamentals", "c": 0, "g": "indexing"}
+{"id": "JAH-TMDB-000012", "t": "AI Database Design and Management Signature Database: Covering Indexes and Index-Only Scans", "c": 0, "g": "indexing"}
+{"id": "JAH-TMDB-000013", "t": "AI Database Design and Management Signature Database: Partial and Expression Indexes", "c": 0, "g": "indexing"}
+{"id": "JAH-TMDB-000014", "t": "AI Database Design and Management Signature Database: Full-Text Search in Postgres", "c": 0, "g": "indexing"}
+{"id": "JAH-TMDB-000015", "t": "AI Database Design and Management Signature Database: Backup Strategies", "c": 0, "g": "backups-recovery"}
+{"id": "JAH-TMDB-000016", "t": "AI Database Design and Management Signature Database: Point-in-Time Recovery", "c": 0, "g": "backups-recovery"}
+{"id": "JAH-TMDB-000017", "t": "AI Database Design and Management Signature Database: Replication and Failover", "c": 0, "g": "backups-recovery"}
+{"id": "JAH-TMDB-000018", "t": "AI Database Design and Management Signature Database: Read Replicas for Scale", "c": 0, "g": "scaling"}
+{"id": "JAH-TMDB-000019", "t": "AI Database Design and Management Signature Database: Connection Pooling", "c": 0, "g": "scaling"}
+{"id": "JAH-TMDB-000020", "t": "AI Database Design and Management Signature Database: Partitioning Big Tables", "c": 0, "g": "scaling"}
+{"id": "JAH-TMDB-000021", "t": "AI Database Design and Management Signature Database: Caching at the Data Layer", "c": 0, "g": "scaling"}
+{"id": "JAH-TMDB-000022", "t": "AI Database Design and Management Signature Database: Relational Schema Design (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000023", "t": "AI Database Design and Management Signature Database: Choosing: SQL vs NoSQL vs NewSQL (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000024", "t": "AI Database Design and Management Signature Database: UUIDs vs Serial Keys (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000025", "t": "AI Database Design and Management Signature Database: JSONB: Flexible Inside Relational (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000026", "t": "AI Database Design and Management Signature Database: Constraints as Business Rules (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000027", "t": "AI Database Design and Management Signature Database: Soft Deletes vs Hard Deletes (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000028", "t": "AI Database Design and Management Signature Database: Multi-Tenancy Patterns (variant 1)", "c": 0, "g": "schema-design"}
+{"id": "JAH-TMDB-000029", "t": "AI Database Design and Management Signature Database: Migration Workflow (variant 1)", "c": 0, "g": "migrations"}
+{"id": "JAH-TMDB-000030", "t": "AI Database Design and Management Signature Database: Zero-Downtime Migration Techniques (variant 1)", "c": 0, "g": "migrations"}
+{"id": "JAH-TMDB-000031", "t": "AI Database Design and Management Signature Database: Seed Data and Fixtures (variant 1)", "c": 0, "g": "migrations"}
+{"id": "JAH-TMDB-000032", "t": "AI Database Design and Management Signature Database: B-Tree Index Fundamentals (variant 1)", "c": 0, "g": "indexing"}
+{"id": "JAH-TMDB-000033", "t": "AI Database Design and Management Signature Database: Covering Indexes and Index-Only Scans (variant 1)", "c": 0, "g": "indexing"}
+{"id": "JAH-TMDB-000034", "t": "AI Database Design and Management Signature Database: Partial and Expression Indexes (variant 1)", "c": 0, "g": "indexing"}

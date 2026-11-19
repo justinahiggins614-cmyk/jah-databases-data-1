@@ -1,0 +1,59 @@
+{"id": "JAH-CIT-000001", "t": "What Is Cloud Computing", "g": "Foundations"}
+{"id": "JAH-CIT-000002", "t": "The Internet: How Packets Travel", "g": "Foundations"}
+{"id": "JAH-CIT-000003", "t": "DNS: The Internet Phone Book", "g": "Foundations"}
+{"id": "JAH-CIT-000004", "t": "IP Addresses and Subnetting", "g": "Foundations"}
+{"id": "JAH-CIT-000005", "t": "HTTP and the Web Request", "g": "Foundations"}
+{"id": "JAH-CIT-000006", "t": "TLS and HTTPS: Encryption in Transit", "g": "Foundations"}
+{"id": "JAH-CIT-000007", "t": "Virtualization: One Machine, Many", "g": "Foundations"}
+{"id": "JAH-CIT-000008", "t": "Cloud Service Models: IaaS, PaaS, and SaaS", "g": "Foundations"}
+{"id": "JAH-CIT-000009", "t": "Cloud Deployment Models: Public, Private, and Hybrid", "g": "Foundations"}
+{"id": "JAH-CIT-000010", "t": "Data Centers, Regions, and Availability Zones", "g": "Foundations"}
+{"id": "JAH-CIT-000011", "t": "Cloud Storage: Object, File, and Block", "g": "Foundations"}
+{"id": "JAH-CIT-000012", "t": "Containers and Container Images", "g": "Compounded"}
+{"id": "JAH-CIT-000013", "t": "Kubernetes: Container Orchestration", "g": "Compounded"}
+{"id": "JAH-CIT-000014", "t": "Load Balancers and Auto Scaling", "g": "Compounded"}
+{"id": "JAH-CIT-000015", "t": "Content Delivery Networks", "g": "Compounded"}
+{"id": "JAH-CIT-000016", "t": "Virtual Networks, Subnets, and Firewalls", "g": "Compounded"}
+{"id": "JAH-CIT-000017", "t": "Cloud Databases: Relational and NoSQL", "g": "Compounded"}
+{"id": "JAH-CIT-000018", "t": "Serverless Computing and Functions as a Service", "g": "Compounded"}
+{"id": "JAH-CIT-000019", "t": "Identity and Access Management in the Cloud", "g": "Compounded"}
+{"id": "JAH-CIT-000020", "t": "Message Queues and Event Streams", "g": "Compounded"}
+{"id": "JAH-CIT-000021", "t": "CI and CD: Cloud Deployment Pipelines", "g": "Compounded"}
+{"id": "JAH-CIT-000022", "t": "Caching: Redis and Memcached", "g": "Compounded"}
+{"id": "JAH-CIT-000023", "t": "Edge Computing", "g": "Advanced"}
+{"id": "JAH-CIT-000024", "t": "IoT Connectivity: MQTT and Device Fleets", "g": "Advanced"}
+{"id": "JAH-CIT-000025", "t": "Cloud Security: The Shared Responsibility Model", "g": "Advanced"}
+{"id": "JAH-CIT-000026", "t": "DDoS Defense and Web Application Firewalls", "g": "Advanced"}
+{"id": "JAH-CIT-000027", "t": "Zero Trust Network Architecture", "g": "Advanced"}
+{"id": "JAH-CIT-000028", "t": "Multi-Cloud and Hybrid Architecture", "g": "Advanced"}
+{"id": "JAH-CIT-000029", "t": "Observability: Logs, Metrics, and Traces", "g": "Advanced"}
+{"id": "JAH-CIT-000030", "t": "Cloud Cost Engineering and FinOps", "g": "Advanced"}
+{"id": "JAH-CIT-000031", "t": "Disaster Recovery and Cloud Backups", "g": "Advanced"}
+{"id": "JAH-CIT-000032", "t": "Infrastructure as Code", "g": "Advanced"}
+{"id": "JAH-CIT-000033", "t": "Service Mesh", "g": "Advanced"}
+{"id": "JAH-CIT-000034", "t": "The Future Internet: IPv6, QUIC, and Beyond", "g": "Advanced"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000035", "t": "Delay-Tolerant Networking Protocols"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000036", "t": "Mars Relay Orbiter Network"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000037", "t": "Laser Communication Terminals"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000038", "t": "The Lunar Internet Gateway"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000039", "t": "Caching at Interplanetary Scale"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000040", "t": "Time Synchronization Across Planets"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000041", "t": "Security for the Deep-Space Network"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000042", "t": "The Outer Planets Relay Chain"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000043", "t": "Interplanetary Email and Messaging"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000044", "t": "The Mars Web: A Local Internet"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000045", "t": "Deep-Space Network Ground Stations"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000046", "t": "Protocols for Crewed Missions"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000047", "t": "The Interplanetary Address System"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000048", "t": "Governance of the Space Network"}
+{"g": "Interplanetary Internet", "id": "JAH-CIT-000049", "t": "The First Interplanetary Packet"}
+{"id": "JAH-CIT-000050", "t": "The Deep Space Network", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000051", "t": "Delay-Tolerant Networking", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000052", "t": "Laser Links Between Planets", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000053", "t": "The Mars Relay Orbiters", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000054", "t": "Interplanetary Internet Protocols", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000055", "t": "Lunar Gateway Communications", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000056", "t": "The Solar System Internet Vision", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000057", "t": "Deep-Space Optical Terminals", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000058", "t": "Store-and-Forward in Space", "g": "Interplanetary Internet"}
+{"id": "JAH-CIT-000059", "t": "The Earth-Mars Link Budget", "g": "Interplanetary Internet"}

@@ -1,0 +1,57 @@
+{"id": "JAH-FBT-000001", "t": "Parametric CAD", "g": "fab"}
+{"id": "JAH-FBT-000002", "t": "Direct CAD", "g": "fab"}
+{"id": "JAH-FBT-000003", "t": "Mesh Editors", "g": "fab"}
+{"id": "JAH-FBT-000004", "t": "Surface Modelers", "g": "fab"}
+{"id": "JAH-FBT-000005", "t": "CAM Processors", "g": "fab"}
+{"id": "JAH-FBT-000006", "t": "Toolpath Generators", "g": "fab"}
+{"id": "JAH-FBT-000007", "t": "Post-Processors", "g": "fab"}
+{"id": "JAH-FBT-000008", "t": "G-Code Simulators", "g": "fab"}
+{"id": "JAH-FBT-000009", "t": "G-Code Editors", "g": "fab"}
+{"id": "JAH-FBT-000010", "t": "Feed Calculators", "g": "fab"}
+{"id": "JAH-FBT-000011", "t": "Speed Calculators", "g": "fab"}
+{"id": "JAH-FBT-000012", "t": "Cutting Optimizers", "g": "fab"}
+{"id": "JAH-FBT-000013", "t": "Nesting Tools", "g": "fab"}
+{"id": "JAH-FBT-000014", "t": "Kerf Compensators", "g": "fab"}
+{"id": "JAH-FBT-000015", "t": "Tab Generators", "g": "fab"}
+{"id": "JAH-FBT-000016", "t": "Lead-In Tools", "g": "fab"}
+{"id": "JAH-FBT-000017", "t": "Pierce Controllers", "g": "fab"}
+{"id": "JAH-FBT-000018", "t": "Height Controllers", "g": "fab"}
+{"id": "JAH-FBT-000019", "t": "Breakaway Tools", "g": "fab"}
+{"id": "JAH-FBT-000020", "t": "Dust Collectors", "g": "fab"}
+{"id": "JAH-FBT-000021", "t": "Coolant Systems", "g": "fab"}
+{"id": "JAH-FBT-000022", "t": "Workholding Designers", "g": "fab"}
+{"id": "JAH-FBT-000023", "t": "Fixture Plates", "g": "fab"}
+{"id": "JAH-FBT-000024", "t": "Soft Jaw Generators", "g": "fab"}
+{"id": "JAH-FBT-000025", "t": "Probe Cycles", "g": "fab"}
+{"id": "JAH-FBT-000026", "t": "Tool Setters", "g": "fab"}
+{"id": "JAH-FBT-000027", "t": "Tool Libraries", "g": "fab"}
+{"id": "JAH-FBT-000028", "t": "Wear Compensators", "g": "fab"}
+{"id": "JAH-FBT-000029", "t": "Chatter Analyzers", "g": "fab"}
+{"id": "JAH-FBT-000030", "t": "Surface Finish Estimators", "g": "fab"}
+{"id": "JAH-FBT-000031", "t": "Cycle Time Estimators", "g": "fab"}
+{"id": "JAH-FBT-000032", "t": "Cost Estimators", "g": "fab"}
+{"id": "JAH-FBT-000033", "t": "Quoting Tools", "g": "fab"}
+{"id": "JAH-FBT-000034", "t": "Job Trackers", "g": "fab"}
+{"id": "JAH-FBT-000035", "t": "Inventory Managers", "g": "fab"}
+{"id": "JAH-FBT-000036", "t": "Maintenance Schedulers", "g": "fab"}
+{"id": "JAH-FBT-000037", "t": "Calibration Tools", "g": "fab"}
+{"id": "JAH-FBT-000038", "t": "Laser Aligners", "g": "fab"}
+{"id": "JAH-FBT-000039", "t": "Beam Profilers", "g": "fab"}
+{"id": "JAH-FBT-000040", "t": "Power Meters", "g": "fab"}
+{"id": "JAH-FBT-000041", "t": "Fume Extractors", "g": "fab"}
+{"id": "JAH-FBT-000042", "t": "Air Assist Controllers", "g": "fab"}
+{"id": "JAH-FBT-000043", "t": "Gas Mixers", "g": "fab"}
+{"id": "JAH-FBT-000044", "t": "Etching Tanks", "g": "fab"}
+{"id": "JAH-FBT-000045", "t": "Plating Controllers", "g": "fab"}
+{"id": "JAH-FBT-000046", "t": "Anodizing Controllers", "g": "fab"}
+{"id": "JAH-FBT-000047", "t": "Powder Coating Guns", "g": "fab"}
+{"id": "JAH-FBT-000048", "t": "Sandblasters", "g": "fab"}
+{"id": "JAH-FBT-000049", "t": "Vibratory Finishers", "g": "fab"}
+{"id": "JAH-FBT-000050", "t": "Ultrasonic Cleaners", "g": "fab"}
+{"id": "JAH-FBT-000051", "t": "Parts Washers", "g": "fab"}
+{"id": "JAH-FBT-000052", "t": "Rust Preventatives", "g": "fab"}
+{"id": "JAH-FBT-000053", "t": "CMM Software", "g": "fab"}
+{"id": "JAH-FBT-000054", "t": "Vision Systems", "g": "fab"}
+{"id": "JAH-FBT-000055", "t": "Roughness Testers", "g": "fab"}
+{"id": "JAH-FBT-000056", "t": "Hardness Testers", "g": "fab"}
+{"id": "JAH-FBT-000057", "t": "Tensile Testers", "g": "fab"}

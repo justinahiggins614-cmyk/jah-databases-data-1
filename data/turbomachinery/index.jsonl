@@ -1,0 +1,37 @@
+{"id": "JAH-TM-000001", "t": "What Turbomachinery Is: The Machines That Move Fluids Through Spinning Blades", "g": "Foundations"}
+{"id": "JAH-TM-000002", "t": "The Fluid Mechanics Foundation: Pressure, Velocity, and the Duct", "g": "Foundations"}
+{"id": "JAH-TM-000003", "t": "The Conservation Laws: Mass, Momentum, and Energy Across the Machine", "g": "Foundations"}
+{"id": "JAH-TM-000004", "t": "The Euler Turbine Equation: The One Equation That Rules Every Rotor", "g": "Foundations"}
+{"id": "JAH-TM-000005", "t": "Velocity Triangles: The Language Every Blade Speaks", "g": "Foundations"}
+{"id": "JAH-TM-000006", "t": "Degree of Reaction: Splitting the Pressure Change Between Rotor and Stator", "g": "Foundations"}
+{"id": "JAH-TM-000007", "t": "The Turbomachinery Family: Turbines, Compressors, Pumps, and Fans", "g": "Foundations"}
+{"id": "JAH-TM-000008", "t": "Axial, Radial, and Mixed Flow: Three Geometries, One Physics", "g": "Foundations"}
+{"id": "JAH-TM-000009", "t": "Dimensionless Performance: The Flow, Head, and Power Coefficients", "g": "Foundations"}
+{"id": "JAH-TM-000010", "t": "Specific Speed and Specific Diameter: The Machine Selector's Compass", "g": "Foundations"}
+{"id": "JAH-TM-000011", "t": "The Affinity Laws: How Speed Changes Everything, Predictably", "g": "Foundations"}
+{"id": "JAH-TM-000012", "t": "Losses and Efficiency: Where the Energy Goes", "g": "Foundations"}
+{"id": "JAH-TM-000013", "t": "Steam Turbines: Impulse, Reaction, and the Rankine Workhorse", "g": "Compounded"}
+{"id": "JAH-TM-000014", "t": "Gas Turbines: The Brayton Cycle Made of Metal", "g": "Compounded"}
+{"id": "JAH-TM-000015", "t": "Wind Turbines: Harvesting the Sky Within the Betz Limit", "g": "Compounded"}
+{"id": "JAH-TM-000016", "t": "Hydraulic Turbines: Pelton, Francis, and Kaplan by Head and Flow", "g": "Compounded"}
+{"id": "JAH-TM-000017", "t": "Axial Compressors: Building Pressure Stage by Stage", "g": "Compounded"}
+{"id": "JAH-TM-000018", "t": "Centrifugal Compressors: The Impeller, the Slip, and the Diffuser", "g": "Compounded"}
+{"id": "JAH-TM-000019", "t": "Centrifugal and Axial Pumps: The Rotodynamic Workhorses", "g": "Compounded"}
+{"id": "JAH-TM-000020", "t": "Positive Displacement Pumps: When Flow Must Be Forced, Not Flung", "g": "Compounded"}
+{"id": "JAH-TM-000021", "t": "Fans and Blowers: Moving Air at Low Pressure Rise", "g": "Compounded"}
+{"id": "JAH-TM-000022", "t": "Performance Maps: Reading the Compressor and Pump Chart", "g": "Compounded"}
+{"id": "JAH-TM-000023", "t": "Blade Cascades and Airfoils: The Two-Dimensional Heart of the Blade", "g": "Compounded"}
+{"id": "JAH-TM-000024", "t": "Cavitation: When Liquid Boils Inside the Pump", "g": "Compounded"}
+{"id": "JAH-TM-000025", "t": "Net Positive Suction Head: The Guard Against Cavitation", "g": "Compounded"}
+{"id": "JAH-TM-000026", "t": "Surge and Stall: The Instability Twins of Compression", "g": "Advanced"}
+{"id": "JAH-TM-000027", "t": "Rotordynamics: Critical Speeds and the Spinning Shaft", "g": "Advanced"}
+{"id": "JAH-TM-000028", "t": "Bearings: Rolling, Fluid-Film, and Magnetic", "g": "Advanced"}
+{"id": "JAH-TM-000029", "t": "Seals and Leakage Control: Labyrinths, Brushes, and Dry Gas Seals", "g": "Advanced"}
+{"id": "JAH-TM-000030", "t": "Blade Cooling and High-Temperature Materials: Surviving the Furnace", "g": "Advanced"}
+{"id": "JAH-TM-000031", "t": "Tip Clearance and Secondary Flows: The Efficiency Thieves", "g": "Advanced"}
+{"id": "JAH-TM-000032", "t": "Multi-Stage Matching and Off-Design Operation", "g": "Advanced"}
+{"id": "JAH-TM-000033", "t": "Variable Geometry: Inlet Guide Vanes and Variable Stators", "g": "Advanced"}
+{"id": "JAH-TM-000034", "t": "Combined Cycles and Cogeneration: Squeezing Every Joule", "g": "Advanced"}
+{"id": "JAH-TM-000035", "t": "Condition Monitoring and Failure Modes: Listening to the Machine", "g": "Advanced"}
+{"id": "JAH-TM-000036", "t": "The Design Workflow: From Duty Point to Manufactured Blade", "g": "Advanced"}
+{"id": "JAH-TM-000037", "t": "The Frontier: Hydrogen Turbines and Supercritical Carbon Dioxide", "g": "Advanced"}

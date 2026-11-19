@@ -1,0 +1,74 @@
+{"id": "JAH-INC-000001", "t": "What Is an Incident", "g": "Foundations"}
+{"id": "JAH-INC-000002", "t": "What Is an Outage", "g": "Foundations"}
+{"id": "JAH-INC-000003", "t": "The Incident Lifecycle", "g": "Foundations"}
+{"id": "JAH-INC-000004", "t": "Mean Time to Restore: MTTR", "g": "Foundations"}
+{"id": "JAH-INC-000005", "t": "Mean Time Between Failures: MTBF", "g": "Foundations"}
+{"id": "JAH-INC-000006", "t": "Availability and the Nines", "g": "Foundations"}
+{"id": "JAH-INC-000007", "t": "Recording the Fault Timeline", "g": "Foundations"}
+{"id": "JAH-INC-000008", "t": "Mapping Affected Systems and Blast Radius", "g": "Foundations"}
+{"id": "JAH-INC-000009", "t": "Assessing Incident Impact", "g": "Foundations"}
+{"id": "JAH-INC-000010", "t": "Detection and Alerting", "g": "Foundations"}
+{"id": "JAH-INC-000011", "t": "On-Call Rotations and Escalation Ladders", "g": "Foundations"}
+{"id": "JAH-INC-000012", "t": "Incident Communication Discipline", "g": "Foundations"}
+{"id": "JAH-INC-000013", "t": "The Incident Commander", "g": "Compounded"}
+{"id": "JAH-INC-000014", "t": "Triage and Severity Assignment", "g": "Compounded"}
+{"id": "JAH-INC-000015", "t": "Mitigation Before Resolution", "g": "Compounded"}
+{"id": "JAH-INC-000016", "t": "Restoration and Rollback Plans", "g": "Compounded"}
+{"id": "JAH-INC-000017", "t": "The Five Whys", "g": "Compounded"}
+{"id": "JAH-INC-000018", "t": "Fishbone Diagrams and Fault Trees", "g": "Compounded"}
+{"id": "JAH-INC-000019", "t": "Blameless Postmortems", "g": "Compounded"}
+{"id": "JAH-INC-000020", "t": "The Postmortem Template", "g": "Compounded"}
+{"id": "JAH-INC-000021", "t": "Tracking Remediation Action Items", "g": "Compounded"}
+{"id": "JAH-INC-000022", "t": "Status Page Operations", "g": "Compounded"}
+{"id": "JAH-INC-000023", "t": "Paging and Alert Routing", "g": "Compounded"}
+{"id": "JAH-INC-000024", "t": "The Incident Bridge and War Room", "g": "Compounded"}
+{"id": "JAH-INC-000025", "t": "Site Reliability Engineering and Error Budgets", "g": "Advanced"}
+{"id": "JAH-INC-000026", "t": "Chaos Engineering", "g": "Advanced"}
+{"id": "JAH-INC-000027", "t": "Observability in Incident Response", "g": "Advanced"}
+{"id": "JAH-INC-000028", "t": "Incident Metrics Dashboards", "g": "Advanced"}
+{"id": "JAH-INC-000029", "t": "DORA Metrics and Elite Performer Benchmarks", "g": "Advanced"}
+{"id": "JAH-INC-000030", "t": "Game Days and Incident Drills", "g": "Advanced"}
+{"id": "JAH-INC-000031", "t": "Incident Review Boards", "g": "Advanced"}
+{"id": "JAH-INC-000032", "t": "Case Study: The Dyn DDoS Outage of October 2016", "g": "Advanced"}
+{"id": "JAH-INC-000033", "t": "Case Study: The Fastly Global Outage of June 2021", "g": "Advanced"}
+{"id": "JAH-INC-000034", "t": "Case Study: The AWS US-East-1 Outage of December 2021", "g": "Advanced"}
+{"id": "JAH-INC-000035", "t": "Detecting Data Quality Issues Early", "g": "Data Quality"}
+{"id": "JAH-INC-000036", "t": "Incident Severity Levels for Data Issues", "g": "Data Quality"}
+{"id": "JAH-INC-000037", "t": "Root Cause Analysis for Data Incidents", "g": "Data Quality"}
+{"id": "JAH-INC-000038", "t": "Data Lineage Tracing in Incidents", "g": "Data Quality"}
+{"id": "JAH-INC-000039", "t": "Quarantine Procedures for Bad Data", "g": "Data Quality"}
+{"id": "JAH-INC-000040", "t": "Stakeholder Communication During Data Incidents", "g": "Data Quality"}
+{"id": "JAH-INC-000041", "t": "Data SLAs: Freshness and Accuracy Contracts", "g": "Data Quality"}
+{"id": "JAH-INC-000042", "t": "Backfill Procedures After Data Incidents", "g": "Data Quality"}
+{"id": "JAH-INC-000043", "t": "Validation Rules as Data Contracts", "g": "Data Quality"}
+{"id": "JAH-INC-000044", "t": "Monitoring Dashboards for Data Quality", "g": "Data Quality"}
+{"id": "JAH-INC-000045", "t": "Data Incident Postmortems", "g": "Data Quality"}
+{"id": "JAH-INC-000046", "t": "Data Contracts Between Producers and Consumers", "g": "Data Quality"}
+{"id": "JAH-INC-000047", "t": "Ownership Assignment for Data Quality", "g": "Data Quality"}
+{"id": "JAH-INC-000048", "t": "Escalation Paths for Data Incidents", "g": "Data Quality"}
+{"id": "JAH-INC-000049", "t": "Regulatory Reporting of Data Incidents", "g": "Data Quality"}
+{"id": "JAH-INC-000050", "t": "Customer Impact Assessment for Data Issues", "g": "Data Quality"}
+{"id": "JAH-INC-000051", "t": "Remediation Playbooks for Common Data Failures", "g": "Data Quality"}
+{"id": "JAH-INC-000052", "t": "Preventing Data Incidents: Shift-Left Quality", "g": "Data Quality"}
+{"id": "JAH-INC-000053", "t": "Data Quality Tooling Landscape", "g": "Data Quality"}
+{"id": "JAH-INC-000054", "t": "Data Quality Metrics That Matter", "g": "Data Quality"}
+{"id": "JAH-INC-000055", "t": "Power Outage Preparedness Kit", "g": "Outage Management"}
+{"id": "JAH-INC-000056", "t": "Food Safety During Power Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000057", "t": "Medical Devices During Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000058", "t": "Generator Safety: The Life-or-Death Rules", "g": "Outage Management"}
+{"id": "JAH-INC-000059", "t": "Reporting Power Outages Effectively", "g": "Outage Management"}
+{"id": "JAH-INC-000060", "t": "Utility Coordination During Major Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000061", "t": "Business Continuity During Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000062", "t": "Outage Communication Plans for Families", "g": "Outage Management"}
+{"id": "JAH-INC-000063", "t": "Vulnerable Populations in Power Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000064", "t": "Reading Utility Outage Maps", "g": "Outage Management"}
+{"id": "JAH-INC-000065", "t": "Restoration Priorities: Who Gets Power First", "g": "Outage Management"}
+{"id": "JAH-INC-000066", "t": "Mutual Aid: How Utilities Share Crews", "g": "Outage Management"}
+{"id": "JAH-INC-000067", "t": "Regulatory Reporting of Major Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000068", "t": "Customer Notifications During Outages", "g": "Outage Management"}
+{"id": "JAH-INC-000069", "t": "Cold-Weather Power Outages: Survival", "g": "Outage Management"}
+{"id": "JAH-INC-000070", "t": "Heat-Wave Power Outages: Cooling Without AC", "g": "Outage Management"}
+{"id": "JAH-INC-000071", "t": "Cyber-Related Power Outages: Preparedness", "g": "Outage Management"}
+{"id": "JAH-INC-000072", "t": "Post-Outage Review for Households", "g": "Outage Management"}
+{"id": "JAH-INC-000073", "t": "Grid Hardening: The Long-Term Fix", "g": "Outage Management"}
+{"id": "JAH-INC-000074", "t": "Outage Safety for Children and Pets", "g": "Outage Management"}

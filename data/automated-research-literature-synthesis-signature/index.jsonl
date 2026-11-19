@@ -1,0 +1,34 @@
+{"id": "JAH-ARLSS-000001", "t": "Automated Research and Literature Synthesis Signature Database: Research Question", "c": 0, "g": "foundations"}
+{"id": "JAH-ARLSS-000002", "t": "Automated Research and Literature Synthesis Signature Database: Literature Search", "c": 0, "g": "discovery"}
+{"id": "JAH-ARLSS-000003", "t": "Automated Research and Literature Synthesis Signature Database: Source Triage", "c": 0, "g": "discovery"}
+{"id": "JAH-ARLSS-000004", "t": "Automated Research and Literature Synthesis Signature Database: Evidence Extraction", "c": 0, "g": "extraction"}
+{"id": "JAH-ARLSS-000005", "t": "Automated Research and Literature Synthesis Signature Database: Evidence Matrix", "c": 0, "g": "extraction"}
+{"id": "JAH-ARLSS-000006", "t": "Automated Research and Literature Synthesis Signature Database: Quality Appraisal", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000007", "t": "Automated Research and Literature Synthesis Signature Database: Synthesis", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000008", "t": "Automated Research and Literature Synthesis Signature Database: Meta-Analysis (workflow)", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000009", "t": "Automated Research and Literature Synthesis Signature Database: Citation Management", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000010", "t": "Automated Research and Literature Synthesis Signature Database: Gap Identification", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000011", "t": "Automated Research and Literature Synthesis Signature Database: Hypothesis Generation", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000012", "t": "Automated Research and Literature Synthesis Signature Database: Replication Check", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000013", "t": "Automated Research and Literature Synthesis Signature Database: Bias Assessment", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000014", "t": "Automated Research and Literature Synthesis Signature Database: PRISMA Flow", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000015", "t": "Automated Research and Literature Synthesis Signature Database: Inclusion Criteria", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000016", "t": "Automated Research and Literature Synthesis Signature Database: Data Extraction Form", "c": 0, "g": "extraction"}
+{"id": "JAH-ARLSS-000017", "t": "Automated Research and Literature Synthesis Signature Database: Thematic Analysis", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000018", "t": "Automated Research and Literature Synthesis Signature Database: Narrative Synthesis", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000019", "t": "Automated Research and Literature Synthesis Signature Database: Scoping Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000020", "t": "Automated Research and Literature Synthesis Signature Database: Systematic Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000021", "t": "Automated Research and Literature Synthesis Signature Database: Rapid Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000022", "t": "Automated Research and Literature Synthesis Signature Database: Living Review", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000023", "t": "Automated Research and Literature Synthesis Signature Database: Preprint Triage", "c": 0, "g": "discovery"}
+{"id": "JAH-ARLSS-000024", "t": "Automated Research and Literature Synthesis Signature Database: Retraction Check", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000025", "t": "Automated Research and Literature Synthesis Signature Database: Version Tracking", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000026", "t": "Automated Research and Literature Synthesis Signature Database: Author Disambiguation", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000027", "t": "Automated Research and Literature Synthesis Signature Database: Funding Disclosure", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000028", "t": "Automated Research and Literature Synthesis Signature Database: Open Access Check", "c": 0, "g": "methods"}
+{"id": "JAH-ARLSS-000029", "t": "Automated Research and Literature Synthesis Signature Database: Data Availability", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000030", "t": "Automated Research and Literature Synthesis Signature Database: Code Availability", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000031", "t": "Automated Research and Literature Synthesis Signature Database: Report Writing", "c": 0, "g": "synthesis"}
+{"id": "JAH-ARLSS-000032", "t": "Automated Research and Literature Synthesis Signature Database: Peer Review (workflow)", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000033", "t": "Automated Research and Literature Synthesis Signature Database: Evidence Grading", "c": 0, "g": "appraisal"}
+{"id": "JAH-ARLSS-000034", "t": "Automated Research and Literature Synthesis Signature Database: Capstone: Research Program", "c": 0, "g": "synthesis"}

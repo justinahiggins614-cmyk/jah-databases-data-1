@@ -1,0 +1,34 @@
+{"id": "JAH-OSRES-000001", "t": "Operating System and Runtime Engineering Signature Database: LRU Cache", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000002", "t": "Operating System and Runtime Engineering Signature Database: FIFO Page Replacement", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000003", "t": "Operating System and Runtime Engineering Signature Database: Round-Robin Scheduler", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000004", "t": "Operating System and Runtime Engineering Signature Database: Priority Scheduler", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000005", "t": "Operating System and Runtime Engineering Signature Database: Banker Safety Check", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000006", "t": "Operating System and Runtime Engineering Signature Database: Wait-For Graph Deadlock Detection", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000007", "t": "Operating System and Runtime Engineering Signature Database: Lock Ordering (Deadlock Prevention)", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000008", "t": "Operating System and Runtime Engineering Signature Database: Counting Semaphore", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000009", "t": "Operating System and Runtime Engineering Signature Database: Reader-Writer Lock", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000010", "t": "Operating System and Runtime Engineering Signature Database: First-Fit Allocator", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000011", "t": "Operating System and Runtime Engineering Signature Database: Reference Counting", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000012", "t": "Operating System and Runtime Engineering Signature Database: Mark-Sweep GC", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000013", "t": "Operating System and Runtime Engineering Signature Database: Circular Pipe Buffer", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000014", "t": "Operating System and Runtime Engineering Signature Database: Token Bucket Rate Limiter", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000015", "t": "Operating System and Runtime Engineering Signature Database: Timer Wheel", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000016", "t": "Operating System and Runtime Engineering Signature Database: Exponential Load Average", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000017", "t": "Operating System and Runtime Engineering Signature Database: Watchdog Timer", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000018", "t": "Operating System and Runtime Engineering Signature Database: Heartbeat Failure Detector", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000019", "t": "Operating System and Runtime Engineering Signature Database: Checksum (Fletcher-16)", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000020", "t": "Operating System and Runtime Engineering Signature Database: Endianness Convert", "c": 0, "g": "portability"}
+{"id": "JAH-OSRES-000021", "t": "Operating System and Runtime Engineering Signature Database: Copy-On-Write Fork", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000022", "t": "Operating System and Runtime Engineering Signature Database: Write-Ahead Log", "c": 0, "g": "filesystems"}
+{"id": "JAH-OSRES-000023", "t": "Operating System and Runtime Engineering Signature Database: Inode Path Resolution", "c": 0, "g": "filesystems"}
+{"id": "JAH-OSRES-000024", "t": "Operating System and Runtime Engineering Signature Database: Signal Handler Table", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000025", "t": "Operating System and Runtime Engineering Signature Database: CPU Affinity Mask", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000026", "t": "Operating System and Runtime Engineering Signature Database: Priority Inheritance", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000027", "t": "Operating System and Runtime Engineering Signature Database: Leaky Bucket", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000028", "t": "Operating System and Runtime Engineering Signature Database: File Descriptor Table", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000029", "t": "Operating System and Runtime Engineering Signature Database: Buddy Allocator (Simplified)", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000030", "t": "Operating System and Runtime Engineering Signature Database: Epoll-Style Readiness", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000031", "t": "Operating System and Runtime Engineering Signature Database: Mini Process Scheduler Simulation", "c": 0, "g": "scheduling"}
+{"id": "JAH-OSRES-000032", "t": "Operating System and Runtime Engineering Signature Database: Barrier Synchronization", "c": 0, "g": "processes"}
+{"id": "JAH-OSRES-000033", "t": "Operating System and Runtime Engineering Signature Database: Memory-Mapped File (Model)", "c": 0, "g": "memory"}
+{"id": "JAH-OSRES-000034", "t": "Operating System and Runtime Engineering Signature Database: Nice Levels", "c": 0, "g": "scheduling"}

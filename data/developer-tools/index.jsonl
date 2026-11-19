@@ -1,0 +1,60 @@
+{"id": "JAH-DVT-000001", "t": "Toolchains", "g": "build"}
+{"id": "JAH-DVT-000002", "t": "Compilers", "g": "build"}
+{"id": "JAH-DVT-000003", "t": "Decompilers", "g": "build"}
+{"id": "JAH-DVT-000004", "t": "Cross-Compilers", "g": "build"}
+{"id": "JAH-DVT-000005", "t": "JIT Compilers", "g": "build"}
+{"id": "JAH-DVT-000006", "t": "AOT Compilers", "g": "build"}
+{"id": "JAH-DVT-000007", "t": "Interpreters", "g": "build"}
+{"id": "JAH-DVT-000008", "t": "Transpilers", "g": "build"}
+{"id": "JAH-DVT-000009", "t": "Assemblers", "g": "build"}
+{"id": "JAH-DVT-000010", "t": "Disassemblers", "g": "build"}
+{"id": "JAH-DVT-000011", "t": "Linkers", "g": "build"}
+{"id": "JAH-DVT-000012", "t": "Loaders", "g": "build"}
+{"id": "JAH-DVT-000013", "t": "Debuggers", "g": "build"}
+{"id": "JAH-DVT-000014", "t": "Source-Level Debuggers", "g": "build"}
+{"id": "JAH-DVT-000015", "t": "Profilers", "g": "build"}
+{"id": "JAH-DVT-000016", "t": "CPU Profilers", "g": "build"}
+{"id": "JAH-DVT-000017", "t": "Memory Profilers", "g": "build"}
+{"id": "JAH-DVT-000018", "t": "Linters", "g": "build"}
+{"id": "JAH-DVT-000019", "t": "Code Formatters", "g": "build"}
+{"id": "JAH-DVT-000020", "t": "Static Analyzers", "g": "build"}
+{"id": "JAH-DVT-000021", "t": "Code Generators", "g": "build"}
+{"id": "JAH-DVT-000022", "t": "Bundlers", "g": "build"}
+{"id": "JAH-DVT-000023", "t": "Minifiers", "g": "build"}
+{"id": "JAH-DVT-000024", "t": "Obfuscators", "g": "build"}
+{"id": "JAH-DVT-000025", "t": "Package Managers", "g": "build"}
+{"id": "JAH-DVT-000026", "t": "Build Systems", "g": "build"}
+{"id": "JAH-DVT-000027", "t": "Task Runners", "g": "build"}
+{"id": "JAH-DVT-000028", "t": "CI/CD Runners", "g": "build"}
+{"id": "JAH-DVT-000029", "t": "Schema Generators", "g": "build"}
+{"id": "JAH-DVT-000030", "t": "API Generators", "g": "build"}
+{"id": "JAH-DVT-000031", "t": "Interface Generators", "g": "build"}
+{"id": "JAH-DVT-000032", "t": "Program Loaders", "g": "build"}
+{"id": "JAH-DVT-000033", "t": "Kernel Debuggers", "g": "build"}
+{"id": "JAH-DVT-000034", "t": "Network Profilers", "g": "build"}
+{"id": "JAH-DVT-000035", "t": "Dynamic Analyzers", "g": "build"}
+{"id": "JAH-DVT-000036", "t": "Module Bundlers", "g": "build"}
+{"id": "JAH-DVT-000037", "t": "Static Linkers", "g": "build"}
+{"id": "JAH-DVT-000038", "t": "Dynamic Linkers", "g": "build"}
+{"id": "JAH-DVT-000039", "t": "Hardware Debuggers", "g": "build"}
+{"id": "JAH-DVT-000040", "t": "Orchestrators", "g": "build"}
+{"id": "JAH-DVT-000041", "t": "Dependency Resolvers", "g": "build"}
+{"id": "JAH-DVT-000042", "t": "Code Optimizers", "g": "build"}
+{"id": "JAH-DVT-000043", "t": "Benchmark Harnesses", "g": "build"}
+{"id": "JAH-DVT-000044", "t": "Stress Test Tools", "g": "build"}
+{"id": "JAH-DVT-000045", "t": "Test Frameworks", "g": "build"}
+{"id": "JAH-DVT-000046", "t": "Mock Servers", "g": "build"}
+{"id": "JAH-DVT-000047", "t": "Fuzzers", "g": "build"}
+{"id": "JAH-DVT-000048", "t": "Log Analyzers", "g": "build"}
+{"id": "JAH-DVT-000049", "t": "API Documentation Generators", "g": "build"}
+{"id": "JAH-DVT-000050", "t": "Internationalization Tools", "g": "build"}
+{"id": "JAH-DVT-000051", "t": "Container Builders", "g": "build"}
+{"id": "JAH-DVT-000052", "t": "Cross-Platform Build Tools", "g": "build"}
+{"id": "JAH-DVT-000053", "t": "Release Managers", "g": "build"}
+{"id": "JAH-DVT-000054", "t": "Static Site Generators", "g": "build"}
+{"id": "JAH-DVT-000055", "t": "Refactoring Tools", "g": "build"}
+{"id": "JAH-DVT-000056", "t": "Code Search Tools", "g": "build"}
+{"id": "JAH-DVT-000057", "t": "Dependency Scanners", "g": "build"}
+{"id": "JAH-DVT-000058", "t": "SBOM Generators", "g": "build"}
+{"id": "JAH-DVT-000059", "t": "Secret Scanners", "g": "build"}
+{"id": "JAH-DVT-000060", "t": "Documentation Linters", "g": "build"}

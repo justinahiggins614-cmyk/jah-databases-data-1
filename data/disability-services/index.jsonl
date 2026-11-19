@@ -1,0 +1,94 @@
+{"id": "JAH-DISA-000001", "t": "What Disability Services Are", "g": "Foundations"}
+{"id": "JAH-DISA-000002", "t": "Models of Disability", "g": "Foundations"}
+{"id": "JAH-DISA-000003", "t": "Disability Rights and the ADA", "g": "Foundations"}
+{"id": "JAH-DISA-000004", "t": "Accessibility Basics", "g": "Foundations"}
+{"id": "JAH-DISA-000005", "t": "Assistive Products Overview", "g": "Foundations"}
+{"id": "JAH-DISA-000006", "t": "Independent Living Philosophy", "g": "Foundations"}
+{"id": "JAH-DISA-000007", "t": "Eligibility for Support Services", "g": "Foundations"}
+{"id": "JAH-DISA-000008", "t": "Person-Centered Planning", "g": "Foundations"}
+{"id": "JAH-DISA-000009", "t": "Communication Access", "g": "Foundations"}
+{"id": "JAH-DISA-000010", "t": "Reasonable Accommodations at Work", "g": "Foundations"}
+{"id": "JAH-DISA-000011", "t": "Reasonable Accommodations in School", "g": "Foundations"}
+{"id": "JAH-DISA-000012", "t": "Mobility Aids and Devices", "g": "Compounded"}
+{"id": "JAH-DISA-000013", "t": "Hearing Assistive Technology", "g": "Compounded"}
+{"id": "JAH-DISA-000014", "t": "Vision Assistive Technology", "g": "Compounded"}
+{"id": "JAH-DISA-000015", "t": "Cognitive and Learning Supports", "g": "Compounded"}
+{"id": "JAH-DISA-000016", "t": "Home Modifications", "g": "Compounded"}
+{"id": "JAH-DISA-000017", "t": "Personal Assistance Services", "g": "Compounded"}
+{"id": "JAH-DISA-000018", "t": "Supported Decision-Making", "g": "Compounded"}
+{"id": "JAH-DISA-000019", "t": "Inclusive Education Services", "g": "Compounded"}
+{"id": "JAH-DISA-000020", "t": "Employment Support Services", "g": "Compounded"}
+{"id": "JAH-DISA-000021", "t": "Transportation and Paratransit", "g": "Compounded"}
+{"id": "JAH-DISA-000022", "t": "Accessible Digital Design", "g": "Compounded"}
+{"id": "JAH-DISA-000023", "t": "Service Animals and Their Access Rights", "g": "Compounded"}
+{"id": "JAH-DISA-000024", "t": "Accessibility Auditing Methods", "g": "Advanced"}
+{"id": "JAH-DISA-000025", "t": "Universal Design in Practice", "g": "Advanced"}
+{"id": "JAH-DISA-000026", "t": "Emergency Preparedness for People with Disabilities", "g": "Advanced"}
+{"id": "JAH-DISA-000027", "t": "Transition Services: School to Adult Life", "g": "Advanced"}
+{"id": "JAH-DISA-000028", "t": "Long-Term Services and Supports Financing", "g": "Advanced"}
+{"id": "JAH-DISA-000029", "t": "Olmstead and Community Integration", "g": "Advanced"}
+{"id": "JAH-DISA-000030", "t": "Assistive Technology Assessment Protocols", "g": "Advanced"}
+{"id": "JAH-DISA-000031", "t": "Inclusive Recreation Programs", "g": "Advanced"}
+{"id": "JAH-DISA-000032", "t": "Guardianship Alternatives", "g": "Advanced"}
+{"id": "JAH-DISA-000033", "t": "Disability Data and Outcomes Research", "g": "Advanced"}
+{"id": "JAH-DISA-000034", "t": "The Future of Independent Living", "g": "Advanced"}
+{"id": "JAH-DISA-000035", "t": "ADA Title I: Employment Rights", "g": "Advanced"}
+{"id": "JAH-DISA-000036", "t": "ADA Title II: State and Local Government Services", "g": "Advanced"}
+{"id": "JAH-DISA-000037", "t": "ADA Title III: Public Accommodations", "g": "Advanced"}
+{"id": "JAH-DISA-000038", "t": "Section 504: Federally Funded Programs", "g": "Advanced"}
+{"id": "JAH-DISA-000039", "t": "IDEA: Special Education Rights", "g": "Advanced"}
+{"id": "JAH-DISA-000040", "t": "Social Security Disability: SSDI vs SSI", "g": "Advanced"}
+{"id": "JAH-DISA-000041", "t": "Reasonable Accommodations at Work: The Process", "g": "Advanced"}
+{"id": "JAH-DISA-000042", "t": "Housing Rights: Fair Housing and Reasonable Accommodations", "g": "Advanced"}
+{"id": "JAH-DISA-000043", "t": "Voting Accessibility Rights", "g": "Advanced"}
+{"id": "JAH-DISA-000044", "t": "Healthcare Rights and Effective Communication", "g": "Advanced"}
+{"id": "JAH-DISA-000045", "t": "Transportation Rights: Paratransit and Air Travel", "g": "Advanced"}
+{"id": "JAH-DISA-000046", "t": "Assistive Technology Rights and Funding", "g": "Advanced"}
+{"id": "JAH-DISA-000047", "t": "Protection and Advocacy Organizations", "g": "Advanced"}
+{"id": "JAH-DISA-000048", "t": "Disability Rights in Emergencies and Disasters", "g": "Advanced"}
+{"id": "JAH-DISA-000049", "t": "Appealing Benefit Denials", "g": "Advanced"}
+{"id": "JAH-DISA-000050", "t": "Self-Advocacy Skills Toolkit", "g": "Advanced"}
+{"id": "JAH-DISA-000051", "t": "Guardianship Alternatives: Supported Decision-Making", "g": "Advanced"}
+{"id": "JAH-DISA-000052", "t": "Employment First and Subminimum Wage", "g": "Advanced"}
+{"id": "JAH-DISA-000053", "t": "Digital Accessibility Rights", "g": "Advanced"}
+{"id": "JAH-DISA-000054", "t": "Travel Rights: A Practical Summary", "g": "Advanced"}
+{"id": "JAH-DISA-000055", "t": "Writing an Accommodation Request Letter", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000056", "t": "Medical Documentation for Accommodations", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000057", "t": "Interactive Process Notes: Documenting the Dialogue", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000058", "t": "Essential Functions Analysis Documentation", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000059", "t": "Accommodation Tracking Systems", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000060", "t": "Confidentiality of Accommodation Records", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000061", "t": "Temporary Accommodation Documentation", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000062", "t": "Accommodation Effectiveness Reviews", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000063", "t": "Documentation Retention Schedules", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000064", "t": "Self-Advocacy Scripts for Accommodations", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000065", "t": "School 504 Plan Documentation", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000066", "t": "IEP Accommodation Pages", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000067", "t": "Workplace Accommodation Forms", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000068", "t": "Housing Accommodation Requests", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000069", "t": "Testing Accommodation Documentation", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000070", "t": "Travel Accommodation Requests", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000071", "t": "Digital Accessibility Accommodation Requests", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000072", "t": "Appealing Accommodation Denials", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000073", "t": "Third-Party Verification Letters", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000074", "t": "Plain-Language Accommodation Summaries", "g": "Accommodation Documentation"}
+{"id": "JAH-DISA-000075", "t": "ADA National Network: Regional Technical Assistance", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000076", "t": "National Council on Independent Living (NCIL)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000077", "t": "American Association of People with Disabilities (AAPD)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000078", "t": "Disability Rights Education & Defense Fund (DREDF)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000079", "t": "National Disability Rights Network (NDRN)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000080", "t": "Bazelon Center for Mental Health Law", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000081", "t": "Autistic Self Advocacy Network (ASAN)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000082", "t": "National Federation of the Blind (NFB)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000083", "t": "American Council of the Blind (ACB)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000084", "t": "Hearing Loss Association of America (HLAA)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000085", "t": "National Association of the Deaf (NAD)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000086", "t": "United Spinal Association", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000087", "t": "Paralyzed Veterans of America (PVA)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000088", "t": "Easterseals", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000089", "t": "The Arc", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000090", "t": "National Down Syndrome Society (NDSS)", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000091", "t": "Autism Society of America", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000092", "t": "CHADD: Children and Adults with ADHD", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000093", "t": "Epilepsy Foundation", "g": "Rights Organizations"}
+{"id": "JAH-DISA-000094", "t": "National Multiple Sclerosis Society", "g": "Rights Organizations"}

@@ -1,0 +1,71 @@
+{"id": "JAH-SCIG-000001", "t": "Symbolic Mathematics Engine (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000002", "t": "Numerical Analysis Workbench (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000003", "t": "Equation Solver (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000004", "t": "Computer Algebra System (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000005", "t": "Statistical Analysis Laboratory (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000006", "t": "Monte Carlo Simulation Engine (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000007", "t": "Optimization Solver (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000008", "t": "Operations Research Workbench (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000009", "t": "Graph Theory Laboratory (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000010", "t": "Prime Number Research Engine (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000011", "t": "Formal Proof Assistant (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000012", "t": "Theorem Proving Workbench (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000013", "t": "Numerical Precision Auditor (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000014", "t": "Signal Processing Laboratory (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000015", "t": "Digital Image Processing Laboratory (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000016", "t": "Computational Geometry Engine (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000017", "t": "Finite Element Simulation Workbench (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000018", "t": "Computational Fluid Dynamics Solver (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000019", "t": "Molecular Modeling Workbench (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000020", "t": "Scientific Experiment Reproducibility Manager (Signature Edition)", "g": "scientific-computing"}
+{"id": "JAH-SCIG-000021", "t": "Wi-Fi WPS Pixie-Dust Auditor (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-SCIG-000022", "t": "Wi-Fi Power Spectral Density Scanner (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-SCIG-000023", "t": "Turing Machines (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Abstract Machines & Formal Paradigms"}
+{"id": "JAH-SCIG-000024", "t": "Universal Turing Machines (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Abstract Machines & Formal Paradigms"}
+{"id": "JAH-SCIG-000025", "t": "Petri Nets (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Abstract Machines & Formal Paradigms"}
+{"id": "JAH-SCIG-000026", "t": "SAT Solvers (Boolean Satisfiability) (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCIG-000027", "t": "SMT Solvers (Satisfiability Modulo Theories) (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCIG-000028", "t": "Computer Algebra Systems (CAS) (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCIG-000029", "t": "Prime Sieve Engines (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCIG-000030", "t": "Primality Testers (Miller-Rabin, AKS) (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCIG-000031", "t": "Matrix Multiplication Kernels (BLAS, LAPACK) (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCIG-000032", "t": "Entropy Analyzers (Signature Edition)", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Binary Analysis & Reverse Engineering"}
+{"id": "JAH-SCIG-000033", "t": "Embeddings Registries (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-SCIG-000034", "t": "Trie Structures (Radix Tries, Patricia Tries) (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCIG-000035", "t": "Bloom Filters (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCIG-000036", "t": "HyperLogLog Estimators (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCIG-000037", "t": "Persistent Data Structures (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCIG-000038", "t": "Physics Engines (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-SCIG-000039", "t": "Material Download Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000040", "t": "Entropy Analyzer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000041", "t": "Radix Trie Indexer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000042", "t": "Bloom Filter Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000043", "t": "Voxel Engine Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000044", "t": "FFT Audio Visualizer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000045", "t": "Turing Machine Simulator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000046", "t": "Petri Net Analyzer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000047", "t": "SAT Solver Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000048", "t": "Prime Sieve Generator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000049", "t": "BLAS Matrix Kernel (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000050", "t": "Radix Trie Dictionary (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000051", "t": "HyperLogLog Cardinality Estimator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000052", "t": "Low-Pass Filter Kernel (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000053", "t": "Lambda Calculus Evaluator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000054", "t": "Petri Net Simulator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000055", "t": "Linear Programming Simplex Solver (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000056", "t": "Miller-Rabin Primality Tester (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000057", "t": "Patricia Trie Search Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000058", "t": "HyperLogLog Merge Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000059", "t": "Band-Pass Digital Filter (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000060", "t": "Photonic Matrix Calculator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000061", "t": "iostat IO Monitor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000062", "t": "Tokei Code Counter (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000063", "t": "Skopeo Image Inspector (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000064", "t": "CRDT (Conflict-Free Replicated Data Types) (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000065", "t": "Automerge CRDT (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000066", "t": "IPFS (InterPlanetary File System) (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000067", "t": "Redis Data Store (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000068", "t": "Apache Lucene Core (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000069", "t": "GNU Radio Companion (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000070", "t": "Cacti Network Monitor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SCIG-000071", "t": "Pyodide WASM Engine (Signature Edition)", "g": "Bizarre Software"}

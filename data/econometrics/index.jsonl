@@ -1,0 +1,36 @@
+{"id": "JAH-ECON-000001", "t": "What Econometrics Is", "g": "Foundations"}
+{"id": "JAH-ECON-000002", "t": "Economic Data: Cross-Section, Time Series, and Panel", "g": "Foundations"}
+{"id": "JAH-ECON-000003", "t": "Correlation, Causation, and the Econometric Question", "g": "Foundations"}
+{"id": "JAH-ECON-000004", "t": "Simple Linear Regression: The Straight-Line Model", "g": "Classical Regression"}
+{"id": "JAH-ECON-000005", "t": "Multiple Regression: Holding Other Factors Fixed", "g": "Classical Regression"}
+{"id": "JAH-ECON-000006", "t": "OLS Estimation: How the Best Line Is Found", "g": "Classical Regression"}
+{"id": "JAH-ECON-000007", "t": "Reading Regression Output: Coefficients, t-Statistics, p-Values", "g": "Classical Regression"}
+{"id": "JAH-ECON-000008", "t": "R-Squared: How Much Variation Is Explained", "g": "Classical Regression"}
+{"id": "JAH-ECON-000009", "t": "Dummy Variables: Putting Categories in Regressions", "g": "Classical Regression"}
+{"id": "JAH-ECON-000010", "t": "The Gauss-Markov Assumptions and BLUE", "g": "Regression Diagnostics"}
+{"id": "JAH-ECON-000011", "t": "Heteroskedasticity: Uneven Spread of Errors", "g": "Regression Diagnostics"}
+{"id": "JAH-ECON-000012", "t": "Multicollinearity: When Regressors Overlap", "g": "Regression Diagnostics"}
+{"id": "JAH-ECON-000013", "t": "Autocorrelation: Errors That Follow Each Other", "g": "Regression Diagnostics"}
+{"id": "JAH-ECON-000014", "t": "Omitted Variable Bias and Specification", "g": "Regression Diagnostics"}
+{"id": "JAH-ECON-000015", "t": "Instrumental Variables and Two-Stage Least Squares", "g": "Causal Methods"}
+{"id": "JAH-ECON-000016", "t": "Measurement Error and Proxy Variables", "g": "Causal Methods"}
+{"id": "JAH-ECON-000017", "t": "Probit and Logit: Yes-or-No Outcomes", "g": "Causal Methods"}
+{"id": "JAH-ECON-000018", "t": "Tobit and Censored Regression", "g": "Causal Methods"}
+{"id": "JAH-ECON-000019", "t": "Panel Data: Fixed Effects and Random Effects", "g": "Causal Methods"}
+{"id": "JAH-ECON-000020", "t": "The Hausman Test: Fixed or Random Effects", "g": "Causal Methods"}
+{"id": "JAH-ECON-000021", "t": "Difference-in-Differences: Measuring Policy Effects", "g": "Causal Methods"}
+{"id": "JAH-ECON-000022", "t": "Regression Discontinuity Design", "g": "Causal Methods"}
+{"id": "JAH-ECON-000023", "t": "Unit Roots and Stationarity: The Dickey-Fuller Test", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000024", "t": "ARIMA: Box-Jenkins Time Series Models", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000025", "t": "Cointegration and Error Correction", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000026", "t": "Vector Autoregressions and Granger Causality", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000027", "t": "Simultaneous Equations and Identification", "g": "Advanced Methods"}
+{"id": "JAH-ECON-000028", "t": "GMM: Generalized Method of Moments", "g": "Advanced Methods"}
+{"id": "JAH-ECON-000029", "t": "Quantile Regression", "g": "Advanced Methods"}
+{"id": "JAH-ECON-000030", "t": "Forecasting Economic Variables", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000031", "t": "Structural Breaks: The Chow Test", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000032", "t": "ARCH and GARCH: Modeling Volatility", "g": "Time Series Econometrics"}
+{"id": "JAH-ECON-000033", "t": "Nonlinear Least Squares and Maximum Likelihood", "g": "Advanced Methods"}
+{"id": "JAH-ECON-000034", "t": "Spatial Econometrics", "g": "Advanced Methods"}
+{"id": "JAH-ECON-000035", "t": "Matching and Propensity Scores", "g": "Causal Methods"}
+{"id": "JAH-ECON-000036", "t": "Econometric Software Practice: The Full Workflow", "g": "Advanced Methods"}

@@ -1,0 +1,34 @@
+{"id": "JAH-ALCBS-000001", "t": "Algorithm Complexity and Performance Bounds Signature Database: Nested Loop Operations", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000002", "t": "Algorithm Complexity and Performance Bounds Signature Database: Binary Search Steps", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000003", "t": "Algorithm Complexity and Performance Bounds Signature Database: Merge Sort Comparisons", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000004", "t": "Algorithm Complexity and Performance Bounds Signature Database: Linear Search Average", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000005", "t": "Algorithm Complexity and Performance Bounds Signature Database: Selection Sort Comparisons", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000006", "t": "Algorithm Complexity and Performance Bounds Signature Database: Insertion Sort Worst Case", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000007", "t": "Algorithm Complexity and Performance Bounds Signature Database: Quicksort Average Comparisons", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000008", "t": "Algorithm Complexity and Performance Bounds Signature Database: Binary Heap Height", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCBS-000009", "t": "Algorithm Complexity and Performance Bounds Signature Database: B-Tree Height", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCBS-000010", "t": "Algorithm Complexity and Performance Bounds Signature Database: Hash Table Load Factor", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCBS-000011", "t": "Algorithm Complexity and Performance Bounds Signature Database: Expected Hash Collisions", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCBS-000012", "t": "Algorithm Complexity and Performance Bounds Signature Database: Bloom Filter False Positives", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCBS-000013", "t": "Algorithm Complexity and Performance Bounds Signature Database: Birthday Bound", "c": 0, "g": "probability"}
+{"id": "JAH-ALCBS-000014", "t": "Algorithm Complexity and Performance Bounds Signature Database: Coupon Collector", "c": 0, "g": "probability"}
+{"id": "JAH-ALCBS-000015", "t": "Algorithm Complexity and Performance Bounds Signature Database: Amdahl Speedup", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000016", "t": "Algorithm Complexity and Performance Bounds Signature Database: Gustafson Scaled Speedup", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000017", "t": "Algorithm Complexity and Performance Bounds Signature Database: Parallel Efficiency", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000018", "t": "Algorithm Complexity and Performance Bounds Signature Database: Karp-Flatt Metric", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000019", "t": "Algorithm Complexity and Performance Bounds Signature Database: Work-Depth Bound", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000020", "t": "Algorithm Complexity and Performance Bounds Signature Database: Master Theorem Polynomial", "c": 0, "g": "divide-conquer"}
+{"id": "JAH-ALCBS-000021", "t": "Algorithm Complexity and Performance Bounds Signature Database: Strassen Exponent", "c": 0, "g": "divide-conquer"}
+{"id": "JAH-ALCBS-000022", "t": "Algorithm Complexity and Performance Bounds Signature Database: Recursion Stack Depth", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000023", "t": "Algorithm Complexity and Performance Bounds Signature Database: Naive Fibonacci Calls", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000024", "t": "Algorithm Complexity and Performance Bounds Signature Database: TSP Brute Force Tours", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCBS-000025", "t": "Algorithm Complexity and Performance Bounds Signature Database: Subset Enumeration", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCBS-000026", "t": "Algorithm Complexity and Performance Bounds Signature Database: Permutation Count", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCBS-000027", "t": "Algorithm Complexity and Performance Bounds Signature Database: Full Binary Tree Leaves", "c": 0, "g": "data-structures"}
+{"id": "JAH-ALCBS-000028", "t": "Algorithm Complexity and Performance Bounds Signature Database: Blocked Matrix Multiply Traffic", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000029", "t": "Algorithm Complexity and Performance Bounds Signature Database: Sorting Lower Bound", "c": 0, "g": "big-o"}
+{"id": "JAH-ALCBS-000030", "t": "Algorithm Complexity and Performance Bounds Signature Database: Pigeonhole Minimum", "c": 0, "g": "complexity-classes"}
+{"id": "JAH-ALCBS-000031", "t": "Algorithm Complexity and Performance Bounds Signature Database: Parallel Prefix Steps", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000032", "t": "Algorithm Complexity and Performance Bounds Signature Database: Amdahl Limit", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000033", "t": "Algorithm Complexity and Performance Bounds Signature Database: Communication-Aware Time", "c": 0, "g": "parallel"}
+{"id": "JAH-ALCBS-000034", "t": "Algorithm Complexity and Performance Bounds Signature Database: Algorithm Selection Capstone", "c": 0, "g": "big-o"}

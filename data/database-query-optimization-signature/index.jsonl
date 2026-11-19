@@ -1,0 +1,34 @@
+{"id": "JAH-DQOS-000001", "t": "Database Schema and Query Optimization Signature Database: B-Tree Search", "c": 0, "g": "indexing"}
+{"id": "JAH-DQOS-000002", "t": "Database Schema and Query Optimization Signature Database: Hash Index Lookup", "c": 0, "g": "indexing"}
+{"id": "JAH-DQOS-000003", "t": "Database Schema and Query Optimization Signature Database: Bitmap Index Scan", "c": 0, "g": "indexing"}
+{"id": "JAH-DQOS-000004", "t": "Database Schema and Query Optimization Signature Database: Index vs Seq Scan Cost", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000005", "t": "Database Schema and Query Optimization Signature Database: Selectivity Estimation", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000006", "t": "Database Schema and Query Optimization Signature Database: Nested Loop Join", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000007", "t": "Database Schema and Query Optimization Signature Database: Hash Join", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000008", "t": "Database Schema and Query Optimization Signature Database: Sort-Merge Join", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000009", "t": "Database Schema and Query Optimization Signature Database: Greedy Join Ordering", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000010", "t": "Database Schema and Query Optimization Signature Database: Missing Index Advisor", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000011", "t": "Database Schema and Query Optimization Signature Database: Covering Index Check", "c": 0, "g": "indexing"}
+{"id": "JAH-DQOS-000012", "t": "Database Schema and Query Optimization Signature Database: 1NF Check", "c": 0, "g": "schema"}
+{"id": "JAH-DQOS-000013", "t": "Database Schema and Query Optimization Signature Database: Functional Dependency Closure", "c": 0, "g": "schema"}
+{"id": "JAH-DQOS-000014", "t": "Database Schema and Query Optimization Signature Database: Candidate Key Finder", "c": 0, "g": "schema"}
+{"id": "JAH-DQOS-000015", "t": "Database Schema and Query Optimization Signature Database: SQL Injection Detector", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000016", "t": "Database Schema and Query Optimization Signature Database: Parameterized Query Builder", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000017", "t": "Database Schema and Query Optimization Signature Database: Keyset Pagination", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000018", "t": "Database Schema and Query Optimization Signature Database: Connection Pool", "c": 0, "g": "transactions"}
+{"id": "JAH-DQOS-000019", "t": "Database Schema and Query Optimization Signature Database: Dirty Read Demo", "c": 0, "g": "transactions"}
+{"id": "JAH-DQOS-000020", "t": "Database Schema and Query Optimization Signature Database: WAL Replay", "c": 0, "g": "transactions"}
+{"id": "JAH-DQOS-000021", "t": "Database Schema and Query Optimization Signature Database: MVCC Visibility", "c": 0, "g": "transactions"}
+{"id": "JAH-DQOS-000022", "t": "Database Schema and Query Optimization Signature Database: Histogram Builder", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000023", "t": "Database Schema and Query Optimization Signature Database: HyperLogLog-lite", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000024", "t": "Database Schema and Query Optimization Signature Database: Query Timeout Guard", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000025", "t": "Database Schema and Query Optimization Signature Database: Batch Insert Optimizer", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000026", "t": "Database Schema and Query Optimization Signature Database: Schema Diff", "c": 0, "g": "migrations"}
+{"id": "JAH-DQOS-000027", "t": "Database Schema and Query Optimization Signature Database: Migration Planner", "c": 0, "g": "migrations"}
+{"id": "JAH-DQOS-000028", "t": "Database Schema and Query Optimization Signature Database: Foreign Key Validator", "c": 0, "g": "schema"}
+{"id": "JAH-DQOS-000029", "t": "Database Schema and Query Optimization Signature Database: Unique Constraint Check", "c": 0, "g": "schema"}
+{"id": "JAH-DQOS-000030", "t": "Database Schema and Query Optimization Signature Database: Check Constraint Evaluator", "c": 0, "g": "schema"}
+{"id": "JAH-DQOS-000031", "t": "Database Schema and Query Optimization Signature Database: Index Fragmentation Estimate", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000032", "t": "Database Schema and Query Optimization Signature Database: Mini Query Planner", "c": 0, "g": "query-plans"}
+{"id": "JAH-DQOS-000033", "t": "Database Schema and Query Optimization Signature Database: Vacuum / Dead Tuple Ratio", "c": 0, "g": "diagnostics"}
+{"id": "JAH-DQOS-000034", "t": "Database Schema and Query Optimization Signature Database: Prepared Statement Cache", "c": 0, "g": "query-plans"}

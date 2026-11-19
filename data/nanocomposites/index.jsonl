@@ -1,0 +1,59 @@
+{"id": "JAH-NCP-000001", "t": "Nanocomposites: Plastics and Metals Reinforced at the Nanoscale", "g": "Foundations"}
+{"id": "JAH-NCP-000002", "t": "The Nanoscale Advantage: Why a Nanometre of Filler Changes Everything", "g": "Foundations"}
+{"id": "JAH-NCP-000003", "t": "Zero, One, Two Dimensions: The Filler Zoo (Particles, Tubes, Platelets)", "g": "Foundations"}
+{"id": "JAH-NCP-000004", "t": "The Host Matters: Polymer, Metal, and Ceramic Matrices", "g": "Foundations"}
+{"id": "JAH-NCP-000005", "t": "The Rule of Mixtures: Your First Property Estimate", "g": "Foundations"}
+{"id": "JAH-NCP-000006", "t": "Weight vs Volume: Filler Fractions and Density Bookkeeping", "g": "Foundations"}
+{"id": "JAH-NCP-000007", "t": "Dispersion: The Difference Between a Composite and a Clump", "g": "Foundations"}
+{"id": "JAH-NCP-000008", "t": "The Interface: Where the Composite Is Really Made", "g": "Foundations"}
+{"id": "JAH-NCP-000009", "t": "Halpin-Tsai: Stiffness Math for Real Composites", "g": "Compounded"}
+{"id": "JAH-NCP-000010", "t": "Aspect Ratio: Why Long and Thin Wins", "g": "Compounded"}
+{"id": "JAH-NCP-000011", "t": "Percolation: When Conductivity Switches On", "g": "Compounded"}
+{"id": "JAH-NCP-000012", "t": "Carbon Nanotubes in Polymers: Strength from a Straw", "g": "Compounded"}
+{"id": "JAH-NCP-000013", "t": "Graphene Fillers: A Single Atomic Sheet as Reinforcement", "g": "Compounded"}
+{"id": "JAH-NCP-000014", "t": "Clay Nanocomposites: The First Commercial Nanocomposite", "g": "Compounded"}
+{"id": "JAH-NCP-000015", "t": "Nanocellulose Composites: Strength from Wood at the Nanoscale", "g": "Compounded"}
+{"id": "JAH-NCP-000016", "t": "Metal-Matrix Nanocomposites: Strength Without the Weight Penalty", "g": "Compounded"}
+{"id": "JAH-NCP-000017", "t": "Ceramic-Matrix Nanocomposites: Toughness for Brittle Hosts", "g": "Compounded"}
+{"id": "JAH-NCP-000018", "t": "Making Them: Melt Mixing, Solution Blending, In-Situ Polymerization", "g": "Compounded"}
+{"id": "JAH-NCP-000019", "t": "Seeing the Invisible: TEM, XRD, and Rheology Fingerprints", "g": "Compounded"}
+{"id": "JAH-NCP-000020", "t": "Nanocomposite Coatings: Hard, Slick, and Corrosion-Proof Surfaces", "g": "Compounded"}
+{"id": "JAH-NCP-000021", "t": "Electrospun Nanofiber Composites: Mats That Behave Like Materials", "g": "Compounded"}
+{"id": "JAH-NCP-000022", "t": "Fracture Toughness: How Nanofillers Stop Cracks", "g": "Advanced"}
+{"id": "JAH-NCP-000023", "t": "EMI Shielding: Conductive Networks That Swallow Interference", "g": "Advanced"}
+{"id": "JAH-NCP-000024", "t": "Thermal Conductivity: Moving Heat Through a Maze", "g": "Advanced"}
+{"id": "JAH-NCP-000025", "t": "Barrier Properties: The Tortuous Path That Blocks Gas", "g": "Advanced"}
+{"id": "JAH-NCP-000026", "t": "Flame Retardancy: Char Layers Built by Nanofillers", "g": "Advanced"}
+{"id": "JAH-NCP-000027", "t": "3D Printing Nanocomposites: Printing Strength Into Shape", "g": "Advanced"}
+{"id": "JAH-NCP-000028", "t": "Biomedical Nanocomposites: Bone Scaffolds and Dental Fillings", "g": "Advanced"}
+{"id": "JAH-NCP-000029", "t": "Self-Healing Nanocomposites: Materials That Repair Themselves", "g": "Advanced"}
+{"id": "JAH-NCP-000030", "t": "Magnetic Nanocomposites: From Hard Drives to Hyperthermia", "g": "Advanced"}
+{"id": "JAH-NCP-000031", "t": "Modeling Across Scales: From Atoms to Finite Elements", "g": "Advanced"}
+{"id": "JAH-NCP-000032", "t": "End of Life: Recycling and Sustainability of Nanocomposites", "g": "Advanced"}
+{"id": "JAH-NCP-000033", "t": "Working Safe: Nanoparticle Handling and Standards", "g": "Advanced"}
+{"id": "JAH-NCP-000034", "t": "Design Rules: The Engineer's Nanocomposite Checklist", "g": "Advanced"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000035", "t": "Microcapsule Healing Polymers"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000036", "t": "Vascular Self-Healing Networks"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000037", "t": "Intrinsic Reversible Polymers"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000038", "t": "Self-Healing Concrete"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000039", "t": "Self-Healing Coatings"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000040", "t": "Self-Healing Electronics"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000041", "t": "Self-Healing Hydrogels"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000042", "t": "Self-Healing Asphalt"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000043", "t": "Self-Healing Composites"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000044", "t": "The Healing Efficiency Metric"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000045", "t": "Bio-Inspired Healing Design"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000046", "t": "Self-Healing in Extreme Environments"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000047", "t": "The Economics of Healing"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000048", "t": "Self-Healing Standards"}
+{"g": "Self-Healing Technologies", "id": "JAH-NCP-000049", "t": "The Self-Healing Future"}
+{"id": "JAH-NCP-000050", "t": "Vascular Self-Healing Networks (Vol. 2)", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000051", "t": "Intrinsic Reversible Polymer Networks", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000052", "t": "Self-Healing Concrete with Bacteria", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000053", "t": "Self-Healing Coatings for Corrosion", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000054", "t": "Microvascular Composites in Aerospace", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000055", "t": "Self-Healing Elastomers for Soft Robotics", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000056", "t": "Stimuli-Responsive Healing: Light and Heat", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000057", "t": "Self-Healing Asphalt (Vol. 2)", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000058", "t": "Healing Efficiency: How It Is Measured", "g": "Self-Healing Technologies"}
+{"id": "JAH-NCP-000059", "t": "The Future: Fully Autonomous Healing Materials", "g": "Self-Healing Technologies"}

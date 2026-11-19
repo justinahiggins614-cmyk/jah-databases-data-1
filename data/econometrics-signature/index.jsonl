@@ -1,0 +1,36 @@
+{"id": "JAH-ECONS-000001", "t": "What Econometrics Is (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ECONS-000002", "t": "Economic Data: Cross-Section, Time Series, and Panel (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ECONS-000003", "t": "Correlation, Causation, and the Econometric Question (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ECONS-000004", "t": "Simple Linear Regression: The Straight-Line Model (Signature Edition)", "g": "Classical Regression"}
+{"id": "JAH-ECONS-000005", "t": "Multiple Regression: Holding Other Factors Fixed (Signature Edition)", "g": "Classical Regression"}
+{"id": "JAH-ECONS-000006", "t": "OLS Estimation: How the Best Line Is Found (Signature Edition)", "g": "Classical Regression"}
+{"id": "JAH-ECONS-000007", "t": "Reading Regression Output: Coefficients, t-Statistics, p-Values (Signature Edition)", "g": "Classical Regression"}
+{"id": "JAH-ECONS-000008", "t": "R-Squared: How Much Variation Is Explained (Signature Edition)", "g": "Classical Regression"}
+{"id": "JAH-ECONS-000009", "t": "Dummy Variables: Putting Categories in Regressions (Signature Edition)", "g": "Classical Regression"}
+{"id": "JAH-ECONS-000010", "t": "The Gauss-Markov Assumptions and BLUE (Signature Edition)", "g": "Regression Diagnostics"}
+{"id": "JAH-ECONS-000011", "t": "Heteroskedasticity: Uneven Spread of Errors (Signature Edition)", "g": "Regression Diagnostics"}
+{"id": "JAH-ECONS-000012", "t": "Multicollinearity: When Regressors Overlap (Signature Edition)", "g": "Regression Diagnostics"}
+{"id": "JAH-ECONS-000013", "t": "Autocorrelation: Errors That Follow Each Other (Signature Edition)", "g": "Regression Diagnostics"}
+{"id": "JAH-ECONS-000014", "t": "Omitted Variable Bias and Specification (Signature Edition)", "g": "Regression Diagnostics"}
+{"id": "JAH-ECONS-000015", "t": "Instrumental Variables and Two-Stage Least Squares (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000016", "t": "Measurement Error and Proxy Variables (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000017", "t": "Probit and Logit: Yes-or-No Outcomes (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000018", "t": "Tobit and Censored Regression (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000019", "t": "Panel Data: Fixed Effects and Random Effects (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000020", "t": "The Hausman Test: Fixed or Random Effects (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000021", "t": "Difference-in-Differences: Measuring Policy Effects (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000022", "t": "Regression Discontinuity Design (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000023", "t": "Unit Roots and Stationarity: The Dickey-Fuller Test (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000024", "t": "ARIMA: Box-Jenkins Time Series Models (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000025", "t": "Cointegration and Error Correction (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000026", "t": "Vector Autoregressions and Granger Causality (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000027", "t": "Simultaneous Equations and Identification (Signature Edition)", "g": "Advanced Methods"}
+{"id": "JAH-ECONS-000028", "t": "GMM: Generalized Method of Moments (Signature Edition)", "g": "Advanced Methods"}
+{"id": "JAH-ECONS-000029", "t": "Quantile Regression (Signature Edition)", "g": "Advanced Methods"}
+{"id": "JAH-ECONS-000030", "t": "Forecasting Economic Variables (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000031", "t": "Structural Breaks: The Chow Test (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000032", "t": "ARCH and GARCH: Modeling Volatility (Signature Edition)", "g": "Time Series Econometrics"}
+{"id": "JAH-ECONS-000033", "t": "Nonlinear Least Squares and Maximum Likelihood (Signature Edition)", "g": "Advanced Methods"}
+{"id": "JAH-ECONS-000034", "t": "Spatial Econometrics (Signature Edition)", "g": "Advanced Methods"}
+{"id": "JAH-ECONS-000035", "t": "Matching and Propensity Scores (Signature Edition)", "g": "Causal Methods"}
+{"id": "JAH-ECONS-000036", "t": "Econometric Software Practice: The Full Workflow (Signature Edition)", "g": "Advanced Methods"}

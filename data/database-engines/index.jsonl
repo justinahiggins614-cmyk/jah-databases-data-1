@@ -1,0 +1,63 @@
+{"id": "JAH-DBE-000001", "t": "Relational Databases", "g": "engine"}
+{"id": "JAH-DBE-000002", "t": "Time-Series Databases", "g": "engine"}
+{"id": "JAH-DBE-000003", "t": "Key-Value Stores", "g": "engine"}
+{"id": "JAH-DBE-000004", "t": "Document Databases", "g": "engine"}
+{"id": "JAH-DBE-000005", "t": "Graph Databases", "g": "engine"}
+{"id": "JAH-DBE-000006", "t": "Object Stores", "g": "engine"}
+{"id": "JAH-DBE-000007", "t": "Columnar Databases", "g": "engine"}
+{"id": "JAH-DBE-000008", "t": "In-Memory Databases", "g": "engine"}
+{"id": "JAH-DBE-000009", "t": "Embedded Databases", "g": "engine"}
+{"id": "JAH-DBE-000010", "t": "Spatial Databases", "g": "engine"}
+{"id": "JAH-DBE-000011", "t": "Search Engines", "g": "engine"}
+{"id": "JAH-DBE-000012", "t": "Ledger Databases", "g": "engine"}
+{"id": "JAH-DBE-000013", "t": "Blockchain Ledgers", "g": "engine"}
+{"id": "JAH-DBE-000014", "t": "Wide-Column Stores", "g": "engine"}
+{"id": "JAH-DBE-000015", "t": "Multi-Model Databases", "g": "engine"}
+{"id": "JAH-DBE-000016", "t": "NewSQL Databases", "g": "engine"}
+{"id": "JAH-DBE-000017", "t": "Serverless Databases", "g": "engine"}
+{"id": "JAH-DBE-000018", "t": "Edge Databases", "g": "engine"}
+{"id": "JAH-DBE-000019", "t": "Analytical Databases", "g": "engine"}
+{"id": "JAH-DBE-000020", "t": "Operational Databases", "g": "engine"}
+{"id": "JAH-DBE-000021", "t": "Hybrid Transactional/Analytical", "g": "engine"}
+{"id": "JAH-DBE-000022", "t": "Stream Databases", "g": "engine"}
+{"id": "JAH-DBE-000023", "t": "Event Stores", "g": "engine"}
+{"id": "JAH-DBE-000024", "t": "Time-Travel Databases", "g": "engine"}
+{"id": "JAH-DBE-000025", "t": "Immutable Databases", "g": "engine"}
+{"id": "JAH-DBE-000026", "t": "Probabilistic Databases", "g": "engine"}
+{"id": "JAH-DBE-000027", "t": "Array Databases", "g": "engine"}
+{"id": "JAH-DBE-000028", "t": "RDF Stores", "g": "engine"}
+{"id": "JAH-DBE-000029", "t": "XML Databases", "g": "engine"}
+{"id": "JAH-DBE-000030", "t": "Hierarchical Databases", "g": "engine"}
+{"id": "JAH-DBE-000031", "t": "Network Databases", "g": "engine"}
+{"id": "JAH-DBE-000032", "t": "Object-Oriented Databases", "g": "engine"}
+{"id": "JAH-DBE-000033", "t": "Datalog Engines", "g": "engine"}
+{"id": "JAH-DBE-000034", "t": "Constraint Databases", "g": "engine"}
+{"id": "JAH-DBE-000035", "t": "Fuzzy Databases", "g": "engine"}
+{"id": "JAH-DBE-000036", "t": "Temporal Databases", "g": "engine"}
+{"id": "JAH-DBE-000037", "t": "Versioned Databases", "g": "engine"}
+{"id": "JAH-DBE-000038", "t": "Encrypted Databases", "g": "engine"}
+{"id": "JAH-DBE-000039", "t": "Confidential Databases", "g": "engine"}
+{"id": "JAH-DBE-000040", "t": "Federated Databases", "g": "engine"}
+{"id": "JAH-DBE-000041", "t": "Polystores", "g": "engine"}
+{"id": "JAH-DBE-000042", "t": "Disaggregated Databases", "g": "engine"}
+{"id": "JAH-DBE-000043", "t": "Lakehouse Engines", "g": "engine"}
+{"id": "JAH-DBE-000044", "t": "Streaming Tables", "g": "engine"}
+{"id": "JAH-DBE-000045", "t": "Materialized View Engines", "g": "engine"}
+{"id": "JAH-DBE-000046", "t": "Cache Databases", "g": "engine"}
+{"id": "JAH-DBE-000047", "t": "Session Stores", "g": "engine"}
+{"id": "JAH-DBE-000048", "t": "Queue Databases", "g": "engine"}
+{"id": "JAH-DBE-000049", "t": "Workflow State Stores", "g": "engine"}
+{"id": "JAH-DBE-000050", "t": "Feature Stores", "g": "engine"}
+{"id": "JAH-DBE-000051", "t": "Embedding Stores", "g": "engine"}
+{"id": "JAH-DBE-000052", "t": "Catalog Databases", "g": "engine"}
+{"id": "JAH-DBE-000053", "t": "Configuration Databases", "g": "engine"}
+{"id": "JAH-DBE-000054", "t": "Audit Databases", "g": "engine"}
+{"id": "JAH-DBE-000055", "t": "Backup Databases", "g": "engine"}
+{"id": "JAH-DBE-000056", "t": "Sandbox Databases", "g": "engine"}
+{"id": "JAH-DBE-000057", "t": "Multi-Tenant Databases", "g": "engine"}
+{"id": "JAH-DBE-000058", "t": "Global Databases", "g": "engine"}
+{"id": "JAH-DBE-000059", "t": "Hierarchical Tree Records", "g": "database-types"}
+{"id": "JAH-DBE-000060", "t": "Network Model Record Sets", "g": "database-types"}
+{"id": "JAH-DBE-000061", "t": "Object-Oriented Persistent Instances", "g": "database-types"}
+{"id": "JAH-DBE-000062", "t": "Spatial R-Tree & Quadtree Nodes", "g": "database-types"}
+{"id": "JAH-DBE-000063", "t": "Spatial Inverted Indexes", "g": "database-types"}

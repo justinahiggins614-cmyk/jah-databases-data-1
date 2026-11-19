@@ -1,0 +1,34 @@
+{"id": "JAH-FCCR-SIG-000001", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Signature Principle: Conflicts Are Data, Not Errors", "c": 0, "g": "verification-procedures"}
+{"id": "JAH-FCCR-SIG-000002", "t": "Fact Conflict and Contradiction Resolution Signature Database: Deterministic Conflict Identification", "c": 0, "g": "verification-procedures"}
+{"id": "JAH-FCCR-SIG-000003", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Provenance Chains", "c": 0, "g": "lineage-resolution"}
+{"id": "JAH-FCCR-SIG-000004", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Signature Evidence Ledger", "c": 0, "g": "conflict-ledger"}
+{"id": "JAH-FCCR-SIG-000005", "t": "Fact Conflict and Contradiction Resolution Signature Database: Claim Lock-In: Immutable Record History", "c": 0, "g": "conflict-ledger"}
+{"id": "JAH-FCCR-SIG-000006", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Identity Resolution", "c": 0, "g": "lineage-resolution"}
+{"id": "JAH-FCCR-SIG-000007", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Record Fingerprinting", "c": 0, "g": "verification-procedures"}
+{"id": "JAH-FCCR-SIG-000008", "t": "Fact Conflict and Contradiction Resolution Signature Database: Provenance-Weighted Resolution", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000009", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Deterministic Reconciliation Procedure", "c": 0, "g": "deterministic-reconciliation"}
+{"id": "JAH-FCCR-SIG-000010", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Verification Procedures: The Three Passes", "c": 0, "g": "verification-procedures"}
+{"id": "JAH-FCCR-SIG-000011", "t": "Fact Conflict and Contradiction Resolution Signature Database: Deterministic Tie-Breaks", "c": 0, "g": "deterministic-reconciliation"}
+{"id": "JAH-FCCR-SIG-000012", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Witness Weighting", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000013", "t": "Fact Conflict and Contradiction Resolution Signature Database: Canonical Fact Election", "c": 0, "g": "arbitration"}
+{"id": "JAH-FCCR-SIG-000014", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Audit Certificates", "c": 0, "g": "verification-procedures"}
+{"id": "JAH-FCCR-SIG-000015", "t": "Fact Conflict and Contradiction Resolution Signature Database: Time-Anchored Fact Resolution", "c": 0, "g": "lineage-resolution"}
+{"id": "JAH-FCCR-SIG-000016", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Cross-Verification Protocol", "c": 0, "g": "verification-procedures"}
+{"id": "JAH-FCCR-SIG-000017", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Contradiction Register", "c": 0, "g": "conflict-ledger"}
+{"id": "JAH-FCCR-SIG-000018", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Reconciliation Contracts", "c": 0, "g": "deterministic-reconciliation"}
+{"id": "JAH-FCCR-SIG-000019", "t": "Fact Conflict and Contradiction Resolution Signature Database: Deterministic Snapshot Truth", "c": 0, "g": "lineage-resolution"}
+{"id": "JAH-FCCR-SIG-000020", "t": "Fact Conflict and Contradiction Resolution Signature Database: Provenance-Weighted Bayesian Resolution", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000021", "t": "Fact Conflict and Contradiction Resolution Signature Database: Echo-Chamber Detection by Signature Lineage", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000022", "t": "Fact Conflict and Contradiction Resolution Signature Database: Multi-Agent Signature Arbitration", "c": 0, "g": "arbitration"}
+{"id": "JAH-FCCR-SIG-000023", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Signature Consistency Theorem", "c": 0, "g": "deterministic-reconciliation"}
+{"id": "JAH-FCCR-SIG-000024", "t": "Fact Conflict and Contradiction Resolution Signature Database: Deterministic Repair of Contradictory Graphs", "c": 0, "g": "deterministic-reconciliation"}
+{"id": "JAH-FCCR-SIG-000025", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Provenance Decay Functions", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000026", "t": "Fact Conflict and Contradiction Resolution Signature Database: Conflict-Free Merged Records", "c": 0, "g": "arbitration"}
+{"id": "JAH-FCCR-SIG-000027", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Abstention Protocol", "c": 0, "g": "arbitration"}
+{"id": "JAH-FCCR-SIG-000028", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Signature Truth Assembly Pipeline", "c": 0, "g": "deterministic-reconciliation"}
+{"id": "JAH-FCCR-SIG-000029", "t": "Fact Conflict and Contradiction Resolution Signature Database: Lineage-Stamped Reconciliation Records", "c": 0, "g": "lineage-resolution"}
+{"id": "JAH-FCCR-SIG-000030", "t": "Fact Conflict and Contradiction Resolution Signature Database: Deterministic Majority with Provenance Tiers", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000031", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature Conflict Drills", "c": 0, "g": "conflict-ledger"}
+{"id": "JAH-FCCR-SIG-000032", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Immutable Conflict History Chain", "c": 0, "g": "conflict-ledger"}
+{"id": "JAH-FCCR-SIG-000033", "t": "Fact Conflict and Contradiction Resolution Signature Database: Signature-Weighted Consensus for Time-Dependent Facts", "c": 0, "g": "provenance-weighting"}
+{"id": "JAH-FCCR-SIG-000034", "t": "Fact Conflict and Contradiction Resolution Signature Database: The Signature Resolution Oath", "c": 0, "g": "arbitration"}

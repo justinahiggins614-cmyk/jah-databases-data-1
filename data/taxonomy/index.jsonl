@@ -1,0 +1,36 @@
+{"id": "JAH-TAX-000001", "t": "What Is Taxonomy: The Science of Naming and Classifying Life", "g": "Foundations"}
+{"id": "JAH-TAX-000002", "t": "The Taxonomic Ranks: From Domain to Subspecies", "g": "Foundations"}
+{"id": "JAH-TAX-000003", "t": "Binomial Nomenclature: The Two-Name Rule", "g": "Foundations"}
+{"id": "JAH-TAX-000004", "t": "Carl Linnaeus and the Systema Naturae", "g": "Foundations"}
+{"id": "JAH-TAX-000005", "t": "Kingdoms and Domains: The Deepest Branches", "g": "Foundations"}
+{"id": "JAH-TAX-000006", "t": "Type Specimens: The Physical Anchor of a Name", "g": "Foundations"}
+{"id": "JAH-TAX-000007", "t": "Synonymy and Priority: One Name to Rule Them", "g": "Foundations"}
+{"id": "JAH-TAX-000008", "t": "How to Read a Scientific Name", "g": "Foundations"}
+{"id": "JAH-TAX-000009", "t": "Monographs, Floras, and Faunas: The Reference Shelf", "g": "Foundations"}
+{"id": "JAH-TAX-000010", "t": "Natural History Museums: The Archives of Life", "g": "Foundations"}
+{"id": "JAH-TAX-000011", "t": "Common Names vs Scientific Names", "g": "Foundations"}
+{"id": "JAH-TAX-000012", "t": "Phylogenetics: Trees from Data", "g": "Compounded"}
+{"id": "JAH-TAX-000013", "t": "Cladistics: Shared Derived Characters", "g": "Compounded"}
+{"id": "JAH-TAX-000014", "t": "Monophyly, Paraphyly, Polyphyly: The Three Kinds of Groups", "g": "Compounded"}
+{"id": "JAH-TAX-000015", "t": "Morphology-Based Systematics: Reading Bodies", "g": "Compounded"}
+{"id": "JAH-TAX-000016", "t": "Molecular Systematics: DNA Tells the Tree", "g": "Compounded"}
+{"id": "JAH-TAX-000017", "t": "DNA Barcoding: A Scanner for Species", "g": "Compounded"}
+{"id": "JAH-TAX-000018", "t": "The Nomenclature Codes: ICZN, ICNafp, ICNP", "g": "Compounded"}
+{"id": "JAH-TAX-000019", "t": "Taxonomic Revisions: Splits, Lumps, and Moves", "g": "Compounded"}
+{"id": "JAH-TAX-000020", "t": "Species Concepts: What Counts as a Species", "g": "Compounded"}
+{"id": "JAH-TAX-000021", "t": "Dichotomous Keys: Identification by Decision Tree", "g": "Compounded"}
+{"id": "JAH-TAX-000022", "t": "Biodiversity Informatics: GBIF, Darwin Core, and the Data Layer", "g": "Compounded"}
+{"id": "JAH-TAX-000023", "t": "Reading Phylogenetic Trees: Nodes, Branches, and Roots", "g": "Compounded"}
+{"id": "JAH-TAX-000024", "t": "Tree Inference: Parsimony, Likelihood, and Bayesian Methods", "g": "Compounded"}
+{"id": "JAH-TAX-000025", "t": "Phylogenomics: Trees from Hundreds of Genes", "g": "Advanced"}
+{"id": "JAH-TAX-000026", "t": "The Molecular Clock: Dating the Tree", "g": "Advanced"}
+{"id": "JAH-TAX-000027", "t": "Cryptic Species: Hidden Diversity in Plain Sight", "g": "Advanced"}
+{"id": "JAH-TAX-000028", "t": "Taxonomic Splits and Conservation: Counting What Counts", "g": "Advanced"}
+{"id": "JAH-TAX-000029", "t": "Integrative Taxonomy: Many Lines of Evidence", "g": "Advanced"}
+{"id": "JAH-TAX-000030", "t": "ZooBank and Digital Registration: Names on the Record", "g": "Advanced"}
+{"id": "JAH-TAX-000031", "t": "Describing a New Species: Alpha Taxonomy in Practice", "g": "Advanced"}
+{"id": "JAH-TAX-000032", "t": "The Taxonomic Impediment: Too Few Taxonomists, Too Many Species", "g": "Advanced"}
+{"id": "JAH-TAX-000033", "t": "Automated Identification: Machine Vision for Taxonomy", "g": "Advanced"}
+{"id": "JAH-TAX-000034", "t": "eDNA and Metagenomics: Taxonomy Without Specimens", "g": "Advanced"}
+{"id": "JAH-TAX-000035", "t": "The PhyloCode: Naming Clades Instead of Ranks", "g": "Advanced"}
+{"id": "JAH-TAX-000036", "t": "Building Taxonomic Databases: Standards and Schemas", "g": "Advanced"}

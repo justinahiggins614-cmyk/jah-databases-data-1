@@ -1,0 +1,38 @@
+{"id": "JAH-ACS-000001", "t": "Endpoint Detection and Response Platform", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000002", "t": "Security Information and Event Management System", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000003", "t": "Threat Intelligence Correlation Engine", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000004", "t": "Malware Behavior Analysis Sandbox", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000005", "t": "Memory Forensics Workbench", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000006", "t": "Disk Artifact Timeline Engine", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000007", "t": "Software Supply Chain Auditor", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000008", "t": "Binary Analysis Workbench", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000009", "t": "Reverse Engineering Laboratory", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000010", "t": "Digital Evidence Integrity Manager", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000011", "t": "Identity Attack Detection Engine", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000012", "t": "Cloud Configuration Security Auditor", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000013", "t": "Container Security Scanner", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000014", "t": "Network Intrusion Detection System", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000015", "t": "Security Policy Compliance Engine", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACS-000016", "t": "Firewall Traffic Filters", "g": "database-types"}
+{"id": "JAH-ACS-000017", "t": "Vulnerability Assessment Scans", "g": "database-types"}
+{"id": "JAH-ACS-000018", "t": "Wi-Fi Evil Twin Portal Injector", "g": "Toolset"}
+{"id": "JAH-ACS-000019", "t": "Wi-Fi Null Data Power-Save Exploiter", "g": "Toolset"}
+{"id": "JAH-ACS-000020", "t": "Wi-Fi TKIP Attack Utility", "g": "Toolset"}
+{"id": "JAH-ACS-000021", "t": "Wi-Fi Broadcast Echo Tool", "g": "Toolset"}
+{"id": "JAH-ACS-000022", "t": "Coordinate Measuring Machine", "g": "Toolset"}
+{"id": "JAH-ACS-000023", "t": "3D Laser Scanner", "g": "Toolset"}
+{"id": "JAH-ACS-000024", "t": "Hydraulic Cable Cutter", "g": "Toolset"}
+{"id": "JAH-ACS-000025", "t": "Fiber Optic Cleaver", "g": "Toolset"}
+{"id": "JAH-ACS-000026", "t": "Current Loop Calibrator", "g": "Toolset"}
+{"id": "JAH-ACS-000027", "t": "Binary Decision Diagram (BDD) Manipulators", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-ACS-000028", "t": "Binary Decompiler", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000029", "t": "ROP Gadget Finder", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000030", "t": "Radare2 Framework", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000031", "t": "Wazuh Security Platform", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000032", "t": "Security Onion Distribution", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000033", "t": "Cosign Container Signer", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000034", "t": "Syft SBOM Generator", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000035", "t": "YARA Pattern Engine", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000036", "t": "Sysmon for Linux", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000037", "t": "Falco Runtime Security", "g": "Bizarre Software"}
+{"id": "JAH-ACS-000038", "t": "Freedreno GPU Driver", "g": "Bizarre Software"}

@@ -1,0 +1,73 @@
+{"id": "JAH-AMEG-000001", "t": "Local Large Language Model Runtime (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000002", "t": "Multi-Model AI Router (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000003", "t": "AI Model Benchmarking Laboratory (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000004", "t": "Model Quantization Workbench (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000005", "t": "AI Model Fine-Tuning Pipeline (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000006", "t": "Retrieval-Augmented Generation Engine (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000007", "t": "Multimodal AI Workbench (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000008", "t": "AI Agent Execution Environment (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000009", "t": "Multi-Agent Coordination System (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000010", "t": "AI Consensus and Verification Engine (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000011", "t": "AI Hallucination Detection Assistant (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000012", "t": "AI Memory and Knowledge Manager (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000013", "t": "AI Knowledge Graph Reasoner (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000014", "t": "AI Code Generation and Build System (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000015", "t": "Automated Software Repair Assistant (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000016", "t": "AI Research Assistant (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000017", "t": "AI Scientific Discovery Assistant (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000018", "t": "AI Dataset Generation Pipeline (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000019", "t": "AI Data Annotation Workbench (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000020", "t": "AI Evaluation and Red-Team Laboratory (Signature Edition)", "g": "ai-model-engineering"}
+{"id": "JAH-AMEG-000021", "t": "Wi-Fi GPU Dictionary Cracker (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-AMEG-000022", "t": "Hard Drive Physical Crusher (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-AMEG-000023", "t": "GGUF Models / Writers (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000024", "t": "ONNX Exported Graphs (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000025", "t": "AWQ (Activation-aware Weight Quantization) Models (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000026", "t": "GPTQ Models (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000027", "t": "EXL2 (ExLlamaV2) Formats (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000028", "t": "QLoRA Checkpoints (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000029", "t": "GGUF Metadata Parsers (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AMEG-000030", "t": "Tokenizers (BPE, WordPiece, Unigram) (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AMEG-000031", "t": "Detokenizers (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AMEG-000032", "t": "Grammars / Constrained Decoding Engines (GBNF) (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AMEG-000033", "t": "Local RAG Engines (Signature Edition)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AMEG-000034", "t": "Tokenizers (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-AMEG-000035", "t": "Inference Engines (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-AMEG-000036", "t": "Grammar-Constrained LLM Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000037", "t": "GGUF Quantization Loader (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000038", "t": "Vector Embedder Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000039", "t": "Local Knowledge RAG Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000040", "t": "AWQ Quantization Tool (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000041", "t": "EXL2 Quantization Tool (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000042", "t": "QLoRA Fine-Tuning Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000043", "t": "Embeddings Registry (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000044", "t": "Log-Structured Merge Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000045", "t": "ExLlamaV2 Inference Kernel (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000046", "t": "BPE Tokenizer Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000047", "t": "QLoRA Gradient Checkpointer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000048", "t": "SSTable Index Reader (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000049", "t": "Symfonium (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000050", "t": "Ollama local CLI (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000051", "t": "NextCloud AIO (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000052", "t": "Hard Disk Sentinel (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000053", "t": "OpenClaw Assistant Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000054", "t": "Composio Integrations (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000055", "t": "LangChain Framework (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000056", "t": "PyTorch AI Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000057", "t": "GGUF Tensor Reader (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000058", "t": "AWQ Calibration Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000059", "t": "Ceph Distributed Storage (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000060", "t": "GlusterFS Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000061", "t": "ZFS Storage Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000062", "t": "mdadm RAID Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000063", "t": "Rclone Transfer Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000064", "t": "Kopia Backup System (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000065", "t": "Dragonfly Cache (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000066", "t": "Qdrant Vector Database (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000067", "t": "Milvus Vector Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000068", "t": "Chroma Vector Store (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000069", "t": "Weaviate Vector Platform (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000070", "t": "pgvector Extension (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000071", "t": "Quickwit Indexer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000072", "t": "Coqui TTS Platform (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-AMEG-000073", "t": "OpenVoice Cloning (Signature Edition)", "g": "Bizarre Software"}

@@ -1,0 +1,60 @@
+{"id": "JAH-IC-000001", "t": "Lrucache — LRU cache (capacity 2)", "g": "data-structures"}
+{"id": "JAH-IC-000002", "t": "Lrucache — LRU cache (capacity 3)", "g": "data-structures"}
+{"id": "JAH-IC-000003", "t": "Lrucache — LRU cache (capacity 4)", "g": "data-structures"}
+{"id": "JAH-IC-000004", "t": "Lrucache — LRU cache (capacity 5)", "g": "data-structures"}
+{"id": "JAH-IC-000005", "t": "Lrucache — LRU cache (capacity 8)", "g": "data-structures"}
+{"id": "JAH-IC-000006", "t": "Lrucache — LRU cache (capacity 10)", "g": "data-structures"}
+{"id": "JAH-IC-000007", "t": "Unionfind — disjoint-set union-find", "g": "data-structures"}
+{"id": "JAH-IC-000008", "t": "Disjointset — disjoint-set union-find", "g": "data-structures"}
+{"id": "JAH-IC-000009", "t": "Dsu — disjoint-set union-find", "g": "data-structures"}
+{"id": "JAH-IC-000010", "t": "Unionfind — disjoint-set union-find (2)", "g": "data-structures"}
+{"id": "JAH-IC-000011", "t": "Partitions — disjoint-set union-find", "g": "data-structures"}
+{"id": "JAH-IC-000012", "t": "Unionfind — disjoint-set union-find (3)", "g": "data-structures"}
+{"id": "JAH-IC-000013", "t": "Toposort — topological sort (Kahn)", "g": "algorithms"}
+{"id": "JAH-IC-000014", "t": "Kahnsort — topological sort (Kahn)", "g": "algorithms"}
+{"id": "JAH-IC-000015", "t": "Dagsort — topological sort (Kahn)", "g": "algorithms"}
+{"id": "JAH-IC-000016", "t": "Toposort — topological sort (Kahn) (2)", "g": "algorithms"}
+{"id": "JAH-IC-000017", "t": "Ordersort — topological sort (Kahn)", "g": "algorithms"}
+{"id": "JAH-IC-000018", "t": "Toposort — topological sort (Kahn) (3)", "g": "algorithms"}
+{"id": "JAH-IC-000019", "t": "Intervalmerge — interval merging", "g": "algorithms"}
+{"id": "JAH-IC-000020", "t": "Rangemerge — interval merging", "g": "algorithms"}
+{"id": "JAH-IC-000021", "t": "Intervalmerge — interval merging (2)", "g": "algorithms"}
+{"id": "JAH-IC-000022", "t": "Spanmerge — interval merging", "g": "algorithms"}
+{"id": "JAH-IC-000023", "t": "Intervalmerge — interval merging (3)", "g": "algorithms"}
+{"id": "JAH-IC-000024", "t": "Ivmerge — interval merging", "g": "algorithms"}
+{"id": "JAH-IC-000025", "t": "Astar — A* grid pathfinding", "g": "search-and-sort"}
+{"id": "JAH-IC-000026", "t": "Gridastar — A* grid pathfinding", "g": "search-and-sort"}
+{"id": "JAH-IC-000027", "t": "Pathfind — A* grid pathfinding", "g": "search-and-sort"}
+{"id": "JAH-IC-000028", "t": "Astar — A* grid pathfinding (2)", "g": "search-and-sort"}
+{"id": "JAH-IC-000029", "t": "Routefind — A* grid pathfinding", "g": "search-and-sort"}
+{"id": "JAH-IC-000030", "t": "Astar — A* grid pathfinding (3)", "g": "search-and-sort"}
+{"id": "JAH-IC-000031", "t": "Binsearch — binary search bounds", "g": "search-and-sort"}
+{"id": "JAH-IC-000032", "t": "Bisectbounds — binary search bounds", "g": "search-and-sort"}
+{"id": "JAH-IC-000033", "t": "Binsearch — binary search bounds (2)", "g": "search-and-sort"}
+{"id": "JAH-IC-000034", "t": "Rangefind — binary search bounds", "g": "search-and-sort"}
+{"id": "JAH-IC-000035", "t": "Binsearch — binary search bounds (3)", "g": "search-and-sort"}
+{"id": "JAH-IC-000036", "t": "Sortedcount — binary search bounds", "g": "search-and-sort"}
+{"id": "JAH-IC-000037", "t": "Expreval — arithmetic expression evaluator", "g": "parsing"}
+{"id": "JAH-IC-000038", "t": "Mathexpr — arithmetic expression evaluator", "g": "parsing"}
+{"id": "JAH-IC-000039", "t": "Expreval — arithmetic expression evaluator (2)", "g": "parsing"}
+{"id": "JAH-IC-000040", "t": "Formulaparse — arithmetic expression evaluator", "g": "parsing"}
+{"id": "JAH-IC-000041", "t": "Expreval — arithmetic expression evaluator (3)", "g": "parsing"}
+{"id": "JAH-IC-000042", "t": "Calcexpr — arithmetic expression evaluator", "g": "parsing"}
+{"id": "JAH-IC-000043", "t": "Rlecodec — run-length codec", "g": "encoding"}
+{"id": "JAH-IC-000044", "t": "Rlecodec — run-length codec (2)", "g": "encoding"}
+{"id": "JAH-IC-000045", "t": "Runlength — run-length codec", "g": "encoding"}
+{"id": "JAH-IC-000046", "t": "Rlecodec — run-length codec (3)", "g": "encoding"}
+{"id": "JAH-IC-000047", "t": "Rlezip — run-length codec", "g": "encoding"}
+{"id": "JAH-IC-000048", "t": "Rlecodec — run-length codec (4)", "g": "encoding"}
+{"id": "JAH-IC-000049", "t": "Varint — varint codec", "g": "encoding"}
+{"id": "JAH-IC-000050", "t": "Varintcodec — varint codec", "g": "encoding"}
+{"id": "JAH-IC-000051", "t": "Varint — varint codec (2)", "g": "encoding"}
+{"id": "JAH-IC-000052", "t": "Uvarint — varint codec", "g": "encoding"}
+{"id": "JAH-IC-000053", "t": "Varint — varint codec (3)", "g": "encoding"}
+{"id": "JAH-IC-000054", "t": "Vintcodec — varint codec", "g": "encoding"}
+{"id": "JAH-IC-000055", "t": "Retry — retry decorator with backoff", "g": "reliability-patterns"}
+{"id": "JAH-IC-000056", "t": "Backoff — retry decorator with backoff", "g": "reliability-patterns"}
+{"id": "JAH-IC-000057", "t": "Retry — retry decorator with backoff (2)", "g": "reliability-patterns"}
+{"id": "JAH-IC-000058", "t": "Retrypolicy — retry decorator with backoff", "g": "reliability-patterns"}
+{"id": "JAH-IC-000059", "t": "Retry — retry decorator with backoff (3)", "g": "reliability-patterns"}
+{"id": "JAH-IC-000060", "t": "Resilient — retry decorator with backoff", "g": "reliability-patterns"}

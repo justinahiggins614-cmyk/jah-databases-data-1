@@ -1,0 +1,61 @@
+{"id": "JAH-FW-000001", "t": "UEFI Firmware", "g": "firmware"}
+{"id": "JAH-FW-000002", "t": "BIOS Firmware", "g": "firmware"}
+{"id": "JAH-FW-000003", "t": "Bootloaders", "g": "firmware"}
+{"id": "JAH-FW-000004", "t": "Stage-1 Bootloaders", "g": "firmware"}
+{"id": "JAH-FW-000005", "t": "Stage-2 Bootloaders", "g": "firmware"}
+{"id": "JAH-FW-000006", "t": "EFI Executables", "g": "firmware"}
+{"id": "JAH-FW-000007", "t": "Kernel Images", "g": "firmware"}
+{"id": "JAH-FW-000008", "t": "Flat Kernels", "g": "firmware"}
+{"id": "JAH-FW-000009", "t": "Higher-Half Kernels", "g": "firmware"}
+{"id": "JAH-FW-000010", "t": "Monolithic Kernel Images", "g": "firmware"}
+{"id": "JAH-FW-000011", "t": "Microkernel Servers", "g": "firmware"}
+{"id": "JAH-FW-000012", "t": "Multiboot Kernels", "g": "firmware"}
+{"id": "JAH-FW-000013", "t": "Initramfs Images", "g": "firmware"}
+{"id": "JAH-FW-000014", "t": "Initial RAM Disks", "g": "firmware"}
+{"id": "JAH-FW-000015", "t": "crt0 Startup", "g": "firmware"}
+{"id": "JAH-FW-000016", "t": "Linker Scripts", "g": "firmware"}
+{"id": "JAH-FW-000017", "t": "Interrupt Vector Tables", "g": "firmware"}
+{"id": "JAH-FW-000018", "t": "Global Descriptor Tables", "g": "firmware"}
+{"id": "JAH-FW-000019", "t": "Page Table Builders", "g": "firmware"}
+{"id": "JAH-FW-000020", "t": "Framebuffer Drivers", "g": "firmware"}
+{"id": "JAH-FW-000021", "t": "ACPI Tables", "g": "firmware"}
+{"id": "JAH-FW-000022", "t": "Device Trees", "g": "firmware"}
+{"id": "JAH-FW-000023", "t": "SMBIOS Tables", "g": "firmware"}
+{"id": "JAH-FW-000024", "t": "Coreboot", "g": "firmware"}
+{"id": "JAH-FW-000025", "t": "U-Boot", "g": "firmware"}
+{"id": "JAH-FW-000026", "t": "Barebox", "g": "firmware"}
+{"id": "JAH-FW-000027", "t": "SeaBIOS", "g": "firmware"}
+{"id": "JAH-FW-000028", "t": "EDK II", "g": "firmware"}
+{"id": "JAH-FW-000029", "t": "OpenSBI", "g": "firmware"}
+{"id": "JAH-FW-000030", "t": "ARM Trusted Firmware", "g": "firmware"}
+{"id": "JAH-FW-000031", "t": "Power-On Self-Test", "g": "firmware"}
+{"id": "JAH-FW-000032", "t": "Memory Training", "g": "firmware"}
+{"id": "JAH-FW-000033", "t": "PCI Enumeration", "g": "firmware"}
+{"id": "JAH-FW-000034", "t": "USB Initialization", "g": "firmware"}
+{"id": "JAH-FW-000035", "t": "SATA Initialization", "g": "firmware"}
+{"id": "JAH-FW-000036", "t": "NVMe Boot", "g": "firmware"}
+{"id": "JAH-FW-000037", "t": "Network Boot ROMs", "g": "firmware"}
+{"id": "JAH-FW-000038", "t": "iPXE", "g": "firmware"}
+{"id": "JAH-FW-000039", "t": "Boot Menus", "g": "firmware"}
+{"id": "JAH-FW-000040", "t": "Boot Splashes", "g": "firmware"}
+{"id": "JAH-FW-000041", "t": "Handoff Protocols", "g": "firmware"}
+{"id": "JAH-FW-000042", "t": "ExitBootServices", "g": "firmware"}
+{"id": "JAH-FW-000043", "t": "Runtime Services", "g": "firmware"}
+{"id": "JAH-FW-000044", "t": "Variable Stores", "g": "firmware"}
+{"id": "JAH-FW-000045", "t": "Capsule Updates", "g": "firmware"}
+{"id": "JAH-FW-000046", "t": "Secure Boot Chains", "g": "firmware"}
+{"id": "JAH-FW-000047", "t": "Measured Boot", "g": "firmware"}
+{"id": "JAH-FW-000048", "t": "Verified Boot", "g": "firmware"}
+{"id": "JAH-FW-000049", "t": "Boot Guard", "g": "firmware"}
+{"id": "JAH-FW-000050", "t": "Firmware Volumes", "g": "firmware"}
+{"id": "JAH-FW-000051", "t": "Flash Descriptors", "g": "firmware"}
+{"id": "JAH-FW-000052", "t": "ME Firmware", "g": "firmware"}
+{"id": "JAH-FW-000053", "t": "BMC Firmware", "g": "firmware"}
+{"id": "JAH-FW-000054", "t": "EC Firmware", "g": "firmware"}
+{"id": "JAH-FW-000055", "t": "Touch Firmware", "g": "firmware"}
+{"id": "JAH-FW-000056", "t": "SSD Firmware", "g": "firmware"}
+{"id": "JAH-FW-000057", "t": "HDD Firmware", "g": "firmware"}
+{"id": "JAH-FW-000058", "t": "NIC Firmware", "g": "firmware"}
+{"id": "JAH-FW-000059", "t": "GPU VBIOS", "g": "firmware"}
+{"id": "JAH-FW-000060", "t": "Bare-Metal UEFI Bootloader Modules", "g": "database-types"}
+{"id": "JAH-FW-000061", "t": "GOP Framebuffer Memory Maps", "g": "database-types"}

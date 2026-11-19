@@ -1,0 +1,34 @@
+{"id": "JAH-IFPMS-000001", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Asset Registry", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPMS-000002", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Criticality Ranking", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPMS-000003", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: FMEA", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPMS-000004", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Vibration Monitoring", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000005", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Thermography", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000006", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Oil Analysis", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000007", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Ultrasound (Airborne)", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000008", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: MTBF", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPMS-000009", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: MTTR", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPMS-000010", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Availability", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPMS-000011", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Weibull Analysis", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPMS-000012", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Preventive Schedule", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000013", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Predictive Triggers", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000014", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Root Cause Analysis", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPMS-000015", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Pareto of Failures", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPMS-000016", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Lubrication Program", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000017", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Alignment Check", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000018", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Ultrasonic Thickness", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000019", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Spare Parts Criticality", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000020", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: OEE", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000021", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Backlog Management", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000022", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Shutdown Planning", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000023", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: 5 Whys", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPMS-000024", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Fault Tree", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPMS-000025", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Inspection Routes", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000026", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Corrosion Monitoring", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000027", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Balancing", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000028", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Motor Current Analysis", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPMS-000029", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: RCM Logic", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPMS-000030", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Work Order Planning", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000031", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: KPI Dashboard", "c": 0, "g": "planning"}
+{"id": "JAH-IFPMS-000032", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Capstone: Asset Strategy", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPMS-000033", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: Reliability Growth", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPMS-000034", "t": "Infrastructure Maintenance and Predictive Diagnostics Signature Database: PM Optimization", "c": 0, "g": "planning"}

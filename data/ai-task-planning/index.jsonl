@@ -1,0 +1,94 @@
+{"id": "JAH-ATPLAN-000001", "t": "AI Task Planning and Decomposition Database: Plan: Ship a REST API", "c": 0, "g": "software"}
+{"id": "JAH-ATPLAN-000002", "t": "AI Task Planning and Decomposition Database: Plan: Train an Image Classifier", "c": 0, "g": "software"}
+{"id": "JAH-ATPLAN-000003", "t": "AI Task Planning and Decomposition Database: Plan: Write a Research Paper", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000004", "t": "AI Task Planning and Decomposition Database: Plan: Move House", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000005", "t": "AI Task Planning and Decomposition Database: Plan: Launch a Small Business", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000006", "t": "AI Task Planning and Decomposition Database: Plan: Run a Scientific Experiment", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000007", "t": "AI Task Planning and Decomposition Database: Plan: Build a Personal Website", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000008", "t": "AI Task Planning and Decomposition Database: Plan: Prepare for a Job Interview", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000009", "t": "AI Task Planning and Decomposition Database: Plan: Organize a Conference Talk", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000010", "t": "AI Task Planning and Decomposition Database: Plan: Migrate a Database", "c": 0, "g": "software"}
+{"id": "JAH-ATPLAN-000011", "t": "AI Task Planning and Decomposition Database: Plan: Learn a New Programming Language", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000012", "t": "AI Task Planning and Decomposition Database: Plan: Conduct a Security Audit", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000013", "t": "AI Task Planning and Decomposition Database: Plan: Write a Grant Proposal", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000014", "t": "AI Task Planning and Decomposition Database: Plan: Restore a Flooded Basement", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000015", "t": "AI Task Planning and Decomposition Database: Plan: Build a Raised Garden Bed", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000016", "t": "AI Task Planning and Decomposition Database: Plan: Produce a Podcast Episode", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000017", "t": "AI Task Planning and Decomposition Database: Plan: Evaluate a Job Offer", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000018", "t": "AI Task Planning and Decomposition Database: Plan: Run a Bake Sale Fundraiser", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000019", "t": "AI Task Planning and Decomposition Database: Plan: Write a Will", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000020", "t": "AI Task Planning and Decomposition Database: Plan: Train for a 5K Run", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000021", "t": "AI Task Planning and Decomposition Database: Plan: Digitize Family Photos", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000022", "t": "AI Task Planning and Decomposition Database: Plan: Start a Vegetable Garden Business", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000023", "t": "AI Task Planning and Decomposition Database: Plan: Prepare Taxes", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000024", "t": "AI Task Planning and Decomposition Database: Plan: Build a Treehouse", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000025", "t": "AI Task Planning and Decomposition Database: Plan: Write a Business Plan", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000026", "t": "AI Task Planning and Decomposition Database: Plan: Learn to Cook 10 Meals", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000027", "t": "AI Task Planning and Decomposition Database: Plan: Run a Neighborhood Cleanup", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000028", "t": "AI Task Planning and Decomposition Database: Plan: Build a Shed", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000029", "t": "AI Task Planning and Decomposition Database: Plan: Study for a Certification Exam", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000030", "t": "AI Task Planning and Decomposition Database: Plan: Migrate to a New Phone", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000031", "t": "AI Task Planning and Decomposition Database: Plan: Host a Dinner Party", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000032", "t": "AI Task Planning and Decomposition Database: Plan: Write and Publish an E-book", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000033", "t": "AI Task Planning and Decomposition Database: Plan: Build a Home Lab Server", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000034", "t": "AI Task Planning and Decomposition Database: Plan: Organize Family Reunion", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000035", "t": "AI Task Planning and Decomposition Database: Plan: Launch a Mobile App", "c": 0, "g": "software"}
+{"id": "JAH-ATPLAN-000036", "t": "AI Task Planning and Decomposition Database: Plan: Migrate On-Premises to Cloud", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000037", "t": "AI Task Planning and Decomposition Database: Plan: Conduct a Penetration Test", "c": 0, "g": "software"}
+{"id": "JAH-ATPLAN-000038", "t": "AI Task Planning and Decomposition Database: Plan: Build a Data Warehouse", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000039", "t": "AI Task Planning and Decomposition Database: Plan: Organize a Wedding", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000040", "t": "AI Task Planning and Decomposition Database: Plan: Renovate a Kitchen", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000041", "t": "AI Task Planning and Decomposition Database: Plan: Replicate a Published Study", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000042", "t": "AI Task Planning and Decomposition Database: Plan: Start a Nonprofit Organization", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000043", "t": "AI Task Planning and Decomposition Database: Plan: Develop a Board Game", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000044", "t": "AI Task Planning and Decomposition Database: Plan: Restore a Classic Car", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000045", "t": "AI Task Planning and Decomposition Database: Plan: Plan a Sabbatical Year", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000046", "t": "AI Task Planning and Decomposition Database: Plan: Build a Community Garden", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000047", "t": "AI Task Planning and Decomposition Database: Plan: Produce a Short Film", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000048", "t": "AI Task Planning and Decomposition Database: Plan: Earn a Private Pilot License", "c": 0, "g": "personal"}
+{"id": "JAH-ATPLAN-000049", "t": "AI Task Planning and Decomposition Database: Plan: Launch a Podcast Network", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000050", "t": "AI Task Planning and Decomposition Database: Plan: Achieve ISO 27001 Certification", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000051", "t": "AI Task Planning and Decomposition Database: Plan: Build an Off-Grid Solar Setup", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000052", "t": "AI Task Planning and Decomposition Database: Plan: Run a Clinical Trial", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000053", "t": "AI Task Planning and Decomposition Database: Plan: Open a Restaurant", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000054", "t": "AI Task Planning and Decomposition Database: Plan: Design a Public Park", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000055", "t": "AI Task Planning and Decomposition Database: Plan: Develop a New Drug", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000056", "t": "AI Task Planning and Decomposition Database: Plan: Deploy a Citywide Fiber Network", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000057", "t": "AI Task Planning and Decomposition Database: Plan: Write a Novel Trilogy", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000058", "t": "AI Task Planning and Decomposition Database: Plan: Found a University Department", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000059", "t": "AI Task Planning and Decomposition Database: Plan: Eradicate a Local Invasive Species", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000060", "t": "AI Task Planning and Decomposition Database: Plan: Build a Museum Exhibition", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000061", "t": "AI Task Planning and Decomposition Database: Plan: Develop a Vaccine Distribution Campaign", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000062", "t": "AI Task Planning and Decomposition Database: Plan: Create an Open-Source Operating System", "c": 0, "g": "software"}
+{"id": "JAH-ATPLAN-000063", "t": "AI Task Planning and Decomposition Database: Plan: Plan a Mars Analog Mission", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000064", "t": "AI Task Planning and Decomposition Database: Plan: Restore a Historic Building", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000065", "t": "AI Task Planning and Decomposition Database: Plan: Launch a Farmers Market Cooperative", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000066", "t": "AI Task Planning and Decomposition Database: Plan: Design a Transit Line", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000067", "t": "AI Task Planning and Decomposition Database: Plan: Develop a Language Curriculum", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000068", "t": "AI Task Planning and Decomposition Database: Plan: Organize a Music Festival", "c": 0, "g": "creative"}
+{"id": "JAH-ATPLAN-000069", "t": "AI Task Planning and Decomposition Database: Plan: Build a Wildlife Corridor", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000070", "t": "AI Task Planning and Decomposition Database: Plan: Create a National Park Visitor Program", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000071", "t": "AI Task Planning and Decomposition Database: Plan: Develop a Prosthetic Limb", "c": 0, "g": "engineering"}
+{"id": "JAH-ATPLAN-000072", "t": "AI Task Planning and Decomposition Database: Plan: Launch a Microfinance Program", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000073", "t": "AI Task Planning and Decomposition Database: Plan: Build a Community Land Trust", "c": 0, "g": "operations"}
+{"id": "JAH-ATPLAN-000093", "t": "AI Task Planning and Decomposition Database: Plan: Establish a Marine Protected Area Network", "c": 0, "g": "research"}
+{"id": "JAH-ATPLAN-000094", "t": "AI Task Planning and Decomposition Database: Plan: Morning Routine Optimization", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000095", "t": "AI Task Planning and Decomposition Database: Plan: Home Move", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000096", "t": "AI Task Planning and Decomposition Database: Plan: Product Launch", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000097", "t": "AI Task Planning and Decomposition Database: Plan: Conference Talk Preparation", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000098", "t": "AI Task Planning and Decomposition Database: Plan: Research Paper", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000099", "t": "AI Task Planning and Decomposition Database: Plan: Fitness Program", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000100", "t": "AI Task Planning and Decomposition Database: Plan: Garden Season", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000101", "t": "AI Task Planning and Decomposition Database: Plan: Small Business Opening", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000102", "t": "AI Task Planning and Decomposition Database: Plan: Wedding Timeline", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000103", "t": "AI Task Planning and Decomposition Database: Plan: Certification Study Plan", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000104", "t": "AI Task Planning and Decomposition Database: Plan: Software Migration", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000105", "t": "AI Task Planning and Decomposition Database: Plan: Emergency Fund", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000106", "t": "AI Task Planning and Decomposition Database: Plan: Team Offsite", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000107", "t": "AI Task Planning and Decomposition Database: Plan: Book Writing", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000108", "t": "AI Task Planning and Decomposition Database: Plan: Career Transition", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000109", "t": "AI Task Planning and Decomposition Database: Plan: Home Renovation", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000110", "t": "AI Task Planning and Decomposition Database: Plan: Nonprofit Fundraiser", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000111", "t": "AI Task Planning and Decomposition Database: Plan: Language Learning", "c": 2, "g": "personal"}
+{"id": "JAH-ATPLAN-000112", "t": "AI Task Planning and Decomposition Database: Plan: Data Backup System", "c": 2, "g": "work"}
+{"id": "JAH-ATPLAN-000113", "t": "AI Task Planning and Decomposition Database: Plan: Retirement Readiness", "c": 2, "g": "personal"}

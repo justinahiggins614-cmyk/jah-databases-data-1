@@ -1,0 +1,41 @@
+{"id": "JAH-CETS-000001", "t": "Runtimes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000002", "t": "Execution Runtimes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000003", "t": "Language Runtimes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000004", "t": "Kernels (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000005", "t": "Microkernels (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000006", "t": "Monolithic Kernels (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000007", "t": "Hybrid Kernels (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000008", "t": "Exo-kernels (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000009", "t": "Nano-kernels (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000010", "t": "Foundations (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000011", "t": "Substrates (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000012", "t": "Compute Substrates (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000013", "t": "Frameworks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000014", "t": "Application Frameworks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000015", "t": "Web Frameworks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000016", "t": "UI Frameworks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000017", "t": "Libraries (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000018", "t": "Core Libraries (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000019", "t": "System Libraries (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000020", "t": "Modules (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000021", "t": "Stacks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000022", "t": "Tech Stacks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000023", "t": "Software Stacks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000024", "t": "Protocol Stacks (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000025", "t": "Platforms (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000026", "t": "Platform-as-a-Service (PaaS) (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000027", "t": "Infrastructure-as-a-Service (IaaS) (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000028", "t": "Backend-as-a-Service (BaaS) (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000029", "t": "Infrastructures (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000030", "t": "Backbones (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000031", "t": "Architectures (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000032", "t": "Core Engines (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000033", "t": "Microservices (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000034", "t": "Monoliths (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000035", "t": "Service Meshes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000036", "t": "Control Planes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000037", "t": "Data Planes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000038", "t": "Management Planes (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000039", "t": "Orchestration Layers (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000040", "t": "Abstraction Layers (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}
+{"id": "JAH-CETS-000041", "t": "Hardware Abstraction Layers (HAL) (Signature Edition)", "g": "CORE & ENGINE CATEGORIES (Substrates, Runtimes, Stacks)"}

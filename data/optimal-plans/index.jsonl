@@ -1,0 +1,60 @@
+{"id": "JAH-OP-000001", "t": "Warehouse aisle traversal", "g": "navigation-plans"}
+{"id": "JAH-OP-000002", "t": "Campus delivery route", "g": "navigation-plans"}
+{"id": "JAH-OP-000003", "t": "Parking garage descent", "g": "navigation-plans"}
+{"id": "JAH-OP-000004", "t": "Hospital courier run", "g": "navigation-plans"}
+{"id": "JAH-OP-000005", "t": "Construction site survey", "g": "navigation-plans"}
+{"id": "JAH-OP-000006", "t": "Airport tarmac crossing", "g": "navigation-plans"}
+{"id": "JAH-OP-000007", "t": "Museum patrol", "g": "navigation-plans"}
+{"id": "JAH-OP-000008", "t": "Snow plow route", "g": "navigation-plans"}
+{"id": "JAH-OP-000009", "t": "Vineyard row inspection", "g": "navigation-plans"}
+{"id": "JAH-OP-000010", "t": "Disaster area sweep", "g": "navigation-plans"}
+{"id": "JAH-OP-000011", "t": "Bin pick sequence", "g": "manipulation-plans"}
+{"id": "JAH-OP-000012", "t": "Gearbox assembly", "g": "manipulation-plans"}
+{"id": "JAH-OP-000013", "t": "Palletizing pattern", "g": "manipulation-plans"}
+{"id": "JAH-OP-000014", "t": "Welding seam order", "g": "manipulation-plans"}
+{"id": "JAH-OP-000015", "t": "Surgical suturing", "g": "manipulation-plans"}
+{"id": "JAH-OP-000016", "t": "Kitchen meal prep", "g": "manipulation-plans"}
+{"id": "JAH-OP-000017", "t": "Cable routing", "g": "manipulation-plans"}
+{"id": "JAH-OP-000018", "t": "Fruit harvesting", "g": "manipulation-plans"}
+{"id": "JAH-OP-000019", "t": "Lab sample handling", "g": "manipulation-plans"}
+{"id": "JAH-OP-000020", "t": "Furniture assembly", "g": "manipulation-plans"}
+{"id": "JAH-OP-000021", "t": "Morning warehouse shift", "g": "task-plans"}
+{"id": "JAH-OP-000022", "t": "Drone delivery wave", "g": "task-plans"}
+{"id": "JAH-OP-000023", "t": "Building cleaning round", "g": "task-plans"}
+{"id": "JAH-OP-000024", "t": "Farm irrigation day", "g": "task-plans"}
+{"id": "JAH-OP-000025", "t": "Data center maintenance", "g": "task-plans"}
+{"id": "JAH-OP-000026", "t": "Restaurant dinner rush", "g": "task-plans"}
+{"id": "JAH-OP-000027", "t": "Hospital rounds", "g": "task-plans"}
+{"id": "JAH-OP-000028", "t": "Construction day plan", "g": "task-plans"}
+{"id": "JAH-OP-000029", "t": "Classroom lab session", "g": "task-plans"}
+{"id": "JAH-OP-000030", "t": "Event teardown", "g": "task-plans"}
+{"id": "JAH-OP-000031", "t": "Warehouse fleet dispatch", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000032", "t": "Drone light show", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000033", "t": "Search and rescue sweep", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000034", "t": "Agricultural fleet harvest", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000035", "t": "Construction crane lifts", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000036", "t": "Ocean survey fleet", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000037", "t": "Planetary sample return", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000038", "t": "Traffic intersection control", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000039", "t": "Firefighting drone team", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000040", "t": "Stadium security patrol", "g": "multi-robot-plans"}
+{"id": "JAH-OP-000041", "t": "Bridge underside inspection", "g": "inspection-plans"}
+{"id": "JAH-OP-000042", "t": "Pipeline walkdown", "g": "inspection-plans"}
+{"id": "JAH-OP-000043", "t": "Aircraft fuselage check", "g": "inspection-plans"}
+{"id": "JAH-OP-000044", "t": "Wind turbine blade scan", "g": "inspection-plans"}
+{"id": "JAH-OP-000045", "t": "Rail track survey", "g": "inspection-plans"}
+{"id": "JAH-OP-000046", "t": "Dam face monitoring", "g": "inspection-plans"}
+{"id": "JAH-OP-000047", "t": "Solar farm thermal scan", "g": "inspection-plans"}
+{"id": "JAH-OP-000048", "t": "Ship hull survey", "g": "inspection-plans"}
+{"id": "JAH-OP-000049", "t": "Power line corridor", "g": "inspection-plans"}
+{"id": "JAH-OP-000050", "t": "Tunnel lining check", "g": "inspection-plans"}
+{"id": "JAH-OP-000051", "t": "Electric motor build", "g": "assembly-plans"}
+{"id": "JAH-OP-000052", "t": "PCB population", "g": "assembly-plans"}
+{"id": "JAH-OP-000053", "t": "Aircraft wing join", "g": "assembly-plans"}
+{"id": "JAH-OP-000054", "t": "Battery pack assembly", "g": "assembly-plans"}
+{"id": "JAH-OP-000055", "t": "Furniture flat-pack", "g": "assembly-plans"}
+{"id": "JAH-OP-000056", "t": "Engine rebuild", "g": "assembly-plans"}
+{"id": "JAH-OP-000057", "t": "Satellite integration", "g": "assembly-plans"}
+{"id": "JAH-OP-000058", "t": "Bridge segment launch", "g": "assembly-plans"}
+{"id": "JAH-OP-000059", "t": "Robot arm build", "g": "assembly-plans"}
+{"id": "JAH-OP-000060", "t": "Prosthetic fitting", "g": "assembly-plans"}

@@ -1,0 +1,74 @@
+{"id": "JAH-SERI-000001", "t": "Self-Evaluation and Regression Intelligence Database: Performance Baseline", "c": 0, "g": "foundations"}
+{"id": "JAH-SERI-000002", "t": "Self-Evaluation and Regression Intelligence Database: Benchmark Suite", "c": 0, "g": "foundations"}
+{"id": "JAH-SERI-000003", "t": "Self-Evaluation and Regression Intelligence Database: Regression Detection", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000004", "t": "Self-Evaluation and Regression Intelligence Database: Failure Clustering", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000005", "t": "Self-Evaluation and Regression Intelligence Database: Root Cause Analysis", "c": 0, "g": "diagnosis"}
+{"id": "JAH-SERI-000006", "t": "Self-Evaluation and Regression Intelligence Database: Fix Verification", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000007", "t": "Self-Evaluation and Regression Intelligence Database: A/B Test", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000008", "t": "Self-Evaluation and Regression Intelligence Database: Canary Deployment", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000009", "t": "Self-Evaluation and Regression Intelligence Database: Rollback Trigger", "c": 0, "g": "reliability"}
+{"id": "JAH-SERI-000010", "t": "Self-Evaluation and Regression Intelligence Database: Accuracy Tracking", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000011", "t": "Self-Evaluation and Regression Intelligence Database: Latency Tracking", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000012", "t": "Self-Evaluation and Regression Intelligence Database: Cost Tracking", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000013", "t": "Self-Evaluation and Regression Intelligence Database: Quality Gate", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000014", "t": "Self-Evaluation and Regression Intelligence Database: CI Integration", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000015", "t": "Self-Evaluation and Regression Intelligence Database: Alerting", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000016", "t": "Self-Evaluation and Regression Intelligence Database: Triage", "c": 0, "g": "diagnosis"}
+{"id": "JAH-SERI-000017", "t": "Self-Evaluation and Regression Intelligence Database: Blameless Postmortem", "c": 0, "g": "diagnosis"}
+{"id": "JAH-SERI-000018", "t": "Self-Evaluation and Regression Intelligence Database: Fix Prioritization", "c": 0, "g": "diagnosis"}
+{"id": "JAH-SERI-000019", "t": "Self-Evaluation and Regression Intelligence Database: Test Coverage", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000020", "t": "Self-Evaluation and Regression Intelligence Database: Flaky Test Management", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000021", "t": "Self-Evaluation and Regression Intelligence Database: Data Drift Detection", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000022", "t": "Self-Evaluation and Regression Intelligence Database: Model Drift Detection", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000023", "t": "Self-Evaluation and Regression Intelligence Database: Feedback Loop", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000024", "t": "Self-Evaluation and Regression Intelligence Database: Human Evaluation", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000025", "t": "Self-Evaluation and Regression Intelligence Database: Red Teaming", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000026", "t": "Self-Evaluation and Regression Intelligence Database: Adversarial Testing", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000027", "t": "Self-Evaluation and Regression Intelligence Database: Robustness Check", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000028", "t": "Self-Evaluation and Regression Intelligence Database: Fairness Check", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000029", "t": "Self-Evaluation and Regression Intelligence Database: Safety Check", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000030", "t": "Self-Evaluation and Regression Intelligence Database: Evaluation Documentation", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000031", "t": "Self-Evaluation and Regression Intelligence Database: Sign-Off", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000032", "t": "Self-Evaluation and Regression Intelligence Database: Continuous Evaluation", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000033", "t": "Self-Evaluation and Regression Intelligence Database: Drift Dashboard", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000034", "t": "Self-Evaluation and Regression Intelligence Database: Capstone: Self-Evaluation System", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000035", "t": "Self-Evaluation and Regression Intelligence Database: Weekly Self-Review Protocol", "c": 1, "g": "cadence"}
+{"id": "JAH-SERI-000036", "t": "Self-Evaluation and Regression Intelligence Database: Goal Regression Detection", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000037", "t": "Self-Evaluation and Regression Intelligence Database: Habit Streak Integrity Check", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000038", "t": "Self-Evaluation and Regression Intelligence Database: Skill Progress Measurement", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000039", "t": "Self-Evaluation and Regression Intelligence Database: Energy Audit for Productivity", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000040", "t": "Self-Evaluation and Regression Intelligence Database: Decision Journal Review", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000041", "t": "Self-Evaluation and Regression Intelligence Database: Feedback Integration Check", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000042", "t": "Self-Evaluation and Regression Intelligence Database: Learning Velocity Metric", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000043", "t": "Self-Evaluation and Regression Intelligence Database: Relationship Investment Review", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000044", "t": "Self-Evaluation and Regression Intelligence Database: Health Metric Regression Check", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000045", "t": "Self-Evaluation and Regression Intelligence Database: Financial Self-Audit", "c": 1, "g": "cadence"}
+{"id": "JAH-SERI-000046", "t": "Self-Evaluation and Regression Intelligence Database: Time Allocation Audit", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000047", "t": "Self-Evaluation and Regression Intelligence Database: Stress Level Monitoring", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000048", "t": "Self-Evaluation and Regression Intelligence Database: Focus Depth Measurement", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000049", "t": "Self-Evaluation and Regression Intelligence Database: Communication Effectiveness Review", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000050", "t": "Self-Evaluation and Regression Intelligence Database: Creativity Output Tracking", "c": 1, "g": "metrics"}
+{"id": "JAH-SERI-000051", "t": "Self-Evaluation and Regression Intelligence Database: Resilience Self-Assessment", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000052", "t": "Self-Evaluation and Regression Intelligence Database: Values Alignment Check", "c": 1, "g": "reflection"}
+{"id": "JAH-SERI-000053", "t": "Self-Evaluation and Regression Intelligence Database: Quarterly Life Review", "c": 1, "g": "cadence"}
+{"id": "JAH-SERI-000054", "t": "Self-Evaluation and Regression Intelligence Database: Annual Regression Report", "c": 1, "g": "cadence"}
+{"id": "JAH-SERI-000055", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Rate Calibration", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000056", "t": "Self-Evaluation and Regression Intelligence Database: Over-Refusal Detection", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000057", "t": "Self-Evaluation and Regression Intelligence Database: Under-Refusal Detection (Harmful Compliance)", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000058", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Message Quality Rubric", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000059", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Consistency Across Paraphrases", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000060", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Consistency Across Languages", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000061", "t": "Self-Evaluation and Regression Intelligence Database: Partial Compliance Detection", "c": 0, "g": "detection"}
+{"id": "JAH-SERI-000062", "t": "Self-Evaluation and Regression Intelligence Database: Jailbreak Resistance Scoring", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000063", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Tone and Helpfulness", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000064", "t": "Self-Evaluation and Regression Intelligence Database: Safe-Completion Alternative Quality", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000065", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Latency Impact", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000066", "t": "Self-Evaluation and Regression Intelligence Database: False Refusal Appeals Process", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000067", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Evaluation Dataset Curation", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000068", "t": "Self-Evaluation and Regression Intelligence Database: Human Agreement on Refusals", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000069", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Regression Testing", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000070", "t": "Self-Evaluation and Regression Intelligence Database: Category-Specific Refusal Thresholds", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000071", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Explanation Accuracy", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000072", "t": "Self-Evaluation and Regression Intelligence Database: Edge-Case Refusal Review Board", "c": 0, "g": "validation"}
+{"id": "JAH-SERI-000073", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Metrics Dashboard", "c": 0, "g": "metrics"}
+{"id": "JAH-SERI-000074", "t": "Self-Evaluation and Regression Intelligence Database: Refusal Policy Version Diff Testing", "c": 0, "g": "validation"}

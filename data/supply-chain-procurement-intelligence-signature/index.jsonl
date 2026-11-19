@@ -1,0 +1,34 @@
+{"id": "JAH-SCPIS-000001", "t": "Supply Chain and Procurement Intelligence Signature Database: Total Cost of Ownership", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000002", "t": "Supply Chain and Procurement Intelligence Signature Database: Landed Cost per Unit", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000003", "t": "Supply Chain and Procurement Intelligence Signature Database: EOQ", "c": 0, "g": "inventory"}
+{"id": "JAH-SCPIS-000004", "t": "Supply Chain and Procurement Intelligence Signature Database: Reorder Point", "c": 0, "g": "inventory"}
+{"id": "JAH-SCPIS-000005", "t": "Supply Chain and Procurement Intelligence Signature Database: Safety Stock", "c": 0, "g": "inventory"}
+{"id": "JAH-SCPIS-000006", "t": "Supply Chain and Procurement Intelligence Signature Database: Supplier Weighted Score", "c": 0, "g": "sourcing"}
+{"id": "JAH-SCPIS-000007", "t": "Supply Chain and Procurement Intelligence Signature Database: Volume Discount Price", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000008", "t": "Supply Chain and Procurement Intelligence Signature Database: Make-vs-Buy Break-Even", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000009", "t": "Supply Chain and Procurement Intelligence Signature Database: MOQ Fill Cost", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000010", "t": "Supply Chain and Procurement Intelligence Signature Database: OTIF", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000011", "t": "Supply Chain and Procurement Intelligence Signature Database: Inventory Turns", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000012", "t": "Supply Chain and Procurement Intelligence Signature Database: Days Payable Outstanding", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000013", "t": "Supply Chain and Procurement Intelligence Signature Database: Spend Under Management", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000014", "t": "Supply Chain and Procurement Intelligence Signature Database: Cost Savings %", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000015", "t": "Supply Chain and Procurement Intelligence Signature Database: Early Payment Discount", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000016", "t": "Supply Chain and Procurement Intelligence Signature Database: Currency Impact", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000017", "t": "Supply Chain and Procurement Intelligence Signature Database: Tariff Cost", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000018", "t": "Supply Chain and Procurement Intelligence Signature Database: Freight as % of COGS", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000019", "t": "Supply Chain and Procurement Intelligence Signature Database: Average Supplier Lead Time", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000020", "t": "Supply Chain and Procurement Intelligence Signature Database: Quality PPM", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000021", "t": "Supply Chain and Procurement Intelligence Signature Database: Defect Cost", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000022", "t": "Supply Chain and Procurement Intelligence Signature Database: Warranty Reserve", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000023", "t": "Supply Chain and Procurement Intelligence Signature Database: Contract Value", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000024", "t": "Supply Chain and Procurement Intelligence Signature Database: Supplier Concentration", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000025", "t": "Supply Chain and Procurement Intelligence Signature Database: Single-Source Exposure", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000026", "t": "Supply Chain and Procurement Intelligence Signature Database: Cost Avoidance", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000027", "t": "Supply Chain and Procurement Intelligence Signature Database: Payment Term Benefit", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000028", "t": "Supply Chain and Procurement Intelligence Signature Database: Inventory Holding Cost", "c": 0, "g": "inventory"}
+{"id": "JAH-SCPIS-000029", "t": "Supply Chain and Procurement Intelligence Signature Database: Stockout Cost", "c": 0, "g": "inventory"}
+{"id": "JAH-SCPIS-000030", "t": "Supply Chain and Procurement Intelligence Signature Database: Expedite Premium", "c": 0, "g": "costing"}
+{"id": "JAH-SCPIS-000031", "t": "Supply Chain and Procurement Intelligence Signature Database: Supplier Lead Time Variability", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000032", "t": "Supply Chain and Procurement Intelligence Signature Database: Purchase Price Variance", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000033", "t": "Supply Chain and Procurement Intelligence Signature Database: Procurement ROI", "c": 0, "g": "performance"}
+{"id": "JAH-SCPIS-000034", "t": "Supply Chain and Procurement Intelligence Signature Database: Sourcing Decision Capstone", "c": 0, "g": "sourcing"}

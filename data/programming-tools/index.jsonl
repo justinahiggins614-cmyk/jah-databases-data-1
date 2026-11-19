@@ -1,0 +1,89 @@
+{"id": "JAH-PGW-000001", "t": "Code Editor", "g": "programming-tools"}
+{"id": "JAH-PGW-000002", "t": "Multi-Language Compiler Workbench", "g": "programming-tools"}
+{"id": "JAH-PGW-000003", "t": "Script Execution Environment", "g": "programming-tools"}
+{"id": "JAH-PGW-000004", "t": "Package and Dependency Manager", "g": "programming-tools"}
+{"id": "JAH-PGW-000005", "t": "Version Control Workbench", "g": "programming-tools"}
+{"id": "JAH-PGW-000006", "t": "Code Diff and Merge Tool", "g": "programming-tools"}
+{"id": "JAH-PGW-000007", "t": "Static Code Analyzer", "g": "programming-tools"}
+{"id": "JAH-PGW-000008", "t": "Interactive Debugger", "g": "programming-tools"}
+{"id": "JAH-PGW-000009", "t": "Memory and CPU Profiler", "g": "programming-tools"}
+{"id": "JAH-PGW-000010", "t": "Automated Unit-Test Runner", "g": "programming-tools"}
+{"id": "JAH-PGW-000011", "t": "Integration Test Framework", "g": "programming-tools"}
+{"id": "JAH-PGW-000012", "t": "User-Interface Test Automator", "g": "programming-tools"}
+{"id": "JAH-PGW-000013", "t": "API Development Console", "g": "programming-tools"}
+{"id": "JAH-PGW-000014", "t": "Database Migration Manager", "g": "programming-tools"}
+{"id": "JAH-PGW-000015", "t": "Code Documentation Generator", "g": "programming-tools"}
+{"id": "JAH-PGW-000016", "t": "Dependency Graph Builder", "g": "programming-tools"}
+{"id": "JAH-PGW-000017", "t": "Build Automation System", "g": "programming-tools"}
+{"id": "JAH-PGW-000018", "t": "Application Packaging Tool", "g": "programming-tools"}
+{"id": "JAH-PGW-000019", "t": "Cross-Platform Compatibility Tester", "g": "programming-tools"}
+{"id": "JAH-PGW-000020", "t": "AI Programming Assistant", "g": "programming-tools"}
+{"id": "JAH-PGW-000021", "t": "JTAG Hardware Debugger", "g": "Toolset"}
+{"id": "JAH-PGW-000022", "t": "Ground Penetrating Radar", "g": "Toolset"}
+{"id": "JAH-PGW-000023", "t": "Decompilers (AST-based)", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Binary Analysis & Reverse Engineering"}
+{"id": "JAH-PGW-000024", "t": "Just-In-Time (JIT) Compilers", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-PGW-000025", "t": "Ahead-Of-Time (AOT) Compilers", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-PGW-000026", "t": "Hardware Debuggers (JTAG)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-PGW-000027", "t": "WinMerge", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000028", "t": "Insomnia", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000029", "t": "Document Chunker", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000030", "t": "Hex Editor Pro", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000031", "t": "Shader Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000032", "t": "ACPI DSDT Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000033", "t": "Pixel Blending Pipeline", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000034", "t": "n8n Workflow Automation", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000035", "t": "VSCodium", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000036", "t": "GBNF Rule Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000037", "t": "Valgrind Memcheck", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000038", "t": "GDB Server", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000039", "t": "Termux Workspace", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000040", "t": "Magebuild System", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000041", "t": "CMake Generator", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000042", "t": "Deno Secure Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000043", "t": "uv Fast Python Manager", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000044", "t": "Ansible Automation Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000045", "t": "Terraform Infrastructure Provisioner", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000046", "t": "OpenTofu Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000047", "t": "Pulumi Infrastructure Suite", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000048", "t": "Alacritty Terminal", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000049", "t": "Kitty Terminal Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000050", "t": "Foot Wayland Terminal", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000051", "t": "WezTerm Multiplexer", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000052", "t": "Ghostty Terminal Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000053", "t": "Neovim Editor Framework", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000054", "t": "Helix Modal Editor", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000055", "t": "Kakoune Text Editor", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000056", "t": "Micro Text Editor", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000057", "t": "Doom Emacs Suite", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000058", "t": "SpaceMacs Framework", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000059", "t": "AstroNvim Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000060", "t": "LazyVim Framework", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000061", "t": "NvChad Setup", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000062", "t": "GNU Nano", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000063", "t": "Ed (Standard Text Editor)", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000064", "t": "fx Terminal JSON Viewer", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000065", "t": "Polipo Web Proxy", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000066", "t": "VIPS Image Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000067", "t": "Logstash Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000068", "t": "Sensu Go Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000069", "t": "phpIPAM Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000070", "t": "Tekton Pipelines Framework", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000071", "t": "Wazuh Agent Node", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000072", "t": "Esbuild Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000073", "t": "SWC Compiler Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000074", "t": "Vite Build Tool", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000075", "t": "Webpack Bundler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000076", "t": "Rollup Bundler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000077", "t": "Turbopack Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000078", "t": "Biome Toolchain", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000079", "t": "ESLint Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000080", "t": "Prettier Formatter", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000081", "t": "TypeScript Compiler (tsc)", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000082", "t": "AssemblyScript Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000083", "t": "Rustc Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000084", "t": "Zig Compiler Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000085", "t": "Go Compiler Toolchain", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000086", "t": "GHC (Glasgow Haskell Compiler)", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000087", "t": "Clojure Compiler", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000088", "t": "LuaJIT Engine", "g": "Bizarre Software"}
+{"id": "JAH-PGW-000089", "t": "Babylon.js Engine", "g": "Bizarre Software"}

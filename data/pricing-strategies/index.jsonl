@@ -1,0 +1,54 @@
+{"id": "JAH-PRICE-000001", "t": "Pricing Strategies Database: What Pricing Strategy Is", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000002", "t": "Pricing Strategies Database: Cost-Plus Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000003", "t": "Pricing Strategies Database: Value-Based Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000004", "t": "Pricing Strategies Database: Competitive Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000005", "t": "Pricing Strategies Database: Penetration Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000006", "t": "Pricing Strategies Database: Skimming Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000007", "t": "Pricing Strategies Database: Freemium Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000008", "t": "Pricing Strategies Database: Subscription Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000009", "t": "Pricing Strategies Database: Tiered Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000010", "t": "Pricing Strategies Database: Price Anchoring", "c": 0, "g": "psychology"}
+{"id": "JAH-PRICE-000011", "t": "Pricing Strategies Database: Charm Pricing", "c": 0, "g": "psychology"}
+{"id": "JAH-PRICE-000012", "t": "Pricing Strategies Database: Decoy Pricing", "c": 0, "g": "psychology"}
+{"id": "JAH-PRICE-000013", "t": "Pricing Strategies Database: Loss Leaders", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000014", "t": "Pricing Strategies Database: Bundle Pricing", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000015", "t": "Pricing Strategies Database: Dynamic Pricing", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000016", "t": "Pricing Strategies Database: Promotional Pricing", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000017", "t": "Pricing Strategies Database: Discount Strategy", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000018", "t": "Pricing Strategies Database: Price Increases That Stick", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000019", "t": "Pricing Strategies Database: Price Testing and A/B", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000020", "t": "Pricing Strategies Database: Willingness-to-Pay Research", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000021", "t": "Pricing Strategies Database: Price Elasticity", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000022", "t": "Pricing Strategies Database: Price Segmentation", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000023", "t": "Pricing Strategies Database: Geographic Pricing", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000024", "t": "Pricing Strategies Database: Auction Pricing", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000025", "t": "Pricing Strategies Database: Pay-What-You-Want", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000026", "t": "Pricing Strategies Database: Pricing for Services", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000027", "t": "Pricing Strategies Database: Pricing Mistakes to Avoid", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000028", "t": "Pricing Strategies Database: Competitor Price Monitoring", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000029", "t": "Pricing Strategies Database: Annual Pricing Reviews", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000030", "t": "Pricing Strategies Database: Capstone: The Complete Pricing Strategist", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000031", "t": "Pricing Strategies Database: Cost of Delay in Pricing", "c": 0, "g": "optimization"}
+{"id": "JAH-PRICE-000032", "t": "Pricing Strategies Database: Value Communication", "c": 0, "g": "psychology"}
+{"id": "JAH-PRICE-000033", "t": "Pricing Strategies Database: Pricing Page Design", "c": 0, "g": "tactics"}
+{"id": "JAH-PRICE-000034", "t": "Pricing Strategies Database: Negotiating Price with Buyers", "c": 0, "g": "methods"}
+{"id": "JAH-PRICE-000035", "t": "Pricing Strategies Database: Value-Based Pricing for SaaS", "c": 1, "g": "methods"}
+{"id": "JAH-PRICE-000036", "t": "Pricing Strategies Database: Cost-Plus Pricing Audit", "c": 1, "g": "methods"}
+{"id": "JAH-PRICE-000037", "t": "Pricing Strategies Database: Competitor-Based Pricing Check", "c": 1, "g": "methods"}
+{"id": "JAH-PRICE-000038", "t": "Pricing Strategies Database: Freemium Conversion Pricing", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000039", "t": "Pricing Strategies Database: Tiered Pricing Structure Review", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000040", "t": "Pricing Strategies Database: Usage-Based Pricing Validation", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000041", "t": "Pricing Strategies Database: Per-Seat Pricing Audit", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000042", "t": "Pricing Strategies Database: Flat-Rate Pricing Check", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000043", "t": "Pricing Strategies Database: Penetration Pricing Review", "c": 1, "g": "strategies"}
+{"id": "JAH-PRICE-000044", "t": "Pricing Strategies Database: Skimming Pricing Validation", "c": 1, "g": "strategies"}
+{"id": "JAH-PRICE-000045", "t": "Pricing Strategies Database: Dynamic Pricing Guardrails", "c": 1, "g": "strategies"}
+{"id": "JAH-PRICE-000046", "t": "Pricing Strategies Database: Subscription vs One-Time Analysis", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000047", "t": "Pricing Strategies Database: Annual vs Monthly Pricing Check", "c": 1, "g": "models"}
+{"id": "JAH-PRICE-000048", "t": "Pricing Strategies Database: Enterprise Custom Pricing Review", "c": 1, "g": "strategies"}
+{"id": "JAH-PRICE-000049", "t": "Pricing Strategies Database: Discount Policy Checker", "c": 1, "g": "methods"}
+{"id": "JAH-PRICE-000050", "t": "Pricing Strategies Database: Price Increase Playbook Check", "c": 1, "g": "strategies"}
+{"id": "JAH-PRICE-000051", "t": "Pricing Strategies Database: Grandfathering Policy Audit", "c": 1, "g": "methods"}
+{"id": "JAH-PRICE-000052", "t": "Pricing Strategies Database: Price Localization Review", "c": 1, "g": "strategies"}
+{"id": "JAH-PRICE-000053", "t": "Pricing Strategies Database: Pricing Page Clarity Check", "c": 1, "g": "methods"}
+{"id": "JAH-PRICE-000054", "t": "Pricing Strategies Database: Pricing Experiment Design", "c": 1, "g": "methods"}

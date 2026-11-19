@@ -1,0 +1,34 @@
+{"id": "JAH-DTSMS-000001", "t": "Digital Twin and Physical System Models Signature Database: Twin State Vector Design", "c": 0, "g": "state"}
+{"id": "JAH-DTSMS-000002", "t": "Digital Twin and Physical System Models Signature Database: Sensor-to-State Mapping", "c": 0, "g": "state"}
+{"id": "JAH-DTSMS-000003", "t": "Digital Twin and Physical System Models Signature Database: Twin Calibration", "c": 0, "g": "calibration"}
+{"id": "JAH-DTSMS-000004", "t": "Digital Twin and Physical System Models Signature Database: Model-vs-Reality Drift Detection", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000005", "t": "Digital Twin and Physical System Models Signature Database: What-If Scenario Simulation", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000006", "t": "Digital Twin and Physical System Models Signature Database: Twin-Driven Predictive Maintenance", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000007", "t": "Digital Twin and Physical System Models Signature Database: Fidelity Level Selection", "c": 0, "g": "lifecycle"}
+{"id": "JAH-DTSMS-000008", "t": "Digital Twin and Physical System Models Signature Database: Real-Time Sync Health", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000009", "t": "Digital Twin and Physical System Models Signature Database: Historical Replay", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000010", "t": "Digital Twin and Physical System Models Signature Database: Anomaly Detection on Residuals", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000011", "t": "Digital Twin and Physical System Models Signature Database: Parameter Estimation", "c": 0, "g": "calibration"}
+{"id": "JAH-DTSMS-000012", "t": "Digital Twin and Physical System Models Signature Database: Uncertainty Quantification", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000013", "t": "Digital Twin and Physical System Models Signature Database: Multi-Physics Coupling", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000014", "t": "Digital Twin and Physical System Models Signature Database: Asset Hierarchy Modeling", "c": 0, "g": "lifecycle"}
+{"id": "JAH-DTSMS-000015", "t": "Digital Twin and Physical System Models Signature Database: Twin Versioning", "c": 0, "g": "lifecycle"}
+{"id": "JAH-DTSMS-000016", "t": "Digital Twin and Physical System Models Signature Database: Twin Data Pipeline", "c": 0, "g": "state"}
+{"id": "JAH-DTSMS-000017", "t": "Digital Twin and Physical System Models Signature Database: Edge vs Cloud Twin Partitioning", "c": 0, "g": "state"}
+{"id": "JAH-DTSMS-000018", "t": "Digital Twin and Physical System Models Signature Database: Twin Security", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000019", "t": "Digital Twin and Physical System Models Signature Database: Twin Visualization", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000020", "t": "Digital Twin and Physical System Models Signature Database: KPI Binding", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000021", "t": "Digital Twin and Physical System Models Signature Database: Closed-Loop Twin Control", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000022", "t": "Digital Twin and Physical System Models Signature Database: Twin Decommissioning", "c": 0, "g": "lifecycle"}
+{"id": "JAH-DTSMS-000023", "t": "Digital Twin and Physical System Models Signature Database: Twin Fidelity Audit", "c": 0, "g": "calibration"}
+{"id": "JAH-DTSMS-000024", "t": "Digital Twin and Physical System Models Signature Database: Multi-Asset Twin Federation", "c": 0, "g": "state"}
+{"id": "JAH-DTSMS-000025", "t": "Digital Twin and Physical System Models Signature Database: Twin-Based Training", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000026", "t": "Digital Twin and Physical System Models Signature Database: Twin Alert Rationalization", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000027", "t": "Digital Twin and Physical System Models Signature Database: Digital Thread Integration", "c": 0, "g": "lifecycle"}
+{"id": "JAH-DTSMS-000028", "t": "Digital Twin and Physical System Models Signature Database: Twin Performance Benchmarking", "c": 0, "g": "calibration"}
+{"id": "JAH-DTSMS-000029", "t": "Digital Twin and Physical System Models Signature Database: Sensor Fault Isolation", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000030", "t": "Digital Twin and Physical System Models Signature Database: Twin Scalability Design", "c": 0, "g": "state"}
+{"id": "JAH-DTSMS-000031", "t": "Digital Twin and Physical System Models Signature Database: Physics-Informed ML Twins", "c": 0, "g": "simulation"}
+{"id": "JAH-DTSMS-000032", "t": "Digital Twin and Physical System Models Signature Database: Twin Cybersecurity Monitoring", "c": 0, "g": "monitoring"}
+{"id": "JAH-DTSMS-000033", "t": "Digital Twin and Physical System Models Signature Database: Lifecycle Twin Value Tracking", "c": 0, "g": "lifecycle"}
+{"id": "JAH-DTSMS-000034", "t": "Digital Twin and Physical System Models Signature Database: Degradation Model Library", "c": 0, "g": "calibration"}

@@ -1,0 +1,84 @@
+{"id": "JAH-SCI-000001", "t": "Symbolic Mathematics Engine", "g": "scientific-computing"}
+{"id": "JAH-SCI-000002", "t": "Numerical Analysis Workbench", "g": "scientific-computing"}
+{"id": "JAH-SCI-000003", "t": "Equation Solver", "g": "scientific-computing"}
+{"id": "JAH-SCI-000004", "t": "Computer Algebra System", "g": "scientific-computing"}
+{"id": "JAH-SCI-000005", "t": "Statistical Analysis Laboratory", "g": "scientific-computing"}
+{"id": "JAH-SCI-000006", "t": "Monte Carlo Simulation Engine", "g": "scientific-computing"}
+{"id": "JAH-SCI-000007", "t": "Optimization Solver", "g": "scientific-computing"}
+{"id": "JAH-SCI-000008", "t": "Operations Research Workbench", "g": "scientific-computing"}
+{"id": "JAH-SCI-000009", "t": "Graph Theory Laboratory", "g": "scientific-computing"}
+{"id": "JAH-SCI-000010", "t": "Prime Number Research Engine", "g": "scientific-computing"}
+{"id": "JAH-SCI-000011", "t": "Formal Proof Assistant", "g": "scientific-computing"}
+{"id": "JAH-SCI-000012", "t": "Theorem Proving Workbench", "g": "scientific-computing"}
+{"id": "JAH-SCI-000013", "t": "Numerical Precision Auditor", "g": "scientific-computing"}
+{"id": "JAH-SCI-000014", "t": "Signal Processing Laboratory", "g": "scientific-computing"}
+{"id": "JAH-SCI-000015", "t": "Digital Image Processing Laboratory", "g": "scientific-computing"}
+{"id": "JAH-SCI-000016", "t": "Computational Geometry Engine", "g": "scientific-computing"}
+{"id": "JAH-SCI-000017", "t": "Finite Element Simulation Workbench", "g": "scientific-computing"}
+{"id": "JAH-SCI-000018", "t": "Computational Fluid Dynamics Solver", "g": "scientific-computing"}
+{"id": "JAH-SCI-000019", "t": "Molecular Modeling Workbench", "g": "scientific-computing"}
+{"id": "JAH-SCI-000020", "t": "Scientific Experiment Reproducibility Manager", "g": "scientific-computing"}
+{"id": "JAH-SCI-000021", "t": "Wi-Fi WPS Pixie-Dust Auditor", "g": "Toolset"}
+{"id": "JAH-SCI-000022", "t": "Wi-Fi Power Spectral Density Scanner", "g": "Toolset"}
+{"id": "JAH-SCI-000023", "t": "SAT Solvers (Boolean Satisfiability)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCI-000024", "t": "SMT Solvers (Satisfiability Modulo Theories)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCI-000025", "t": "Computer Algebra Systems (CAS)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCI-000026", "t": "Prime Sieve Engines", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCI-000027", "t": "Primality Testers (Miller-Rabin, AKS)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCI-000028", "t": "Matrix Multiplication Kernels (BLAS, LAPACK)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-SCI-000029", "t": "Trie Structures (Radix Tries, Patricia Tries)", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCI-000030", "t": "HyperLogLog Estimators", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCI-000031", "t": "Persistent Data Structures", "g": "Network Architecture, Protocols & Data Pipelines / Data Structures, Formatting & Storage"}
+{"id": "JAH-SCI-000032", "t": "Material Download Manager", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000033", "t": "Entropy Analyzer", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000034", "t": "Radix Trie Indexer", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000035", "t": "Bloom Filter Utility", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000036", "t": "Voxel Engine Utility", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000037", "t": "FFT Audio Visualizer", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000038", "t": "Turing Machine Simulator", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000039", "t": "Petri Net Analyzer", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000040", "t": "SAT Solver Engine", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000041", "t": "Prime Sieve Generator", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000042", "t": "BLAS Matrix Kernel", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000043", "t": "Radix Trie Dictionary", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000044", "t": "HyperLogLog Cardinality Estimator", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000045", "t": "Low-Pass Filter Kernel", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000046", "t": "Lambda Calculus Evaluator", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000047", "t": "Petri Net Simulator", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000048", "t": "Linear Programming Simplex Solver", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000049", "t": "Miller-Rabin Primality Tester", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000050", "t": "Patricia Trie Search Engine", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000051", "t": "HyperLogLog Merge Utility", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000052", "t": "Band-Pass Digital Filter", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000053", "t": "Photonic Matrix Calculator", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000054", "t": "iostat IO Monitor", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000055", "t": "Tokei Code Counter", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000056", "t": "Skopeo Image Inspector", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000057", "t": "CRDT (Conflict-Free Replicated Data Types)", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000058", "t": "Automerge CRDT", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000059", "t": "IPFS (InterPlanetary File System)", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000060", "t": "Redis Data Store", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000061", "t": "Apache Lucene Core", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000062", "t": "GNU Radio Companion", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000063", "t": "Cacti Network Monitor", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000064", "t": "Pyodide WASM Engine", "g": "Bizarre Software"}
+{"id": "JAH-SCI-000065", "t": "Random Seed Management", "g": "scientific-computing"}
+{"id": "JAH-SCI-000066", "t": "Environment Pinning with Lockfiles", "g": "scientific-computing"}
+{"id": "JAH-SCI-000067", "t": "Containerized Experiments", "g": "scientific-computing"}
+{"id": "JAH-SCI-000068", "t": "Dataset Versioning with DVC", "g": "scientific-computing"}
+{"id": "JAH-SCI-000069", "t": "Experiment Tracking with MLflow", "g": "scientific-computing"}
+{"id": "JAH-SCI-000070", "t": "Deterministic GPU Operations", "g": "scientific-computing"}
+{"id": "JAH-SCI-000071", "t": "Model Checkpoint Archiving", "g": "scientific-computing"}
+{"id": "JAH-SCI-000072", "t": "Hyperparameter Logging Discipline", "g": "scientific-computing"}
+{"id": "JAH-SCI-000073", "t": "Code Versioning for Experiments", "g": "scientific-computing"}
+{"id": "JAH-SCI-000074", "t": "Reproducible Data Splits", "g": "scientific-computing"}
+{"id": "JAH-SCI-000075", "t": "Benchmark Harness Design", "g": "scientific-computing"}
+{"id": "JAH-SCI-000076", "t": "Statistical Significance Reporting", "g": "scientific-computing"}
+{"id": "JAH-SCI-000077", "t": "Ablation Study Protocol", "g": "scientific-computing"}
+{"id": "JAH-SCI-000078", "t": "ML Reproducibility Checklists", "g": "scientific-computing"}
+{"id": "JAH-SCI-000079", "t": "Artifact Evaluation for Papers", "g": "scientific-computing"}
+{"id": "JAH-SCI-000080", "t": "Randomness Audits", "g": "scientific-computing"}
+{"id": "JAH-SCI-000081", "t": "Hardware and Platform Documentation", "g": "scientific-computing"}
+{"id": "JAH-SCI-000082", "t": "Reproducible Paper Artifacts", "g": "scientific-computing"}
+{"id": "JAH-SCI-000083", "t": "Continuous Reproduction in CI", "g": "scientific-computing"}
+{"id": "JAH-SCI-000084", "t": "Negative Result Reporting", "g": "scientific-computing"}

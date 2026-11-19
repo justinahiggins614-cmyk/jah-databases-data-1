@@ -1,0 +1,64 @@
+{"id": "JAH-MSF-000001", "t": "GGUF Format", "g": "format"}
+{"id": "JAH-MSF-000002", "t": "GGML Format", "g": "format"}
+{"id": "JAH-MSF-000003", "t": "SafeTensors", "g": "format"}
+{"id": "JAH-MSF-000004", "t": "PyTorch Checkpoints", "g": "format"}
+{"id": "JAH-MSF-000005", "t": "ONNX Format", "g": "format"}
+{"id": "JAH-MSF-000006", "t": "ONNX Runtime Models", "g": "format"}
+{"id": "JAH-MSF-000007", "t": "TensorRT Engines", "g": "format"}
+{"id": "JAH-MSF-000008", "t": "OpenVINO IR", "g": "format"}
+{"id": "JAH-MSF-000009", "t": "Core ML Packages", "g": "format"}
+{"id": "JAH-MSF-000010", "t": "TFLite Models", "g": "format"}
+{"id": "JAH-MSF-000011", "t": "XNNPACK Models", "g": "format"}
+{"id": "JAH-MSF-000012", "t": "AWQ Checkpoints", "g": "format"}
+{"id": "JAH-MSF-000013", "t": "GPTQ Checkpoints", "g": "format"}
+{"id": "JAH-MSF-000014", "t": "EXL2 Checkpoints", "g": "format"}
+{"id": "JAH-MSF-000015", "t": "K-Quant Models", "g": "format"}
+{"id": "JAH-MSF-000016", "t": "I-Quants", "g": "format"}
+{"id": "JAH-MSF-000017", "t": "FP16 Weights", "g": "format"}
+{"id": "JAH-MSF-000018", "t": "BF16 Weights", "g": "format"}
+{"id": "JAH-MSF-000019", "t": "FP8 Weights", "g": "format"}
+{"id": "JAH-MSF-000020", "t": "INT8 Weights", "g": "format"}
+{"id": "JAH-MSF-000021", "t": "INT4 Weights", "g": "format"}
+{"id": "JAH-MSF-000022", "t": "NF4 Weights", "g": "format"}
+{"id": "JAH-MSF-000023", "t": "FP4 Weights", "g": "format"}
+{"id": "JAH-MSF-000024", "t": "Ternary Weights", "g": "format"}
+{"id": "JAH-MSF-000025", "t": "Binary Weights", "g": "format"}
+{"id": "JAH-MSF-000026", "t": "LoRA Adapters", "g": "format"}
+{"id": "JAH-MSF-000027", "t": "QLoRA Adapters", "g": "format"}
+{"id": "JAH-MSF-000028", "t": "DoRA Adapters", "g": "format"}
+{"id": "JAH-MSF-000029", "t": "IA3 Adapters", "g": "format"}
+{"id": "JAH-MSF-000030", "t": "Prefix Tuning Files", "g": "format"}
+{"id": "JAH-MSF-000031", "t": "P-Tuning Files", "g": "format"}
+{"id": "JAH-MSF-000032", "t": "Model Shards", "g": "format"}
+{"id": "JAH-MSF-000033", "t": "Consolidated Checkpoints", "g": "format"}
+{"id": "JAH-MSF-000034", "t": "Distilled Models", "g": "format"}
+{"id": "JAH-MSF-000035", "t": "Pruned Models", "g": "format"}
+{"id": "JAH-MSF-000036", "t": "Merged Models", "g": "format"}
+{"id": "JAH-MSF-000037", "t": "Quantized KV Caches", "g": "format"}
+{"id": "JAH-MSF-000038", "t": "Embedding Files", "g": "format"}
+{"id": "JAH-MSF-000039", "t": "Tokenizer Files", "g": "format"}
+{"id": "JAH-MSF-000040", "t": "Config Files", "g": "format"}
+{"id": "JAH-MSF-000041", "t": "Generation Configs", "g": "format"}
+{"id": "JAH-MSF-000042", "t": "Chat Templates", "g": "format"}
+{"id": "JAH-MSF-000043", "t": "GGUF Metadata", "g": "format"}
+{"id": "JAH-MSF-000044", "t": "Model Cards", "g": "format"}
+{"id": "JAH-MSF-000045", "t": "Dataset Cards", "g": "format"}
+{"id": "JAH-MSF-000046", "t": "Evaluation Files", "g": "format"}
+{"id": "JAH-MSF-000047", "t": "Calibration Datasets", "g": "format"}
+{"id": "JAH-MSF-000048", "t": "Imatrix Files", "g": "format"}
+{"id": "JAH-MSF-000049", "t": "Vocabulary Files", "g": "format"}
+{"id": "JAH-MSF-000050", "t": "Merges Files", "g": "format"}
+{"id": "JAH-MSF-000051", "t": "SentencePiece Models", "g": "format"}
+{"id": "JAH-MSF-000052", "t": "Tiktoken Encodings", "g": "format"}
+{"id": "JAH-MSF-000053", "t": "WordPiece Vocabs", "g": "format"}
+{"id": "JAH-MSF-000054", "t": "Unigram Models", "g": "format"}
+{"id": "JAH-MSF-000055", "t": "Byte-Level BPE", "g": "format"}
+{"id": "JAH-MSF-000056", "t": "GGUF Parsers", "g": "format"}
+{"id": "JAH-MSF-000057", "t": "Safetensors Parsers", "g": "format"}
+{"id": "JAH-MSF-000058", "t": "ONNX Parsers", "g": "format"}
+{"id": "JAH-MSF-000059", "t": "Checkpoint Converters", "g": "format"}
+{"id": "JAH-MSF-000060", "t": "Quantization Calibrators", "g": "format"}
+{"id": "JAH-MSF-000061", "t": "Weight Inspectors", "g": "format"}
+{"id": "JAH-MSF-000062", "t": "Model Diff Tools", "g": "format"}
+{"id": "JAH-MSF-000063", "t": "Fingerprint Tools", "g": "format"}
+{"id": "JAH-MSF-000064", "t": "Provenance Recorders", "g": "format"}

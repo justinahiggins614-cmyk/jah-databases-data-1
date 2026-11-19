@@ -1,0 +1,84 @@
+{"id": "JAH-DAT-000001", "t": "Parsers", "g": "processing"}
+{"id": "JAH-DAT-000002", "t": "Lexers", "g": "processing"}
+{"id": "JAH-DAT-000003", "t": "Tokenizers", "g": "processing"}
+{"id": "JAH-DAT-000004", "t": "Scrapers", "g": "processing"}
+{"id": "JAH-DAT-000005", "t": "Web Crawlers", "g": "processing"}
+{"id": "JAH-DAT-000006", "t": "Converters", "g": "processing"}
+{"id": "JAH-DAT-000007", "t": "Format Converters", "g": "processing"}
+{"id": "JAH-DAT-000008", "t": "Extractors", "g": "processing"}
+{"id": "JAH-DAT-000009", "t": "ETL Tools", "g": "processing"}
+{"id": "JAH-DAT-000010", "t": "Data Sanitizers", "g": "processing"}
+{"id": "JAH-DAT-000011", "t": "Data Normalizers", "g": "processing"}
+{"id": "JAH-DAT-000012", "t": "Query Optimizers", "g": "processing"}
+{"id": "JAH-DAT-000013", "t": "Benchmarkers", "g": "processing"}
+{"id": "JAH-DAT-000014", "t": "Load Testing Tools", "g": "processing"}
+{"id": "JAH-DAT-000015", "t": "Test Suites", "g": "processing"}
+{"id": "JAH-DAT-000016", "t": "Mockers", "g": "processing"}
+{"id": "JAH-DAT-000017", "t": "Stubs", "g": "processing"}
+{"id": "JAH-DAT-000018", "t": "Protocol Fuzzers", "g": "processing"}
+{"id": "JAH-DAT-000019", "t": "File Fuzzers", "g": "processing"}
+{"id": "JAH-DAT-000020", "t": "Network Analyzers", "g": "processing"}
+{"id": "JAH-DAT-000021", "t": "Monitors", "g": "processing"}
+{"id": "JAH-DAT-000022", "t": "Process Monitors", "g": "processing"}
+{"id": "JAH-DAT-000023", "t": "Loggers", "g": "processing"}
+{"id": "JAH-DAT-000024", "t": "Telemetry Trackers", "g": "processing"}
+{"id": "JAH-DAT-000025", "t": "Packet Sniffers", "g": "processing"}
+{"id": "JAH-DAT-000026", "t": "Inspection Tools", "g": "processing"}
+{"id": "JAH-DAT-000027", "t": "Memory Inspectors", "g": "processing"}
+{"id": "JAH-DAT-000028", "t": "Probes", "g": "processing"}
+{"id": "JAH-DAT-000029", "t": "Sensors", "g": "processing"}
+{"id": "JAH-DAT-000030", "t": "Transformers", "g": "processing"}
+{"id": "JAH-DAT-000031", "t": "Data Loaders", "g": "processing"}
+{"id": "JAH-DAT-000032", "t": "Wrappers", "g": "processing"}
+{"id": "JAH-DAT-000033", "t": "API Wrappers", "g": "processing"}
+{"id": "JAH-DAT-000034", "t": "System Trackers", "g": "processing"}
+{"id": "JAH-DAT-000035", "t": "Logic Probes", "g": "processing"}
+{"id": "JAH-DAT-000036", "t": "Hardware Probes", "g": "processing"}
+{"id": "JAH-DAT-000037", "t": "Stress Test Tools", "g": "processing"}
+{"id": "JAH-DAT-000038", "t": "Mock Frameworks", "g": "processing"}
+{"id": "JAH-DAT-000039", "t": "Analyzers", "g": "processing"}
+{"id": "JAH-DAT-000040", "t": "Sniffers", "g": "processing"}
+{"id": "JAH-DAT-000041", "t": "Data Validators", "g": "processing"}
+{"id": "JAH-DAT-000042", "t": "Schema Registries", "g": "processing"}
+{"id": "JAH-DAT-000043", "t": "Data Catalogs", "g": "processing"}
+{"id": "JAH-DAT-000044", "t": "Data Profilers", "g": "processing"}
+{"id": "JAH-DAT-000045", "t": "Deduplication Tools", "g": "processing"}
+{"id": "JAH-DAT-000046", "t": "Data Masking Tools", "g": "processing"}
+{"id": "JAH-DAT-000047", "t": "Change Data Capture", "g": "processing"}
+{"id": "JAH-DAT-000048", "t": "Stream Joiners", "g": "processing"}
+{"id": "JAH-DAT-000049", "t": "Time-Series Tools", "g": "processing"}
+{"id": "JAH-DAT-000050", "t": "Geospatial Tools", "g": "processing"}
+{"id": "JAH-DAT-000051", "t": "Graph Loaders", "g": "processing"}
+{"id": "JAH-DAT-000052", "t": "Text Extractors", "g": "processing"}
+{"id": "JAH-DAT-000053", "t": "Data Samplers", "g": "processing"}
+{"id": "JAH-DAT-000054", "t": "Synthetic Data Generators", "g": "processing"}
+{"id": "JAH-DAT-000055", "t": "Pipeline Orchestrators", "g": "processing"}
+{"id": "JAH-DAT-000056", "t": "Data Lineage Trackers", "g": "processing"}
+{"id": "JAH-DAT-000057", "t": "Data Contracts", "g": "processing"}
+{"id": "JAH-DAT-000058", "t": "Feature Stores", "g": "processing"}
+{"id": "JAH-DAT-000059", "t": "Labeling Tools", "g": "processing"}
+{"id": "JAH-DAT-000060", "t": "Data Versioning Tools", "g": "processing"}
+{"id":"JAH-DAT-000061","t":"Schema mapper \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000062","t":"Cross-source merger \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000063","t":"Bulk CSV importer \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000064","t":"Schema validator \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000065","t":"Schema inference probe \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000066","t":"Freshness monitor \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000067","t":"Anomaly flagger \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000068","t":"File-drop watcher \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000069","t":"Duplicate cluster reviewer \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000070","t":"Survivorship resolver \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000076","t":"Unit normalizer \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000078","t":"Text case normalizer \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000079","t":"Dataset discovery crawler \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000083","t":"Fuzzy-match deduper \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000087","t":"Source registry scan \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000089","t":"Referential integrity checker \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000091","t":"Exact-match deduper \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000093","t":"API harvester \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000095","t":"Encoding fixer \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000100","t":"License and terms checker \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000143","t":"Range and format checker \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000147","t":"Streaming ingestor \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000149","t":"Date and time canonicalizer \\u2014 acquisition-workflow","g":"acquisition-workflow"}
+{"id":"JAH-DAT-000159","t":"Incremental change-data importer \\u2014 acquisition-workflow","g":"acquisition-workflow"}

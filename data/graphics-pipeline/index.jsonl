@@ -1,0 +1,62 @@
+{"id": "JAH-GFX-000001", "t": "Vertex Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000002", "t": "Fragment Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000003", "t": "Pixel Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000004", "t": "Compute Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000005", "t": "Geometry Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000006", "t": "Tessellation Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000007", "t": "Mesh Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000008", "t": "Ray Generation Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000009", "t": "Intersection Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000010", "t": "Any-Hit Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000011", "t": "Closest-Hit Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000012", "t": "Miss Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000013", "t": "Bounding Volume Hierarchies", "g": "graphics"}
+{"id": "JAH-GFX-000014", "t": "KD-Trees", "g": "graphics"}
+{"id": "JAH-GFX-000015", "t": "Octrees", "g": "graphics"}
+{"id": "JAH-GFX-000016", "t": "Framebuffers", "g": "graphics"}
+{"id": "JAH-GFX-000017", "t": "Render Targets", "g": "graphics"}
+{"id": "JAH-GFX-000018", "t": "Depth Buffers", "g": "graphics"}
+{"id": "JAH-GFX-000019", "t": "Stencil Buffers", "g": "graphics"}
+{"id": "JAH-GFX-000020", "t": "G-Buffers", "g": "graphics"}
+{"id": "JAH-GFX-000021", "t": "Texture Maps", "g": "graphics"}
+{"id": "JAH-GFX-000022", "t": "Normal Maps", "g": "graphics"}
+{"id": "JAH-GFX-000023", "t": "Roughness Maps", "g": "graphics"}
+{"id": "JAH-GFX-000024", "t": "Metalness Maps", "g": "graphics"}
+{"id": "JAH-GFX-000025", "t": "Albedo Maps", "g": "graphics"}
+{"id": "JAH-GFX-000026", "t": "Ambient Occlusion Maps", "g": "graphics"}
+{"id": "JAH-GFX-000027", "t": "Height Maps", "g": "graphics"}
+{"id": "JAH-GFX-000028", "t": "Sprite Sheets", "g": "graphics"}
+{"id": "JAH-GFX-000029", "t": "Texture Atlases", "g": "graphics"}
+{"id": "JAH-GFX-000030", "t": "Texture Arrays", "g": "graphics"}
+{"id": "JAH-GFX-000031", "t": "Cubemaps", "g": "graphics"}
+{"id": "JAH-GFX-000032", "t": "Voxel Engines", "g": "graphics"}
+{"id": "JAH-GFX-000033", "t": "Rasterizers", "g": "graphics"}
+{"id": "JAH-GFX-000034", "t": "Ray Tracers", "g": "graphics"}
+{"id": "JAH-GFX-000035", "t": "Path Tracers", "g": "graphics"}
+{"id": "JAH-GFX-000036", "t": "Photon Mappers", "g": "graphics"}
+{"id": "JAH-GFX-000037", "t": "Radiosity Engines", "g": "graphics"}
+{"id": "JAH-GFX-000038", "t": "Lightmap Bakers", "g": "graphics"}
+{"id": "JAH-GFX-000039", "t": "Reflection Probes", "g": "graphics"}
+{"id": "JAH-GFX-000040", "t": "Irradiance Volumes", "g": "graphics"}
+{"id": "JAH-GFX-000041", "t": "Shadow Mappers", "g": "graphics"}
+{"id": "JAH-GFX-000042", "t": "Cascaded Shadows", "g": "graphics"}
+{"id": "JAH-GFX-000043", "t": "Post-Processors", "g": "graphics"}
+{"id": "JAH-GFX-000044", "t": "Tonemappers", "g": "graphics"}
+{"id": "JAH-GFX-000045", "t": "Bloom Filters", "g": "graphics"}
+{"id": "JAH-GFX-000046", "t": "Motion Blurrers", "g": "graphics"}
+{"id": "JAH-GFX-000047", "t": "Depth-of-Field", "g": "graphics"}
+{"id": "JAH-GFX-000048", "t": "Anti-Aliasing", "g": "graphics"}
+{"id": "JAH-GFX-000049", "t": "Temporal Upscalers", "g": "graphics"}
+{"id": "JAH-GFX-000050", "t": "Variable Rate Shaders", "g": "graphics"}
+{"id": "JAH-GFX-000051", "t": "Foveated Renderers", "g": "graphics"}
+{"id": "JAH-GFX-000052", "t": "Occlusion Cullers", "g": "graphics"}
+{"id": "JAH-GFX-000053", "t": "Frustum Cullers", "g": "graphics"}
+{"id": "JAH-GFX-000054", "t": "LOD Systems", "g": "graphics"}
+{"id": "JAH-GFX-000055", "t": "Impostor Systems", "g": "graphics"}
+{"id": "JAH-GFX-000056", "t": "Particle Systems", "g": "graphics"}
+{"id": "JAH-GFX-000057", "t": "Decal Systems", "g": "graphics"}
+{"id": "JAH-GFX-000058", "t": "Terrain Engines", "g": "graphics"}
+{"id": "JAH-GFX-000059", "t": "Water Renderers", "g": "graphics"}
+{"id": "JAH-GFX-000060", "t": "Sky Renderers", "g": "graphics"}
+{"id": "JAH-GFX-000061", "t": "Cloud Renderers", "g": "graphics"}
+{"id": "JAH-GFX-000062", "t": "Vegetation Systems", "g": "graphics"}

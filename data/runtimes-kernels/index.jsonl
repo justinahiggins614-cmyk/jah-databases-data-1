@@ -1,0 +1,55 @@
+{"id": "JAH-RTK-000001", "t": "Language Runtimes", "g": "core"}
+{"id": "JAH-RTK-000002", "t": "Virtual Machines", "g": "core"}
+{"id": "JAH-RTK-000003", "t": "JavaScript Runtimes", "g": "core"}
+{"id": "JAH-RTK-000004", "t": "Python Runtimes", "g": "core"}
+{"id": "JAH-RTK-000005", "t": "WebAssembly Runtimes", "g": "core"}
+{"id": "JAH-RTK-000006", "t": "Container Runtimes", "g": "core"}
+{"id": "JAH-RTK-000007", "t": "Database Runtimes", "g": "core"}
+{"id": "JAH-RTK-000008", "t": "Serverless Runtimes", "g": "core"}
+{"id": "JAH-RTK-000009", "t": "Edge Runtimes", "g": "core"}
+{"id": "JAH-RTK-000010", "t": "GPU Runtimes", "g": "core"}
+{"id": "JAH-RTK-000011", "t": "Real-Time Runtimes", "g": "core"}
+{"id": "JAH-RTK-000012", "t": "Embedded Runtimes", "g": "core"}
+{"id": "JAH-RTK-000013", "t": "Kernels", "g": "core"}
+{"id": "JAH-RTK-000014", "t": "Monolithic Kernels", "g": "core"}
+{"id": "JAH-RTK-000015", "t": "Microkernels", "g": "core"}
+{"id": "JAH-RTK-000016", "t": "Hybrid Kernels", "g": "core"}
+{"id": "JAH-RTK-000017", "t": "Exokernels", "g": "core"}
+{"id": "JAH-RTK-000018", "t": "Nanokernels", "g": "core"}
+{"id": "JAH-RTK-000019", "t": "Unikernels", "g": "core"}
+{"id": "JAH-RTK-000020", "t": "Library Operating Systems", "g": "core"}
+{"id": "JAH-RTK-000021", "t": "Real-Time Kernels", "g": "core"}
+{"id": "JAH-RTK-000022", "t": "Hypervisor Kernels", "g": "core"}
+{"id": "JAH-RTK-000023", "t": "Foundations", "g": "core"}
+{"id": "JAH-RTK-000024", "t": "Substrates", "g": "core"}
+{"id": "JAH-RTK-000025", "t": "Hardware Abstraction Layers", "g": "core"}
+{"id": "JAH-RTK-000026", "t": "Board Support Packages", "g": "core"}
+{"id": "JAH-RTK-000027", "t": "Firmware Runtimes", "g": "core"}
+{"id": "JAH-RTK-000028", "t": "Boot Environments", "g": "core"}
+{"id": "JAH-RTK-000029", "t": "Init Systems", "g": "core"}
+{"id": "JAH-RTK-000030", "t": "Service Managers", "g": "core"}
+{"id": "JAH-RTK-000031", "t": "Process Supervisors", "g": "core"}
+{"id": "JAH-RTK-000032", "t": "Memory Managers", "g": "core"}
+{"id": "JAH-RTK-000033", "t": "Schedulers", "g": "core"}
+{"id": "JAH-RTK-000034", "t": "I/O Subsystems", "g": "core"}
+{"id": "JAH-RTK-000035", "t": "Network Stacks", "g": "core"}
+{"id": "JAH-RTK-000036", "t": "Filesystem Implementations", "g": "core"}
+{"id": "JAH-RTK-000037", "t": "Security Modules", "g": "core"}
+{"id": "JAH-RTK-000038", "t": "Cryptographic Providers", "g": "core"}
+{"id": "JAH-RTK-000039", "t": "Device Models", "g": "core"}
+{"id": "JAH-RTK-000040", "t": "Interrupt Controllers", "g": "core"}
+{"id": "JAH-RTK-000041", "t": "Timer Subsystems", "g": "core"}
+{"id": "JAH-RTK-000042", "t": "Power Managers", "g": "core"}
+{"id": "JAH-RTK-000043", "t": "Virtualization Extensions", "g": "core"}
+{"id": "JAH-RTK-000044", "t": "Container Primitives", "g": "core"}
+{"id": "JAH-RTK-000045", "t": "Sandbox Primitives", "g": "core"}
+{"id": "JAH-RTK-000046", "t": "Compatibility Layers", "g": "core"}
+{"id": "JAH-RTK-000047", "t": "Emulation Layers", "g": "core"}
+{"id": "JAH-RTK-000048", "t": "Paravirtual Interfaces", "g": "core"}
+{"id": "JAH-RTK-000049", "t": "Firmware Interfaces", "g": "core"}
+{"id": "JAH-RTK-000050", "t": "Boot Protocols", "g": "core"}
+{"id": "JAH-RTK-000051", "t": "Crash Handlers", "g": "core"}
+{"id": "JAH-RTK-000052", "t": "Live Patching", "g": "core"}
+{"id": "JAH-RTK-000053", "t": "Tracing Frameworks", "g": "core"}
+{"id": "JAH-RTK-000054", "t": "Profiling Hooks", "g": "core"}
+{"id": "JAH-RTK-000055", "t": "Debug Interfaces", "g": "core"}

@@ -1,0 +1,61 @@
+{"id": "JAH-PKG-000001", "t": "AppImage", "g": "format"}
+{"id": "JAH-PKG-000002", "t": "Flatpak", "g": "format"}
+{"id": "JAH-PKG-000003", "t": "Snap", "g": "format"}
+{"id": "JAH-PKG-000004", "t": "RPM Packages", "g": "format"}
+{"id": "JAH-PKG-000005", "t": "DEB Packages", "g": "format"}
+{"id": "JAH-PKG-000006", "t": "Arch Packages", "g": "format"}
+{"id": "JAH-PKG-000007", "t": "APK Packages", "g": "format"}
+{"id": "JAH-PKG-000008", "t": "IPA Packages", "g": "format"}
+{"id": "JAH-PKG-000009", "t": "DMG Images", "g": "format"}
+{"id": "JAH-PKG-000010", "t": "MSI Installers", "g": "format"}
+{"id": "JAH-PKG-000011", "t": "EXE Installers", "g": "format"}
+{"id": "JAH-PKG-000012", "t": "Python Wheels", "g": "format"}
+{"id": "JAH-PKG-000013", "t": "Container Images", "g": "format"}
+{"id": "JAH-PKG-000014", "t": "Helm Charts", "g": "format"}
+{"id": "JAH-PKG-000015", "t": "JAR Files", "g": "format"}
+{"id": "JAH-PKG-000016", "t": "WAR Files", "g": "format"}
+{"id": "JAH-PKG-000017", "t": "NPM Packages", "g": "format"}
+{"id": "JAH-PKG-000018", "t": "Cargo Crates", "g": "format"}
+{"id": "JAH-PKG-000019", "t": "NuGet Packages", "g": "format"}
+{"id": "JAH-PKG-000020", "t": "Chrome Extensions", "g": "format"}
+{"id": "JAH-PKG-000021", "t": "VSIX Extensions", "g": "format"}
+{"id": "JAH-PKG-000022", "t": "Firmware Images", "g": "format"}
+{"id": "JAH-PKG-000023", "t": "ISO Images", "g": "format"}
+{"id": "JAH-PKG-000024", "t": "Virtual Disk Images", "g": "format"}
+{"id": "JAH-PKG-000025", "t": "Source Tarballs", "g": "format"}
+{"id": "JAH-PKG-000026", "t": "Gem Packages", "g": "format"}
+{"id": "JAH-PKG-000027", "t": "AppBundles", "g": "format"}
+{"id": "JAH-PKG-000028", "t": "EAR Files", "g": "format"}
+{"id": "JAH-PKG-000029", "t": "Podman Images", "g": "format"}
+{"id": "JAH-PKG-000030", "t": "Assemblies", "g": "format"}
+{"id": "JAH-PKG-000031", "t": "Distributions", "g": "format"}
+{"id": "JAH-PKG-000032", "t": "Conda Packages", "g": "format"}
+{"id": "JAH-PKG-000033", "t": "Pip Requirements", "g": "format"}
+{"id": "JAH-PKG-000034", "t": "Composer Packages", "g": "format"}
+{"id": "JAH-PKG-000035", "t": "Maven Artifacts", "g": "format"}
+{"id": "JAH-PKG-000036", "t": "Gradle Modules", "g": "format"}
+{"id": "JAH-PKG-000037", "t": "CocoaPods", "g": "format"}
+{"id": "JAH-PKG-000038", "t": "Swift Packages", "g": "format"}
+{"id": "JAH-PKG-000039", "t": "Pub Packages", "g": "format"}
+{"id": "JAH-PKG-000040", "t": "Hex Packages", "g": "format"}
+{"id": "JAH-PKG-000041", "t": "Opam Packages", "g": "format"}
+{"id": "JAH-PKG-000042", "t": "Nix Packages", "g": "format"}
+{"id": "JAH-PKG-000043", "t": "Guix Packages", "g": "format"}
+{"id": "JAH-PKG-000044", "t": "Chocolatey Packages", "g": "format"}
+{"id": "JAH-PKG-000045", "t": "Scoop Packages", "g": "format"}
+{"id": "JAH-PKG-000046", "t": "Winget Packages", "g": "format"}
+{"id": "JAH-PKG-000047", "t": "Homebrew Formulae", "g": "format"}
+{"id": "JAH-PKG-000048", "t": "MacPorts", "g": "format"}
+{"id": "JAH-PKG-000049", "t": "Docker Compose Files", "g": "format"}
+{"id": "JAH-PKG-000050", "t": "Vagrant Boxes", "g": "format"}
+{"id": "JAH-PKG-000051", "t": "QEMU Images", "g": "format"}
+{"id": "JAH-PKG-000052", "t": "AppImageUpdate Files", "g": "format"}
+{"id": "JAH-PKG-000053", "t": "Flatpak Refs", "g": "format"}
+{"id": "JAH-PKG-000054", "t": "Snap Assertions", "g": "format"}
+{"id": "JAH-PKG-000055", "t": "OCI Layouts", "g": "format"}
+{"id": "JAH-PKG-000056", "t": "Cloud-Init Images", "g": "format"}
+{"id": "JAH-PKG-000057", "t": "Vagrant Cloud Boxes", "g": "format"}
+{"id": "JAH-PKG-000058", "t": "GitHub Release Assets", "g": "format"}
+{"id": "JAH-PKG-000059", "t": "PyPI SDists", "g": "format"}
+{"id": "JAH-PKG-000060", "t": "CRAN Packages", "g": "format"}
+{"id": "JAH-PKG-000061", "t": "Executable Loader Packaging Specifications", "g": "database-types"}

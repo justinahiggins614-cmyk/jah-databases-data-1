@@ -1,0 +1,34 @@
+{"id": "JAH-NMEBS-000001", "t": "Numerical Methods and Error Bounds Signature Database: Bisection Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000002", "t": "Numerical Methods and Error Bounds Signature Database: Bisection Error Bound", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000003", "t": "Numerical Methods and Error Bounds Signature Database: Newton-Raphson Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000004", "t": "Numerical Methods and Error Bounds Signature Database: Secant Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000005", "t": "Numerical Methods and Error Bounds Signature Database: Fixed-Point Step", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000006", "t": "Numerical Methods and Error Bounds Signature Database: Trapezoidal Rule (1 interval)", "c": 0, "g": "integration"}
+{"id": "JAH-NMEBS-000007", "t": "Numerical Methods and Error Bounds Signature Database: Simpson Rule (1 interval)", "c": 0, "g": "integration"}
+{"id": "JAH-NMEBS-000008", "t": "Numerical Methods and Error Bounds Signature Database: Euler Method Step", "c": 0, "g": "odes"}
+{"id": "JAH-NMEBS-000009", "t": "Numerical Methods and Error Bounds Signature Database: RK4 Step", "c": 0, "g": "odes"}
+{"id": "JAH-NMEBS-000010", "t": "Numerical Methods and Error Bounds Signature Database: Forward Difference", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEBS-000011", "t": "Numerical Methods and Error Bounds Signature Database: Central Difference", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEBS-000012", "t": "Numerical Methods and Error Bounds Signature Database: Second Derivative", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEBS-000013", "t": "Numerical Methods and Error Bounds Signature Database: Linear Interpolation", "c": 0, "g": "interpolation"}
+{"id": "JAH-NMEBS-000014", "t": "Numerical Methods and Error Bounds Signature Database: Least-Squares Slope", "c": 0, "g": "regression"}
+{"id": "JAH-NMEBS-000015", "t": "Numerical Methods and Error Bounds Signature Database: 2x2 Determinant", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000016", "t": "Numerical Methods and Error Bounds Signature Database: Cramer x (2x2)", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000017", "t": "Numerical Methods and Error Bounds Signature Database: Cramer y (2x2)", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000018", "t": "Numerical Methods and Error Bounds Signature Database: Jacobi x-Update", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000019", "t": "Numerical Methods and Error Bounds Signature Database: Gauss-Seidel y-Update", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000020", "t": "Numerical Methods and Error Bounds Signature Database: Rayleigh Quotient (diagonal)", "c": 0, "g": "eigensystems"}
+{"id": "JAH-NMEBS-000021", "t": "Numerical Methods and Error Bounds Signature Database: Relative Error", "c": 0, "g": "error-analysis"}
+{"id": "JAH-NMEBS-000022", "t": "Numerical Methods and Error Bounds Signature Database: Taylor Sine Approximation", "c": 0, "g": "approximation"}
+{"id": "JAH-NMEBS-000023", "t": "Numerical Methods and Error Bounds Signature Database: Richardson Extrapolation", "c": 0, "g": "differentiation"}
+{"id": "JAH-NMEBS-000024", "t": "Numerical Methods and Error Bounds Signature Database: Composite Trapezoidal (n=2)", "c": 0, "g": "integration"}
+{"id": "JAH-NMEBS-000025", "t": "Numerical Methods and Error Bounds Signature Database: Monte Carlo \u03c0 (grid)", "c": 0, "g": "monte-carlo"}
+{"id": "JAH-NMEBS-000026", "t": "Numerical Methods and Error Bounds Signature Database: Cholesky L11", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000027", "t": "Numerical Methods and Error Bounds Signature Database: Cholesky L21", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000028", "t": "Numerical Methods and Error Bounds Signature Database: Cholesky L22", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000029", "t": "Numerical Methods and Error Bounds Signature Database: Thomas Forward Step", "c": 0, "g": "linear-systems"}
+{"id": "JAH-NMEBS-000030", "t": "Numerical Methods and Error Bounds Signature Database: Condition Number (diagonal)", "c": 0, "g": "error-analysis"}
+{"id": "JAH-NMEBS-000031", "t": "Numerical Methods and Error Bounds Signature Database: Midpoint Method (RK2)", "c": 0, "g": "odes"}
+{"id": "JAH-NMEBS-000032", "t": "Numerical Methods and Error Bounds Signature Database: Bisection Iterations Needed", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000033", "t": "Numerical Methods and Error Bounds Signature Database: Newton Asymptotic Constant", "c": 0, "g": "root-finding"}
+{"id": "JAH-NMEBS-000034", "t": "Numerical Methods and Error Bounds Signature Database: Composite Simpson (n=4) Capstone", "c": 0, "g": "integration"}

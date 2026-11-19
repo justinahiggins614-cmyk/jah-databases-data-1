@@ -1,0 +1,55 @@
+{"id": "JAH-BIN-000001", "t": "Hex Editors", "g": "binary"}
+{"id": "JAH-BIN-000002", "t": "Binary Patchers", "g": "binary"}
+{"id": "JAH-BIN-000003", "t": "Disassemblers", "g": "binary"}
+{"id": "JAH-BIN-000004", "t": "Interactive Disassemblers", "g": "binary"}
+{"id": "JAH-BIN-000005", "t": "Decompilers", "g": "binary"}
+{"id": "JAH-BIN-000006", "t": "IR Lifters", "g": "binary"}
+{"id": "JAH-BIN-000007", "t": "Control-Flow Graphs", "g": "binary"}
+{"id": "JAH-BIN-000008", "t": "Call Graph Builders", "g": "binary"}
+{"id": "JAH-BIN-000009", "t": "Binary Diffing Tools", "g": "binary"}
+{"id": "JAH-BIN-000010", "t": "Unpackers", "g": "binary"}
+{"id": "JAH-BIN-000011", "t": "Decryptors", "g": "binary"}
+{"id": "JAH-BIN-000012", "t": "PE Parsers", "g": "binary"}
+{"id": "JAH-BIN-000013", "t": "ELF Parsers", "g": "binary"}
+{"id": "JAH-BIN-000014", "t": "Mach-O Parsers", "g": "binary"}
+{"id": "JAH-BIN-000015", "t": "DWARF Parsers", "g": "binary"}
+{"id": "JAH-BIN-000016", "t": "Symbol Demanglers", "g": "binary"}
+{"id": "JAH-BIN-000017", "t": "String Extractors", "g": "binary"}
+{"id": "JAH-BIN-000018", "t": "Entropy Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000019", "t": "Packer Detectors", "g": "binary"}
+{"id": "JAH-BIN-000020", "t": "Import Rebuilders", "g": "binary"}
+{"id": "JAH-BIN-000021", "t": "Relocation Fixers", "g": "binary"}
+{"id": "JAH-BIN-000022", "t": "Memory Dump Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000023", "t": "Crash Dump Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000024", "t": "Core Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000025", "t": "ROP Finders", "g": "binary"}
+{"id": "JAH-BIN-000026", "t": "Shellcode Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000027", "t": "Shellcode Packers", "g": "binary"}
+{"id": "JAH-BIN-000028", "t": "Exploit Mitigation Checkers", "g": "binary"}
+{"id": "JAH-BIN-000029", "t": "Fuzzing Harnesses", "g": "binary"}
+{"id": "JAH-BIN-000030", "t": "Coverage Tracers", "g": "binary"}
+{"id": "JAH-BIN-000031", "t": "Taint Trackers", "g": "binary"}
+{"id": "JAH-BIN-000032", "t": "Symbolic Executors", "g": "binary"}
+{"id": "JAH-BIN-000033", "t": "Concolic Testers", "g": "binary"}
+{"id": "JAH-BIN-000034", "t": "Emulation Sandboxes", "g": "binary"}
+{"id": "JAH-BIN-000035", "t": "API Monitors", "g": "binary"}
+{"id": "JAH-BIN-000036", "t": "Registry Monitors", "g": "binary"}
+{"id": "JAH-BIN-000037", "t": "File Monitors", "g": "binary"}
+{"id": "JAH-BIN-000038", "t": "Network Monitors", "g": "binary"}
+{"id": "JAH-BIN-000039", "t": "Behavior Blockers", "g": "binary"}
+{"id": "JAH-BIN-000040", "t": "YARA Scanners", "g": "binary"}
+{"id": "JAH-BIN-000041", "t": "Signature Generators", "g": "binary"}
+{"id": "JAH-BIN-000042", "t": "Threat Intel Matchers", "g": "binary"}
+{"id": "JAH-BIN-000043", "t": "Sandbox Reporters", "g": "binary"}
+{"id": "JAH-BIN-000044", "t": "Malware Config Extractors", "g": "binary"}
+{"id": "JAH-BIN-000045", "t": "Document Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000046", "t": "PDF Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000047", "t": "Script Deobfuscators", "g": "binary"}
+{"id": "JAH-BIN-000048", "t": "PowerShell Analyzers", "g": "binary"}
+{"id": "JAH-BIN-000049", "t": "Firmware Extractors", "g": "binary"}
+{"id": "JAH-BIN-000050", "t": "Bootkit Detectors", "g": "binary"}
+{"id": "JAH-BIN-000051", "t": "Rootkit Scanners", "g": "binary"}
+{"id": "JAH-BIN-000052", "t": "Anti-Debug Detectors", "g": "binary"}
+{"id": "JAH-BIN-000053", "t": "Anti-VM Detectors", "g": "binary"}
+{"id": "JAH-BIN-000054", "t": "Code Signing Verifiers", "g": "binary"}
+{"id": "JAH-BIN-000055", "t": "Certificate Inspectors", "g": "binary"}

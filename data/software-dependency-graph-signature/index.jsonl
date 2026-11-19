@@ -1,0 +1,34 @@
+{"id": "JAH-SDGRS-000001", "t": "Software Dependency and Compatibility Graph Signature Database: Semver Parse", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000002", "t": "Software Dependency and Compatibility Graph Signature Database: Semver Compare", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000003", "t": "Software Dependency and Compatibility Graph Signature Database: Caret Range Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000004", "t": "Software Dependency and Compatibility Graph Signature Database: Tilde Range Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000005", "t": "Software Dependency and Compatibility Graph Signature Database: Exact Pin Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000006", "t": "Software Dependency and Compatibility Graph Signature Database: Dependency Tree Flatten", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000007", "t": "Software Dependency and Compatibility Graph Signature Database: Dependency Cycle Detection", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGRS-000008", "t": "Software Dependency and Compatibility Graph Signature Database: Topological Sort", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000009", "t": "Software Dependency and Compatibility Graph Signature Database: Version Conflict Detection", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGRS-000010", "t": "Software Dependency and Compatibility Graph Signature Database: Lockfile Integrity Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000011", "t": "Software Dependency and Compatibility Graph Signature Database: License Allowlist Check", "c": 0, "g": "licenses"}
+{"id": "JAH-SDGRS-000012", "t": "Software Dependency and Compatibility Graph Signature Database: Transitive Closure", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000013", "t": "Software Dependency and Compatibility Graph Signature Database: Peer Dependency Check", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGRS-000014", "t": "Software Dependency and Compatibility Graph Signature Database: Duplicate Package Detection", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGRS-000015", "t": "Software Dependency and Compatibility Graph Signature Database: Outdated Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000016", "t": "Software Dependency and Compatibility Graph Signature Database: Minimal Version Selection", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGRS-000017", "t": "Software Dependency and Compatibility Graph Signature Database: Range Intersection", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000018", "t": "Software Dependency and Compatibility Graph Signature Database: Prerelease Ordering", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000019", "t": "Software Dependency and Compatibility Graph Signature Database: Dependency Depth", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000020", "t": "Software Dependency and Compatibility Graph Signature Database: Reverse Dependency Lookup", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000021", "t": "Software Dependency and Compatibility Graph Signature Database: SBOM Generation (CycloneDX-lite)", "c": 0, "g": "licenses"}
+{"id": "JAH-SDGRS-000022", "t": "Software Dependency and Compatibility Graph Signature Database: Integrity Hash Verification", "c": 0, "g": "vulnerabilities"}
+{"id": "JAH-SDGRS-000023", "t": "Software Dependency and Compatibility Graph Signature Database: Yanked Version Detection", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000024", "t": "Software Dependency and Compatibility Graph Signature Database: Engine Compatibility Check", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGRS-000025", "t": "Software Dependency and Compatibility Graph Signature Database: OS/Arch Compatibility", "c": 0, "g": "conflicts"}
+{"id": "JAH-SDGRS-000026", "t": "Software Dependency and Compatibility Graph Signature Database: Optional Dependency Handling", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGRS-000027", "t": "Software Dependency and Compatibility Graph Signature Database: Dev vs Prod Split", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000028", "t": "Software Dependency and Compatibility Graph Signature Database: Hoisting Simulation", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGRS-000029", "t": "Software Dependency and Compatibility Graph Signature Database: Nearest-Wins Resolution", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGRS-000030", "t": "Software Dependency and Compatibility Graph Signature Database: Advisory Range Matching", "c": 0, "g": "vulnerabilities"}
+{"id": "JAH-SDGRS-000031", "t": "Software Dependency and Compatibility Graph Signature Database: Deprecation Check", "c": 0, "g": "versions"}
+{"id": "JAH-SDGRS-000032", "t": "Software Dependency and Compatibility Graph Signature Database: Dist-Tag Resolution", "c": 0, "g": "resolution"}
+{"id": "JAH-SDGRS-000033", "t": "Software Dependency and Compatibility Graph Signature Database: Workspace Protocol", "c": 0, "g": "ecosystems"}
+{"id": "JAH-SDGRS-000034", "t": "Software Dependency and Compatibility Graph Signature Database: Full Dependency Audit", "c": 0, "g": "vulnerabilities"}

@@ -1,0 +1,77 @@
+{"id": "JAH-GMC-000001", "t": "Image Restoration Workbench", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000002", "t": "Computer Vision Inspection System", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000003", "t": "Video Analytics Engine", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000004", "t": "3D Modeling Studio", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000005", "t": "Photogrammetry Reconstruction Engine", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000006", "t": "3D Point-Cloud Analyzer", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000007", "t": "CAD Design Workbench", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000008", "t": "CAM Toolpath Generator", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000009", "t": "Finite Element Model Visualizer", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000010", "t": "Real-Time Rendering Engine", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000011", "t": "Ray-Tracing Renderer", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000012", "t": "Video Editing and Compositing Studio", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000013", "t": "Audio Production Workstation", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000014", "t": "Speech Enhancement Engine", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000015", "t": "3D Animation Pipeline", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000016", "t": "Procedural World Generator", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000017", "t": "Digital Asset Catalog", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000018", "t": "Digital Twin Visualization Studio", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000019", "t": "Simulation Visualization Engine", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000020", "t": "AI-Assisted Content Production Pipeline", "g": "graphics-media-creation"}
+{"id": "JAH-GMC-000021", "t": "Wi-Fi Camera Streaming Node", "g": "Toolset"}
+{"id": "JAH-GMC-000022", "t": "Wi-Fi Audio Streaming Receiver", "g": "Toolset"}
+{"id": "JAH-GMC-000023", "t": "Framebuffer Initialization Drivers", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Boot & Kernel Initialization"}
+{"id": "JAH-GMC-000024", "t": "Fragment / Pixel Shaders", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMC-000025", "t": "Ray Tracing Acceleration Structures (BVH - Bounding Volume Hierarchy)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMC-000026", "t": "Software Renderers (Rasterizers)", "g": "Media, Synthesis & Graphics Processing / Graphics Rendering & Shaders"}
+{"id": "JAH-GMC-000027", "t": "Digital Audio Workstations (DAWs)", "g": "Media, Synthesis & Graphics Processing / Audio, DSP & Signal Processing"}
+{"id": "JAH-GMC-000028", "t": "Game Engines", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-GMC-000029", "t": "Parametric CAD Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000030", "t": "Neural Vocoder Utility", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000031", "t": "Mesh Decimation Utility", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000032", "t": "Count-Min Sketch Utility", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000033", "t": "Ray Tracing BVH Builder", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000034", "t": "Framebuffer Blitter", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000035", "t": "Vocoder Pitch Detector", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000036", "t": "Parametric Lofting Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000037", "t": "Albedo Texture Sampler", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000038", "t": "Morphe", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000039", "t": "Navidrome", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000040", "t": "Feishin", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000041", "t": "LosslessCut", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000042", "t": "MakeMKV", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000043", "t": "K-Lite Codec Pack", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000044", "t": "Eagle Media Manager", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000045", "t": "GIMP Image Editor", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000046", "t": "Shotcut Video Editor", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000047", "t": "UPDF Utility", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000048", "t": "Digital Twin Scanner System", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000049", "t": "DNA Storage Synthesizer", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000050", "t": "GOP Framebuffer Painter", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000051", "t": "tmux Terminal Multiplexer", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000052", "t": "Just Command Runner", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000053", "t": "Hyprland Compositor", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000054", "t": "ActivityPub Protocol Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000055", "t": "Whisper.cpp Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000056", "t": "Suno Bark Vocoder", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000057", "t": "FFmpeg Multimedia Framework", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000058", "t": "GStreamer Pipeline Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000059", "t": "ImageMagick Suite", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000060", "t": "GraphicsMagick Tools", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000061", "t": "RawTherapee Converter", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000062", "t": "Darktable Digital Darkroom", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000063", "t": "DigiKam Photo Manager", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000064", "t": "Inkscape Vector Editor", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000065", "t": "Blender 3D Suite", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000066", "t": "LuxCoreRender Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000067", "t": "Appleseed Renderer", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000068", "t": "PrusaSlicer Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000069", "t": "PlayCanvas Engine", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000070", "t": "Phaser Game Framework", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000071", "t": "Godot Engine Runtime", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000072", "t": "Raylib C Framework", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000073", "t": "GLFW Windowing Toolkit", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000074", "t": "Mesa 3D Driver Suite", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000075", "t": "Asahi Linux GPU Driver", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000076", "t": "Zink OpenGL-on-Vulkan", "g": "Bizarre Software"}
+{"id": "JAH-GMC-000077", "t": "PPSSPP Emulator", "g": "Bizarre Software"}

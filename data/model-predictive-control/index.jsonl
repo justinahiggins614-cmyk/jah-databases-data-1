@@ -1,0 +1,60 @@
+{"id": "JAH-MPC-000001", "t": "Linear MPC — cart-pole balance", "g": "linear-mpc"}
+{"id": "JAH-MPC-000002", "t": "Linear MPC — quadrotor hover", "g": "linear-mpc"}
+{"id": "JAH-MPC-000003", "t": "Linear MPC — autonomous lane keeping", "g": "linear-mpc"}
+{"id": "JAH-MPC-000004", "t": "Linear MPC — arm trajectory tracking", "g": "linear-mpc"}
+{"id": "JAH-MPC-000005", "t": "Linear MPC — biped push recovery", "g": "linear-mpc"}
+{"id": "JAH-MPC-000006", "t": "Linear MPC — AUV path following", "g": "linear-mpc"}
+{"id": "JAH-MPC-000007", "t": "Linear MPC — satellite attitude hold", "g": "linear-mpc"}
+{"id": "JAH-MPC-000008", "t": "Linear MPC — warehouse fleet coordination", "g": "linear-mpc"}
+{"id": "JAH-MPC-000009", "t": "Linear MPC — building climate control", "g": "linear-mpc"}
+{"id": "JAH-MPC-000010", "t": "Linear MPC — legged robot walking", "g": "linear-mpc"}
+{"id": "JAH-MPC-000011", "t": "Nonlinear MPC — cart-pole balance", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000012", "t": "Nonlinear MPC — quadrotor hover", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000013", "t": "Nonlinear MPC — autonomous lane keeping", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000014", "t": "Nonlinear MPC — arm trajectory tracking", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000015", "t": "Nonlinear MPC — biped push recovery", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000016", "t": "Nonlinear MPC — AUV path following", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000017", "t": "Nonlinear MPC — satellite attitude hold", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000018", "t": "Nonlinear MPC — warehouse fleet coordination", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000019", "t": "Nonlinear MPC — building climate control", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000020", "t": "Nonlinear MPC — legged robot walking", "g": "nonlinear-mpc"}
+{"id": "JAH-MPC-000021", "t": "Robust MPC — cart-pole balance", "g": "robust-mpc"}
+{"id": "JAH-MPC-000022", "t": "Robust MPC — quadrotor hover", "g": "robust-mpc"}
+{"id": "JAH-MPC-000023", "t": "Robust MPC — autonomous lane keeping", "g": "robust-mpc"}
+{"id": "JAH-MPC-000024", "t": "Robust MPC — arm trajectory tracking", "g": "robust-mpc"}
+{"id": "JAH-MPC-000025", "t": "Robust MPC — biped push recovery", "g": "robust-mpc"}
+{"id": "JAH-MPC-000026", "t": "Robust MPC — AUV path following", "g": "robust-mpc"}
+{"id": "JAH-MPC-000027", "t": "Robust MPC — satellite attitude hold", "g": "robust-mpc"}
+{"id": "JAH-MPC-000028", "t": "Robust MPC — warehouse fleet coordination", "g": "robust-mpc"}
+{"id": "JAH-MPC-000029", "t": "Robust MPC — building climate control", "g": "robust-mpc"}
+{"id": "JAH-MPC-000030", "t": "Robust MPC — legged robot walking", "g": "robust-mpc"}
+{"id": "JAH-MPC-000031", "t": "Explicit MPC — cart-pole balance", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000032", "t": "Explicit MPC — quadrotor hover", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000033", "t": "Explicit MPC — autonomous lane keeping", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000034", "t": "Explicit MPC — arm trajectory tracking", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000035", "t": "Explicit MPC — biped push recovery", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000036", "t": "Explicit MPC — AUV path following", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000037", "t": "Explicit MPC — satellite attitude hold", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000038", "t": "Explicit MPC — warehouse fleet coordination", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000039", "t": "Explicit MPC — building climate control", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000040", "t": "Explicit MPC — legged robot walking", "g": "explicit-mpc"}
+{"id": "JAH-MPC-000041", "t": "Learning-based MPC — cart-pole balance", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000042", "t": "Learning-based MPC — quadrotor hover", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000043", "t": "Learning-based MPC — autonomous lane keeping", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000044", "t": "Learning-based MPC — arm trajectory tracking", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000045", "t": "Learning-based MPC — biped push recovery", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000046", "t": "Learning-based MPC — AUV path following", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000047", "t": "Learning-based MPC — satellite attitude hold", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000048", "t": "Learning-based MPC — warehouse fleet coordination", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000049", "t": "Learning-based MPC — building climate control", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000050", "t": "Learning-based MPC — legged robot walking", "g": "learning-based-mpc"}
+{"id": "JAH-MPC-000051", "t": "Distributed MPC — cart-pole balance", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000052", "t": "Distributed MPC — quadrotor hover", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000053", "t": "Distributed MPC — autonomous lane keeping", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000054", "t": "Distributed MPC — arm trajectory tracking", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000055", "t": "Distributed MPC — biped push recovery", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000056", "t": "Distributed MPC — AUV path following", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000057", "t": "Distributed MPC — satellite attitude hold", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000058", "t": "Distributed MPC — warehouse fleet coordination", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000059", "t": "Distributed MPC — building climate control", "g": "distributed-mpc"}
+{"id": "JAH-MPC-000060", "t": "Distributed MPC — legged robot walking", "g": "distributed-mpc"}

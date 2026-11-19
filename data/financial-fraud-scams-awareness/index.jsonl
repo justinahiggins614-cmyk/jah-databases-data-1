@@ -1,0 +1,54 @@
+{"id": "JAH-FRAUD-000001", "t": "Financial Fraud and Scam Awareness Database: What Financial Fraud Is", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000002", "t": "Financial Fraud and Scam Awareness Database: Phishing Emails and Texts", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000003", "t": "Financial Fraud and Scam Awareness Database: Phone and Vishing Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000004", "t": "Financial Fraud and Scam Awareness Database: Romance Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000005", "t": "Financial Fraud and Scam Awareness Database: Investment and Ponzi Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000006", "t": "Financial Fraud and Scam Awareness Database: Pyramid and MLM Schemes", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000007", "t": "Financial Fraud and Scam Awareness Database: Crypto Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000008", "t": "Financial Fraud and Scam Awareness Database: Tech Support Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000009", "t": "Financial Fraud and Scam Awareness Database: IRS and Tax Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000010", "t": "Financial Fraud and Scam Awareness Database: Lottery and Prize Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000011", "t": "Financial Fraud and Scam Awareness Database: Employment and Job Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000012", "t": "Financial Fraud and Scam Awareness Database: Rental and Real Estate Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000013", "t": "Financial Fraud and Scam Awareness Database: Charity Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000014", "t": "Financial Fraud and Scam Awareness Database: Grandparent Scams", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000015", "t": "Financial Fraud and Scam Awareness Database: Red Flag: Guaranteed Returns", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000016", "t": "Financial Fraud and Scam Awareness Database: Red Flag: Pressure and Urgency", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000017", "t": "Financial Fraud and Scam Awareness Database: Red Flag: Secrecy", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000018", "t": "Financial Fraud and Scam Awareness Database: Red Flag: Unregistered Sellers", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000019", "t": "Financial Fraud and Scam Awareness Database: Red Flag: Complicated Jargon", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000020", "t": "Financial Fraud and Scam Awareness Database: Red Flag: Advance Fees", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000021", "t": "Financial Fraud and Scam Awareness Database: Verifying Identities", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000022", "t": "Financial Fraud and Scam Awareness Database: Strong Passwords and 2FA", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000023", "t": "Financial Fraud and Scam Awareness Database: Safe Online Banking", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000024", "t": "Financial Fraud and Scam Awareness Database: Credit Monitoring for Fraud", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000025", "t": "Financial Fraud and Scam Awareness Database: What to Do If Scammed", "c": 0, "g": "recovery"}
+{"id": "JAH-FRAUD-000026", "t": "Financial Fraud and Scam Awareness Database: Reporting Fraud: FTC and IC3", "c": 0, "g": "recovery"}
+{"id": "JAH-FRAUD-000027", "t": "Financial Fraud and Scam Awareness Database: Recovering Stolen Identity", "c": 0, "g": "recovery"}
+{"id": "JAH-FRAUD-000028", "t": "Financial Fraud and Scam Awareness Database: Helping Elderly Relatives", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000029", "t": "Financial Fraud and Scam Awareness Database: Teaching Kids About Scams", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000030", "t": "Financial Fraud and Scam Awareness Database: Business Email Compromise", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000031", "t": "Financial Fraud and Scam Awareness Database: Check Fraud", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000032", "t": "Financial Fraud and Scam Awareness Database: Affinity Fraud", "c": 0, "g": "scams"}
+{"id": "JAH-FRAUD-000033", "t": "Financial Fraud and Scam Awareness Database: Ponzi Red Flags Checklist", "c": 0, "g": "red-flags"}
+{"id": "JAH-FRAUD-000034", "t": "Financial Fraud and Scam Awareness Database: Capstone: The Complete Fraud Defender", "c": 0, "g": "protection"}
+{"id": "JAH-FRAUD-000035", "t": "Financial Fraud and Scam Awareness Database: Romance Scam Pattern", "c": 0, "g": "romance"}
+{"id": "JAH-FRAUD-000036", "t": "Financial Fraud and Scam Awareness Database: Investment and Crypto Scam Pattern", "c": 0, "g": "investment"}
+{"id": "JAH-FRAUD-000037", "t": "Financial Fraud and Scam Awareness Database: Tech Support Scam Pattern", "c": 0, "g": "tech_support"}
+{"id": "JAH-FRAUD-000038", "t": "Financial Fraud and Scam Awareness Database: Phishing Email Pattern", "c": 0, "g": "phishing"}
+{"id": "JAH-FRAUD-000039", "t": "Financial Fraud and Scam Awareness Database: Smishing (SMS Phishing) Pattern", "c": 0, "g": "phishing"}
+{"id": "JAH-FRAUD-000040", "t": "Financial Fraud and Scam Awareness Database: Grandparent Scam Pattern", "c": 0, "g": "family"}
+{"id": "JAH-FRAUD-000041", "t": "Financial Fraud and Scam Awareness Database: Job Offer Scam Pattern", "c": 0, "g": "employment"}
+{"id": "JAH-FRAUD-000042", "t": "Financial Fraud and Scam Awareness Database: Rental and Real Estate Scam Pattern", "c": 0, "g": "real_estate"}
+{"id": "JAH-FRAUD-000043", "t": "Financial Fraud and Scam Awareness Database: Lottery and Prize Scam Pattern", "c": 0, "g": "prize"}
+{"id": "JAH-FRAUD-000044", "t": "Financial Fraud and Scam Awareness Database: Charity Scam Pattern", "c": 0, "g": "charity"}
+{"id": "JAH-FRAUD-000045", "t": "Financial Fraud and Scam Awareness Database: Invoice and BEC Scam Pattern", "c": 0, "g": "business"}
+{"id": "JAH-FRAUD-000046", "t": "Financial Fraud and Scam Awareness Database: QR Code Scam Pattern", "c": 0, "g": "phishing"}
+{"id": "JAH-FRAUD-000047", "t": "Financial Fraud and Scam Awareness Database: Puppy and Pet Scam Pattern", "c": 0, "g": "shopping"}
+{"id": "JAH-FRAUD-000048", "t": "Financial Fraud and Scam Awareness Database: Government Impersonation Scam Pattern", "c": 0, "g": "government"}
+{"id": "JAH-FRAUD-000049", "t": "Financial Fraud and Scam Awareness Database: Overpayment Scam Pattern", "c": 0, "g": "payment"}
+{"id": "JAH-FRAUD-000050", "t": "Financial Fraud and Scam Awareness Database: Mystery Shopper Scam Pattern", "c": 0, "g": "employment"}
+{"id": "JAH-FRAUD-000051", "t": "Financial Fraud and Scam Awareness Database: Timeshare Resale Scam Pattern", "c": 0, "g": "real_estate"}
+{"id": "JAH-FRAUD-000052", "t": "Financial Fraud and Scam Awareness Database: Debt Collection Scam Pattern", "c": 0, "g": "debt"}
+{"id": "JAH-FRAUD-000053", "t": "Financial Fraud and Scam Awareness Database: AI Voice Cloning Scam Pattern", "c": 0, "g": "family"}
+{"id": "JAH-FRAUD-000054", "t": "Financial Fraud and Scam Awareness Database: Recovery Scam Pattern (Scamming the Scammed)", "c": 0, "g": "recovery"}

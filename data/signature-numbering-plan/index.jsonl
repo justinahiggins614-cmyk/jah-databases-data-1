@@ -1,0 +1,60 @@
+{"id": "JAH-SNP-000001", "t": "001 — Signature Prime Meridian", "g": "Region codes"}
+{"id": "JAH-SNP-000002", "t": "002 — Signature Capital Lattice", "g": "Region codes"}
+{"id": "JAH-SNP-000003", "t": "003 — Signature Harbor Grid", "g": "Region codes"}
+{"id": "JAH-SNP-000004", "t": "004 — Signature Foundry Belt", "g": "Region codes"}
+{"id": "JAH-SNP-000005", "t": "005 — Signature Archive Reaches", "g": "Region codes"}
+{"id": "JAH-SNP-000006", "t": "006 — Signature Aurora Field", "g": "Region codes"}
+{"id": "JAH-SNP-000007", "t": "007 — Signature Meridian Expanse", "g": "Region codes"}
+{"id": "JAH-SNP-000008", "t": "008 — Signature Compass Rose", "g": "Region codes"}
+{"id": "JAH-SNP-000009", "t": "009 — Signature Beacon Shores", "g": "Region codes"}
+{"id": "JAH-SNP-000010", "t": "010 — Signature Keystone Works", "g": "Region codes"}
+{"id": "JAH-SNP-000011", "t": "011 — Signature Northlight", "g": "Region codes"}
+{"id": "JAH-SNP-000012", "t": "012 — Signature Southgate", "g": "Region codes"}
+{"id": "JAH-SNP-000013", "t": "7000 — Signature Operator", "g": "Service codes"}
+{"id": "JAH-SNP-000014", "t": "7001 — Signature Emergency Relay", "g": "Service codes"}
+{"id": "JAH-SNP-000015", "t": "7002 — Signature Directory", "g": "Service codes"}
+{"id": "JAH-SNP-000016", "t": "7003 — Signature Repair Line", "g": "Service codes"}
+{"id": "JAH-SNP-000017", "t": "7004 — Signature Time Signal", "g": "Service codes"}
+{"id": "JAH-SNP-000018", "t": "7005 — Signature Weather Wire", "g": "Service codes"}
+{"id": "JAH-SNP-000019", "t": "7006 — Signature Archive Desk", "g": "Service codes"}
+{"id": "JAH-SNP-000020", "t": "7007 — Signature Maker Line", "g": "Service codes"}
+{"id": "JAH-SNP-000021", "t": "7008 — Signature Relay for the Deaf", "g": "Service codes"}
+{"id": "JAH-SNP-000022", "t": "7009 — Signature Night Desk", "g": "Service codes"}
+{"id": "JAH-SNP-000023", "t": "7010 — Signature Numbering Desk", "g": "Service codes"}
+{"id": "JAH-SNP-000024", "t": "7011 — Signature Test Exchange", "g": "Service codes"}
+{"id": "JAH-SNP-000025", "t": "210 — Signature Exchange 210 — Prime Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000026", "t": "211 — Signature Exchange 211 — Capital Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000027", "t": "212 — Signature Exchange 212 — Harbor Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000028", "t": "213 — Signature Exchange 213 — Foundry Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000029", "t": "214 — Signature Exchange 214 — Archive Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000030", "t": "215 — Signature Exchange 215 — Aurora Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000031", "t": "216 — Signature Exchange 216 — Meridian Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000032", "t": "217 — Signature Exchange 217 — Compass Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000033", "t": "218 — Signature Exchange 218 — Beacon Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000034", "t": "219 — Signature Exchange 219 — Keystone Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000035", "t": "220 — Signature Exchange 220 — Northlight Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000036", "t": "221 — Signature Exchange 221 — Southgate Exchange", "g": "Exchange codes"}
+{"id": "JAH-SNP-000037", "t": "8000 — Signature Freefone 8000", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000038", "t": "8001 — Signature Info 8001 — System Status", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000039", "t": "8002 — Signature Info 8002 — Numbering News", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000040", "t": "8003 — Signature Info 8003 — Archive Highlights", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000041", "t": "8004 — Signature Info 8004 — Build Queue", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000042", "t": "8005 — Signature Freefone 8005 — Help Desk", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000043", "t": "8006 — Signature Freefone 8006 — Order Line", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000044", "t": "8007 — Signature Info 8007 — Region Guide", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000045", "t": "8008 — Signature Freefone 8008 — Repair Dispatch", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000046", "t": "8009 — Signature Info 8009 — Trial Codes", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000047", "t": "8010 — Signature Freefone 8010 — Directory Help", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000048", "t": "8011 — Signature Info 8011 — Dialing School", "g": "Toll & info codes"}
+{"id": "JAH-SNP-000049", "t": "9000 — Signature Offsite Relay 9000", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000050", "t": "9001 — Signature Offsite Relay 9001 — Archive Mirror", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000051", "t": "9002 — Signature Offsite Relay 9002 — AI Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000052", "t": "9003 — Signature Offsite Relay 9003 — Maker Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000053", "t": "9004 — Signature Offsite Relay 9004 — Directory Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000054", "t": "9005 — Signature Offsite Relay 9005 — Emergency Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000055", "t": "9006 — Signature Offsite Relay 9006 — Time Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000056", "t": "9007 — Signature Offsite Relay 9007 — Test Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000057", "t": "9008 — Signature Offsite Relay 9008 — Message Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000058", "t": "9009 — Signature Offsite Relay 9009 — Conference Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000059", "t": "9010 — Signature Offsite Relay 9010 — Data Relay", "g": "Offsite relay codes"}
+{"id": "JAH-SNP-000060", "t": "9011 — Signature Offsite Relay 9011 — Night Relay", "g": "Offsite relay codes"}

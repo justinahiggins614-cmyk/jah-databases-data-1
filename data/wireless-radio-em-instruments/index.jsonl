@@ -1,0 +1,36 @@
+{"id": "JAH-WRE-000001", "t": "Wi-Fi Signal Strength Meter", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000002", "t": "Wi-Fi Channel Occupancy Analyzer", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000003", "t": "Bluetooth Device Scanner", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000004", "t": "Bluetooth Signal Strength Monitor", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000005", "t": "NFC Reader and Writer on supported hardware", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000006", "t": "RFID Reader Interface using a compatible reader", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000007", "t": "Software-Defined Radio Receiver", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000008", "t": "Radio Spectrum Analyzer using an SDR or external instrument", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000009", "t": "Radio Frequency Counter using compatible hardware", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000010", "t": "RF Signal Strength Meter", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000011", "t": "RF Signal Recording and Playback Analyzer using appropriate hardware", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000012", "t": "RF Antenna Comparison Station", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000013", "t": "RF Interference Survey Instrument", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000014", "t": "Radio Protocol Analysis Station", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000015", "t": "GPS Receiver Data Analyzer", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000016", "t": "GPS Antenna Performance Tester using suitable equipment", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000017", "t": "UWB Ranging Interface using compatible devices", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000018", "t": "Electromagnetic Interference Measurement Station using probes and an analyzer", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000019", "t": "Near-Field RF Probe Measurement Station", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000020", "t": "Wireless Network Coverage Survey Station", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WRE-000021", "t": "Wi-Fi Ambient Power Harvester", "g": "Toolset"}
+{"id": "JAH-WRE-000022", "t": "Wi-Fi Backscatter Reflector Tag", "g": "Toolset"}
+{"id": "JAH-WRE-000023", "t": "HackRF One Software-Defined Radio", "g": "Toolset"}
+{"id": "JAH-WRE-000024", "t": "Chirp-Z Transform Spectrum Analyzer", "g": "Toolset"}
+{"id": "JAH-WRE-000025", "t": "Handheld Spectrum Analyzer", "g": "Toolset"}
+{"id": "JAH-WRE-000026", "t": "Directional Coupler", "g": "Toolset"}
+{"id": "JAH-WRE-000027", "t": "Spectrum Analyzer with Tracking Generator", "g": "Toolset"}
+{"id": "JAH-WRE-000028", "t": "RF Field Strength Meter", "g": "Toolset"}
+{"id": "JAH-WRE-000029", "t": "Gqrx SDR Receiver", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000030", "t": "SDR# (SDRSharp)", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000031", "t": "SDRangel Platform", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000032", "t": "Chirp Radio Programmer", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000033", "t": "WSJT-X Amateur Suite", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000034", "t": "Direwolf Soundcard TNC", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000035", "t": "Flrig Transceiver Control", "g": "Bizarre Software"}
+{"id": "JAH-WRE-000036", "t": "Fldigi Digital Modem", "g": "Bizarre Software"}

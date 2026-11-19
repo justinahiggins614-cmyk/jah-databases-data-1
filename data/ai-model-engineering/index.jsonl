@@ -1,0 +1,70 @@
+{"id": "JAH-AME-000001", "t": "Local Large Language Model Runtime", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000002", "t": "Multi-Model AI Router", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000003", "t": "AI Model Benchmarking Laboratory", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000004", "t": "Model Quantization Workbench", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000005", "t": "AI Model Fine-Tuning Pipeline", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000006", "t": "Retrieval-Augmented Generation Engine", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000007", "t": "Multimodal AI Workbench", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000008", "t": "AI Agent Execution Environment", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000009", "t": "Multi-Agent Coordination System", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000010", "t": "AI Consensus and Verification Engine", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000011", "t": "AI Hallucination Detection Assistant", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000012", "t": "AI Memory and Knowledge Manager", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000013", "t": "AI Knowledge Graph Reasoner", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000014", "t": "AI Code Generation and Build System", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000015", "t": "Automated Software Repair Assistant", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000016", "t": "AI Research Assistant", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000017", "t": "AI Scientific Discovery Assistant", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000018", "t": "AI Dataset Generation Pipeline", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000019", "t": "AI Data Annotation Workbench", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000020", "t": "AI Evaluation and Red-Team Laboratory", "g": "ai-model-engineering"}
+{"id": "JAH-AME-000021", "t": "Wi-Fi GPU Dictionary Cracker", "g": "Toolset"}
+{"id": "JAH-AME-000022", "t": "Hard Drive Physical Crusher", "g": "Toolset"}
+{"id": "JAH-AME-000023", "t": "GGUF Models / Writers", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000024", "t": "ONNX Exported Graphs", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000025", "t": "AWQ (Activation-aware Weight Quantization) Models", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000026", "t": "GPTQ Models", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000027", "t": "EXL2 (ExLlamaV2) Formats", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000028", "t": "QLoRA Checkpoints", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000029", "t": "GGUF Metadata Parsers", "g": "Local Ai, Quantization & Edge Inference / Quantization & Model Serialization"}
+{"id": "JAH-AME-000030", "t": "Tokenizers (BPE, WordPiece, Unigram)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AME-000031", "t": "Grammars / Constrained Decoding Engines (GBNF)", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AME-000032", "t": "Local RAG Engines", "g": "Local Ai, Quantization & Edge Inference / Local Inference & RAG Infrastructure"}
+{"id": "JAH-AME-000033", "t": "Grammar-Constrained LLM Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000034", "t": "GGUF Quantization Loader", "g": "Bizarre Software"}
+{"id": "JAH-AME-000035", "t": "Vector Embedder Utility", "g": "Bizarre Software"}
+{"id": "JAH-AME-000036", "t": "Local Knowledge RAG Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000037", "t": "AWQ Quantization Tool", "g": "Bizarre Software"}
+{"id": "JAH-AME-000038", "t": "EXL2 Quantization Tool", "g": "Bizarre Software"}
+{"id": "JAH-AME-000039", "t": "QLoRA Fine-Tuning Utility", "g": "Bizarre Software"}
+{"id": "JAH-AME-000040", "t": "Embeddings Registry", "g": "Bizarre Software"}
+{"id": "JAH-AME-000041", "t": "Log-Structured Merge Utility", "g": "Bizarre Software"}
+{"id": "JAH-AME-000042", "t": "ExLlamaV2 Inference Kernel", "g": "Bizarre Software"}
+{"id": "JAH-AME-000043", "t": "BPE Tokenizer Utility", "g": "Bizarre Software"}
+{"id": "JAH-AME-000044", "t": "QLoRA Gradient Checkpointer", "g": "Bizarre Software"}
+{"id": "JAH-AME-000045", "t": "SSTable Index Reader", "g": "Bizarre Software"}
+{"id": "JAH-AME-000046", "t": "Symfonium", "g": "Bizarre Software"}
+{"id": "JAH-AME-000047", "t": "Ollama local CLI", "g": "Bizarre Software"}
+{"id": "JAH-AME-000048", "t": "NextCloud AIO", "g": "Bizarre Software"}
+{"id": "JAH-AME-000049", "t": "Hard Disk Sentinel", "g": "Bizarre Software"}
+{"id": "JAH-AME-000050", "t": "OpenClaw Assistant Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000051", "t": "Composio Integrations", "g": "Bizarre Software"}
+{"id": "JAH-AME-000052", "t": "LangChain Framework", "g": "Bizarre Software"}
+{"id": "JAH-AME-000053", "t": "PyTorch AI Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000054", "t": "GGUF Tensor Reader", "g": "Bizarre Software"}
+{"id": "JAH-AME-000055", "t": "AWQ Calibration Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000056", "t": "Ceph Distributed Storage", "g": "Bizarre Software"}
+{"id": "JAH-AME-000057", "t": "GlusterFS Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000058", "t": "ZFS Storage Manager", "g": "Bizarre Software"}
+{"id": "JAH-AME-000059", "t": "mdadm RAID Manager", "g": "Bizarre Software"}
+{"id": "JAH-AME-000060", "t": "Rclone Transfer Utility", "g": "Bizarre Software"}
+{"id": "JAH-AME-000061", "t": "Kopia Backup System", "g": "Bizarre Software"}
+{"id": "JAH-AME-000062", "t": "Dragonfly Cache", "g": "Bizarre Software"}
+{"id": "JAH-AME-000063", "t": "Qdrant Vector Database", "g": "Bizarre Software"}
+{"id": "JAH-AME-000064", "t": "Milvus Vector Engine", "g": "Bizarre Software"}
+{"id": "JAH-AME-000065", "t": "Chroma Vector Store", "g": "Bizarre Software"}
+{"id": "JAH-AME-000066", "t": "Weaviate Vector Platform", "g": "Bizarre Software"}
+{"id": "JAH-AME-000067", "t": "pgvector Extension", "g": "Bizarre Software"}
+{"id": "JAH-AME-000068", "t": "Quickwit Indexer", "g": "Bizarre Software"}
+{"id": "JAH-AME-000069", "t": "Coqui TTS Platform", "g": "Bizarre Software"}
+{"id": "JAH-AME-000070", "t": "OpenVoice Cloning", "g": "Bizarre Software"}

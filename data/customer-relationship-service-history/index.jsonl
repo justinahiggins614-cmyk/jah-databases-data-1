@@ -1,0 +1,54 @@
+{"id": "JAH-CRM-000001", "t": "What a Customer Relationship Is", "g": "Foundations"}
+{"id": "JAH-CRM-000002", "t": "The Customer Record: Contact and Account Data Model", "g": "Foundations"}
+{"id": "JAH-CRM-000003", "t": "Requests, Incidents, and Problems: The Service Vocabulary", "g": "Foundations"}
+{"id": "JAH-CRM-000004", "t": "The Ticket: Anatomy of a Support Case", "g": "Foundations"}
+{"id": "JAH-CRM-000005", "t": "Ticket Lifecycle: From Open to Closed", "g": "Foundations"}
+{"id": "JAH-CRM-000006", "t": "Communication Channels and Touchpoints", "g": "Foundations"}
+{"id": "JAH-CRM-000007", "t": "Service Level Agreements", "g": "Foundations"}
+{"id": "JAH-CRM-000008", "t": "Prioritization by Impact and Urgency", "g": "Foundations"}
+{"id": "JAH-CRM-000009", "t": "The Service Desk: Tiers of Support", "g": "Foundations"}
+{"id": "JAH-CRM-000010", "t": "Product History and Installed Base Records", "g": "Foundations"}
+{"id": "JAH-CRM-000011", "t": "CRM Data Models: Leads, Opportunities, and Accounts", "g": "Compounded"}
+{"id": "JAH-CRM-000012", "t": "Escalation Matrices: Functional and Hierarchical", "g": "Compounded"}
+{"id": "JAH-CRM-000013", "t": "Core Metrics: First Response, Resolution, and Handle Time", "g": "Compounded"}
+{"id": "JAH-CRM-000014", "t": "Knowledge Bases and Self-Service", "g": "Compounded"}
+{"id": "JAH-CRM-000015", "t": "Customer Journey Mapping", "g": "Compounded"}
+{"id": "JAH-CRM-000016", "t": "CSAT: Measuring Customer Satisfaction", "g": "Compounded"}
+{"id": "JAH-CRM-000017", "t": "NPS: The Net Promoter System", "g": "Compounded"}
+{"id": "JAH-CRM-000018", "t": "CES: Customer Effort Score", "g": "Compounded"}
+{"id": "JAH-CRM-000019", "t": "Support Analytics: Queues, Backlogs, and Throughput", "g": "Compounded"}
+{"id": "JAH-CRM-000020", "t": "Retention and Churn Analysis", "g": "Compounded"}
+{"id": "JAH-CRM-000021", "t": "Customer Segmentation: RFM and Value Tiers", "g": "Compounded"}
+{"id": "JAH-CRM-000022", "t": "Complaint Handling and Service Recovery", "g": "Compounded"}
+{"id": "JAH-CRM-000023", "t": "Major Incident Management", "g": "Compounded"}
+{"id": "JAH-CRM-000024", "t": "Workforce Management: Forecasting and Scheduling", "g": "Advanced"}
+{"id": "JAH-CRM-000025", "t": "Quality Assurance: Scorecards and Calibration", "g": "Advanced"}
+{"id": "JAH-CRM-000026", "t": "Root Cause Analysis and Problem Management", "g": "Advanced"}
+{"id": "JAH-CRM-000027", "t": "Voice of the Customer Programs", "g": "Advanced"}
+{"id": "JAH-CRM-000028", "t": "Customer Lifetime Value Modeling", "g": "Advanced"}
+{"id": "JAH-CRM-000029", "t": "Predictive Churn and Next-Best-Action", "g": "Advanced"}
+{"id": "JAH-CRM-000030", "t": "Omnichannel Orchestration and Routing", "g": "Advanced"}
+{"id": "JAH-CRM-000031", "t": "The Service Catalog and Service Design", "g": "Advanced"}
+{"id": "JAH-CRM-000032", "t": "Continual Improvement and the Seven-Step Process", "g": "Advanced"}
+{"id": "JAH-CRM-000033", "t": "CRM Architecture: Integration, APIs, and Data Governance", "g": "Advanced"}
+{"id": "JAH-CRM-000034", "t": "The Economics of Service: Cost per Contact and ROI", "g": "Advanced"}
+{"id": "JAH-CRM-000035", "t": "Customer Onboarding Sequences That Retain", "g": "Retention"}
+{"id": "JAH-CRM-000036", "t": "Loyalty Programs That Actually Drive Loyalty", "g": "Retention"}
+{"id": "JAH-CRM-000037", "t": "Churn Signals: Detecting At-Risk Customers Early", "g": "Retention"}
+{"id": "JAH-CRM-000038", "t": "Win-Back Campaigns for Lost Customers", "g": "Retention"}
+{"id": "JAH-CRM-000039", "t": "Net Promoter Programs That Drive Action", "g": "Retention"}
+{"id": "JAH-CRM-000040", "t": "Customer Success Playbooks by Segment", "g": "Retention"}
+{"id": "JAH-CRM-000041", "t": "Personalization in Retention Marketing", "g": "Retention"}
+{"id": "JAH-CRM-000042", "t": "Proactive Support: Fixing Issues Before Complaints", "g": "Retention"}
+{"id": "JAH-CRM-000043", "t": "Community Building for Customer Retention", "g": "Retention"}
+{"id": "JAH-CRM-000044", "t": "Subscription Pause Options vs Cancellation", "g": "Retention"}
+{"id": "JAH-CRM-000045", "t": "Customer Feedback Loops That Close", "g": "Retention"}
+{"id": "JAH-CRM-000046", "t": "Service Recovery: Turning Failures into Loyalty", "g": "Retention"}
+{"id": "JAH-CRM-000047", "t": "Account Reviews That Prevent Churn", "g": "Retention"}
+{"id": "JAH-CRM-000048", "t": "Referral Programs: Turning Retention into Acquisition", "g": "Retention"}
+{"id": "JAH-CRM-000049", "t": "Tiered Benefits That Motivate Upgrades", "g": "Retention"}
+{"id": "JAH-CRM-000050", "t": "Lifecycle Email Series for Retention", "g": "Retention"}
+{"id": "JAH-CRM-000051", "t": "Customer Advisory Boards", "g": "Retention"}
+{"id": "JAH-CRM-000052", "t": "Measuring Retention: The Metrics That Matter", "g": "Retention"}
+{"id": "JAH-CRM-000053", "t": "Retention Dashboards for the Whole Company", "g": "Retention"}
+{"id": "JAH-CRM-000054", "t": "Culture of Retention: Everyone Owns Churn", "g": "Retention"}

@@ -1,0 +1,74 @@
+{"id": "JAH-MPI-000001", "t": "Manufacturing Process Intelligence Database: Turning Material Removal Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000002", "t": "Manufacturing Process Intelligence Database: Cutting Speed From RPM", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000003", "t": "Manufacturing Process Intelligence Database: Spindle RPM From Cutting Speed", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000004", "t": "Manufacturing Process Intelligence Database: Milling Material Removal Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000005", "t": "Manufacturing Process Intelligence Database: Feed Per Tooth", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000006", "t": "Manufacturing Process Intelligence Database: Drilling Material Removal Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000007", "t": "Manufacturing Process Intelligence Database: Drilling Time", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000008", "t": "Manufacturing Process Intelligence Database: Tapping Feed Rate", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000009", "t": "Manufacturing Process Intelligence Database: Grinding Wheel Surface Speed", "c": 0, "g": "machining"}
+{"id": "JAH-MPI-000010", "t": "Manufacturing Process Intelligence Database: 3D Print Time Estimate", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000011", "t": "Manufacturing Process Intelligence Database: Filament Volume Used", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000012", "t": "Manufacturing Process Intelligence Database: Injection Molding Clamp Force", "c": 0, "g": "molding"}
+{"id": "JAH-MPI-000013", "t": "Manufacturing Process Intelligence Database: Injection Shot Volume", "c": 0, "g": "molding"}
+{"id": "JAH-MPI-000014", "t": "Manufacturing Process Intelligence Database: Molding Cooling Time (Rule of Thumb)", "c": 0, "g": "molding"}
+{"id": "JAH-MPI-000015", "t": "Manufacturing Process Intelligence Database: Casting Solidification (Chvorinov)", "c": 0, "g": "molding"}
+{"id": "JAH-MPI-000016", "t": "Manufacturing Process Intelligence Database: Welding Heat Input", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000017", "t": "Manufacturing Process Intelligence Database: Sheet Metal Bend Allowance", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000018", "t": "Manufacturing Process Intelligence Database: Air Bending Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000019", "t": "Manufacturing Process Intelligence Database: Punching Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000020", "t": "Manufacturing Process Intelligence Database: Deep Drawing Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000021", "t": "Manufacturing Process Intelligence Database: Extrusion Pressure", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000022", "t": "Manufacturing Process Intelligence Database: Rolling Force", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000023", "t": "Manufacturing Process Intelligence Database: Rolling Power", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000024", "t": "Manufacturing Process Intelligence Database: Laser Power Density", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000025", "t": "Manufacturing Process Intelligence Database: Waterjet Orifice Velocity", "c": 0, "g": "joining"}
+{"id": "JAH-MPI-000026", "t": "Manufacturing Process Intelligence Database: Manufacturing Cycle Time", "c": 0, "g": "workflow"}
+{"id": "JAH-MPI-000027", "t": "Manufacturing Process Intelligence Database: OEE", "c": 0, "g": "workflow"}
+{"id": "JAH-MPI-000028", "t": "Manufacturing Process Intelligence Database: Takt Time", "c": 0, "g": "workflow"}
+{"id": "JAH-MPI-000029", "t": "Manufacturing Process Intelligence Database: Kanban Quantity", "c": 0, "g": "workflow"}
+{"id": "JAH-MPI-000030", "t": "Manufacturing Process Intelligence Database: EOQ", "c": 0, "g": "workflow"}
+{"id": "JAH-MPI-000031", "t": "Manufacturing Process Intelligence Database: Process Capability Cpk", "c": 0, "g": "quality"}
+{"id": "JAH-MPI-000032", "t": "Manufacturing Process Intelligence Database: X-Bar Control Limits", "c": 0, "g": "quality"}
+{"id": "JAH-MPI-000033", "t": "Manufacturing Process Intelligence Database: Theoretical Surface Roughness (Turning)", "c": 0, "g": "quality"}
+{"id": "JAH-MPI-000034", "t": "Manufacturing Process Intelligence Database: Rolled Throughput Yield", "c": 0, "g": "quality"}
+{"id": "JAH-MPI-000035", "t": "Manufacturing Process Intelligence Database: Injection Molding Cycle Time", "c": 1, "g": "injection-molding"}
+{"id": "JAH-MPI-000036", "t": "Manufacturing Process Intelligence Database: CNC Milling Feed Rate", "c": 1, "g": "cnc-machining"}
+{"id": "JAH-MPI-000037", "t": "Manufacturing Process Intelligence Database: 3D Print Time Estimate", "c": 1, "g": "additive"}
+{"id": "JAH-MPI-000038", "t": "Manufacturing Process Intelligence Database: Sheet Metal Bend Deduction", "c": 1, "g": "sheet-metal"}
+{"id": "JAH-MPI-000039", "t": "Manufacturing Process Intelligence Database: Welding Heat Input", "c": 1, "g": "welding"}
+{"id": "JAH-MPI-000040", "t": "Manufacturing Process Intelligence Database: Casting Shrinkage Allowance", "c": 1, "g": "casting"}
+{"id": "JAH-MPI-000041", "t": "Manufacturing Process Intelligence Database: Extrusion Die Swell Compensation", "c": 1, "g": "extrusion"}
+{"id": "JAH-MPI-000042", "t": "Manufacturing Process Intelligence Database: Stamping Tonnage", "c": 1, "g": "stamping"}
+{"id": "JAH-MPI-000043", "t": "Manufacturing Process Intelligence Database: Powder Metallurgy Green Density", "c": 1, "g": "powder-metallurgy"}
+{"id": "JAH-MPI-000044", "t": "Manufacturing Process Intelligence Database: SMT Line Throughput", "c": 1, "g": "electronics"}
+{"id": "JAH-MPI-000045", "t": "Manufacturing Process Intelligence Database: Takt Time", "c": 1, "g": "lean"}
+{"id": "JAH-MPI-000046", "t": "Manufacturing Process Intelligence Database: OEE", "c": 1, "g": "lean"}
+{"id": "JAH-MPI-000047", "t": "Manufacturing Process Intelligence Database: EOQ", "c": 1, "g": "inventory"}
+{"id": "JAH-MPI-000048", "t": "Manufacturing Process Intelligence Database: Reorder Point", "c": 1, "g": "inventory"}
+{"id": "JAH-MPI-000049", "t": "Manufacturing Process Intelligence Database: Safety Stock", "c": 1, "g": "inventory"}
+{"id": "JAH-MPI-000050", "t": "Manufacturing Process Intelligence Database: Bottleneck Throughput", "c": 1, "g": "lean"}
+{"id": "JAH-MPI-000051", "t": "Manufacturing Process Intelligence Database: Rolled Throughput Yield", "c": 1, "g": "quality"}
+{"id": "JAH-MPI-000052", "t": "Manufacturing Process Intelligence Database: Process Capability Cpk", "c": 1, "g": "quality"}
+{"id": "JAH-MPI-000053", "t": "Manufacturing Process Intelligence Database: DPMO and Sigma Level", "c": 1, "g": "quality"}
+{"id": "JAH-MPI-000054", "t": "Manufacturing Process Intelligence Database: Kanban Quantity", "c": 1, "g": "lean"}
+{"id": "JAH-MPI-000055", "t": "Manufacturing Process Intelligence Database: Laser Energy Density in Powder Bed Fusion", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000056", "t": "Manufacturing Process Intelligence Database: Part Porosity from Density Measurement", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000057", "t": "Manufacturing Process Intelligence Database: Thermal Contraction and Dimensional Error", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000058", "t": "Manufacturing Process Intelligence Database: Shrinkage Compensation Scale Factor", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000059", "t": "Manufacturing Process Intelligence Database: Thermal Stress Estimate", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000060", "t": "Manufacturing Process Intelligence Database: Filament Volumetric Flow Rate", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000061", "t": "Manufacturing Process Intelligence Database: Stereolithography Cure Depth", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000062", "t": "Manufacturing Process Intelligence Database: Infill Weight Estimate", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000063", "t": "Manufacturing Process Intelligence Database: Staircase Surface Roughness Estimate", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000064", "t": "Manufacturing Process Intelligence Database: Anisotropic Strength Knockdown", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000065", "t": "Manufacturing Process Intelligence Database: Build Time from Scan Path Length", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000066", "t": "Manufacturing Process Intelligence Database: Hatch Overlap Fraction", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000067", "t": "Manufacturing Process Intelligence Database: Support Structure Volume Ratio", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000068", "t": "Manufacturing Process Intelligence Database: Powder Reuse Blend Ratio", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000069", "t": "Manufacturing Process Intelligence Database: Minimum Layer Time (Cooling)", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000070", "t": "Manufacturing Process Intelligence Database: Build Cost Estimate", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000071", "t": "Manufacturing Process Intelligence Database: Overhang Support Threshold Angle", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000072", "t": "Manufacturing Process Intelligence Database: Resin Shrinkage in Vat Photopolymerization", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000073", "t": "Manufacturing Process Intelligence Database: Energy Cost per Build", "c": 0, "g": "additive"}
+{"id": "JAH-MPI-000074", "t": "Manufacturing Process Intelligence Database: First-Layer Contact Area", "c": 0, "g": "additive"}

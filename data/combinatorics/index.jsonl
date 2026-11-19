@@ -1,0 +1,36 @@
+{"id": "JAH-COMB-000001", "t": "What Combinatorics Is", "g": "Foundations"}
+{"id": "JAH-COMB-000002", "t": "The Addition and Multiplication Principles", "g": "Foundations"}
+{"id": "JAH-COMB-000003", "t": "The Pigeonhole Principle", "g": "Foundations"}
+{"id": "JAH-COMB-000004", "t": "Permutations: Counting Ordered Arrangements", "g": "Foundations"}
+{"id": "JAH-COMB-000005", "t": "Combinations: Choosing Without Order", "g": "Foundations"}
+{"id": "JAH-COMB-000006", "t": "Pascal's Triangle and the Binomial Theorem", "g": "Foundations"}
+{"id": "JAH-COMB-000007", "t": "Permutations with Repetition and Multinomial Coefficients", "g": "Foundations"}
+{"id": "JAH-COMB-000008", "t": "Combinations with Repetition: Stars and Bars", "g": "Foundations"}
+{"id": "JAH-COMB-000009", "t": "Binomial Identities: Algebraic and Combinatorial Proofs", "g": "Compounded"}
+{"id": "JAH-COMB-000010", "t": "The Inclusion-Exclusion Principle", "g": "Compounded"}
+{"id": "JAH-COMB-000011", "t": "Derangements: Permutations with No Fixed Points", "g": "Compounded"}
+{"id": "JAH-COMB-000012", "t": "The Bijection Principle and Combinatorial Proofs", "g": "Compounded"}
+{"id": "JAH-COMB-000013", "t": "Double Counting: One Answer, Two Ways", "g": "Compounded"}
+{"id": "JAH-COMB-000014", "t": "Integer Partitions: Breaking Numbers Apart", "g": "Compounded"}
+{"id": "JAH-COMB-000015", "t": "Set Partitions and Stirling Numbers of the Second Kind", "g": "Compounded"}
+{"id": "JAH-COMB-000016", "t": "Permutation Cycles and Stirling Numbers of the First Kind", "g": "Compounded"}
+{"id": "JAH-COMB-000017", "t": "Lattice Paths and the Reflection Principle", "g": "Compounded"}
+{"id": "JAH-COMB-000018", "t": "Recurrence Relations: Sequences Defined by Their Past", "g": "Compounded"}
+{"id": "JAH-COMB-000019", "t": "Solving Linear Recurrences: The Characteristic Equation", "g": "Compounded"}
+{"id": "JAH-COMB-000020", "t": "Ordinary Generating Functions", "g": "Compounded"}
+{"id": "JAH-COMB-000021", "t": "Exponential Generating Functions", "g": "Compounded"}
+{"id": "JAH-COMB-000022", "t": "The Twelvefold Way: Balls into Boxes", "g": "Compounded"}
+{"id": "JAH-COMB-000023", "t": "Catalan Numbers: The Ubiquitous Sequence", "g": "Compounded"}
+{"id": "JAH-COMB-000024", "t": "Bell Numbers and the Partitions of a Set", "g": "Advanced"}
+{"id": "JAH-COMB-000025", "t": "Partitions of Integers: Euler's Theorems", "g": "Advanced"}
+{"id": "JAH-COMB-000026", "t": "Graph Theory as Counting: Walks and the Handshaking Lemma", "g": "Advanced"}
+{"id": "JAH-COMB-000027", "t": "Trees and Cayley's Formula", "g": "Advanced"}
+{"id": "JAH-COMB-000028", "t": "Eulerian Trails and Hamiltonian Cycles", "g": "Advanced"}
+{"id": "JAH-COMB-000029", "t": "Ramsey Theory: Order Forced from Chaos", "g": "Advanced"}
+{"id": "JAH-COMB-000030", "t": "Block Designs and the Fano Plane", "g": "Advanced"}
+{"id": "JAH-COMB-000031", "t": "Latin Squares and Orthogonal Arrays", "g": "Advanced"}
+{"id": "JAH-COMB-000032", "t": "Combinatorial Games: Winning Strategies", "g": "Advanced"}
+{"id": "JAH-COMB-000033", "t": "Extremal Combinatorics: Turan's Theorem", "g": "Advanced"}
+{"id": "JAH-COMB-000034", "t": "The Probabilistic Method: Proving by Random Choice", "g": "Advanced"}
+{"id": "JAH-COMB-000035", "t": "Polya Enumeration: Counting Up to Symmetry", "g": "Advanced"}
+{"id": "JAH-COMB-000036", "t": "Algebraic Combinatorics: Symmetric Functions", "g": "Advanced"}

@@ -1,0 +1,34 @@
+{"id": "JAH-MACNS-000001", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Agent Roles", "c": 0, "g": "foundations"}
+{"id": "JAH-MACNS-000002", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Task Decomposition", "c": 0, "g": "foundations"}
+{"id": "JAH-MACNS-000003", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Delegation Protocol", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000004", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Shared State", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000005", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Message Protocol", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000006", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Negotiation", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000007", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Voting", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000008", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Consensus", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000009", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Auction", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000010", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Disagreement Handling", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000011", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Result Merging", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000012", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Conflict Resolution", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000013", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Trust Model", "c": 0, "g": "trust"}
+{"id": "JAH-MACNS-000014", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Reputation System", "c": 0, "g": "trust"}
+{"id": "JAH-MACNS-000015", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Coordination", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000016", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Synchronization", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000017", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Distributed Locking", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000018", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Deadlock Prevention", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000019", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Leader Election", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000020", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Heartbeat", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000021", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Failure Detection", "c": 0, "g": "reliability"}
+{"id": "JAH-MACNS-000022", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Recovery", "c": 0, "g": "reliability"}
+{"id": "JAH-MACNS-000023", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Load Balancing", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000024", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Agent Privacy", "c": 0, "g": "trust"}
+{"id": "JAH-MACNS-000025", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Agent Security", "c": 0, "g": "trust"}
+{"id": "JAH-MACNS-000026", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Audit Trail", "c": 0, "g": "trust"}
+{"id": "JAH-MACNS-000027", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Incentive Design", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000028", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Coalition Formation", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000029", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Contract Net", "c": 0, "g": "negotiation"}
+{"id": "JAH-MACNS-000030", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Blackboard", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000031", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Stigmergy", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000032", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Evaluation", "c": 0, "g": "trust"}
+{"id": "JAH-MACNS-000033", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Emergence", "c": 0, "g": "coordination"}
+{"id": "JAH-MACNS-000034", "t": "Multi-Agent Collaboration and Negotiation Signature Database: Capstone: Agent Collective", "c": 0, "g": "coordination"}

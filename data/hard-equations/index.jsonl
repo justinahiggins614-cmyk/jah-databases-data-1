@@ -1,0 +1,60 @@
+{"id": "JAH-HE-000001", "t": "Lambert W equation: x*e^x = 2.5", "g": "transcendental-equations"}
+{"id": "JAH-HE-000002", "t": "Lambert W equation: x*e^x = 7", "g": "transcendental-equations"}
+{"id": "JAH-HE-000003", "t": "Lambert W equation: x*e^x = 0.5", "g": "transcendental-equations"}
+{"id": "JAH-HE-000004", "t": "Lambert W equation: x*e^x = 10", "g": "transcendental-equations"}
+{"id": "JAH-HE-000005", "t": "Lambert W equation: x*e^x = 3.7", "g": "transcendental-equations"}
+{"id": "JAH-HE-000006", "t": "Kepler's equation: E - 0.30*sin(E) = 1.20", "g": "transcendental-equations"}
+{"id": "JAH-HE-000007", "t": "Kepler's equation: E - 0.70*sin(E) = 3.00", "g": "transcendental-equations"}
+{"id": "JAH-HE-000008", "t": "Kepler's equation: E - 0.10*sin(E) = 0.50", "g": "transcendental-equations"}
+{"id": "JAH-HE-000009", "t": "Kepler's equation: E - 0.90*sin(E) = 5.00", "g": "transcendental-equations"}
+{"id": "JAH-HE-000010", "t": "Kepler's equation: E - 0.50*sin(E) = 2.00", "g": "transcendental-equations"}
+{"id": "JAH-HE-000011", "t": "Damped oscillator: y'' + 0.40 y' + 4.00 y = 0", "g": "differential-equations"}
+{"id": "JAH-HE-000012", "t": "Damped oscillator: y'' + 1.50 y' + 9.00 y = 0", "g": "differential-equations"}
+{"id": "JAH-HE-000013", "t": "Damped oscillator: y'' + 0.10 y' + 1.00 y = 0", "g": "differential-equations"}
+{"id": "JAH-HE-000014", "t": "Damped oscillator: y'' + 4.00 y' + 25.00 y = 0", "g": "differential-equations"}
+{"id": "JAH-HE-000015", "t": "Damped oscillator: y'' + 0.15 y' + 0.25 y = 0", "g": "differential-equations"}
+{"id": "JAH-HE-000016", "t": "Heat equation on (0, 1.00) with sinusoidal initial data", "g": "differential-equations"}
+{"id": "JAH-HE-000017", "t": "Heat equation on (0, 2.00) with sinusoidal initial data", "g": "differential-equations"}
+{"id": "JAH-HE-000018", "t": "Heat equation on (0, 1.00) with sinusoidal initial data (2)", "g": "differential-equations"}
+{"id": "JAH-HE-000019", "t": "Heat equation on (0, 3.00) with sinusoidal initial data", "g": "differential-equations"}
+{"id": "JAH-HE-000020", "t": "Heat equation on (0, 1.50) with sinusoidal initial data", "g": "differential-equations"}
+{"id": "JAH-HE-000021", "t": "Pell equation: x^2 - 2*y^2 = 1 (minimal solution)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000022", "t": "Pell equation: x^2 - 3*y^2 = 1 (minimal solution)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000023", "t": "Pell equation: x^2 - 5*y^2 = 1 (minimal solution)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000024", "t": "Pell equation: x^2 - 7*y^2 = 1 (minimal solution)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000025", "t": "Pell equation: x^2 - 11*y^2 = 1 (minimal solution)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000026", "t": "Pythagorean triple from Euclid's formula (m=2, n=1)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000027", "t": "Pythagorean triple from Euclid's formula (m=3, n=2)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000028", "t": "Pythagorean triple from Euclid's formula (m=4, n=1)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000029", "t": "Pythagorean triple from Euclid's formula (m=4, n=3)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000030", "t": "Pythagorean triple from Euclid's formula (m=5, n=2)", "g": "diophantine-equations"}
+{"id": "JAH-HE-000031", "t": "Gaussian integral from 0 to 1", "g": "integral-equations"}
+{"id": "JAH-HE-000032", "t": "Gaussian integral from -1 to 2", "g": "integral-equations"}
+{"id": "JAH-HE-000033", "t": "Gaussian integral from 0 to 2", "g": "integral-equations"}
+{"id": "JAH-HE-000034", "t": "Integral of sin^2(x) from 0 to pi", "g": "integral-equations"}
+{"id": "JAH-HE-000035", "t": "Integral of x^2*e^(-x) from 0 to 1", "g": "integral-equations"}
+{"id": "JAH-HE-000036", "t": "Cauchy equation with f(1) = 2", "g": "functional-equations"}
+{"id": "JAH-HE-000037", "t": "Cauchy equation with f(1) = -3", "g": "functional-equations"}
+{"id": "JAH-HE-000038", "t": "Cauchy equation with f(1) = 0.5", "g": "functional-equations"}
+{"id": "JAH-HE-000039", "t": "Cauchy equation with f(1) = 7", "g": "functional-equations"}
+{"id": "JAH-HE-000040", "t": "Cauchy equation with f(1) = -1.25", "g": "functional-equations"}
+{"id": "JAH-HE-000041", "t": "Constrained minimum of x^2+y^2 subject to 1x+1y=2", "g": "optimization-equations"}
+{"id": "JAH-HE-000042", "t": "Constrained minimum of x^2+y^2 subject to 2x-1y=3", "g": "optimization-equations"}
+{"id": "JAH-HE-000043", "t": "Constrained minimum of x^2+y^2 subject to 3x+4y=10", "g": "optimization-equations"}
+{"id": "JAH-HE-000044", "t": "Constrained minimum of x^2+y^2 subject to 1x-2y=1", "g": "optimization-equations"}
+{"id": "JAH-HE-000045", "t": "Constrained minimum of x^2+y^2 subject to 5x+12y=13", "g": "optimization-equations"}
+{"id": "JAH-HE-000046", "t": "Recurrence u(n+2) = 2*u(n+1) +1*u(n): closed form", "g": "optimization-equations"}
+{"id": "JAH-HE-000047", "t": "Recurrence u(n+2) = 3*u(n+1) -2*u(n): closed form", "g": "optimization-equations"}
+{"id": "JAH-HE-000048", "t": "Recurrence u(n+2) = 1*u(n+1) +1*u(n): closed form", "g": "optimization-equations"}
+{"id": "JAH-HE-000049", "t": "Recurrence u(n+2) = 4*u(n+1) -3*u(n): closed form", "g": "optimization-equations"}
+{"id": "JAH-HE-000050", "t": "Recurrence u(n+2) = 2*u(n+1) +2*u(n): closed form", "g": "optimization-equations"}
+{"id": "JAH-HE-000051", "t": "Cubic x^3+0x^2-7x+6 = 0 (three real roots)", "g": "transcendental-equations"}
+{"id": "JAH-HE-000052", "t": "Cubic x^3-3x^2-6x+8 = 0 (three real roots)", "g": "transcendental-equations"}
+{"id": "JAH-HE-000053", "t": "Cubic x^3+0x^2-3x+1 = 0 (three real roots)", "g": "transcendental-equations"}
+{"id": "JAH-HE-000054", "t": "Cubic x^3-6x^2+11x-6 = 0 (three real roots)", "g": "transcendental-equations"}
+{"id": "JAH-HE-000055", "t": "Cubic x^3-4x^2+1x+6 = 0 (three real roots)", "g": "transcendental-equations"}
+{"id": "JAH-HE-000056", "t": "Eigen-decomposition of [[4, 1], [2, 3]]", "g": "optimization-equations"}
+{"id": "JAH-HE-000057", "t": "Eigen-decomposition of [[2, 1], [1, 2]]", "g": "optimization-equations"}
+{"id": "JAH-HE-000058", "t": "Eigen-decomposition of [[5, 2], [2, 2]]", "g": "optimization-equations"}
+{"id": "JAH-HE-000059", "t": "Eigen-decomposition of [[3, 1], [0, 2]]", "g": "optimization-equations"}
+{"id": "JAH-HE-000060", "t": "Eigen-decomposition of [[6, -1], [-1, 6]]", "g": "optimization-equations"}

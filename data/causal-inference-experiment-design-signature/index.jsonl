@@ -1,0 +1,34 @@
+{"id": "JAH-CIEDS-000001", "t": "Causal Inference and Experiment Design Signature Database: Correlation vs Causation", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000002", "t": "Causal Inference and Experiment Design Signature Database: Randomized Controlled Trial", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000003", "t": "Causal Inference and Experiment Design Signature Database: Confounding Adjustment", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000004", "t": "Causal Inference and Experiment Design Signature Database: Simpson Paradox Check", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000005", "t": "Causal Inference and Experiment Design Signature Database: Backdoor Criterion", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000006", "t": "Causal Inference and Experiment Design Signature Database: Frontdoor Criterion", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000007", "t": "Causal Inference and Experiment Design Signature Database: Instrumental Variables", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000008", "t": "Causal Inference and Experiment Design Signature Database: Difference-in-Differences", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000009", "t": "Causal Inference and Experiment Design Signature Database: Regression Discontinuity", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000010", "t": "Causal Inference and Experiment Design Signature Database: Propensity Score Matching", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000011", "t": "Causal Inference and Experiment Design Signature Database: DAG Construction", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000012", "t": "Causal Inference and Experiment Design Signature Database: Collider Bias", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000013", "t": "Causal Inference and Experiment Design Signature Database: Mediator Analysis", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000014", "t": "Causal Inference and Experiment Design Signature Database: d-Separation Check", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000015", "t": "Causal Inference and Experiment Design Signature Database: Counterfactual Definition", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000016", "t": "Causal Inference and Experiment Design Signature Database: ATE Estimation", "c": 0, "g": "estimation"}
+{"id": "JAH-CIEDS-000017", "t": "Causal Inference and Experiment Design Signature Database: Intent-to-Treat", "c": 0, "g": "estimation"}
+{"id": "JAH-CIEDS-000018", "t": "Causal Inference and Experiment Design Signature Database: Placebo Test", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000019", "t": "Causal Inference and Experiment Design Signature Database: Pre-Trends Check", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000020", "t": "Causal Inference and Experiment Design Signature Database: Stratification", "c": 0, "g": "estimation"}
+{"id": "JAH-CIEDS-000021", "t": "Causal Inference and Experiment Design Signature Database: Regression Adjustment", "c": 0, "g": "estimation"}
+{"id": "JAH-CIEDS-000022", "t": "Causal Inference and Experiment Design Signature Database: Natural Experiment", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000023", "t": "Causal Inference and Experiment Design Signature Database: Selection Bias Audit", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000024", "t": "Causal Inference and Experiment Design Signature Database: Power Analysis", "c": 0, "g": "estimation"}
+{"id": "JAH-CIEDS-000025", "t": "Causal Inference and Experiment Design Signature Database: Moderation vs Mediation", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000026", "t": "Causal Inference and Experiment Design Signature Database: Interventions vs Observations", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000027", "t": "Causal Inference and Experiment Design Signature Database: Transportability", "c": 0, "g": "foundations"}
+{"id": "JAH-CIEDS-000028", "t": "Causal Inference and Experiment Design Signature Database: Sequential Ignorability", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000029", "t": "Causal Inference and Experiment Design Signature Database: Causal Capstone: Study Design", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000030", "t": "Causal Inference and Experiment Design Signature Database: Synthetic Control", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000031", "t": "Causal Inference and Experiment Design Signature Database: Interrupted Time Series", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000032", "t": "Causal Inference and Experiment Design Signature Database: Inverse Propensity Weighting", "c": 0, "g": "estimation"}
+{"id": "JAH-CIEDS-000033", "t": "Causal Inference and Experiment Design Signature Database: Negative Controls", "c": 0, "g": "identification"}
+{"id": "JAH-CIEDS-000034", "t": "Causal Inference and Experiment Design Signature Database: Causal Discovery (PC Skeleton)", "c": 0, "g": "foundations"}

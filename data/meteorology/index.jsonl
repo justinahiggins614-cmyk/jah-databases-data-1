@@ -1,0 +1,36 @@
+{"id": "JAH-MET-000001", "t": "What Meteorology Is", "g": "Foundations"}
+{"id": "JAH-MET-000002", "t": "Observing the Sky: Weather Instruments and the Observer's Toolkit", "g": "Foundations"}
+{"id": "JAH-MET-000003", "t": "The Observing Network: ASOS, Radiosondes, and the Global System", "g": "Foundations"}
+{"id": "JAH-MET-000004", "t": "Reading a Weather Map: The Surface Analysis", "g": "Foundations"}
+{"id": "JAH-MET-000005", "t": "Air Masses in Practice: Source Regions and Modification", "g": "Foundations"}
+{"id": "JAH-MET-000006", "t": "The Diurnal Cycle and Local Winds: Sea Breezes to Mountain Breezes", "g": "Foundations"}
+{"id": "JAH-MET-000007", "t": "Fronts in Practice: Cold, Warm, Occluded, and Stationary", "g": "Foundations"}
+{"id": "JAH-MET-000008", "t": "The Mid-Latitude Cyclone in Practice: The Norwegian Model", "g": "Foundations"}
+{"id": "JAH-MET-000009", "t": "Upper-Air Charts: The 500-Millibar Map and Steering", "g": "Foundations"}
+{"id": "JAH-MET-000010", "t": "Jet Streams in Practice: Steering, Storm Tracks, and Turbulence", "g": "Foundations"}
+{"id": "JAH-MET-000011", "t": "The Skew-T Log-P Diagram: A Forecaster's Sounding", "g": "Compounded"}
+{"id": "JAH-MET-000012", "t": "Thunderstorm Forecasting: Ingredients and Severe Parameters", "g": "Compounded"}
+{"id": "JAH-MET-000013", "t": "Fog Forecasting: Radiation, Advection, and Valley Fog", "g": "Compounded"}
+{"id": "JAH-MET-000014", "t": "Tornadoes: Formation, the Enhanced Fujita Scale, and Warning Signs", "g": "Compounded"}
+{"id": "JAH-MET-000015", "t": "Hail, Damaging Winds, and Derechos: Supercells and Squall Lines", "g": "Compounded"}
+{"id": "JAH-MET-000016", "t": "Lightning in Practice: Detection Networks and Safety", "g": "Compounded"}
+{"id": "JAH-MET-000017", "t": "Winter Storm Forecasting: Snow Ratios, Blizzards, and Ice Storms", "g": "Compounded"}
+{"id": "JAH-MET-000018", "t": "Heat and Cold Extremes: The Heat Index, Wind Chill, and Extreme Warnings", "g": "Compounded"}
+{"id": "JAH-MET-000019", "t": "Lake-Effect Snow: The Great Lakes Snow Machine", "g": "Compounded"}
+{"id": "JAH-MET-000020", "t": "Mountain Weather: Orographic Lift, Chinook Winds, and Mountain Waves", "g": "Compounded"}
+{"id": "JAH-MET-000021", "t": "Marine Meteorology: The Beaufort Scale, Waves, and Marine Forecasts", "g": "Compounded"}
+{"id": "JAH-MET-000022", "t": "Tropical Meteorology in Practice: The ITCZ, Tropical Waves, and Monsoons", "g": "Compounded"}
+{"id": "JAH-MET-000023", "t": "Fire Weather: Red Flag Warnings and the Haines Index", "g": "Compounded"}
+{"id": "JAH-MET-000024", "t": "Agricultural Meteorology: Growing Degree Days and Frost Forecasting", "g": "Compounded"}
+{"id": "JAH-MET-000025", "t": "Radar Interpretation: Reflectivity, Velocity Couplets, and Hook Echoes", "g": "Compounded"}
+{"id": "JAH-MET-000026", "t": "Hurricane Forecasting: Track Models, the Cone, and Storm Surge", "g": "Compounded"}
+{"id": "JAH-MET-000027", "t": "Satellite Interpretation: Visible, Infrared, Water Vapor, and the Dvorak Technique", "g": "Compounded"}
+{"id": "JAH-MET-000028", "t": "Nowcasting: Mesoscale Analysis and Storm-Scale Warning", "g": "Compounded"}
+{"id": "JAH-MET-000029", "t": "Numerical Weather Prediction in Practice: Models, Grids, and Spin-Up", "g": "Advanced"}
+{"id": "JAH-MET-000030", "t": "Ensemble Forecasting: Spaghetti Plots and Probabilistic Thinking", "g": "Advanced"}
+{"id": "JAH-MET-000031", "t": "Aviation Meteorology: METAR, TAF, and In-Flight Hazards", "g": "Advanced"}
+{"id": "JAH-MET-000032", "t": "Statistical Post-Processing: Model Output Statistics and Downscaling", "g": "Advanced"}
+{"id": "JAH-MET-000033", "t": "Forecast Verification: Contingency Tables, POD, FAR, and the Brier Score", "g": "Advanced"}
+{"id": "JAH-MET-000034", "t": "Hydrologic Outlooks: SPI, Drought, and Flood Forecasting Practice", "g": "Advanced"}
+{"id": "JAH-MET-000035", "t": "Weather Communication: Watches, Warnings, Spotters, and the Warning Process", "g": "Advanced"}
+{"id": "JAH-MET-000036", "t": "Frontiers of Meteorology: AI Forecasting, Warn-on-Forecast, and What's Next", "g": "Advanced"}

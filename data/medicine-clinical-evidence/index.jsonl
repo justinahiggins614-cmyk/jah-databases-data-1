@@ -1,0 +1,54 @@
+{"id": "JAH-MDCE-000001", "t": "Medicine and Clinical Evidence Database: ABCDE Assessment", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000002", "t": "Medicine and Clinical Evidence Database: Vital Signs Interpretation", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000003", "t": "Medicine and Clinical Evidence Database: Pain Assessment (OPQRST)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000004", "t": "Medicine and Clinical Evidence Database: Differential Diagnosis", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000005", "t": "Medicine and Clinical Evidence Database: Pre-Test Probability", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000006", "t": "Medicine and Clinical Evidence Database: Sensitivity and Specificity", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000007", "t": "Medicine and Clinical Evidence Database: Positive Predictive Value", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000008", "t": "Medicine and Clinical Evidence Database: Likelihood Ratios", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000009", "t": "Medicine and Clinical Evidence Database: Number Needed to Treat", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000010", "t": "Medicine and Clinical Evidence Database: Blood Pressure Staging", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000011", "t": "Medicine and Clinical Evidence Database: Diabetes Diagnosis (HbA1c)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000012", "t": "Medicine and Clinical Evidence Database: Sepsis Recognition (qSOFA)", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000013", "t": "Medicine and Clinical Evidence Database: Stroke Recognition (BEFAST)", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000014", "t": "Medicine and Clinical Evidence Database: Anaphylaxis Management", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000015", "t": "Medicine and Clinical Evidence Database: CPR Steps", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000016", "t": "Medicine and Clinical Evidence Database: Burn Assessment (Rule of Nines)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000017", "t": "Medicine and Clinical Evidence Database: Dehydration Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000018", "t": "Medicine and Clinical Evidence Database: Medication Reconciliation", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000019", "t": "Medicine and Clinical Evidence Database: Informed Consent", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000020", "t": "Medicine and Clinical Evidence Database: Hand Hygiene", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000021", "t": "Medicine and Clinical Evidence Database: Fall Risk Assessment", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000022", "t": "Medicine and Clinical Evidence Database: Delirium Screening (CAM)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000023", "t": "Medicine and Clinical Evidence Database: Wound Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000024", "t": "Medicine and Clinical Evidence Database: Fracture Assessment", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000025", "t": "Medicine and Clinical Evidence Database: Allergy Documentation", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000026", "t": "Medicine and Clinical Evidence Database: Isolation Precautions", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000027", "t": "Medicine and Clinical Evidence Database: Pressure Injury Prevention", "c": 0, "g": "safety"}
+{"id": "JAH-MDCE-000028", "t": "Medicine and Clinical Evidence Database: Chest Pain Workup", "c": 0, "g": "emergency"}
+{"id": "JAH-MDCE-000029", "t": "Medicine and Clinical Evidence Database: Anemia Workup", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000030", "t": "Medicine and Clinical Evidence Database: Capstone: Full Patient Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000031", "t": "Medicine and Clinical Evidence Database: Glasgow Coma Scale", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000032", "t": "Medicine and Clinical Evidence Database: BMI Interpretation", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000033", "t": "Medicine and Clinical Evidence Database: Fever Assessment", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000034", "t": "Medicine and Clinical Evidence Database: Urine Output Monitoring", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000035", "t": "Medicine and Clinical Evidence Database: Hypertension Staging (ACC/AHA Guideline)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000036", "t": "Medicine and Clinical Evidence Database: Stroke Prevention in Atrial Fibrillation (CHA2DS2-VASc)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000037", "t": "Medicine and Clinical Evidence Database: Depression Severity (PHQ-9)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000038", "t": "Medicine and Clinical Evidence Database: Asthma Control (GINA Assessment)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000039", "t": "Medicine and Clinical Evidence Database: COPD Grouping (GOLD ABE)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000040", "t": "Medicine and Clinical Evidence Database: Diabetes Diagnosis (HbA1c Criteria)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000041", "t": "Medicine and Clinical Evidence Database: Statin Intensity (Cholesterol Guideline)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000042", "t": "Medicine and Clinical Evidence Database: Heart Failure Phenotype (Ejection Fraction)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000043", "t": "Medicine and Clinical Evidence Database: Pneumonia Severity (CURB-65)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000044", "t": "Medicine and Clinical Evidence Database: UTI Classification (Uncomplicated vs Complicated)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000045", "t": "Medicine and Clinical Evidence Database: Chronic Kidney Disease Staging (KDIGO)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000046", "t": "Medicine and Clinical Evidence Database: Osteoporosis Diagnosis (T-Score)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000047", "t": "Medicine and Clinical Evidence Database: TIA Risk Stratification (ABCD2)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000048", "t": "Medicine and Clinical Evidence Database: Migraine Disability (MIDAS Grading)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000049", "t": "Medicine and Clinical Evidence Database: GERD Management (Alarm Features)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000050", "t": "Medicine and Clinical Evidence Database: Hypothyroidism Classification (TSH and Free T4)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000051", "t": "Medicine and Clinical Evidence Database: Anemia Classification (Hemoglobin and MCV)", "c": 0, "g": "diagnosis"}
+{"id": "JAH-MDCE-000052", "t": "Medicine and Clinical Evidence Database: Pediatric Fever Workup (Age-Based Rule)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000053", "t": "Medicine and Clinical Evidence Database: Low Back Pain (Red-Flag Screen)", "c": 0, "g": "assessment"}
+{"id": "JAH-MDCE-000054", "t": "Medicine and Clinical Evidence Database: Nicotine Dependence (Simplified Fagerstrom)", "c": 0, "g": "assessment"}

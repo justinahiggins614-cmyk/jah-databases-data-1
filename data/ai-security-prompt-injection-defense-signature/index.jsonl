@@ -1,0 +1,34 @@
+{"id": "JAH-AISPS-000001", "t": "AI Security and Prompt-Injection Defense Signature Database: LLM Threat Model", "c": 0, "g": "foundations"}
+{"id": "JAH-AISPS-000002", "t": "AI Security and Prompt-Injection Defense Signature Database: Untrusted Content Isolation", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000003", "t": "AI Security and Prompt-Injection Defense Signature Database: Tool Permissions", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000004", "t": "AI Security and Prompt-Injection Defense Signature Database: Injection Detection", "c": 0, "g": "detection"}
+{"id": "JAH-AISPS-000005", "t": "AI Security and Prompt-Injection Defense Signature Database: Output Filtering", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000006", "t": "AI Security and Prompt-Injection Defense Signature Database: Prompt Structure", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000007", "t": "AI Security and Prompt-Injection Defense Signature Database: Human in the Loop", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000008", "t": "AI Security and Prompt-Injection Defense Signature Database: Red Teaming (AI)", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000009", "t": "AI Security and Prompt-Injection Defense Signature Database: Jailbreak Testing", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000010", "t": "AI Security and Prompt-Injection Defense Signature Database: Data Exfiltration Guard", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000011", "t": "AI Security and Prompt-Injection Defense Signature Database: PII in Prompts", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000012", "t": "AI Security and Prompt-Injection Defense Signature Database: RAG Security", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000013", "t": "AI Security and Prompt-Injection Defense Signature Database: Vector DB Access", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000014", "t": "AI Security and Prompt-Injection Defense Signature Database: Plugin Permissions", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000015", "t": "AI Security and Prompt-Injection Defense Signature Database: Code Execution Sandbox", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000016", "t": "AI Security and Prompt-Injection Defense Signature Database: Indirect Injection", "c": 0, "g": "detection"}
+{"id": "JAH-AISPS-000017", "t": "AI Security and Prompt-Injection Defense Signature Database: Multimodal Injection", "c": 0, "g": "detection"}
+{"id": "JAH-AISPS-000018", "t": "AI Security and Prompt-Injection Defense Signature Database: Model Theft Defense", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000019", "t": "AI Security and Prompt-Injection Defense Signature Database: Training Data Poisoning", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000020", "t": "AI Security and Prompt-Injection Defense Signature Database: Evasion Defense", "c": 0, "g": "detection"}
+{"id": "JAH-AISPS-000021", "t": "AI Security and Prompt-Injection Defense Signature Database: AI Monitoring", "c": 0, "g": "detection"}
+{"id": "JAH-AISPS-000022", "t": "AI Security and Prompt-Injection Defense Signature Database: AI Incident Response", "c": 0, "g": "response"}
+{"id": "JAH-AISPS-000023", "t": "AI Security and Prompt-Injection Defense Signature Database: Model Cards", "c": 0, "g": "governance"}
+{"id": "JAH-AISPS-000024", "t": "AI Security and Prompt-Injection Defense Signature Database: AI Evaluations", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000025", "t": "AI Security and Prompt-Injection Defense Signature Database: Guardrails", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000026", "t": "AI Security and Prompt-Injection Defense Signature Database: AI Rate Limits", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000027", "t": "AI Security and Prompt-Injection Defense Signature Database: Vendor Model Risk", "c": 0, "g": "governance"}
+{"id": "JAH-AISPS-000028", "t": "AI Security and Prompt-Injection Defense Signature Database: Self-Hosted Models", "c": 0, "g": "governance"}
+{"id": "JAH-AISPS-000029", "t": "AI Security and Prompt-Injection Defense Signature Database: Fine-Tune Security", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000030", "t": "AI Security and Prompt-Injection Defense Signature Database: Prompt Logging", "c": 0, "g": "detection"}
+{"id": "JAH-AISPS-000031", "t": "AI Security and Prompt-Injection Defense Signature Database: System Prompt Protection", "c": 0, "g": "isolation"}
+{"id": "JAH-AISPS-000032", "t": "AI Security and Prompt-Injection Defense Signature Database: AI Supply Chain", "c": 0, "g": "assurance"}
+{"id": "JAH-AISPS-000033", "t": "AI Security and Prompt-Injection Defense Signature Database: Shadow AI", "c": 0, "g": "governance"}
+{"id": "JAH-AISPS-000034", "t": "AI Security and Prompt-Injection Defense Signature Database: Capstone: AI Security Program", "c": 0, "g": "governance"}

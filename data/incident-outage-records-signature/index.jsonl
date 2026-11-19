@@ -1,0 +1,74 @@
+{"id": "JAH-INCS-000001", "t": "What Is an Incident (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000002", "t": "What Is an Outage (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000003", "t": "The Incident Lifecycle (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000004", "t": "Mean Time to Restore: MTTR (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000005", "t": "Mean Time Between Failures: MTBF (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000006", "t": "Availability and the Nines (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000007", "t": "Recording the Fault Timeline (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000008", "t": "Mapping Affected Systems and Blast Radius (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000009", "t": "Assessing Incident Impact (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000010", "t": "Detection and Alerting (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000011", "t": "On-Call Rotations and Escalation Ladders (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000012", "t": "Incident Communication Discipline (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-INCS-000013", "t": "The Incident Commander (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000014", "t": "Triage and Severity Assignment (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000015", "t": "Mitigation Before Resolution (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000016", "t": "Restoration and Rollback Plans (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000017", "t": "The Five Whys (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000018", "t": "Fishbone Diagrams and Fault Trees (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000019", "t": "Blameless Postmortems (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000020", "t": "The Postmortem Template (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000021", "t": "Tracking Remediation Action Items (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000022", "t": "Status Page Operations (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000023", "t": "Paging and Alert Routing (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000024", "t": "The Incident Bridge and War Room (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-INCS-000025", "t": "Site Reliability Engineering and Error Budgets (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000026", "t": "Chaos Engineering (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000027", "t": "Observability in Incident Response (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000028", "t": "Incident Metrics Dashboards (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000029", "t": "DORA Metrics and Elite Performer Benchmarks (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000030", "t": "Game Days and Incident Drills (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000031", "t": "Incident Review Boards (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000032", "t": "Case Study: The Dyn DDoS Outage of October 2016 (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000033", "t": "Case Study: The Fastly Global Outage of June 2021 (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000034", "t": "Case Study: The AWS US-East-1 Outage of December 2021 (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000035", "t": "AI Incident Taxonomy (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-INCS-000036", "t": "Severity Classification for AI Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000037", "t": "Detecting AI Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000038", "t": "AI Incident Triage", "g": "Advanced"}
+{"id": "JAH-INCS-000039", "t": "Model Rollback Procedures", "g": "Advanced"}
+{"id": "JAH-INCS-000040", "t": "Data Pipeline Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000041", "t": "Prompt Injection Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000042", "t": "Bias and Harm Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000043", "t": "AI Incident Communication", "g": "Advanced"}
+{"id": "JAH-INCS-000044", "t": "AI Postmortems", "g": "Advanced"}
+{"id": "JAH-INCS-000045", "t": "Blameless Culture for AI Teams", "g": "Advanced"}
+{"id": "JAH-INCS-000046", "t": "AI Incident Metrics (MTTD/MTTR)", "g": "Advanced"}
+{"id": "JAH-INCS-000047", "t": "On-Call for AI Systems", "g": "Advanced"}
+{"id": "JAH-INCS-000048", "t": "Red-Team Findings as Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000049", "t": "Third-Party Model Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000050", "t": "Regulatory Reporting (EU AI Act)", "g": "Advanced"}
+{"id": "JAH-INCS-000051", "t": "AI Incident Databases (Learning From Others)", "g": "Advanced"}
+{"id": "JAH-INCS-000052", "t": "Tabletop Exercises for AI Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000053", "t": "Incident Review Boards", "g": "Advanced"}
+{"id": "JAH-INCS-000054", "t": "AI Incident Insurance and Liability", "g": "Advanced"}
+{"id": "JAH-INCS-000055", "t": "Near-Miss Reporting Systems", "g": "Advanced"}
+{"id": "JAH-INCS-000056", "t": "Injury and Illness Reporting", "g": "Advanced"}
+{"id": "JAH-INCS-000057", "t": "OSHA Recordables and Reporting", "g": "Advanced"}
+{"id": "JAH-INCS-000058", "t": "Incident Investigation (Root Cause)", "g": "Advanced"}
+{"id": "JAH-INCS-000059", "t": "Corrective and Preventive Actions (CAPA)", "g": "Advanced"}
+{"id": "JAH-INCS-000060", "t": "Hazard Reporting and Resolution", "g": "Advanced"}
+{"id": "JAH-INCS-000061", "t": "Workplace Violence Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000062", "t": "Harassment and Discrimination Reporting", "g": "Advanced"}
+{"id": "JAH-INCS-000063", "t": "Equipment Damage Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000064", "t": "Environmental Spill and Release Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000065", "t": "Data Breach as Workplace Incident", "g": "Advanced"}
+{"id": "JAH-INCS-000066", "t": "Remote Worker Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000067", "t": "Contractor and Visitor Incidents", "g": "Advanced"}
+{"id": "JAH-INCS-000068", "t": "Incident Trending and Analytics", "g": "Advanced"}
+{"id": "JAH-INCS-000069", "t": "No-Blame Culture in Practice", "g": "Advanced"}
+{"id": "JAH-INCS-000070", "t": "Regulatory Reporting Timelines", "g": "Advanced"}
+{"id": "JAH-INCS-000071", "t": "Return-to-Work Programs", "g": "Advanced"}
+{"id": "JAH-INCS-000072", "t": "Emergency Drills as Incident Sources", "g": "Advanced"}
+{"id": "JAH-INCS-000073", "t": "The Incident-Ready Organization", "g": "Advanced"}
+{"id": "JAH-INCS-000074", "t": "Safety Committees That Work", "g": "Advanced"}

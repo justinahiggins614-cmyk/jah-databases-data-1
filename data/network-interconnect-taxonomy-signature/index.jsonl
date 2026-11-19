@@ -1,0 +1,62 @@
+{"id": "JAH-NITS-000001", "t": "Bridges (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000002", "t": "Network Bridges (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000003", "t": "Software-Defined Bridges (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000004", "t": "Tunnels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000005", "t": "VPN Tunnels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000006", "t": "SSH Tunnels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000007", "t": "GRE Tunnels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000008", "t": "Gateways (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000009", "t": "API Gateways (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000010", "t": "Network Gateways (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000011", "t": "Edge Gateways (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000012", "t": "Routers (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000013", "t": "Core Routers (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000014", "t": "Virtual Routers (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000015", "t": "Proxies (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000016", "t": "Forward Proxies (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000017", "t": "Reverse Proxies (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000018", "t": "Transparent Proxies (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000019", "t": "Load Balancers (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000020", "t": "Relays (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000021", "t": "Message Relays (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000022", "t": "Mail Relays (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000023", "t": "Sockets (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000024", "t": "WebSockets (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000025", "t": "Network Sockets (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000026", "t": "Unix Domain Sockets (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000027", "t": "Ports (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000028", "t": "Pipelines (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000029", "t": "CI/CD Pipelines (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000030", "t": "Data Pipelines (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000031", "t": "Graphics Pipelines (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000032", "t": "Rendering Pipelines (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000033", "t": "Processing Pipelines (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000034", "t": "Streams (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000035", "t": "Event Streams (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000036", "t": "Data Streams (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000037", "t": "Media Streams (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000038", "t": "Channels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000039", "t": "Communication Channels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000040", "t": "Event Channels (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000041", "t": "Links (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000042", "t": "Meshes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000043", "t": "Sensor Meshes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000044", "t": "Mesh Networks (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000045", "t": "Edge Nodes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000046", "t": "Compute Nodes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000047", "t": "Storage Nodes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000048", "t": "Master Nodes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000049", "t": "Worker Nodes (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000050", "t": "Endpoints (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000051", "t": "API Endpoints (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000052", "t": "Service Endpoints (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000053", "t": "Swarms (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000054", "t": "Busses (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000055", "t": "Event Busses (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000056", "t": "System Busses (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000057", "t": "Hardware Busses (I2C, SPI, CAN, PCIe) (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000058", "t": "Queues (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000059", "t": "Message Queues (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000060", "t": "Job Queues (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000061", "t": "Priority Queues (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NITS-000062", "t": "Message Brokers (Signature Edition)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}

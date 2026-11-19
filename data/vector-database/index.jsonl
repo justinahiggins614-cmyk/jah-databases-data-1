@@ -1,0 +1,60 @@
+{"id": "JAH-VEC-000001", "t": "Warehouse dock pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000002", "t": "Rooftop landing pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000003", "t": "Charging station pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000004", "t": "Assembly fixture pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000005", "t": "Doorway transit pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000006", "t": "Shelf pick pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000007", "t": "Inspection orbit pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000008", "t": "Parking slot pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000009", "t": "Surgical port pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000010", "t": "Satellite grapple pose — Pose embeddings", "g": "pose-embeddings"}
+{"id": "JAH-VEC-000011", "t": "Corridor patrol path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000012", "t": "Lawnmower survey path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000013", "t": "Pick cycle path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000014", "t": "Rendezvous approach path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000015", "t": "Stair climb path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000016", "t": "Pipeline track path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000017", "t": "Spray swath path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000018", "t": "Docking approach path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000019", "t": "Suture path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000020", "t": "Search sweep path — Trajectory embeddings", "g": "trajectory-embeddings"}
+{"id": "JAH-VEC-000021", "t": "Order fulfillment plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000022", "t": "Delivery wave plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000023", "t": "Patrol rota plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000024", "t": "Irrigation day plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000025", "t": "Maintenance window plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000026", "t": "Assembly sequence plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000027", "t": "Inspection circuit plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000028", "t": "Harvest coordination plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000029", "t": "Teardown plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000030", "t": "Rounds plan — Plan embeddings", "g": "plan-embeddings"}
+{"id": "JAH-VEC-000031", "t": "Loading dock snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000032", "t": "Crosswalk snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000033", "t": "Crop row snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000034", "t": "Bridge span snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000035", "t": "Clean room snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000036", "t": "Harbor entrance snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000037", "t": "Crater field snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000038", "t": "Ward corridor snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000039", "t": "Welding cell snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000040", "t": "Reef transect snapshot — Sensor feature vectors", "g": "sensor-feature-vectors"}
+{"id": "JAH-VEC-000041", "t": "deliver the package — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000042", "t": "inspect the bridge — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000043", "t": "pick the ripe fruit — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000044", "t": "patrol the perimeter — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000045", "t": "weld the seam — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000046", "t": "survey the field — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000047", "t": "dock with the station — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000048", "t": "clean the ward — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000049", "t": "assemble the gearbox — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000050", "t": "map the pipeline — Semantic vectors", "g": "semantic-vectors"}
+{"id": "JAH-VEC-000051", "t": "Aggressive racing policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000052", "t": "Conservative safety policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000053", "t": "Energy-saving policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000054", "t": "Precision assembly policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000055", "t": "Socially-aware navigation policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000056", "t": "High-speed cruise policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000057", "t": "Delicate handling policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000058", "t": "All-weather policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000059", "t": "Stealthy inspection policy — Control policy vectors", "g": "control-policy-vectors"}
+{"id": "JAH-VEC-000060", "t": "Time-optimal policy — Control policy vectors", "g": "control-policy-vectors"}

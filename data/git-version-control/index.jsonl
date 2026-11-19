@@ -1,0 +1,68 @@
+{"id": "JAH-VCS-000001", "t": "What Is Version Control", "g": "Foundations"}
+{"id": "JAH-VCS-000002", "t": "Installing Git and First Configuration", "g": "Foundations"}
+{"id": "JAH-VCS-000003", "t": "Git init and Your First Commit", "g": "Foundations"}
+{"id": "JAH-VCS-000004", "t": "Git Three Areas: Working Staging Repository", "g": "Foundations"}
+{"id": "JAH-VCS-000005", "t": "Git status and log", "g": "Foundations"}
+{"id": "JAH-VCS-000006", "t": "Git add in Depth", "g": "Foundations"}
+{"id": "JAH-VCS-000007", "t": "Git commit Messages That Help", "g": "Foundations"}
+{"id": "JAH-VCS-000008", "t": "Git diff: Reading Changes", "g": "Foundations"}
+{"id": "JAH-VCS-000009", "t": "Git gitignore", "g": "Foundations"}
+{"id": "JAH-VCS-000010", "t": "Git clone", "g": "Foundations"}
+{"id": "JAH-VCS-000011", "t": "Git Checking Out Commits", "g": "Foundations"}
+{"id": "JAH-VCS-000012", "t": "Git Branching", "g": "Compounded"}
+{"id": "JAH-VCS-000013", "t": "Git Merging", "g": "Compounded"}
+{"id": "JAH-VCS-000014", "t": "Git Merge Conflicts", "g": "Compounded"}
+{"id": "JAH-VCS-000015", "t": "Git stash", "g": "Compounded"}
+{"id": "JAH-VCS-000016", "t": "Git reset Versus revert", "g": "Compounded"}
+{"id": "JAH-VCS-000017", "t": "Git Remotes push and pull", "g": "Compounded"}
+{"id": "JAH-VCS-000018", "t": "Git fetch Versus pull", "g": "Compounded"}
+{"id": "JAH-VCS-000019", "t": "Git Pull Requests", "g": "Compounded"}
+{"id": "JAH-VCS-000020", "t": "Git Tags", "g": "Compounded"}
+{"id": "JAH-VCS-000021", "t": "Git blame", "g": "Compounded"}
+{"id": "JAH-VCS-000022", "t": "Git Aliases and Config", "g": "Compounded"}
+{"id": "JAH-VCS-000023", "t": "Git Undoing Mistakes Safely", "g": "Compounded"}
+{"id": "JAH-VCS-000024", "t": "Git Rebasing", "g": "Advanced"}
+{"id": "JAH-VCS-000025", "t": "Git Interactive Rebase", "g": "Advanced"}
+{"id": "JAH-VCS-000026", "t": "Git Cherry Pick", "g": "Advanced"}
+{"id": "JAH-VCS-000027", "t": "Git Submodules", "g": "Advanced"}
+{"id": "JAH-VCS-000028", "t": "Git Hooks", "g": "Advanced"}
+{"id": "JAH-VCS-000029", "t": "Git bisect Debugging", "g": "Advanced"}
+{"id": "JAH-VCS-000030", "t": "Git reflog: The Safety Net", "g": "Advanced"}
+{"id": "JAH-VCS-000031", "t": "Git Worktrees", "g": "Advanced"}
+{"id": "JAH-VCS-000032", "t": "GitHub Actions Intro", "g": "Advanced"}
+{"id": "JAH-VCS-000033", "t": "Git Signing Commits", "g": "Advanced"}
+{"id": "JAH-VCS-000034", "t": "Git Monorepos Versus Polyrepos", "g": "Advanced"}
+{"id": "JAH-VCS-000035", "t": "AI-Generated Commit Messages", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000036", "t": "AI Blame Interpretation", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000037", "t": "AI Remotes Troubleshooting", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000038", "t": "AI GPG Troubleshooting", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000039", "t": "AI Reviews Your Commit Before Push", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000040", "t": "AI Bisect Automation", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000041", "t": "AI Interactive Rebase Planning", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000042", "t": "Git Aliases and Config", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000043", "t": "Git reflog: The Safety Net", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000044", "t": "Git Submodules", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000045", "t": "AI Generates Useful Aliases", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000046", "t": "AI Generates Useful Aliases", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000047", "t": "Git Merge Conflicts", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000048", "t": "AI Interactive Rebase Planning", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000049", "t": "AI Rebase Assistance", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000050", "t": "Git Merge Conflicts", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000051", "t": "Installing Git and First Configuration", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000052", "t": "What Is Version Control", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000053", "t": "AI Explains Detached HEAD", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000054", "t": "AI Summarizes a Diff", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000055", "t": "AI Submodule Explanations", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000056", "t": "Git Checking Out Commits", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000057", "t": "Git Hooks", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000058", "t": "AI Stash Management Tips", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000059", "t": "AI Stash Management Tips", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000060", "t": "Git status and log", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000061", "t": "AI Pull Request Descriptions", "c": 1, "g": "Compounded"}
+{"id": "JAH-VCS-000062", "t": "Git Hooks", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000063", "t": "Installing Git and First Configuration", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000064", "t": "Git Signing Commits", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000065", "t": "Git gitignore", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000066", "t": "What Is Version Control", "c": 1, "g": "Foundations"}
+{"id": "JAH-VCS-000067", "t": "Git Signing Commits", "c": 1, "g": "Advanced"}
+{"id": "JAH-VCS-000068", "t": "Git fetch Versus pull", "c": 1, "g": "Compounded"}

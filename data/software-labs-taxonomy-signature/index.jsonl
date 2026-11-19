@@ -1,0 +1,86 @@
+{"id": "JAH-SLTS-000001", "t": "Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000002", "t": "Laboratories (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000003", "t": "Workspaces (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000004", "t": "Testbeds (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000005", "t": "Sandboxes (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000006", "t": "Workshops (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000007", "t": "Studios (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000008", "t": "Benches (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000009", "t": "Workstations (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000010", "t": "Terminals (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000011", "t": "Dashboards (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000012", "t": "Control Rooms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000013", "t": "Command Centers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000014", "t": "Operations Centers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000015", "t": "War Rooms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000016", "t": "Stations (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000017", "t": "Bays (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000018", "t": "Pods (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000019", "t": "Hubs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000020", "t": "Production Bays (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000021", "t": "Integration Benches (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000022", "t": "Staging Terminals (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000023", "t": "Operations Hubs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000024", "t": "Testing Benches (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000025", "t": "Assembly Stations (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000026", "t": "Monitoring Dashboards (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000027", "t": "Dispatch Centers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000028", "t": "Quality Control Stations (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000029", "t": "R&D Environments (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000030", "t": "Proving Grounds (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000031", "t": "Incubators (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000032", "t": "Accelerators (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000033", "t": "Test Environments (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000034", "t": "Staging Environments (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000035", "t": "Development Rigs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000036", "t": "Simulation Rigs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000037", "t": "Prototyping Bays (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000038", "t": "Cleanrooms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000039", "t": "Iso-Chambers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000040", "t": "Rigs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000041", "t": "Nodes (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000042", "t": "Clusters (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000043", "t": "Computing Clusters (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000044", "t": "Compute Farms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000045", "t": "Server Farms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000046", "t": "Render Farms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000047", "t": "Build Farms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000048", "t": "Test Farms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000049", "t": "Device Farms (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000050", "t": "Staging Grounds (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000051", "t": "Sandbox Environments (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000052", "t": "Isolation Chambers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000053", "t": "Dark Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000054", "t": "Air-Gapped Environments (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000055", "t": "Zero-Trust Testbed Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000056", "t": "Fab Labs (Fabrication Labs) (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000057", "t": "Maker Spaces (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000058", "t": "Hacker Spaces (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000059", "t": "Wet Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000060", "t": "Dry Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000061", "t": "Computer Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000062", "t": "AI Research Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000063", "t": "Machine Learning Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000064", "t": "Media Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000065", "t": "Robotics Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000066", "t": "Bio-Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000067", "t": "Synthetic Biology Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000068", "t": "Chemistry Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000069", "t": "Physics Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000070", "t": "Optics Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000071", "t": "Electronics Benches (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000072", "t": "Microfabrication Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000073", "t": "Cleanrooms (Class 1 to Class 10,000) (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000074", "t": "Environmental Test Chambers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000075", "t": "Anechoic Chambers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000076", "t": "Thermal Chambers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000077", "t": "Vibration Testing Chambers (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000078", "t": "High-Voltage Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000079", "t": "Virtual Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000080", "t": "Simulation Pods (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000081", "t": "Field Test Sites (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000082", "t": "Material Science Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000083", "t": "Metrology Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000084", "t": "Calibration Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000085", "t": "Cryptography Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}
+{"id": "JAH-SLTS-000086", "t": "Hardware Security Labs (Signature Edition)", "g": "LABS (Environments, Workspaces, Testing Grounds)"}

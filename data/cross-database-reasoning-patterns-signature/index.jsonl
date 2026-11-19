@@ -1,0 +1,34 @@
+{"id": "JAH-XDRPS-000001", "t": "Cross-Database Reasoning Patterns Signature Database: Evidence Triangulation", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRPS-000002", "t": "Cross-Database Reasoning Patterns Signature Database: Procedure Chaining", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRPS-000003", "t": "Cross-Database Reasoning Patterns Signature Database: Analogical Transfer", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRPS-000004", "t": "Cross-Database Reasoning Patterns Signature Database: Conflict Adjudication", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRPS-000005", "t": "Cross-Database Reasoning Patterns Signature Database: Abstraction Ladder", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRPS-000006", "t": "Cross-Database Reasoning Patterns Signature Database: Cross-Verification", "c": 0, "g": "verification"}
+{"id": "JAH-XDRPS-000007", "t": "Cross-Database Reasoning Patterns Signature Database: Evidence Weighting", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRPS-000008", "t": "Cross-Database Reasoning Patterns Signature Database: Causal Chaining", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRPS-000009", "t": "Cross-Database Reasoning Patterns Signature Database: Precedent Matching", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRPS-000010", "t": "Cross-Database Reasoning Patterns Signature Database: Dissent Preservation", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRPS-000011", "t": "Cross-Database Reasoning Patterns Signature Database: Conceptual Blending", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRPS-000012", "t": "Cross-Database Reasoning Patterns Signature Database: Independent Replication", "c": 0, "g": "verification"}
+{"id": "JAH-XDRPS-000013", "t": "Cross-Database Reasoning Patterns Signature Database: Convergent Validation", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRPS-000014", "t": "Cross-Database Reasoning Patterns Signature Database: Workflow Composition", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRPS-000015", "t": "Cross-Database Reasoning Patterns Signature Database: Structural Mapping", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRPS-000016", "t": "Cross-Database Reasoning Patterns Signature Database: Temporal Reconciliation", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRPS-000017", "t": "Cross-Database Reasoning Patterns Signature Database: Hierarchical Decomposition", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRPS-000018", "t": "Cross-Database Reasoning Patterns Signature Database: Source Triangulation", "c": 0, "g": "verification"}
+{"id": "JAH-XDRPS-000019", "t": "Cross-Database Reasoning Patterns Signature Database: Bayesian Updating", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRPS-000020", "t": "Cross-Database Reasoning Patterns Signature Database: Pipeline Assembly", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRPS-000021", "t": "Cross-Database Reasoning Patterns Signature Database: Metaphorical Reasoning", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRPS-000022", "t": "Cross-Database Reasoning Patterns Signature Database: Unit Reconciliation", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRPS-000023", "t": "Cross-Database Reasoning Patterns Signature Database: Pattern Generalization", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRPS-000024", "t": "Cross-Database Reasoning Patterns Signature Database: Fact Checking", "c": 0, "g": "verification"}
+{"id": "JAH-XDRPS-000025", "t": "Cross-Database Reasoning Patterns Signature Database: Evidence Synthesis", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRPS-000026", "t": "Cross-Database Reasoning Patterns Signature Database: Recursive Decomposition", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRPS-000027", "t": "Cross-Database Reasoning Patterns Signature Database: Case-Based Reasoning", "c": 0, "g": "analogy"}
+{"id": "JAH-XDRPS-000028", "t": "Cross-Database Reasoning Patterns Signature Database: Definition Alignment", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRPS-000029", "t": "Cross-Database Reasoning Patterns Signature Database: Systems Thinking", "c": 0, "g": "abstraction"}
+{"id": "JAH-XDRPS-000030", "t": "Cross-Database Reasoning Patterns Signature Database: Provenance Verification", "c": 0, "g": "verification"}
+{"id": "JAH-XDRPS-000031", "t": "Cross-Database Reasoning Patterns Signature Database: Multi-Criteria Decision", "c": 0, "g": "evidence-combination"}
+{"id": "JAH-XDRPS-000032", "t": "Cross-Database Reasoning Patterns Signature Database: Handoff Protocol", "c": 0, "g": "procedure-chaining"}
+{"id": "JAH-XDRPS-000033", "t": "Cross-Database Reasoning Patterns Signature Database: Dialectical Synthesis", "c": 0, "g": "conflict-handling"}
+{"id": "JAH-XDRPS-000034", "t": "Cross-Database Reasoning Patterns Signature Database: Capstone: Reasoning Pattern", "c": 0, "g": "verification"}

@@ -1,0 +1,57 @@
+{"id": "JAH-SLV-000001", "t": "SAT Solvers", "g": "solver"}
+{"id": "JAH-SLV-000002", "t": "SMT Solvers", "g": "solver"}
+{"id": "JAH-SLV-000003", "t": "MaxSAT Solvers", "g": "solver"}
+{"id": "JAH-SLV-000004", "t": "QBF Solvers", "g": "solver"}
+{"id": "JAH-SLV-000005", "t": "Constraint Programmers", "g": "solver"}
+{"id": "JAH-SLV-000006", "t": "Theorem Provers", "g": "solver"}
+{"id": "JAH-SLV-000007", "t": "Automated Provers", "g": "solver"}
+{"id": "JAH-SLV-000008", "t": "Proof Checkers", "g": "solver"}
+{"id": "JAH-SLV-000009", "t": "Model Checkers", "g": "solver"}
+{"id": "JAH-SLV-000010", "t": "Symbolic Executors", "g": "solver"}
+{"id": "JAH-SLV-000011", "t": "Computer Algebra Systems", "g": "solver"}
+{"id": "JAH-SLV-000012", "t": "Linear Programmers", "g": "solver"}
+{"id": "JAH-SLV-000013", "t": "Mixed-Integer Programmers", "g": "solver"}
+{"id": "JAH-SLV-000014", "t": "Quadratic Programmers", "g": "solver"}
+{"id": "JAH-SLV-000015", "t": "Semidefinite Programmers", "g": "solver"}
+{"id": "JAH-SLV-000016", "t": "Convex Optimizers", "g": "solver"}
+{"id": "JAH-SLV-000017", "t": "Nonlinear Optimizers", "g": "solver"}
+{"id": "JAH-SLV-000018", "t": "Global Optimizers", "g": "solver"}
+{"id": "JAH-SLV-000019", "t": "Combinatorial Optimizers", "g": "solver"}
+{"id": "JAH-SLV-000020", "t": "Graph Solvers", "g": "solver"}
+{"id": "JAH-SLV-000021", "t": "Max-Flow Solvers", "g": "solver"}
+{"id": "JAH-SLV-000022", "t": "Matching Solvers", "g": "solver"}
+{"id": "JAH-SLV-000023", "t": "Shortest-Path Solvers", "g": "solver"}
+{"id": "JAH-SLV-000024", "t": "Traveling Salesperson Solvers", "g": "solver"}
+{"id": "JAH-SLV-000025", "t": "Scheduling Solvers", "g": "solver"}
+{"id": "JAH-SLV-000026", "t": "Timetabling Solvers", "g": "solver"}
+{"id": "JAH-SLV-000027", "t": "Bin-Packing Solvers", "g": "solver"}
+{"id": "JAH-SLV-000028", "t": "Knapsack Solvers", "g": "solver"}
+{"id": "JAH-SLV-000029", "t": "Prime Sieves", "g": "solver"}
+{"id": "JAH-SLV-000030", "t": "Primality Testers", "g": "solver"}
+{"id": "JAH-SLV-000031", "t": "Factorization Engines", "g": "solver"}
+{"id": "JAH-SLV-000032", "t": "Discrete-Log Solvers", "g": "solver"}
+{"id": "JAH-SLV-000033", "t": "Lattice Reducers", "g": "solver"}
+{"id": "JAH-SLV-000034", "t": "Gröbner Engines", "g": "solver"}
+{"id": "JAH-SLV-000035", "t": "Resultant Solvers", "g": "solver"}
+{"id": "JAH-SLV-000036", "t": "Homotopy Solvers", "g": "solver"}
+{"id": "JAH-SLV-000037", "t": "Interval Solvers", "g": "solver"}
+{"id": "JAH-SLV-000038", "t": "Differential Equation Solvers", "g": "solver"}
+{"id": "JAH-SLV-000039", "t": "Eigenvalue Solvers", "g": "solver"}
+{"id": "JAH-SLV-000040", "t": "Linear System Solvers", "g": "solver"}
+{"id": "JAH-SLV-000041", "t": "Sparse Solvers", "g": "solver"}
+{"id": "JAH-SLV-000042", "t": "FFT Engines", "g": "solver"}
+{"id": "JAH-SLV-000043", "t": "Number-Theoretic Transforms", "g": "solver"}
+{"id": "JAH-SLV-000044", "t": "Wavelet Engines", "g": "solver"}
+{"id": "JAH-SLV-000045", "t": "Optimization Libraries", "g": "solver"}
+{"id": "JAH-SLV-000046", "t": "Automatic Differentiators", "g": "solver"}
+{"id": "JAH-SLV-000047", "t": "Root Finders", "g": "solver"}
+{"id": "JAH-SLV-000048", "t": "Integrators", "g": "solver"}
+{"id": "JAH-SLV-000049", "t": "Interpolation Engines", "g": "solver"}
+{"id": "JAH-SLV-000050", "t": "Regression Solvers", "g": "solver"}
+{"id": "JAH-SLV-000051", "t": "Classification Solvers", "g": "solver"}
+{"id": "JAH-SLV-000052", "t": "Clustering Solvers", "g": "solver"}
+{"id": "JAH-SLV-000053", "t": "Dimensionality Reducers", "g": "solver"}
+{"id": "JAH-SLV-000054", "t": "Density Estimators", "g": "solver"}
+{"id": "JAH-SLV-000055", "t": "Sampling Engines", "g": "solver"}
+{"id": "JAH-SLV-000056", "t": "Bayesian Inference Engines", "g": "solver"}
+{"id": "JAH-SLV-000057", "t": "Probabilistic Programmers", "g": "solver"}

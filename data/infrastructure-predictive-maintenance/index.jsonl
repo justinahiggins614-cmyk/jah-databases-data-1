@@ -1,0 +1,54 @@
+{"id": "JAH-IFPM-000001", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Asset Registry", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPM-000002", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Criticality Ranking", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPM-000003", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: FMEA", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPM-000004", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Vibration Monitoring", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000005", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Thermography", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000006", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Oil Analysis", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000007", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Ultrasound (Airborne)", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000008", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: MTBF", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPM-000009", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: MTTR", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPM-000010", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Availability", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPM-000011", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Weibull Analysis", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPM-000012", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Preventive Schedule", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000013", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Predictive Triggers", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000014", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Root Cause Analysis", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPM-000015", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Pareto of Failures", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPM-000016", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Lubrication Program", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000017", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Alignment Check", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000018", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Ultrasonic Thickness", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000019", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Spare Parts Criticality", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000020", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: OEE", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000021", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Backlog Management", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000022", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Shutdown Planning", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000023", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: 5 Whys", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPM-000024", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Fault Tree", "c": 0, "g": "diagnostics"}
+{"id": "JAH-IFPM-000025", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Inspection Routes", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000026", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Corrosion Monitoring", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000027", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Balancing", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000028", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Motor Current Analysis", "c": 0, "g": "condition-monitoring"}
+{"id": "JAH-IFPM-000029", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: RCM Logic", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPM-000030", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Work Order Planning", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000031", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: KPI Dashboard", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000032", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Capstone: Asset Strategy", "c": 0, "g": "asset-management"}
+{"id": "JAH-IFPM-000033", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Reliability Growth", "c": 0, "g": "reliability"}
+{"id": "JAH-IFPM-000034", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: PM Optimization", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000035", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Preventive Maintenance Scheduling", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000036", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Criticality-Based Maintenance Strategy", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000037", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Spare Parts Optimization", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000038", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Vibration Analysis Program", "c": 0, "g": "predictive"}
+{"id": "JAH-IFPM-000039", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Thermography Inspection Program", "c": 0, "g": "predictive"}
+{"id": "JAH-IFPM-000040", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Oil Analysis Program", "c": 0, "g": "predictive"}
+{"id": "JAH-IFPM-000041", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Ultrasound Leak Detection", "c": 0, "g": "predictive"}
+{"id": "JAH-IFPM-000042", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Motor Circuit Analysis", "c": 0, "g": "predictive"}
+{"id": "JAH-IFPM-000043", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Root Cause Failure Analysis (RCFA)", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000044", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Reliability-Centered Maintenance (RCM)", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000045", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Total Productive Maintenance (TPM)", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000046", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Maintenance Work Order System", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000047", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Shutdown and Turnaround Planning", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000048", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Lubrication Program Management", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000049", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Predictive Maintenance ROI", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000050", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Failure Modes and Effects Analysis (FMEA)", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000051", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Asset Health Scoring", "c": 0, "g": "predictive"}
+{"id": "JAH-IFPM-000052", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Maintenance KPI Dashboard", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000053", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Capital Replacement Planning", "c": 0, "g": "planning"}
+{"id": "JAH-IFPM-000054", "t": "Infrastructure Maintenance and Predictive Diagnostics Database: Contractor Maintenance Management", "c": 0, "g": "planning"}

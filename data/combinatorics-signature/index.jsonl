@@ -1,0 +1,36 @@
+{"id": "JAH-COMBS-000001", "t": "What Combinatorics Is (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000002", "t": "The Addition and Multiplication Principles (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000003", "t": "The Pigeonhole Principle (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000004", "t": "Permutations: Counting Ordered Arrangements (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000005", "t": "Combinations: Choosing Without Order (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000006", "t": "Pascal's Triangle and the Binomial Theorem (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000007", "t": "Permutations with Repetition and Multinomial Coefficients (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000008", "t": "Combinations with Repetition: Stars and Bars (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-COMBS-000009", "t": "Binomial Identities: Algebraic and Combinatorial Proofs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000010", "t": "The Inclusion-Exclusion Principle (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000011", "t": "Derangements: Permutations with No Fixed Points (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000012", "t": "The Bijection Principle and Combinatorial Proofs (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000013", "t": "Double Counting: One Answer, Two Ways (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000014", "t": "Integer Partitions: Breaking Numbers Apart (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000015", "t": "Set Partitions and Stirling Numbers of the Second Kind (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000016", "t": "Permutation Cycles and Stirling Numbers of the First Kind (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000017", "t": "Lattice Paths and the Reflection Principle (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000018", "t": "Recurrence Relations: Sequences Defined by Their Past (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000019", "t": "Solving Linear Recurrences: The Characteristic Equation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000020", "t": "Ordinary Generating Functions (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000021", "t": "Exponential Generating Functions (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000022", "t": "The Twelvefold Way: Balls into Boxes (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000023", "t": "Catalan Numbers: The Ubiquitous Sequence (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-COMBS-000024", "t": "Bell Numbers and the Partitions of a Set (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000025", "t": "Partitions of Integers: Euler's Theorems (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000026", "t": "Graph Theory as Counting: Walks and the Handshaking Lemma (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000027", "t": "Trees and Cayley's Formula (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000028", "t": "Eulerian Trails and Hamiltonian Cycles (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000029", "t": "Ramsey Theory: Order Forced from Chaos (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000030", "t": "Block Designs and the Fano Plane (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000031", "t": "Latin Squares and Orthogonal Arrays (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000032", "t": "Combinatorial Games: Winning Strategies (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000033", "t": "Extremal Combinatorics: Turan's Theorem (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000034", "t": "The Probabilistic Method: Proving by Random Choice (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000035", "t": "Polya Enumeration: Counting Up to Symmetry (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-COMBS-000036", "t": "Algebraic Combinatorics: Symmetric Functions (Signature Edition)", "g": "Advanced"}

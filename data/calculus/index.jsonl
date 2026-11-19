@@ -1,0 +1,36 @@
+{"id": "JAH-CALC-000001", "t": "What Calculus Is", "g": "Foundations"}
+{"id": "JAH-CALC-000002", "t": "Functions and Mathematical Models", "g": "Foundations"}
+{"id": "JAH-CALC-000003", "t": "The Idea of the Limit", "g": "Foundations"}
+{"id": "JAH-CALC-000004", "t": "Computing Limits", "g": "Foundations"}
+{"id": "JAH-CALC-000005", "t": "Continuity of Functions: The Unbroken Graph", "g": "Foundations"}
+{"id": "JAH-CALC-000006", "t": "The Derivative: Instantaneous Rate of Change", "g": "Foundations"}
+{"id": "JAH-CALC-000007", "t": "Differentiation Rules: Power, Product, and Quotient", "g": "Foundations"}
+{"id": "JAH-CALC-000008", "t": "The Chain Rule: Differentiating Composite Functions", "g": "Foundations"}
+{"id": "JAH-CALC-000009", "t": "Implicit Differentiation", "g": "Differentiation"}
+{"id": "JAH-CALC-000010", "t": "Higher-Order Derivatives", "g": "Differentiation"}
+{"id": "JAH-CALC-000011", "t": "Related Rates", "g": "Applications of Derivatives"}
+{"id": "JAH-CALC-000012", "t": "Optimization", "g": "Applications of Derivatives"}
+{"id": "JAH-CALC-000013", "t": "Extrema, Concavity, and Curve Sketching", "g": "Applications of Derivatives"}
+{"id": "JAH-CALC-000014", "t": "L'Hôpital's Rule", "g": "Differentiation"}
+{"id": "JAH-CALC-000015", "t": "Antiderivatives", "g": "Integration"}
+{"id": "JAH-CALC-000016", "t": "Riemann Sums and the Definite Integral", "g": "Integration"}
+{"id": "JAH-CALC-000017", "t": "The Fundamental Theorem of Calculus", "g": "Integration"}
+{"id": "JAH-CALC-000018", "t": "Integration by Substitution", "g": "Integration Techniques"}
+{"id": "JAH-CALC-000019", "t": "Integration by Parts: A Product Rule in Reverse", "g": "Integration Techniques"}
+{"id": "JAH-CALC-000020", "t": "Trigonometric Integrals and Substitutions", "g": "Integration Techniques"}
+{"id": "JAH-CALC-000021", "t": "Partial Fractions", "g": "Integration Techniques"}
+{"id": "JAH-CALC-000022", "t": "Improper Integrals", "g": "Integration"}
+{"id": "JAH-CALC-000023", "t": "Area Between Curves", "g": "Applications of Integrals"}
+{"id": "JAH-CALC-000024", "t": "Volumes of Revolution: Disks, Washers, and Shells", "g": "Applications of Integrals"}
+{"id": "JAH-CALC-000025", "t": "Arc Length, Surface Area, and Work", "g": "Applications of Integrals"}
+{"id": "JAH-CALC-000026", "t": "Sequences", "g": "Sequences and Series"}
+{"id": "JAH-CALC-000027", "t": "Series and the Convergence Tests", "g": "Sequences and Series"}
+{"id": "JAH-CALC-000028", "t": "Taylor and Maclaurin Series: Approximating Functions", "g": "Sequences and Series"}
+{"id": "JAH-CALC-000029", "t": "Power Series", "g": "Sequences and Series"}
+{"id": "JAH-CALC-000030", "t": "Parametric Equations and Polar Calculus", "g": "Parametric and Polar"}
+{"id": "JAH-CALC-000031", "t": "Partial Derivatives and the Gradient", "g": "Multivariable Calculus"}
+{"id": "JAH-CALC-000032", "t": "Multiple Integrals", "g": "Multivariable Calculus"}
+{"id": "JAH-CALC-000033", "t": "Vector Fields: Line and Surface Integrals", "g": "Vector Calculus"}
+{"id": "JAH-CALC-000034", "t": "Green's, Stokes', and the Divergence Theorems", "g": "Vector Calculus"}
+{"id": "JAH-CALC-000035", "t": "First-Order Differential Equations", "g": "Differential Equations"}
+{"id": "JAH-CALC-000036", "t": "Second-Order Equations, Laplace Transforms, and Numerical Methods", "g": "Differential Equations"}

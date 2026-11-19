@@ -1,0 +1,34 @@
+{"id": "JAH-MCI-000001", "t": "Mechanical Component and Assembly Intelligence Database: Bolt Tensile Stress", "c": 0, "g": "fasteners"}
+{"id": "JAH-MCI-000002", "t": "Mechanical Component and Assembly Intelligence Database: Bolt Preload Torque", "c": 0, "g": "fasteners"}
+{"id": "JAH-MCI-000003", "t": "Mechanical Component and Assembly Intelligence Database: Ball Bearing L10 Life", "c": 0, "g": "bearings"}
+{"id": "JAH-MCI-000004", "t": "Mechanical Component and Assembly Intelligence Database: Gear Ratio", "c": 0, "g": "gears"}
+{"id": "JAH-MCI-000005", "t": "Mechanical Component and Assembly Intelligence Database: Gear Module", "c": 0, "g": "gears"}
+{"id": "JAH-MCI-000006", "t": "Mechanical Component and Assembly Intelligence Database: Shaft Torsional Shear Stress", "c": 0, "g": "shafts"}
+{"id": "JAH-MCI-000007", "t": "Mechanical Component and Assembly Intelligence Database: Shaft Power From Torque and Speed", "c": 0, "g": "shafts"}
+{"id": "JAH-MCI-000008", "t": "Mechanical Component and Assembly Intelligence Database: Open Belt Length", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000009", "t": "Mechanical Component and Assembly Intelligence Database: Helical Spring Rate", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000010", "t": "Mechanical Component and Assembly Intelligence Database: Spring Deflection", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000011", "t": "Mechanical Component and Assembly Intelligence Database: Euler Column Buckling", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000012", "t": "Mechanical Component and Assembly Intelligence Database: Beam Bending Stress", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000013", "t": "Mechanical Component and Assembly Intelligence Database: Cantilever End-Load Deflection", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000014", "t": "Mechanical Component and Assembly Intelligence Database: Shaft Torsional Deflection", "c": 0, "g": "shafts"}
+{"id": "JAH-MCI-000015", "t": "Mechanical Component and Assembly Intelligence Database: Press-Fit Interface Pressure", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000016", "t": "Mechanical Component and Assembly Intelligence Database: Fatigue Life (Basquin)", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000017", "t": "Mechanical Component and Assembly Intelligence Database: Hertz Contact Pressure (Cylinders)", "c": 0, "g": "bearings"}
+{"id": "JAH-MCI-000018", "t": "Mechanical Component and Assembly Intelligence Database: Thread Stripping Shear (Nut)", "c": 0, "g": "fasteners"}
+{"id": "JAH-MCI-000019", "t": "Mechanical Component and Assembly Intelligence Database: Key Shear Stress", "c": 0, "g": "shafts"}
+{"id": "JAH-MCI-000020", "t": "Mechanical Component and Assembly Intelligence Database: Key Bearing (Crushing) Stress", "c": 0, "g": "shafts"}
+{"id": "JAH-MCI-000021", "t": "Mechanical Component and Assembly Intelligence Database: Fillet Weld Throat Stress", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000022", "t": "Mechanical Component and Assembly Intelligence Database: Flywheel Energy Storage", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000023", "t": "Mechanical Component and Assembly Intelligence Database: Shaft Critical Speed", "c": 0, "g": "shafts"}
+{"id": "JAH-MCI-000024", "t": "Mechanical Component and Assembly Intelligence Database: Belt Power Transmission", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000025", "t": "Mechanical Component and Assembly Intelligence Database: Chain Drive Speed", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000026", "t": "Mechanical Component and Assembly Intelligence Database: Cam Follower Displacement (SHM)", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000027", "t": "Mechanical Component and Assembly Intelligence Database: Disc Brake Torque", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000028", "t": "Mechanical Component and Assembly Intelligence Database: Clutch Torque (Uniform Wear)", "c": 0, "g": "assemblies"}
+{"id": "JAH-MCI-000029", "t": "Mechanical Component and Assembly Intelligence Database: Journal Bearing Friction (Petroff)", "c": 0, "g": "bearings"}
+{"id": "JAH-MCI-000030", "t": "Mechanical Component and Assembly Intelligence Database: Spur Gear Bending Stress (Lewis)", "c": 0, "g": "gears"}
+{"id": "JAH-MCI-000031", "t": "Mechanical Component and Assembly Intelligence Database: Helical Gear Axial Thrust", "c": 0, "g": "gears"}
+{"id": "JAH-MCI-000032", "t": "Mechanical Component and Assembly Intelligence Database: Worm Gear Ratio", "c": 0, "g": "gears"}
+{"id": "JAH-MCI-000033", "t": "Mechanical Component and Assembly Intelligence Database: Rack and Pinion Travel", "c": 0, "g": "gears"}
+{"id": "JAH-MCI-000034", "t": "Mechanical Component and Assembly Intelligence Database: Tolerance Stack-Up (Worst Case)", "c": 0, "g": "assemblies"}

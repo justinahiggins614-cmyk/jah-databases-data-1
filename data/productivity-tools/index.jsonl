@@ -1,0 +1,36 @@
+{"id": "JAH-PRD-000001", "t": "Universal Text Extractor", "g": "productivity-tools"}
+{"id": "JAH-PRD-000002", "t": "Document Classification Engine", "g": "productivity-tools"}
+{"id": "JAH-PRD-000003", "t": "Email Archive Searcher", "g": "productivity-tools"}
+{"id": "JAH-PRD-000004", "t": "Meeting Transcription System", "g": "productivity-tools"}
+{"id": "JAH-PRD-000005", "t": "Speaker Diarization Tool", "g": "productivity-tools"}
+{"id": "JAH-PRD-000006", "t": "Meeting Summary Generator", "g": "productivity-tools"}
+{"id": "JAH-PRD-000007", "t": "Desktop Voice Command Controller", "g": "productivity-tools"}
+{"id": "JAH-PRD-000008", "t": "Workflow Macro Recorder", "g": "productivity-tools"}
+{"id": "JAH-PRD-000009", "t": "Desktop Automation Engine", "g": "productivity-tools"}
+{"id": "JAH-PRD-000010", "t": "Scheduled Task Manager", "g": "productivity-tools"}
+{"id": "JAH-PRD-000011", "t": "Email Workflow Assistant", "g": "productivity-tools"}
+{"id": "JAH-PRD-000012", "t": "Calendar Coordination Engine", "g": "productivity-tools"}
+{"id": "JAH-PRD-000013", "t": "Contact Deduplication Tool", "g": "productivity-tools"}
+{"id": "JAH-PRD-000014", "t": "Personal Knowledge Base", "g": "productivity-tools"}
+{"id": "JAH-PRD-000015", "t": "Research Source Organizer", "g": "productivity-tools"}
+{"id": "JAH-PRD-000016", "t": "Citation and Bibliography Manager", "g": "productivity-tools"}
+{"id": "JAH-PRD-000017", "t": "Local Web Archive", "g": "productivity-tools"}
+{"id": "JAH-PRD-000018", "t": "Translation Workbench", "g": "productivity-tools"}
+{"id": "JAH-PRD-000019", "t": "Diagram and Flowchart Generator", "g": "productivity-tools"}
+{"id": "JAH-PRD-000020", "t": "Report Assembly Engine", "g": "productivity-tools"}
+{"id": "JAH-PRD-000021", "t": "Wi-Fi Relay Switch Controller", "g": "Toolset"}
+{"id": "JAH-PRD-000022", "t": "Intermediate Representation (IR) LIFT Engines", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Binary Analysis & Reverse Engineering"}
+{"id": "JAH-PRD-000023", "t": "Office Tool Plus", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000024", "t": "MultiMonitorTool", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000025", "t": "BOM Generator", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000026", "t": "Thorium Reader", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000027", "t": "ONLYOFFICE Desktop Editors", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000028", "t": "LibreOffice Suite", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000029", "t": "iptables Engine", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000030", "t": "Gocryptfs Vault", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000031", "t": "Pandoc Document Converter", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000032", "t": "Typst Markup Engine", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000033", "t": "Tesseract OCR Engine", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000034", "t": "EasyOCR Engine", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000035", "t": "PaddleOCR System", "g": "Bizarre Software"}
+{"id": "JAH-PRD-000036", "t": "DXVK Translation Layer", "g": "Bizarre Software"}

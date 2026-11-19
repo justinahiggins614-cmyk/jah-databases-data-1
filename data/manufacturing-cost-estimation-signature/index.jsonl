@@ -1,0 +1,34 @@
+{"id": "JAH-MFCES-000001", "t": "Manufacturing Cost and Production Estimation Signature Database: BOM Cost", "c": 0, "g": "bom"}
+{"id": "JAH-MFCES-000002", "t": "Manufacturing Cost and Production Estimation Signature Database: Material Cost per Unit", "c": 0, "g": "bom"}
+{"id": "JAH-MFCES-000003", "t": "Manufacturing Cost and Production Estimation Signature Database: Direct Labor Cost", "c": 0, "g": "labor"}
+{"id": "JAH-MFCES-000004", "t": "Manufacturing Cost and Production Estimation Signature Database: Overhead Rate", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCES-000005", "t": "Manufacturing Cost and Production Estimation Signature Database: Applied Overhead", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCES-000006", "t": "Manufacturing Cost and Production Estimation Signature Database: Total Unit Cost", "c": 0, "g": "costing"}
+{"id": "JAH-MFCES-000007", "t": "Manufacturing Cost and Production Estimation Signature Database: Gross Margin $", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000008", "t": "Manufacturing Cost and Production Estimation Signature Database: Markup %", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000009", "t": "Manufacturing Cost and Production Estimation Signature Database: Margin %", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000010", "t": "Manufacturing Cost and Production Estimation Signature Database: Break-Even Units", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000011", "t": "Manufacturing Cost and Production Estimation Signature Database: Break-Even Revenue", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000012", "t": "Manufacturing Cost and Production Estimation Signature Database: Contribution Margin", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000013", "t": "Manufacturing Cost and Production Estimation Signature Database: CM Ratio", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000014", "t": "Manufacturing Cost and Production Estimation Signature Database: Target Cost", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000015", "t": "Manufacturing Cost and Production Estimation Signature Database: Should-Cost", "c": 0, "g": "costing"}
+{"id": "JAH-MFCES-000016", "t": "Manufacturing Cost and Production Estimation Signature Database: Learning Curve", "c": 0, "g": "labor"}
+{"id": "JAH-MFCES-000017", "t": "Manufacturing Cost and Production Estimation Signature Database: Setup Amortization", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCES-000018", "t": "Manufacturing Cost and Production Estimation Signature Database: Scrap Cost", "c": 0, "g": "quality"}
+{"id": "JAH-MFCES-000019", "t": "Manufacturing Cost and Production Estimation Signature Database: Rework Cost", "c": 0, "g": "quality"}
+{"id": "JAH-MFCES-000020", "t": "Manufacturing Cost and Production Estimation Signature Database: First-Pass Yield", "c": 0, "g": "quality"}
+{"id": "JAH-MFCES-000021", "t": "Manufacturing Cost and Production Estimation Signature Database: Effective Unit Cost (yield)", "c": 0, "g": "quality"}
+{"id": "JAH-MFCES-000022", "t": "Manufacturing Cost and Production Estimation Signature Database: Tooling Amortization", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCES-000023", "t": "Manufacturing Cost and Production Estimation Signature Database: NRE per Unit", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCES-000024", "t": "Manufacturing Cost and Production Estimation Signature Database: Packaging Cost", "c": 0, "g": "logistics"}
+{"id": "JAH-MFCES-000025", "t": "Manufacturing Cost and Production Estimation Signature Database: Freight per Unit", "c": 0, "g": "logistics"}
+{"id": "JAH-MFCES-000026", "t": "Manufacturing Cost and Production Estimation Signature Database: Duty per Unit", "c": 0, "g": "logistics"}
+{"id": "JAH-MFCES-000027", "t": "Manufacturing Cost and Production Estimation Signature Database: Warranty per Unit", "c": 0, "g": "quality"}
+{"id": "JAH-MFCES-000028", "t": "Manufacturing Cost and Production Estimation Signature Database: Total Landed Unit Cost", "c": 0, "g": "costing"}
+{"id": "JAH-MFCES-000029", "t": "Manufacturing Cost and Production Estimation Signature Database: Cost Range (\u00b1)", "c": 0, "g": "estimation"}
+{"id": "JAH-MFCES-000030", "t": "Manufacturing Cost and Production Estimation Signature Database: Parametric (per kg)", "c": 0, "g": "estimation"}
+{"id": "JAH-MFCES-000031", "t": "Manufacturing Cost and Production Estimation Signature Database: Outsource Break-Even", "c": 0, "g": "costing"}
+{"id": "JAH-MFCES-000032", "t": "Manufacturing Cost and Production Estimation Signature Database: Cost of Delay", "c": 0, "g": "pricing"}
+{"id": "JAH-MFCES-000033", "t": "Manufacturing Cost and Production Estimation Signature Database: Overhead Absorption", "c": 0, "g": "overhead"}
+{"id": "JAH-MFCES-000034", "t": "Manufacturing Cost and Production Estimation Signature Database: Product Cost Rollup Capstone", "c": 0, "g": "costing"}

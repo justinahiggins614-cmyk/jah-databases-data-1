@@ -1,0 +1,74 @@
+{"id": "JAH-RTCO-000001", "t": "What Retail Commerce Is — Industry Overview", "g": "Foundations"}
+{"id": "JAH-RTCO-000002", "t": "Product Catalogs and SKU Systems", "g": "Foundations"}
+{"id": "JAH-RTCO-000003", "t": "Barcodes, GTINs, and Product Identification", "g": "Foundations"}
+{"id": "JAH-RTCO-000004", "t": "Retail Pricing Strategy Fundamentals", "g": "Foundations"}
+{"id": "JAH-RTCO-000005", "t": "The Point of Sale (POS) System", "g": "Foundations"}
+{"id": "JAH-RTCO-000006", "t": "Cash Handling and Payment Processing", "g": "Foundations"}
+{"id": "JAH-RTCO-000007", "t": "Store Layout and Customer Flow", "g": "Foundations"}
+{"id": "JAH-RTCO-000008", "t": "Inventory Basics — Stock Counts", "g": "Foundations"}
+{"id": "JAH-RTCO-000009", "t": "Receiving and Stocking Goods", "g": "Foundations"}
+{"id": "JAH-RTCO-000010", "t": "Customer Service Fundamentals", "g": "Foundations"}
+{"id": "JAH-RTCO-000011", "t": "Merchandising Basics", "g": "Foundations"}
+{"id": "JAH-RTCO-000012", "t": "Retail Math I — Markup and Margin", "g": "Foundations"}
+{"id": "JAH-RTCO-000013", "t": "Retail Demand Forecasting", "g": "Compounded"}
+{"id": "JAH-RTCO-000014", "t": "Purchase Orders and Replenishment", "g": "Compounded"}
+{"id": "JAH-RTCO-000015", "t": "Economic Order Quantity (EOQ)", "g": "Compounded"}
+{"id": "JAH-RTCO-000016", "t": "Markdowns, Promotions, and Clearance", "g": "Compounded"}
+{"id": "JAH-RTCO-000017", "t": "Planograms and Shelf Space", "g": "Compounded"}
+{"id": "JAH-RTCO-000018", "t": "E-commerce Operations", "g": "Compounded"}
+{"id": "JAH-RTCO-000019", "t": "Omnichannel Fulfillment", "g": "Compounded"}
+{"id": "JAH-RTCO-000020", "t": "Warehousing and Distribution Centers", "g": "Compounded"}
+{"id": "JAH-RTCO-000021", "t": "Returns and Reverse Logistics", "g": "Compounded"}
+{"id": "JAH-RTCO-000022", "t": "Loyalty Programs", "g": "Compounded"}
+{"id": "JAH-RTCO-000023", "t": "Loss Prevention and Shrink", "g": "Compounded"}
+{"id": "JAH-RTCO-000024", "t": "Retail Analytics — Sell-Through and GMROI", "g": "Advanced"}
+{"id": "JAH-RTCO-000025", "t": "Market Basket Analysis", "g": "Advanced"}
+{"id": "JAH-RTCO-000026", "t": "Category Management", "g": "Advanced"}
+{"id": "JAH-RTCO-000027", "t": "Private Label Development", "g": "Advanced"}
+{"id": "JAH-RTCO-000028", "t": "Supply Chain Management", "g": "Advanced"}
+{"id": "JAH-RTCO-000029", "t": "Labor Scheduling and Workforce Management", "g": "Advanced"}
+{"id": "JAH-RTCO-000030", "t": "Site Selection and Store Real Estate", "g": "Advanced"}
+{"id": "JAH-RTCO-000031", "t": "RFID and Store Automation", "g": "Advanced"}
+{"id": "JAH-RTCO-000032", "t": "Seasonal Planning and Open-to-Buy", "g": "Advanced"}
+{"id": "JAH-RTCO-000033", "t": "Franchise Operations", "g": "Advanced"}
+{"id": "JAH-RTCO-000034", "t": "Retail Mastery Review — Running the Whole Operation", "g": "Advanced"}
+{"id": "JAH-RTCO-000035", "t": "Return Policy Design: The Strategic Document", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000036", "t": "Reverse Logistics: The Return Supply Chain", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000037", "t": "RMA Process Design: Return Merchandise Authorization", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000038", "t": "Warranty Claim Adjudication", "g": "Warranty Operations"}
+{"id": "JAH-RTCO-000039", "t": "Refurbishment Operations: Giving Returns New Life", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000040", "t": "Restocking: Getting Returns Back on Shelves", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000041", "t": "Fraud Prevention in Returns", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000042", "t": "Returnless Refunds: When Keeping It Is Cheaper", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000043", "t": "Warranty Reserves: Accounting for Future Claims", "g": "Warranty Operations"}
+{"id": "JAH-RTCO-000044", "t": "Service Center Operations", "g": "Warranty Operations"}
+{"id": "JAH-RTCO-000045", "t": "Extended Warranties: Product and Profit", "g": "Warranty Operations"}
+{"id": "JAH-RTCO-000046", "t": "DOA Handling: Dead-on-Arrival Procedures", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000047", "t": "Cross-Border Returns: International Complexity", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000048", "t": "Return Analytics: Learning from Returns Data", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000049", "t": "Customer Communication During Returns", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000050", "t": "Packaging for Returns: Reusable Design", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000051", "t": "Liquidation of Returns: Recovering Residual Value", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000052", "t": "Warranty vs Guarantee: Knowing the Difference", "g": "Warranty Operations"}
+{"id": "JAH-RTCO-000053", "t": "SLA Tracking in Returns and Warranty", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000054", "t": "Continuous Improvement in Reverse Logistics", "g": "Returns Operations"}
+{"id": "JAH-RTCO-000055", "t": "Fulfillment Network Design", "g": "Advanced"}
+{"id": "JAH-RTCO-000056", "t": "Inventory Positioning and Allocation", "g": "Advanced"}
+{"id": "JAH-RTCO-000057", "t": "Order Management Systems (OMS)", "g": "Advanced"}
+{"id": "JAH-RTCO-000058", "t": "Pick, Pack, and Ship Operations", "g": "Advanced"}
+{"id": "JAH-RTCO-000059", "t": "Last-Mile Delivery Strategy", "g": "Advanced"}
+{"id": "JAH-RTCO-000060", "t": "Returns and Reverse Logistics", "g": "Advanced"}
+{"id": "JAH-RTCO-000061", "t": "Fulfillment SLAs and Promise Management", "g": "Advanced"}
+{"id": "JAH-RTCO-000062", "t": "Peak Season Fulfillment Planning", "g": "Advanced"}
+{"id": "JAH-RTCO-000063", "t": "Dropshipping Operations", "g": "Advanced"}
+{"id": "JAH-RTCO-000064", "t": "Third-Party Logistics (3PL) Selection", "g": "Advanced"}
+{"id": "JAH-RTCO-000065", "t": "Inventory Accuracy and Cycle Counting", "g": "Advanced"}
+{"id": "JAH-RTCO-000066", "t": "Packaging Optimization", "g": "Advanced"}
+{"id": "JAH-RTCO-000067", "t": "Fulfillment Cost Accounting", "g": "Advanced"}
+{"id": "JAH-RTCO-000068", "t": "Distributed Order Routing Logic", "g": "Advanced"}
+{"id": "JAH-RTCO-000069", "t": "Subscription and Replenishment Fulfillment", "g": "Advanced"}
+{"id": "JAH-RTCO-000070", "t": "Cold Chain and Special Handling", "g": "Advanced"}
+{"id": "JAH-RTCO-000071", "t": "Fulfillment Technology Stack", "g": "Advanced"}
+{"id": "JAH-RTCO-000072", "t": "Sustainability in Fulfillment", "g": "Advanced"}
+{"id": "JAH-RTCO-000073", "t": "Fulfillment KPIs and Continuous Improvement", "g": "Advanced"}
+{"id": "JAH-RTCO-000074", "t": "Cross-Border Fulfillment", "g": "Advanced"}

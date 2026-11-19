@@ -1,0 +1,54 @@
+{"id": "JAH-DSR-000001", "t": "Source Reliability Overview", "g": "Foundations"}
+{"id": "JAH-DSR-000002", "t": "Source History Record", "g": "Foundations"}
+{"id": "JAH-DSR-000003", "t": "Correction Rate Metric", "g": "Foundations"}
+{"id": "JAH-DSR-000004", "t": "Independent Corroboration Count", "g": "Foundations"}
+{"id": "JAH-DSR-000005", "t": "Known Limitations Register", "g": "Foundations"}
+{"id": "JAH-DSR-000006", "t": "Reputation Score Model", "g": "Foundations"}
+{"id": "JAH-DSR-000007", "t": "Primary vs Secondary Source Classification", "g": "Foundations"}
+{"id": "JAH-DSR-000008", "t": "Provenance Capture Standard", "g": "Foundations"}
+{"id": "JAH-DSR-000009", "t": "Freshness Metric", "g": "Foundations"}
+{"id": "JAH-DSR-000010", "t": "Citation Practice Standard", "g": "Foundations"}
+{"id": "JAH-DSR-000011", "t": "Cross-Source Agreement Analysis", "g": "Compounded"}
+{"id": "JAH-DSR-000012", "t": "Correction Lag Measurement", "g": "Compounded"}
+{"id": "JAH-DSR-000013", "t": "Source Bias Assessment", "g": "Compounded"}
+{"id": "JAH-DSR-000014", "t": "Retraction Handling Procedure", "g": "Compounded"}
+{"id": "JAH-DSR-000015", "t": "Sample vs Census Data Reliability", "g": "Compounded"}
+{"id": "JAH-DSR-000016", "t": "Sensor Data Reliability", "g": "Compounded"}
+{"id": "JAH-DSR-000017", "t": "Survey Data Reliability", "g": "Compounded"}
+{"id": "JAH-DSR-000018", "t": "Derived Data Reliability", "g": "Compounded"}
+{"id": "JAH-DSR-000019", "t": "Expert Opinion Reliability", "g": "Compounded"}
+{"id": "JAH-DSR-000020", "t": "Archival Record Reliability", "g": "Compounded"}
+{"id": "JAH-DSR-000021", "t": "Composite Reliability Index", "g": "Compounded"}
+{"id": "JAH-DSR-000022", "t": "Reliability Decay Over Time", "g": "Advanced"}
+{"id": "JAH-DSR-000023", "t": "Adversarial Source Detection", "g": "Advanced"}
+{"id": "JAH-DSR-000024", "t": "Anonymous Source Policy", "g": "Advanced"}
+{"id": "JAH-DSR-000025", "t": "Statistical Confidence Calibration", "g": "Advanced"}
+{"id": "JAH-DSR-000026", "t": "Reliability-Weighted Consensus", "g": "Advanced"}
+{"id": "JAH-DSR-000027", "t": "Source Reliability Audit Trail", "g": "Advanced"}
+{"id": "JAH-DSR-000028", "t": "Automated Reliability Monitoring", "g": "Advanced"}
+{"id": "JAH-DSR-000029", "t": "Machine-Generated Content Reliability", "g": "Advanced"}
+{"id": "JAH-DSR-000030", "t": "Domain Reliability Baselines", "g": "Advanced"}
+{"id": "JAH-DSR-000031", "t": "Reliability Dispute Resolution", "g": "Advanced"}
+{"id": "JAH-DSR-000032", "t": "Reliability Certification", "g": "Advanced"}
+{"id": "JAH-DSR-000033", "t": "Reliability Dashboard Exemplar", "g": "Advanced"}
+{"id": "JAH-DSR-000034", "t": "Reliability Self-Audit and Mastery Record", "g": "Advanced"}
+{"id": "JAH-DSR-000035", "t": "Authority Signals: What Makes a Source Trustworthy", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000036", "t": "Citation Analysis for Source Quality", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000037", "t": "Author Credentials: Verifying Expertise", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000038", "t": "Publication Reputation Scoring", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000039", "t": "Peer Review Weight in Authority", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000040", "t": "Recency Scoring: When Freshness Matters", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000041", "t": "Corroboration: The Two-Source Rule", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000042", "t": "Primary vs Secondary Sources", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000043", "t": "Domain Expertise Matching", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000044", "t": "Conflict of Interest Detection", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000045", "t": "Retraction Tracking", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000046", "t": "Predatory Journals: Spotting Fake Peer Review", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000047", "t": "Government Sources: Strengths and Limits", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000048", "t": "Crowd Wisdom Limits", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000049", "t": "Algorithmic Authority Scoring Models", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000050", "t": "Transparency in Source Evaluation", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000051", "t": "Provenance Chains: Tracing Information Origin", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000052", "t": "Scoring Rubrics for Source Authority", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000053", "t": "Calibrating Authority Scores", "g": "Source Evaluation"}
+{"id": "JAH-DSR-000054", "t": "Audit Trails for Research Decisions", "g": "Source Evaluation"}

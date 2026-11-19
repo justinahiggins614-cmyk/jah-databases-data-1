@@ -1,0 +1,94 @@
+{"id": "JAH-HUMRELIEF-PUB-000001", "t": "Disaster Declaration Process", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000002", "t": "Emergency Operations Centers (EOC)", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000003", "t": "Incident Command System (ICS)", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000004", "t": "Search and Rescue Operations", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000005", "t": "Emergency Sheltering", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000006", "t": "Mass Feeding Operations", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000007", "t": "Emergency First Aid Stations", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000008", "t": "Evacuation Planning", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000009", "t": "Emergency Alert Systems (WEA/IPAWS)", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000010", "t": "Damage Assessment: Windshield Surveys", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000011", "t": "Community Emergency Response Teams (CERT)", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000012", "t": "Disaster Recovery Centers", "g": "Foundations"}
+{"id": "JAH-HUMRELIEF-PUB-000013", "t": "Humanitarian Supply Chains", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000014", "t": "Last-Mile Logistics", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000015", "t": "Water, Sanitation, and Hygiene (WASH)", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000016", "t": "Emergency Medical Teams", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000017", "t": "Field Hospitals", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000018", "t": "Temporary Housing Programs", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000019", "t": "Debris Management", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000020", "t": "Volunteer Coordination", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000021", "t": "Donations Management", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000022", "t": "Psychological First Aid", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000023", "t": "Animal Sheltering in Disasters", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000024", "t": "Power Restoration Coordination", "g": "Compounded"}
+{"id": "JAH-HUMRELIEF-PUB-000025", "t": "Post-Disaster Needs Assessment (PDNA)", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000026", "t": "The UN Cluster Coordination System", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000027", "t": "Sphere Humanitarian Standards", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000028", "t": "Cash and Voucher Assistance", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000029", "t": "Early Recovery Planning", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000030", "t": "Build Back Better", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000031", "t": "Disaster Risk Reduction", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000032", "t": "Contingency Stockpiles", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000033", "t": "Civil-Military Coordination", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000034", "t": "Accountability to Affected Populations", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000035", "t": "FEMA Individual Assistance: What It Covers", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000036", "t": "SBA Disaster Loans for Homeowners and Businesses", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000037", "t": "Red Cross Services After Disaster", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000038", "t": "Filing Insurance Claims After Disaster", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000039", "t": "Temporary Housing Options After Displacement", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000040", "t": "Debris Removal: Who Handles What", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000041", "t": "Disaster Unemployment Assistance", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000042", "t": "Emergency Food Assistance After Disaster", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000043", "t": "Disaster Crisis Counseling", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000044", "t": "Rebuilding Permits and Code Upgrades", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000045", "t": "Volunteer Coordination in Recovery", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000046", "t": "Donation Management: Giving That Helps", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000047", "t": "Finding Missing Persons After Disaster", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000048", "t": "Pet Rescue and Care in Disasters", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000049", "t": "Medical Needs in Disasters: Power, Meds, and Records", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000050", "t": "Replacing Documents Lost in Disaster", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000051", "t": "Contractor Fraud After Disasters: Avoidance", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000052", "t": "Community Recovery Centers and Long-Term Groups", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000053", "t": "Preparing for the Next One: Mitigation", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000054", "t": "Disaster Case Management: Your Recovery Advocate", "g": "Disaster Recovery"}
+{"id": "JAH-HUMRELIEF-PUB-000055", "t": "Verifying Disaster News: The First-Hour Protocol", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000056", "t": "Official Sources: Who to Trust in a Disaster", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000057", "t": "Image Verification: Is That Photo Real and Current", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000058", "t": "Rumor Patterns: What Disaster Misinformation Looks Like", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000059", "t": "Social Media Triage During Disasters", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000060", "t": "Debunking Techniques That Actually Work", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000061", "t": "Alert Fatigue: Staying Responsive Without Burning Out", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000062", "t": "Deepfake Disaster Content: The New Threat", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000063", "t": "Crowdsourced Verification: Helping Confirm Facts", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000064", "t": "Emergency Broadcast Trust: EAS and WEA", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000065", "t": "Multilingual Misinformation in Disasters", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000066", "t": "Prebunking: Inoculating Against Disaster Rumors", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000067", "t": "Reporting False Information", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000068", "t": "Trust Networks: Your Personal Verification Circle", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000069", "t": "Official vs Unofficial Alerts: Telling Them Apart", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000070", "t": "Verifying Charity Legitimacy in Disasters", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000071", "t": "Photo Forensics Basics for Citizens", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000072", "t": "Timestamp Checking: When Was This Really Posted", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000073", "t": "Geolocation Verification: Where Was This Taken", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000074", "t": "Building Your Personal Verification Checklist", "g": "Rumor Verification"}
+{"id": "JAH-HUMRELIEF-PUB-000075", "t": "FEMA Individual Assistance: IHP", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000076", "t": "FEMA Public Assistance for Communities", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000077", "t": "SBA Disaster Loans", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000078", "t": "Disaster Unemployment Assistance", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000079", "t": "Disaster SNAP (D-SNAP)", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000080", "t": "National Flood Insurance Program Claims", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000081", "t": "Red Cross Disaster Services", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000082", "t": "Salvation Army and Faith-Based Relief", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000083", "t": "Disaster Legal Services", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000084", "t": "Crisis Cleanup and Volunteer Coordination", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000085", "t": "Disaster Case Management", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000086", "t": "Emergency Shelter and Transitional Housing", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000087", "t": "Disaster Mental Health Resources", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000088", "t": "Pet and Livestock Disaster Aid", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000089", "t": "Volunteering After Disasters: Doing It Right", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000090", "t": "Disaster Fraud Prevention", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000091", "t": "Long-Term Recovery Committees", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000092", "t": "Mitigation Grants: Building Back Stronger", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000093", "t": "Disaster Preparedness for Households", "g": "Advanced"}
+{"id": "JAH-HUMRELIEF-PUB-000094", "t": "FEMA Appeals: Increasing Your Award", "g": "Advanced"}

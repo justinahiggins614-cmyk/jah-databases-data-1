@@ -1,0 +1,37 @@
+{"id": "JAH-PSY-000001", "t": "What Psychometrics Is: The Science of Psychological Measurement", "g": "Foundations"}
+{"id": "JAH-PSY-000002", "t": "Levels of Measurement: Nominal, Ordinal, Interval, Ratio", "g": "Foundations"}
+{"id": "JAH-PSY-000003", "t": "The True-Score Model: X = T + E", "g": "Foundations"}
+{"id": "JAH-PSY-000004", "t": "Reliability: The Signal in the Noise", "g": "Foundations"}
+{"id": "JAH-PSY-000005", "t": "Test-Retest Reliability: Stability Across Time", "g": "Foundations"}
+{"id": "JAH-PSY-000006", "t": "Split-Half and Internal Consistency: One Test, Two Halves", "g": "Foundations"}
+{"id": "JAH-PSY-000007", "t": "Cronbach's Alpha: The Workhorse of Internal Consistency", "g": "Foundations"}
+{"id": "JAH-PSY-000008", "t": "Kuder-Richardson Formulas: Reliability for Right-or-Wrong Items", "g": "Foundations"}
+{"id": "JAH-PSY-000009", "t": "Standard Error of Measurement: The Margin Around Every Score", "g": "Foundations"}
+{"id": "JAH-PSY-000010", "t": "Validity: Does the Test Measure What It Claims?", "g": "Foundations"}
+{"id": "JAH-PSY-000011", "t": "Content Validity: Does the Test Cover the Territory?", "g": "Foundations"}
+{"id": "JAH-PSY-000012", "t": "Criterion Validity: Predicting Real Outcomes", "g": "Compounded"}
+{"id": "JAH-PSY-000013", "t": "Construct Validity: The Master Argument", "g": "Compounded"}
+{"id": "JAH-PSY-000014", "t": "Convergent and Discriminant Validity: The Company Scores Keep", "g": "Compounded"}
+{"id": "JAH-PSY-000015", "t": "Item Analysis: Difficulty and Discrimination", "g": "Compounded"}
+{"id": "JAH-PSY-000016", "t": "Distractor Analysis: Reading the Wrong Answers", "g": "Compounded"}
+{"id": "JAH-PSY-000017", "t": "Test Length and the Spearman-Brown Prophecy Formula", "g": "Compounded"}
+{"id": "JAH-PSY-000018", "t": "Interrater Reliability: When Humans Are the Instrument", "g": "Compounded"}
+{"id": "JAH-PSY-000019", "t": "Cohen's Kappa: Agreement Beyond Chance", "g": "Compounded"}
+{"id": "JAH-PSY-000020", "t": "Norming and Standardization: Giving Scores Meaning", "g": "Compounded"}
+{"id": "JAH-PSY-000021", "t": "Standard Scores: z, T, Stanines, and the IQ Scale", "g": "Compounded"}
+{"id": "JAH-PSY-000022", "t": "Cognitive Ability Testing: Measuring the Mind's Engine", "g": "Compounded"}
+{"id": "JAH-PSY-000023", "t": "Personality Measurement: Scaling the Self", "g": "Compounded"}
+{"id": "JAH-PSY-000024", "t": "Factor Analysis: Finding the Hidden Dimensions", "g": "Compounded"}
+{"id": "JAH-PSY-000025", "t": "Exploratory vs Confirmatory Factor Analysis: Discovery vs Proof", "g": "Compounded"}
+{"id": "JAH-PSY-000026", "t": "Item Response Theory: The Rasch (1PL) Model", "g": "Advanced"}
+{"id": "JAH-PSY-000027", "t": "The 2PL and 3PL Models: Discrimination and Guessing", "g": "Advanced"}
+{"id": "JAH-PSY-000028", "t": "Item and Test Information: Precision Where It Counts", "g": "Advanced"}
+{"id": "JAH-PSY-000029", "t": "Differential Item Functioning: The Fairness Microscope", "g": "Advanced"}
+{"id": "JAH-PSY-000030", "t": "Test Equating: Making Different Forms Interchangeable", "g": "Advanced"}
+{"id": "JAH-PSY-000031", "t": "Vertical Scaling: One Ruler for Many Grades", "g": "Advanced"}
+{"id": "JAH-PSY-000032", "t": "Computerized Adaptive Testing: The Test That Listens", "g": "Advanced"}
+{"id": "JAH-PSY-000033", "t": "Test Fairness and Bias: Impact Is Not Bias", "g": "Advanced"}
+{"id": "JAH-PSY-000034", "t": "Generalizability Theory: Reliability Grown Up", "g": "Advanced"}
+{"id": "JAH-PSY-000035", "t": "Structural Equation Modeling: Theories as Equations", "g": "Advanced"}
+{"id": "JAH-PSY-000036", "t": "The Standards for Educational and Psychological Testing", "g": "Advanced"}
+{"id": "JAH-PSY-000037", "t": "Building a Test: The Full Professional Workflow", "g": "Advanced"}

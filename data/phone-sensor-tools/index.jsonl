@@ -1,0 +1,35 @@
+{"id": "JAH-PST-000001", "t": "Digital Compass", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000002", "t": "Smartphone Gaussmeter", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000003", "t": "Three-Axis Magnetometer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000004", "t": "Digital Inclinometer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000005", "t": "Digital Spirit Level", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000006", "t": "Accelerometer Data Logger", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000007", "t": "Gyroscope Analyzer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000008", "t": "Vibration Analyzer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000009", "t": "Sound Level Meter", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000010", "t": "Audio Spectrum Analyzer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000011", "t": "Audio Frequency Counter", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000012", "t": "Acoustic Signal Recorder", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000013", "t": "Ultrasonic Signal Detector", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000014", "t": "Sonic Echo Distance Estimator", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000015", "t": "Non-Contact Sound Event Detector", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000016", "t": "Light Meter", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000017", "t": "Colorimeter", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000018", "t": "Digital Lux Estimator", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000019", "t": "Optical Flicker Detector", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000020", "t": "Stroboscopic Motion Analyzer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000021", "t": "Infrared Remote Signal Controller", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000022", "t": "Infrared Signal Analyzer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000023", "t": "Camera-Based Thermal Anomaly Detector", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000024", "t": "Thermal Imaging Viewer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000025", "t": "Digital Barometer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000026", "t": "Altitude Estimator", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000027", "t": "GPS Speedometer", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000028", "t": "GPS Distance Meter", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000029", "t": "GPS Route Logger", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000030", "t": "GPS Coordinate Surveyor", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000031", "t": "GPS Waypoint Navigator", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000032", "t": "Digital Range and Area Mapper", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000033", "t": "Camera-Based Object Dimension Estimator", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000034", "t": "3D Room Scanner", "g": "phone-sensor-tools"}
+{"id": "JAH-PST-000035", "t": "Smartphone 3D Object Scanner", "g": "phone-sensor-tools"}

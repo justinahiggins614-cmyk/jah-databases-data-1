@@ -1,0 +1,60 @@
+{"id": "JAH-EQW-000001", "t": "Vector cross product (flagship)", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000002", "t": "Vector dot product", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000003", "t": "Pythagorean theorem", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000004", "t": "Quadratic formula", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000005", "t": "Euler's identity", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000006", "t": "Law of cosines", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000007", "t": "Law of sines", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000008", "t": "Area of a circle", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000009", "t": "Circumference", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000010", "t": "Line: slope-intercept", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000011", "t": "Distance formula", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000012", "t": "Midpoint formula", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000013", "t": "Newton's second law", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000014", "t": "Kinetic energy", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000015", "t": "Gravitational potential energy", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000016", "t": "Newton's law of gravitation", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000017", "t": "Mass-energy equivalence", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000018", "t": "Ohm's law", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000019", "t": "Electrical power", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000020", "t": "Wave speed", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000021", "t": "Snell's law", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000022", "t": "Ideal gas law", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000023", "t": "Binomial theorem", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000024", "t": "Arithmetic series sum", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000025", "t": "Geometric series sum", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000026", "t": "Compound interest", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000027", "t": "Bayes' theorem", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000028", "t": "Normal distribution PDF", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000029", "t": "Population standard deviation", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000030", "t": "Power rule (derivative)", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000031", "t": "Power rule (integral)", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000032", "t": "Chain rule", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000033", "t": "Product rule", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000034", "t": "Fundamental theorem of calculus", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000035", "t": "Taylor series", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000036", "t": "Euler's formula", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000037", "t": "De Moivre's theorem", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000038", "t": "Matrix multiplication", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000039", "t": "2x2 determinant", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000040", "t": "Eigenvalue equation", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000041", "t": "Fibonacci recurrence", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000042", "t": "Factorial", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000043", "t": "Permutations", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000044", "t": "Combinations", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000045", "t": "Shannon entropy", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000046", "t": "De Morgan's laws", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000047", "t": "Haversine formula", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000048", "t": "Projectile range", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000049", "t": "Doppler effect", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000050", "t": "Lorentz factor", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000051", "t": "Time-independent Schrodinger equation", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000052", "t": "Heisenberg uncertainty", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000053", "t": "Planck relation", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000054", "t": "Coulomb's law", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000055", "t": "RC time constant", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000056", "t": "Discrete Fourier transform", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000057", "t": "Sum of squares", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000058", "t": "Logarithm product law", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000059", "t": "Circle equation", "g": "signature-equation-workability"}
+{"id": "JAH-EQW-000060", "t": "Volume of a sphere", "g": "signature-equation-workability"}

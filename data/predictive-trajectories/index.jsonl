@@ -1,0 +1,60 @@
+{"id": "JAH-PT-000001", "t": "Warehouse AMR corridor prediction", "g": "ground-robots"}
+{"id": "JAH-PT-000002", "t": "Delivery robot sidewalk forecast", "g": "ground-robots"}
+{"id": "JAH-PT-000003", "t": "Autonomous forklift aisle turn", "g": "ground-robots"}
+{"id": "JAH-PT-000004", "t": "Patrol robot perimeter loop", "g": "ground-robots"}
+{"id": "JAH-PT-000005", "t": "Agricultural rover row traversal", "g": "ground-robots"}
+{"id": "JAH-PT-000006", "t": "Mining truck haul road climb", "g": "ground-robots"}
+{"id": "JAH-PT-000007", "t": "Hospital courier hallway run", "g": "ground-robots"}
+{"id": "JAH-PT-000008", "t": "Last-mile delivery bot crossing", "g": "ground-robots"}
+{"id": "JAH-PT-000009", "t": "Parking lot maneuver forecast", "g": "ground-robots"}
+{"id": "JAH-PT-000010", "t": "Off-road UGV ridge climb", "g": "ground-robots"}
+{"id": "JAH-PT-000011", "t": "Quadrotor waypoint survey", "g": "aerial-robots"}
+{"id": "JAH-PT-000012", "t": "Delivery drone descent profile", "g": "aerial-robots"}
+{"id": "JAH-PT-000013", "t": "Inspection drone orbit", "g": "aerial-robots"}
+{"id": "JAH-PT-000014", "t": "Swarm formation hold", "g": "aerial-robots"}
+{"id": "JAH-PT-000015", "t": "Fixed-wing transect", "g": "aerial-robots"}
+{"id": "JAH-PT-000016", "t": "VTOL transition maneuver", "g": "aerial-robots"}
+{"id": "JAH-PT-000017", "t": "Rooftop landing approach", "g": "aerial-robots"}
+{"id": "JAH-PT-000018", "t": "Canyon wind gust response", "g": "aerial-robots"}
+{"id": "JAH-PT-000019", "t": "Agricultural spray pass", "g": "aerial-robots"}
+{"id": "JAH-PT-000020", "t": "Search grid sweep", "g": "aerial-robots"}
+{"id": "JAH-PT-000021", "t": "Pick-and-place joint trajectory", "g": "manipulator-arms"}
+{"id": "JAH-PT-000022", "t": "Welding seam path", "g": "manipulator-arms"}
+{"id": "JAH-PT-000023", "t": "Assembly insertion", "g": "manipulator-arms"}
+{"id": "JAH-PT-000024", "t": "Palletizing cycle", "g": "manipulator-arms"}
+{"id": "JAH-PT-000025", "t": "Surgical tool path", "g": "manipulator-arms"}
+{"id": "JAH-PT-000026", "t": "Painting stroke", "g": "manipulator-arms"}
+{"id": "JAH-PT-000027", "t": "Bin picking reach", "g": "manipulator-arms"}
+{"id": "JAH-PT-000028", "t": "Screwdriving approach", "g": "manipulator-arms"}
+{"id": "JAH-PT-000029", "t": "Deburring pass", "g": "manipulator-arms"}
+{"id": "JAH-PT-000030", "t": "Collaborative handover", "g": "manipulator-arms"}
+{"id": "JAH-PT-000031", "t": "AUV survey transect", "g": "marine-robots"}
+{"id": "JAH-PT-000032", "t": "ROV station keeping", "g": "marine-robots"}
+{"id": "JAH-PT-000033", "t": "Surface vessel waypoint leg", "g": "marine-robots"}
+{"id": "JAH-PT-000034", "t": "Under-ice survey", "g": "marine-robots"}
+{"id": "JAH-PT-000035", "t": "Pipeline following", "g": "marine-robots"}
+{"id": "JAH-PT-000036", "t": "Harbor patrol loop", "g": "marine-robots"}
+{"id": "JAH-PT-000037", "t": "Wave glider drift forecast", "g": "marine-robots"}
+{"id": "JAH-PT-000038", "t": "Docking approach", "g": "marine-robots"}
+{"id": "JAH-PT-000039", "t": "Bathymetry lawnmower", "g": "marine-robots"}
+{"id": "JAH-PT-000040", "t": "Rescue search pattern", "g": "marine-robots"}
+{"id": "JAH-PT-000041", "t": "Walking gait cycle", "g": "humanoid-robots"}
+{"id": "JAH-PT-000042", "t": "Stair climb", "g": "humanoid-robots"}
+{"id": "JAH-PT-000043", "t": "Door opening reach", "g": "humanoid-robots"}
+{"id": "JAH-PT-000044", "t": "Carrying load walk", "g": "humanoid-robots"}
+{"id": "JAH-PT-000045", "t": "Sit-to-stand", "g": "humanoid-robots"}
+{"id": "JAH-PT-000046", "t": "Push recovery step", "g": "humanoid-robots"}
+{"id": "JAH-PT-000047", "t": "Turning maneuver", "g": "humanoid-robots"}
+{"id": "JAH-PT-000048", "t": "Slope ascent", "g": "humanoid-robots"}
+{"id": "JAH-PT-000049", "t": "Obstacle step-over", "g": "humanoid-robots"}
+{"id": "JAH-PT-000050", "t": "Handshake reach", "g": "humanoid-robots"}
+{"id": "JAH-PT-000051", "t": "Satellite rendezvous", "g": "space-robots"}
+{"id": "JAH-PT-000052", "t": "Robotic arm capture", "g": "space-robots"}
+{"id": "JAH-PT-000053", "t": "Rover traverse", "g": "space-robots"}
+{"id": "JAH-PT-000054", "t": "Docking final approach", "g": "space-robots"}
+{"id": "JAH-PT-000055", "t": "Debris avoidance burn", "g": "space-robots"}
+{"id": "JAH-PT-000056", "t": "Antenna pointing slew", "g": "space-robots"}
+{"id": "JAH-PT-000057", "t": "Sample collection", "g": "space-robots"}
+{"id": "JAH-PT-000058", "t": "Hopping maneuver", "g": "space-robots"}
+{"id": "JAH-PT-000059", "t": "Tethered inspection", "g": "space-robots"}
+{"id": "JAH-PT-000060", "t": "Orbital station keeping", "g": "space-robots"}

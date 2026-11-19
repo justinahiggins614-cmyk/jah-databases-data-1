@@ -1,0 +1,34 @@
+{"id": "JAH-FCCR-000001", "t": "Fact Conflict and Contradiction Resolution Database: What Counts as a Fact Conflict", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000002", "t": "Fact Conflict and Contradiction Resolution Database: The Three Conflict Shapes", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000003", "t": "Fact Conflict and Contradiction Resolution Database: Conflicting Records: The Side-by-Side Method", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000004", "t": "Fact Conflict and Contradiction Resolution Database: Source Reliability: The Provenance Questionnaire", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000005", "t": "Fact Conflict and Contradiction Resolution Database: Citation Integrity Basics", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000006", "t": "Fact Conflict and Contradiction Resolution Database: Temporal Facts: Timestamps as Disambiguation", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000007", "t": "Fact Conflict and Contradiction Resolution Database: Primary vs Secondary Sources", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000008", "t": "Fact Conflict and Contradiction Resolution Database: Source Reliability Scoring: The 0-100 Rubric", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000009", "t": "Fact Conflict and Contradiction Resolution Database: Recency vs Authority Trade-offs", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000010", "t": "Fact Conflict and Contradiction Resolution Database: Conflicting Numerical Records", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000011", "t": "Fact Conflict and Contradiction Resolution Database: Name Collisions and Entity Resolution", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000012", "t": "Fact Conflict and Contradiction Resolution Database: Contradictory Dates and Event Ordering", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000013", "t": "Fact Conflict and Contradiction Resolution Database: Version Conflict in Documents", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000014", "t": "Fact Conflict and Contradiction Resolution Database: Witness Testimony vs Instrumental Data", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000015", "t": "Fact Conflict and Contradiction Resolution Database: Expert Disagreement Protocols", "c": 0, "g": "consensus-methods"}
+{"id": "JAH-FCCR-000016", "t": "Fact Conflict and Contradiction Resolution Database: Time-Dependent Facts: Facts That Were True", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000017", "t": "Fact Conflict and Contradiction Resolution Database: Retracted Claims and Corrections", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000018", "t": "Fact Conflict and Contradiction Resolution Database: Duplicate Records With Different Values", "c": 0, "g": "conflict-types"}
+{"id": "JAH-FCCR-000019", "t": "Fact Conflict and Contradiction Resolution Database: Partial Contradictions: Overlap Analysis", "c": 0, "g": "reconciliation"}
+{"id": "JAH-FCCR-000020", "t": "Fact Conflict and Contradiction Resolution Database: Majority Vote vs Weighted Evidence", "c": 0, "g": "consensus-methods"}
+{"id": "JAH-FCCR-000021", "t": "Fact Conflict and Contradiction Resolution Database: Cross-Source Triangulation", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000022", "t": "Fact Conflict and Contradiction Resolution Database: Staleness Detection in Records", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000023", "t": "Fact Conflict and Contradiction Resolution Database: Reconciliation Procedures: The Five-Step Pipeline", "c": 0, "g": "resolution-procedures"}
+{"id": "JAH-FCCR-000024", "t": "Fact Conflict and Contradiction Resolution Database: Dempster-Shafer Evidence Combination", "c": 0, "g": "consensus-methods"}
+{"id": "JAH-FCCR-000025", "t": "Fact Conflict and Contradiction Resolution Database: Bayesian Updating Under Conflict", "c": 0, "g": "consensus-methods"}
+{"id": "JAH-FCCR-000026", "t": "Fact Conflict and Contradiction Resolution Database: Truth Discovery Algorithms", "c": 0, "g": "consensus-methods"}
+{"id": "JAH-FCCR-000027", "t": "Fact Conflict and Contradiction Resolution Database: Correlated Sources: Detecting Echo Chambers", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000028", "t": "Fact Conflict and Contradiction Resolution Database: Adversarial Sources: Intentional Disinformation", "c": 0, "g": "provenance-assessment"}
+{"id": "JAH-FCCR-000029", "t": "Fact Conflict and Contradiction Resolution Database: Knowledge Graph Consistency Repair", "c": 0, "g": "resolution-procedures"}
+{"id": "JAH-FCCR-000030", "t": "Fact Conflict and Contradiction Resolution Database: Argumentation Frameworks for Conflicts", "c": 0, "g": "resolution-procedures"}
+{"id": "JAH-FCCR-000031", "t": "Fact Conflict and Contradiction Resolution Database: Version-Controlled Truth", "c": 0, "g": "temporal-truth"}
+{"id": "JAH-FCCR-000032", "t": "Fact Conflict and Contradiction Resolution Database: Confidence-Weighted Reconciliation", "c": 0, "g": "consensus-methods"}
+{"id": "JAH-FCCR-000033", "t": "Fact Conflict and Contradiction Resolution Database: Contradiction Logging and Audit Trails", "c": 0, "g": "resolution-procedures"}
+{"id": "JAH-FCCR-000034", "t": "Fact Conflict and Contradiction Resolution Database: Fallback: When Resolution Is Impossible", "c": 0, "g": "resolution-procedures"}

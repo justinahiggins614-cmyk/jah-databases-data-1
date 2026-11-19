@@ -1,0 +1,57 @@
+{"id": "JAH-PLT-000001", "t": "Technology Stacks", "g": "platform"}
+{"id": "JAH-PLT-000002", "t": "Software Stacks", "g": "platform"}
+{"id": "JAH-PLT-000003", "t": "Protocol Stacks", "g": "platform"}
+{"id": "JAH-PLT-000004", "t": "Platform as a Service", "g": "platform"}
+{"id": "JAH-PLT-000005", "t": "Infrastructure as a Service", "g": "platform"}
+{"id": "JAH-PLT-000006", "t": "Backend as a Service", "g": "platform"}
+{"id": "JAH-PLT-000007", "t": "Function as a Service", "g": "platform"}
+{"id": "JAH-PLT-000008", "t": "Container as a Service", "g": "platform"}
+{"id": "JAH-PLT-000009", "t": "Kubernetes Platforms", "g": "platform"}
+{"id": "JAH-PLT-000010", "t": "Service Meshes", "g": "platform"}
+{"id": "JAH-PLT-000011", "t": "API Gateways", "g": "platform"}
+{"id": "JAH-PLT-000012", "t": "Service Registries", "g": "platform"}
+{"id": "JAH-PLT-000013", "t": "Configuration Platforms", "g": "platform"}
+{"id": "JAH-PLT-000014", "t": "Secret Platforms", "g": "platform"}
+{"id": "JAH-PLT-000015", "t": "Identity Platforms", "g": "platform"}
+{"id": "JAH-PLT-000016", "t": "Data Platforms", "g": "platform"}
+{"id": "JAH-PLT-000017", "t": "ML Platforms", "g": "platform"}
+{"id": "JAH-PLT-000018", "t": "IoT Platforms", "g": "platform"}
+{"id": "JAH-PLT-000019", "t": "Edge Platforms", "g": "platform"}
+{"id": "JAH-PLT-000020", "t": "SaaS Platforms", "g": "platform"}
+{"id": "JAH-PLT-000021", "t": "Marketplace Platforms", "g": "platform"}
+{"id": "JAH-PLT-000022", "t": "E-commerce Platforms", "g": "platform"}
+{"id": "JAH-PLT-000023", "t": "CMS Platforms", "g": "platform"}
+{"id": "JAH-PLT-000024", "t": "LMS Platforms", "g": "platform"}
+{"id": "JAH-PLT-000025", "t": "CRM Platforms", "g": "platform"}
+{"id": "JAH-PLT-000026", "t": "ERP Platforms", "g": "platform"}
+{"id": "JAH-PLT-000027", "t": "Collaboration Platforms", "g": "platform"}
+{"id": "JAH-PLT-000028", "t": "Communication Platforms", "g": "platform"}
+{"id": "JAH-PLT-000029", "t": "Payment Platforms", "g": "platform"}
+{"id": "JAH-PLT-000030", "t": "Observability Platforms", "g": "platform"}
+{"id": "JAH-PLT-000031", "t": "Security Platforms", "g": "platform"}
+{"id": "JAH-PLT-000032", "t": "Backup Platforms", "g": "platform"}
+{"id": "JAH-PLT-000033", "t": "DR Platforms", "g": "platform"}
+{"id": "JAH-PLT-000034", "t": "VDI Platforms", "g": "platform"}
+{"id": "JAH-PLT-000035", "t": "DaaS Platforms", "g": "platform"}
+{"id": "JAH-PLT-000036", "t": "Development Platforms", "g": "platform"}
+{"id": "JAH-PLT-000037", "t": "CI/CD Platforms", "g": "platform"}
+{"id": "JAH-PLT-000038", "t": "Artifact Platforms", "g": "platform"}
+{"id": "JAH-PLT-000039", "t": "Feature Platforms", "g": "platform"}
+{"id": "JAH-PLT-000040", "t": "Search Platforms", "g": "platform"}
+{"id": "JAH-PLT-000041", "t": "Recommendation Platforms", "g": "platform"}
+{"id": "JAH-PLT-000042", "t": "Ad Platforms", "g": "platform"}
+{"id": "JAH-PLT-000043", "t": "Analytics Platforms", "g": "platform"}
+{"id": "JAH-PLT-000044", "t": "Warehouse Platforms", "g": "platform"}
+{"id": "JAH-PLT-000045", "t": "Lakehouse Platforms", "g": "platform"}
+{"id": "JAH-PLT-000046", "t": "Streaming Platforms", "g": "platform"}
+{"id": "JAH-PLT-000047", "t": "Message Platforms", "g": "platform"}
+{"id": "JAH-PLT-000048", "t": "Workflow Platforms", "g": "platform"}
+{"id": "JAH-PLT-000049", "t": "Orchestration Layers", "g": "platform"}
+{"id": "JAH-PLT-000050", "t": "Abstraction Layers", "g": "platform"}
+{"id": "JAH-PLT-000051", "t": "Control Planes", "g": "platform"}
+{"id": "JAH-PLT-000052", "t": "Data Planes", "g": "platform"}
+{"id": "JAH-PLT-000053", "t": "Management Planes", "g": "platform"}
+{"id": "JAH-PLT-000054", "t": "Service Fabrics", "g": "platform"}
+{"id": "JAH-PLT-000055", "t": "Application Fabrics", "g": "platform"}
+{"id": "JAH-PLT-000056", "t": "Compute Fabrics", "g": "platform"}
+{"id": "JAH-PLT-000057", "t": "Storage Fabrics", "g": "platform"}

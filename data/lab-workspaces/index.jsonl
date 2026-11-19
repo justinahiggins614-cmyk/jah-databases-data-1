@@ -1,0 +1,61 @@
+{"id": "JAH-LAB-000001", "t": "Research Laboratories", "g": "workspace"}
+{"id": "JAH-LAB-000002", "t": "Development Workspaces", "g": "workspace"}
+{"id": "JAH-LAB-000003", "t": "Testbeds", "g": "workspace"}
+{"id": "JAH-LAB-000004", "t": "Sandboxes", "g": "workspace"}
+{"id": "JAH-LAB-000005", "t": "Workshops", "g": "workspace"}
+{"id": "JAH-LAB-000006", "t": "Studios", "g": "workspace"}
+{"id": "JAH-LAB-000007", "t": "Workbenches", "g": "workspace"}
+{"id": "JAH-LAB-000008", "t": "Workstations", "g": "workspace"}
+{"id": "JAH-LAB-000009", "t": "Terminals", "g": "workspace"}
+{"id": "JAH-LAB-000010", "t": "Dashboards", "g": "workspace"}
+{"id": "JAH-LAB-000011", "t": "Control Rooms", "g": "workspace"}
+{"id": "JAH-LAB-000012", "t": "Network Operations Centers", "g": "workspace"}
+{"id": "JAH-LAB-000013", "t": "Security Operations Centers", "g": "workspace"}
+{"id": "JAH-LAB-000014", "t": "War Rooms", "g": "workspace"}
+{"id": "JAH-LAB-000015", "t": "Command Centers", "g": "workspace"}
+{"id": "JAH-LAB-000016", "t": "Stations", "g": "workspace"}
+{"id": "JAH-LAB-000017", "t": "Bays", "g": "workspace"}
+{"id": "JAH-LAB-000018", "t": "Pods", "g": "workspace"}
+{"id": "JAH-LAB-000019", "t": "Hubs", "g": "workspace"}
+{"id": "JAH-LAB-000020", "t": "Clean Benches", "g": "workspace"}
+{"id": "JAH-LAB-000021", "t": "Darkrooms", "g": "workspace"}
+{"id": "JAH-LAB-000022", "t": "Anechoic Workstations", "g": "workspace"}
+{"id": "JAH-LAB-000023", "t": "Server Rooms", "g": "workspace"}
+{"id": "JAH-LAB-000024", "t": "Wiring Closets", "g": "workspace"}
+{"id": "JAH-LAB-000025", "t": "Demo Rooms", "g": "workspace"}
+{"id": "JAH-LAB-000026", "t": "Training Labs", "g": "workspace"}
+{"id": "JAH-LAB-000027", "t": "Usability Labs", "g": "workspace"}
+{"id": "JAH-LAB-000028", "t": "Conference Bridges", "g": "workspace"}
+{"id": "JAH-LAB-000029", "t": "Hot Desks", "g": "workspace"}
+{"id": "JAH-LAB-000030", "t": "Maker Benches", "g": "workspace"}
+{"id": "JAH-LAB-000031", "t": "Repair Cafes", "g": "workspace"}
+{"id": "JAH-LAB-000032", "t": "Calibration Stations", "g": "workspace"}
+{"id": "JAH-LAB-000033", "t": "Metrology Benches", "g": "workspace"}
+{"id": "JAH-LAB-000034", "t": "Soldering Stations", "g": "workspace"}
+{"id": "JAH-LAB-000035", "t": "Rework Stations", "g": "workspace"}
+{"id": "JAH-LAB-000036", "t": "Test Jigs", "g": "workspace"}
+{"id": "JAH-LAB-000037", "t": "Burn-In Racks", "g": "workspace"}
+{"id": "JAH-LAB-000038", "t": "Prototype Bays", "g": "workspace"}
+{"id": "JAH-LAB-000039", "t": "Integration Labs", "g": "workspace"}
+{"id": "JAH-LAB-000040", "t": "Compatibility Labs", "g": "workspace"}
+{"id": "JAH-LAB-000041", "t": "Performance Labs", "g": "workspace"}
+{"id": "JAH-LAB-000042", "t": "Security Labs", "g": "workspace"}
+{"id": "JAH-LAB-000043", "t": "Forensics Workstations", "g": "workspace"}
+{"id": "JAH-LAB-000044", "t": "Recovery Benches", "g": "workspace"}
+{"id": "JAH-LAB-000045", "t": "Archive Rooms", "g": "workspace"}
+{"id": "JAH-LAB-000046", "t": "Media Labs", "g": "workspace"}
+{"id": "JAH-LAB-000047", "t": "Broadcast Studios", "g": "workspace"}
+{"id": "JAH-LAB-000048", "t": "Podcast Booths", "g": "workspace"}
+{"id": "JAH-LAB-000049", "t": "Streaming Rigs", "g": "workspace"}
+{"id": "JAH-LAB-000050", "t": "VR Labs", "g": "workspace"}
+{"id": "JAH-LAB-000051", "t": "Robotics Bays", "g": "workspace"}
+{"id": "JAH-LAB-000052", "t": "Drone Cages", "g": "workspace"}
+{"id": "JAH-LAB-000053", "t": "Field Kits", "g": "workspace"}
+{"id": "JAH-LAB-000054", "t": "Mobile Labs", "g": "workspace"}
+{"id": "JAH-LAB-000055", "t": "Pop-Up Labs", "g": "workspace"}
+{"id": "JAH-LAB-000056", "t": "Classroom Labs", "g": "workspace"}
+{"id": "JAH-LAB-000057", "t": "Library Labs", "g": "workspace"}
+{"id": "JAH-LAB-000058", "t": "Community Labs", "g": "workspace"}
+{"id": "JAH-LAB-000059", "t": "Corporate Labs", "g": "workspace"}
+{"id": "JAH-LAB-000060", "t": "University Labs", "g": "workspace"}
+{"id": "JAH-LAB-000061", "t": "Government Labs", "g": "workspace"}

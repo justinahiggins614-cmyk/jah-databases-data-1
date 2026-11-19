@@ -1,0 +1,34 @@
+{"id": "JAH-IACS-000001", "t": "Identity and Access Control Architecture Signature Database: MFA Enrollment", "c": 0, "g": "authentication"}
+{"id": "JAH-IACS-000002", "t": "Identity and Access Control Architecture Signature Database: RBAC Design", "c": 0, "g": "authorization"}
+{"id": "JAH-IACS-000003", "t": "Identity and Access Control Architecture Signature Database: Least-Privilege Review", "c": 0, "g": "authorization"}
+{"id": "JAH-IACS-000004", "t": "Identity and Access Control Architecture Signature Database: Access Certification", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000005", "t": "Identity and Access Control Architecture Signature Database: Joiner-Mover-Leaver", "c": 0, "g": "lifecycle"}
+{"id": "JAH-IACS-000006", "t": "Identity and Access Control Architecture Signature Database: Privileged Access (PAM)", "c": 0, "g": "privileged"}
+{"id": "JAH-IACS-000007", "t": "Identity and Access Control Architecture Signature Database: Just-in-Time Admin", "c": 0, "g": "privileged"}
+{"id": "JAH-IACS-000008", "t": "Identity and Access Control Architecture Signature Database: Service Accounts", "c": 0, "g": "non-human"}
+{"id": "JAH-IACS-000009", "t": "Identity and Access Control Architecture Signature Database: API Key Lifecycle", "c": 0, "g": "non-human"}
+{"id": "JAH-IACS-000010", "t": "Identity and Access Control Architecture Signature Database: Token Lifetimes", "c": 0, "g": "tokens"}
+{"id": "JAH-IACS-000011", "t": "Identity and Access Control Architecture Signature Database: Session Management", "c": 0, "g": "tokens"}
+{"id": "JAH-IACS-000012", "t": "Identity and Access Control Architecture Signature Database: SSO Deployment", "c": 0, "g": "federation"}
+{"id": "JAH-IACS-000013", "t": "Identity and Access Control Architecture Signature Database: OAuth2 Flows", "c": 0, "g": "federation"}
+{"id": "JAH-IACS-000014", "t": "Identity and Access Control Architecture Signature Database: Deprovisioning", "c": 0, "g": "lifecycle"}
+{"id": "JAH-IACS-000015", "t": "Identity and Access Control Architecture Signature Database: Emergency Access", "c": 0, "g": "privileged"}
+{"id": "JAH-IACS-000016", "t": "Identity and Access Control Architecture Signature Database: Separation of Duties", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000017", "t": "Identity and Access Control Architecture Signature Database: Access Request Workflow", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000018", "t": "Identity and Access Control Architecture Signature Database: Directory Sync", "c": 0, "g": "federation"}
+{"id": "JAH-IACS-000019", "t": "Identity and Access Control Architecture Signature Database: Workload Identity", "c": 0, "g": "non-human"}
+{"id": "JAH-IACS-000020", "t": "Identity and Access Control Architecture Signature Database: mTLS", "c": 0, "g": "non-human"}
+{"id": "JAH-IACS-000021", "t": "Identity and Access Control Architecture Signature Database: Password Policy", "c": 0, "g": "authentication"}
+{"id": "JAH-IACS-000022", "t": "Identity and Access Control Architecture Signature Database: Account Lockout Policy", "c": 0, "g": "authentication"}
+{"id": "JAH-IACS-000023", "t": "Identity and Access Control Architecture Signature Database: Role Mining", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000024", "t": "Identity and Access Control Architecture Signature Database: Entitlement Review", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000025", "t": "Identity and Access Control Architecture Signature Database: Zero Standing Privilege", "c": 0, "g": "privileged"}
+{"id": "JAH-IACS-000026", "t": "Identity and Access Control Architecture Signature Database: Identity Governance", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000027", "t": "Identity and Access Control Architecture Signature Database: Federation Trust", "c": 0, "g": "federation"}
+{"id": "JAH-IACS-000028", "t": "Identity and Access Control Architecture Signature Database: Biometric Factors", "c": 0, "g": "authentication"}
+{"id": "JAH-IACS-000029", "t": "Identity and Access Control Architecture Signature Database: CI/CD Identity", "c": 0, "g": "non-human"}
+{"id": "JAH-IACS-000030", "t": "Identity and Access Control Architecture Signature Database: Access Logging", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000031", "t": "Identity and Access Control Architecture Signature Database: Guest Access", "c": 0, "g": "lifecycle"}
+{"id": "JAH-IACS-000032", "t": "Identity and Access Control Architecture Signature Database: API Scopes", "c": 0, "g": "authorization"}
+{"id": "JAH-IACS-000033", "t": "Identity and Access Control Architecture Signature Database: Data Access Approval", "c": 0, "g": "governance"}
+{"id": "JAH-IACS-000034", "t": "Identity and Access Control Architecture Signature Database: Capstone: IAM Program", "c": 0, "g": "governance"}

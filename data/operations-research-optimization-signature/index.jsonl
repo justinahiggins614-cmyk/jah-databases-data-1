@@ -1,0 +1,34 @@
+{"id": "JAH-OROS-000001", "t": "Operations Research and Decision Optimization Signature Database: EOQ", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000002", "t": "Operations Research and Decision Optimization Signature Database: Reorder Point", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000003", "t": "Operations Research and Decision Optimization Signature Database: Safety Stock", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000004", "t": "Operations Research and Decision Optimization Signature Database: Total Inventory Cost", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000005", "t": "Operations Research and Decision Optimization Signature Database: Orders Per Year", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000006", "t": "Operations Research and Decision Optimization Signature Database: Cycle Time (days)", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000007", "t": "Operations Research and Decision Optimization Signature Database: Break-Even Units", "c": 0, "g": "finance"}
+{"id": "JAH-OROS-000008", "t": "Operations Research and Decision Optimization Signature Database: Break-Even Revenue", "c": 0, "g": "finance"}
+{"id": "JAH-OROS-000009", "t": "Operations Research and Decision Optimization Signature Database: Net Present Value (single)", "c": 0, "g": "finance"}
+{"id": "JAH-OROS-000010", "t": "Operations Research and Decision Optimization Signature Database: Payback Period", "c": 0, "g": "finance"}
+{"id": "JAH-OROS-000011", "t": "Operations Research and Decision Optimization Signature Database: Little Law", "c": 0, "g": "queuing"}
+{"id": "JAH-OROS-000012", "t": "Operations Research and Decision Optimization Signature Database: Utilization", "c": 0, "g": "queuing"}
+{"id": "JAH-OROS-000013", "t": "Operations Research and Decision Optimization Signature Database: M/M/1 Queue Length", "c": 0, "g": "queuing"}
+{"id": "JAH-OROS-000014", "t": "Operations Research and Decision Optimization Signature Database: M/M/1 Wait Time", "c": 0, "g": "queuing"}
+{"id": "JAH-OROS-000015", "t": "Operations Research and Decision Optimization Signature Database: M/M/1 In System", "c": 0, "g": "queuing"}
+{"id": "JAH-OROS-000016", "t": "Operations Research and Decision Optimization Signature Database: LP Corner Value", "c": 0, "g": "optimization"}
+{"id": "JAH-OROS-000017", "t": "Operations Research and Decision Optimization Signature Database: Critical Path Length", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000018", "t": "Operations Research and Decision Optimization Signature Database: PERT Expected Time", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000019", "t": "Operations Research and Decision Optimization Signature Database: PERT Variance", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000020", "t": "Operations Research and Decision Optimization Signature Database: Learning Curve", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000021", "t": "Operations Research and Decision Optimization Signature Database: Moving Average Forecast", "c": 0, "g": "forecasting"}
+{"id": "JAH-OROS-000022", "t": "Operations Research and Decision Optimization Signature Database: Weighted Moving Average", "c": 0, "g": "forecasting"}
+{"id": "JAH-OROS-000023", "t": "Operations Research and Decision Optimization Signature Database: Exponential Smoothing", "c": 0, "g": "forecasting"}
+{"id": "JAH-OROS-000024", "t": "Operations Research and Decision Optimization Signature Database: Newsvendor Critical Ratio", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000025", "t": "Operations Research and Decision Optimization Signature Database: Throughput", "c": 0, "g": "queuing"}
+{"id": "JAH-OROS-000026", "t": "Operations Research and Decision Optimization Signature Database: Capacity Utilization", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000027", "t": "Operations Research and Decision Optimization Signature Database: OEE", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000028", "t": "Operations Research and Decision Optimization Signature Database: Takt Time", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000029", "t": "Operations Research and Decision Optimization Signature Database: Labor Productivity", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000030", "t": "Operations Research and Decision Optimization Signature Database: Machines Required", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000031", "t": "Operations Research and Decision Optimization Signature Database: Crash Cost Slope", "c": 0, "g": "scheduling"}
+{"id": "JAH-OROS-000032", "t": "Operations Research and Decision Optimization Signature Database: Expected Monetary Value", "c": 0, "g": "decision"}
+{"id": "JAH-OROS-000033", "t": "Operations Research and Decision Optimization Signature Database: Economic Production Quantity", "c": 0, "g": "inventory"}
+{"id": "JAH-OROS-000034", "t": "Operations Research and Decision Optimization Signature Database: Total Logistics Cost Capstone", "c": 0, "g": "inventory"}

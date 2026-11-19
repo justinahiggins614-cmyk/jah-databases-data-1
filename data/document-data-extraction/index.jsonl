@@ -1,0 +1,54 @@
+{"id": "JAH-DDE-000001", "t": "Document and Data Extraction Database: Extract Key-Value Pairs", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000002", "t": "Document and Data Extraction Database: Extract Table (CSV)", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000003", "t": "Document and Data Extraction Database: Extract Table (aligned)", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000004", "t": "Document and Data Extraction Database: Extract Dates", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000005", "t": "Document and Data Extraction Database: Extract Money", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000006", "t": "Document and Data Extraction Database: Extract Emails", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000007", "t": "Document and Data Extraction Database: Extract Phones", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000008", "t": "Document and Data Extraction Database: Extract Headings", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000009", "t": "Document and Data Extraction Database: Extract Lists", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000010", "t": "Document and Data Extraction Database: Clean OCR Text", "c": 0, "g": "scanned"}
+{"id": "JAH-DDE-000011", "t": "Document and Data Extraction Database: Dehyphenate", "c": 0, "g": "scanned"}
+{"id": "JAH-DDE-000012", "t": "Document and Data Extraction Database: Extract URLs", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000013", "t": "Document and Data Extraction Database: Extract Units", "c": 0, "g": "technical"}
+{"id": "JAH-DDE-000014", "t": "Document and Data Extraction Database: Normalize Whitespace", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000015", "t": "Document and Data Extraction Database: Split Sentences", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000016", "t": "Document and Data Extraction Database: Extract Acronyms", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000017", "t": "Document and Data Extraction Database: Detect Language", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000018", "t": "Document and Data Extraction Database: Extract Footnotes", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000019", "t": "Document and Data Extraction Database: Table to JSON", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000020", "t": "Document and Data Extraction Database: Deduplicate Lines", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000021", "t": "Document and Data Extraction Database: Extract Signatures", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000022", "t": "Document and Data Extraction Database: Section Split", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000023", "t": "Document and Data Extraction Database: Extract Totals", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000024", "t": "Document and Data Extraction Database: Confidence Scoring", "c": 0, "g": "quality"}
+{"id": "JAH-DDE-000025", "t": "Document and Data Extraction Database: Merge Extractions", "c": 0, "g": "quality"}
+{"id": "JAH-DDE-000026", "t": "Document and Data Extraction Database: Validate Schema", "c": 0, "g": "quality"}
+{"id": "JAH-DDE-000027", "t": "Document and Data Extraction Database: Extract Metadata", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000028", "t": "Document and Data Extraction Database: Redact PII", "c": 0, "g": "quality"}
+{"id": "JAH-DDE-000029", "t": "Document and Data Extraction Database: Chunk Text", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000030", "t": "Document and Data Extraction Database: Overlap Chunks", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000031", "t": "Document and Data Extraction Database: Extract Citations", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000032", "t": "Document and Data Extraction Database: Detect Encoding", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000033", "t": "Document and Data Extraction Database: Normalize Dates", "c": 0, "g": "text"}
+{"id": "JAH-DDE-000034", "t": "Document and Data Extraction Database: Capstone: Document Pipeline", "c": 0, "g": "structure"}
+{"id": "JAH-DDE-000035", "t": "Document and Data Extraction Database: Parse Markdown Tables", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000036", "t": "Document and Data Extraction Database: Parse CSV With Quoted Commas", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000037", "t": "Document and Data Extraction Database: Extract HTML Tables Without a Parser", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000038", "t": "Document and Data Extraction Database: Parse Fixed-Width Columns", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000039", "t": "Document and Data Extraction Database: Normalize Table Headers", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000040", "t": "Document and Data Extraction Database: Flatten Merged Header Cells", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000041", "t": "Document and Data Extraction Database: Join Multi-Line Cells", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000042", "t": "Document and Data Extraction Database: Validate Column Count Consistency", "c": 0, "g": "validation"}
+{"id": "JAH-DDE-000043", "t": "Document and Data Extraction Database: Validate Required Columns Present", "c": 0, "g": "validation"}
+{"id": "JAH-DDE-000044", "t": "Document and Data Extraction Database: Type-Check Columns", "c": 0, "g": "validation"}
+{"id": "JAH-DDE-000045", "t": "Document and Data Extraction Database: Detect Duplicate Rows", "c": 0, "g": "validation"}
+{"id": "JAH-DDE-000046", "t": "Document and Data Extraction Database: Range-Check Numeric Columns", "c": 0, "g": "validation"}
+{"id": "JAH-DDE-000047", "t": "Document and Data Extraction Database: Referential Check Between Tables", "c": 0, "g": "validation"}
+{"id": "JAH-DDE-000048", "t": "Document and Data Extraction Database: Transpose Rows and Columns", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000049", "t": "Document and Data Extraction Database: Unpivot Wide Tables (Melt)", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000050", "t": "Document and Data Extraction Database: Detect the Header Row in Messy Sheets", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000051", "t": "Document and Data Extraction Database: Strip Footnote Rows", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000052", "t": "Document and Data Extraction Database: Parse Currency and Thousands", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000053", "t": "Document and Data Extraction Database: Normalize Mixed Date Formats", "c": 0, "g": "tables"}
+{"id": "JAH-DDE-000054", "t": "Document and Data Extraction Database: Validate Table Checksums", "c": 0, "g": "validation"}

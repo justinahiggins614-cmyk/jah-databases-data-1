@@ -1,0 +1,34 @@
+{"id": "JAH-CDCS-000001", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Asset Inventory", "c": 0, "g": "foundations"}
+{"id": "JAH-CDCS-000002", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Threat Modeling (STRIDE)", "c": 0, "g": "foundations"}
+{"id": "JAH-CDCS-000003", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Risk Assessment", "c": 0, "g": "foundations"}
+{"id": "JAH-CDCS-000004", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Defense in Depth", "c": 0, "g": "architecture"}
+{"id": "JAH-CDCS-000005", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Network Segmentation", "c": 0, "g": "architecture"}
+{"id": "JAH-CDCS-000006", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Firewall Rules", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000007", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: IDS/IPS Tuning", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000008", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Endpoint Protection", "c": 0, "g": "endpoint"}
+{"id": "JAH-CDCS-000009", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Patch Management", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000010", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Vulnerability Scanning", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000011", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Penetration Testing", "c": 0, "g": "assurance"}
+{"id": "JAH-CDCS-000012", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Security Awareness", "c": 0, "g": "people"}
+{"id": "JAH-CDCS-000013", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Phishing Simulation", "c": 0, "g": "people"}
+{"id": "JAH-CDCS-000014", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Incident Response Plan", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000015", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Backup 3-2-1", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000016", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: System Hardening (CIS)", "c": 0, "g": "hardening"}
+{"id": "JAH-CDCS-000017", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: MFA Enforcement", "c": 0, "g": "identity"}
+{"id": "JAH-CDCS-000018", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Encryption at Rest", "c": 0, "g": "data"}
+{"id": "JAH-CDCS-000019", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: TLS Everywhere", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000020", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Email Authentication", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000021", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: WAF Deployment", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000022", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: DDoS Mitigation", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000023", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: SIEM Deployment", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000024", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Log Management", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000025", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Zero Trust", "c": 0, "g": "architecture"}
+{"id": "JAH-CDCS-000026", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Change Management", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000027", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Security Metrics", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000028", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Secure DNS", "c": 0, "g": "network"}
+{"id": "JAH-CDCS-000029", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Physical Security", "c": 0, "g": "people"}
+{"id": "JAH-CDCS-000030", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Threat Intelligence", "c": 0, "g": "operations"}
+{"id": "JAH-CDCS-000031", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Deception Technology", "c": 0, "g": "detection"}
+{"id": "JAH-CDCS-000032", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Data Loss Prevention", "c": 0, "g": "data"}
+{"id": "JAH-CDCS-000033", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Browser Isolation", "c": 0, "g": "endpoint"}
+{"id": "JAH-CDCS-000034", "t": "Cybersecurity Knowledge and Defense Controls Signature Database: Capstone: Security Program", "c": 0, "g": "operations"}

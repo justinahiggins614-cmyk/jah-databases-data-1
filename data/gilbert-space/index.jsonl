@@ -1,0 +1,36 @@
+{"id": "JAH-GILB-000001", "t": "Vectors: the building blocks", "g": "gilbert-space"}
+{"id": "JAH-GILB-000002", "t": "The dot product: measuring alignment", "g": "gilbert-space"}
+{"id": "JAH-GILB-000003", "t": "The cross product: his reel's |A x B| = AB sin(theta) (flagship)", "g": "gilbert-space"}
+{"id": "JAH-GILB-000004", "t": "The inner product: the master measuring tool", "g": "gilbert-space"}
+{"id": "JAH-GILB-000005", "t": "Norm: length from the inner product", "g": "gilbert-space"}
+{"id": "JAH-GILB-000006", "t": "Cauchy-Schwarz: the fundamental bound", "g": "gilbert-space"}
+{"id": "JAH-GILB-000007", "t": "Parallelogram law: the Hilbert fingerprint", "g": "gilbert-space"}
+{"id": "JAH-GILB-000008", "t": "Polarization identity: recovering the inner product", "g": "gilbert-space"}
+{"id": "JAH-GILB-000009", "t": "Orthogonality and Pythagoras, generalized", "g": "gilbert-space"}
+{"id": "JAH-GILB-000010", "t": "Euclidean space: the finite model", "g": "gilbert-space"}
+{"id": "JAH-GILB-000011", "t": "Sequence space l2: infinity, tamed", "g": "gilbert-space"}
+{"id": "JAH-GILB-000012", "t": "Function space L2: signals as vectors", "g": "gilbert-space"}
+{"id": "JAH-GILB-000013", "t": "Completeness: no missing limit points", "g": "gilbert-space"}
+{"id": "JAH-GILB-000014", "t": "Orthonormal bases: the perfect coordinate frame", "g": "gilbert-space"}
+{"id": "JAH-GILB-000015", "t": "Bessel's inequality: energy cannot exceed the whole", "g": "gilbert-space"}
+{"id": "JAH-GILB-000016", "t": "Parseval's identity: energy is preserved", "g": "gilbert-space"}
+{"id": "JAH-GILB-000017", "t": "Gram-Schmidt: calibrating the frame", "g": "gilbert-space"}
+{"id": "JAH-GILB-000018", "t": "Projection theorem: the closest point", "g": "gilbert-space"}
+{"id": "JAH-GILB-000019", "t": "Riesz representation: every measurement is a vector", "g": "gilbert-space"}
+{"id": "JAH-GILB-000020", "t": "Bounded operators: the working maps", "g": "gilbert-space"}
+{"id": "JAH-GILB-000021", "t": "Adjoints: the mirrored operator", "g": "gilbert-space"}
+{"id": "JAH-GILB-000022", "t": "Unitary operators: perfect rotations", "g": "gilbert-space"}
+{"id": "JAH-GILB-000023", "t": "Fourier series: music of the L2 basis", "g": "gilbert-space"}
+{"id": "JAH-GILB-000024", "t": "Plancherel: energy in = energy out", "g": "gilbert-space"}
+{"id": "JAH-GILB-000025", "t": "Compact operators: the tame infinite", "g": "gilbert-space"}
+{"id": "JAH-GILB-000026", "t": "Spectral theorem: the diagonal frame", "g": "gilbert-space"}
+{"id": "JAH-GILB-000027", "t": "Quantum states: vectors of possibility", "g": "gilbert-space"}
+{"id": "JAH-GILB-000028", "t": "The uncertainty principle: a Hilbert theorem", "g": "gilbert-space"}
+{"id": "JAH-GILB-000029", "t": "Schrodinger equation: unitary time evolution", "g": "gilbert-space"}
+{"id": "JAH-GILB-000030", "t": "Reproducing kernel Hilbert spaces: machine learning's Hilbert space", "g": "gilbert-space"}
+{"id": "JAH-GILB-000031", "t": "Sobolev spaces: measuring change too", "g": "gilbert-space"}
+{"id": "JAH-GILB-000032", "t": "Signal processing: Hilbert space in your pocket", "g": "gilbert-space"}
+{"id": "JAH-GILB-000033", "t": "Quantum computing: Hilbert space as hardware", "g": "gilbert-space"}
+{"id": "JAH-GILB-000034", "t": "Partial differential equations: the weak-geometry victory", "g": "gilbert-space"}
+{"id": "JAH-GILB-000035", "t": "History: Hilbert, Riesz, von Neumann", "g": "gilbert-space"}
+{"id": "JAH-GILB-000036", "t": "The united Gilbert space: both readings, one object", "g": "gilbert-space"}

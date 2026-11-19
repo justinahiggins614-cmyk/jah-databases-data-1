@@ -1,0 +1,54 @@
+{"id": "JAH-SSCS-000001", "t": "Software Supply-Chain Security Database: SBOM Generation", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCS-000002", "t": "Software Supply-Chain Security Database: SBOM Consumption", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCS-000003", "t": "Software Supply-Chain Security Database: Build Provenance (SLSA)", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000004", "t": "Software Supply-Chain Security Database: Artifact Signing", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000005", "t": "Software Supply-Chain Security Database: Dependency Pinning", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000006", "t": "Software Supply-Chain Security Database: Private Registry", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000007", "t": "Software Supply-Chain Security Database: Reproducible Builds", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000008", "t": "Software Supply-Chain Security Database: Hermetic Builds", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000009", "t": "Software Supply-Chain Security Database: CI Secrets Hygiene", "c": 0, "g": "ci-security"}
+{"id": "JAH-SSCS-000010", "t": "Software Supply-Chain Security Database: Runner Isolation", "c": 0, "g": "ci-security"}
+{"id": "JAH-SSCS-000011", "t": "Software Supply-Chain Security Database: OIDC for CI", "c": 0, "g": "ci-security"}
+{"id": "JAH-SSCS-000012", "t": "Software Supply-Chain Security Database: Typosquat Defense", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000013", "t": "Software Supply-Chain Security Database: Compromised Package Response", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000014", "t": "Software Supply-Chain Security Database: Maintainer Risk", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000015", "t": "Software Supply-Chain Security Database: VEX (Exploitability)", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCS-000016", "t": "Software Supply-Chain Security Database: Dependency Updates", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000017", "t": "Software Supply-Chain Security Database: EOL Tracking", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000018", "t": "Software Supply-Chain Security Database: Container Base Images", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000019", "t": "Software Supply-Chain Security Database: Signed Commits", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000020", "t": "Software Supply-Chain Security Database: Vendor Assessment", "c": 0, "g": "vendor"}
+{"id": "JAH-SSCS-000021", "t": "Software Supply-Chain Security Database: Contract Security Clauses", "c": 0, "g": "vendor"}
+{"id": "JAH-SSCS-000022", "t": "Software Supply-Chain Security Database: Update Verification", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000023", "t": "Software Supply-Chain Security Database: Binary Transparency", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000024", "t": "Software Supply-Chain Security Database: Air-Gapped Builds", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000025", "t": "Software Supply-Chain Security Database: SBOM Sharing", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCS-000026", "t": "Software Supply-Chain Security Database: IaC Module Provenance", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000027", "t": "Software Supply-Chain Security Database: Secrets in Artifacts", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000028", "t": "Software Supply-Chain Security Database: License Provenance", "c": 0, "g": "sbom"}
+{"id": "JAH-SSCS-000029", "t": "Software Supply-Chain Security Database: Incident Response (Supply Chain)", "c": 0, "g": "response"}
+{"id": "JAH-SSCS-000030", "t": "Software Supply-Chain Security Database: Build Attestation Verify", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000031", "t": "Software Supply-Chain Security Database: Dependency Firewall", "c": 0, "g": "dependencies"}
+{"id": "JAH-SSCS-000032", "t": "Software Supply-Chain Security Database: SLSA Levels", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000033", "t": "Software Supply-Chain Security Database: Open Source Policy", "c": 0, "g": "vendor"}
+{"id": "JAH-SSCS-000034", "t": "Software Supply-Chain Security Database: Capstone: Supply-Chain Program", "c": 0, "g": "integrity"}
+{"id": "JAH-SSCS-000035", "t": "Software Supply-Chain Security Database: Dependency Inventory Check", "c": 1, "g": "visibility"}
+{"id": "JAH-SSCS-000036", "t": "Software Supply-Chain Security Database: Vulnerability Scanning Cadence", "c": 1, "g": "detection"}
+{"id": "JAH-SSCS-000037", "t": "Software Supply-Chain Security Database: Patch SLA Compliance", "c": 1, "g": "response"}
+{"id": "JAH-SSCS-000038", "t": "Software Supply-Chain Security Database: License Compliance Audit", "c": 1, "g": "compliance"}
+{"id": "JAH-SSCS-000039", "t": "Software Supply-Chain Security Database: Provenance Verification (SLSA)", "c": 1, "g": "integrity"}
+{"id": "JAH-SSCS-000040", "t": "Software Supply-Chain Security Database: Build Reproducibility Check", "c": 1, "g": "integrity"}
+{"id": "JAH-SSCS-000041", "t": "Software Supply-Chain Security Database: Artifact Signing Verification", "c": 1, "g": "integrity"}
+{"id": "JAH-SSCS-000042", "t": "Software Supply-Chain Security Database: Dependency Pinning Policy", "c": 1, "g": "integrity"}
+{"id": "JAH-SSCS-000043", "t": "Software Supply-Chain Security Database: Private Registry Mirror Check", "c": 1, "g": "resilience"}
+{"id": "JAH-SSCS-000044", "t": "Software Supply-Chain Security Database: New Dependency Approval", "c": 1, "g": "governance"}
+{"id": "JAH-SSCS-000045", "t": "Software Supply-Chain Security Database: Abandoned Dependency Detection", "c": 1, "g": "detection"}
+{"id": "JAH-SSCS-000046", "t": "Software Supply-Chain Security Database: Typosquatting Defense Check", "c": 1, "g": "detection"}
+{"id": "JAH-SSCS-000047", "t": "Software Supply-Chain Security Database: Secrets in Dependencies Scan", "c": 1, "g": "detection"}
+{"id": "JAH-SSCS-000048", "t": "Software Supply-Chain Security Database: Build Pipeline Hardening", "c": 1, "g": "integrity"}
+{"id": "JAH-SSCS-000049", "t": "Software Supply-Chain Security Database: Container Base Image Policy", "c": 1, "g": "integrity"}
+{"id": "JAH-SSCS-000050", "t": "Software Supply-Chain Security Database: SBOM Distribution Check", "c": 1, "g": "visibility"}
+{"id": "JAH-SSCS-000051", "t": "Software Supply-Chain Security Database: Vulnerability Disclosure Handling", "c": 1, "g": "response"}
+{"id": "JAH-SSCS-000052", "t": "Software Supply-Chain Security Database: Incident Response for Supply Chain", "c": 1, "g": "response"}
+{"id": "JAH-SSCS-000053", "t": "Software Supply-Chain Security Database: Supplier Security Assessment", "c": 1, "g": "governance"}
+{"id": "JAH-SSCS-000054", "t": "Software Supply-Chain Security Database: Supply Chain Metrics Dashboard", "c": 1, "g": "governance"}

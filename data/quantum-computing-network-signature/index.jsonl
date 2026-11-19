@@ -1,0 +1,59 @@
+{"id": "JAH-QCNS-000001", "t": "What a Quantum Network Is (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000002", "t": "Flying Qubits: Photons on the Wire (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000003", "t": "Entanglement: The Network Resource (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000004", "t": "Quantum Teleportation Across Network Nodes (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000005", "t": "The No-Cloning Rule and Network Design (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000006", "t": "Quantum Channels: Fiber, Free-Space, and Satellite Links (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000007", "t": "Quantum Key Distribution: The First Quantum Network Service (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000008", "t": "BB84: The Founding QKD Protocol (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000009", "t": "E91: Entanglement-Based Key Distribution (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000010", "t": "Trusted Nodes vs End-to-End Quantum Links (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000011", "t": "Classical Channels in Quantum Networks (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000012", "t": "Quantum Network Generations: Trusted Repeaters to Quantum Internet (Signature Edition)", "g": "Network Foundations"}
+{"id": "JAH-QCNS-000013", "t": "Quantum Repeaters: Extending Entanglement Distance (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000014", "t": "Entanglement Swapping: Chaining Short Links into Long Ones (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000015", "t": "Quantum Memories: Holding Entanglement at Network Nodes (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000016", "t": "Entanglement Purification: Cleaning Noisy Network Links (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000017", "t": "Quantum Transducers: Connecting Different Qubit Technologies (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000018", "t": "Single-Photon Sources and Detectors for Networks (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000019", "t": "Entanglement Sources: Making Bell Pairs on Demand (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000020", "t": "Quantum Network Interface Cards: End-Node Hardware (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000021", "t": "Quantum Switches and Routers (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000022", "t": "Satellite Quantum Links and Ground Stations (Signature Edition)", "g": "Network Components"}
+{"id": "JAH-QCNS-000023", "t": "Quantum Network Protocol Stacks (Signature Edition)", "g": "Network Protocols"}
+{"id": "JAH-QCNS-000024", "t": "Link-Layer Entanglement Protocols (Signature Edition)", "g": "Network Protocols"}
+{"id": "JAH-QCNS-000025", "t": "Network-Layer Routing for Entanglement (Signature Edition)", "g": "Network Protocols"}
+{"id": "JAH-QCNS-000026", "t": "Transport: Reliable Teleportation Sessions (Signature Edition)", "g": "Network Protocols"}
+{"id": "JAH-QCNS-000027", "t": "QKD Network Protocols and Key Management (Signature Edition)", "g": "Network Protocols"}
+{"id": "JAH-QCNS-000028", "t": "Quantum Network Topologies: Star, Mesh, and Repeater Chains (Signature Edition)", "g": "Network Protocols"}
+{"id": "JAH-QCNS-000029", "t": "Distributed Quantum Computing Over the Network (Signature Edition)", "g": "Distributed Quantum Systems"}
+{"id": "JAH-QCNS-000030", "t": "Blind Quantum Computing: Delegating to Remote Servers (Signature Edition)", "g": "Distributed Quantum Systems"}
+{"id": "JAH-QCNS-000031", "t": "Quantum Sensor Networks: Entangled Sensing at a Distance (Signature Edition)", "g": "Distributed Quantum Systems"}
+{"id": "JAH-QCNS-000032", "t": "The Quantum Internet Vision: Stages and Milestones (Signature Edition)", "g": "Advanced Networks"}
+{"id": "JAH-QCNS-000033", "t": "Quantum Network Security Beyond QKD (Signature Edition)", "g": "Advanced Networks"}
+{"id": "JAH-QCNS-000034", "t": "Building a Metropolitan Quantum Network: End-to-End Design (Signature Edition)", "g": "Advanced Networks"}
+{"id": "JAH-QCNS-000035", "t": "Qubits: The Weird Bit", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000036", "t": "Entanglement: The Spooky Link", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000037", "t": "Superconducting Qubits", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000038", "t": "Trapped Ions", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000039", "t": "Photonic Quantum", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000040", "t": "Quantum Error Correction", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000041", "t": "Quantum Algorithms That Matter", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000042", "t": "The Quantum Internet", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000043", "t": "Post-Quantum Cryptography", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000044", "t": "Quantum Sensing", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000045", "t": "Quantum vs Classical: The Boundary", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000046", "t": "Building a Quantum Program", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000047", "t": "Quantum Ethics and Access", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000048", "t": "The Networked Quantum Age", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000049", "t": "Your Quantum Next Step", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000050", "t": "Quantum Dots: Artificial Atoms", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000051", "t": "The Quantum Random Number Generator", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000052", "t": "Quantum Machine Learning Basics", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000053", "t": "The Quantum Cloud: Access for All", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000054", "t": "Quantum Annealing Explained", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000055", "t": "The Quantum Workforce", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000056", "t": "Quantum Games and Puzzles", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000057", "t": "The Quantum Startup Landscape", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000058", "t": "Quantum Literacy for Citizens", "g": "quantum-tech-explorer"}
+{"id": "JAH-QCNS-000059", "t": "Your First Quantum Circuit", "g": "quantum-tech-explorer"}

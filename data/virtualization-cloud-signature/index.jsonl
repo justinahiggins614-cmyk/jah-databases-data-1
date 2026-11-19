@@ -1,0 +1,88 @@
+{"id": "JAH-VCLG-000001", "t": "Virtual Machine Manager (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000002", "t": "Operating-System Test Laboratory (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000003", "t": "Container Management Platform (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000004", "t": "Portable Development Environment Builder (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000005", "t": "Local Application Server (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000006", "t": "Private Cloud Storage Server (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000007", "t": "Local AI Inference Server (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000008", "t": "Remote Desktop Management Console (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000009", "t": "Distributed Job Scheduler (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000010", "t": "Cluster Monitoring Dashboard (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000011", "t": "Distributed File Processing Engine (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000012", "t": "Parallel Computing Framework (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000013", "t": "GPU Compute Workbench (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000014", "t": "Multi-GPU Workload Coordinator (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000015", "t": "High-Performance Computing Job Manager (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000016", "t": "Distributed Database Coordinator (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000017", "t": "Fault-Tolerant Service Manager (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000018", "t": "Disaster Recovery Orchestrator (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000019", "t": "Hybrid Local-Cloud Processing Router (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000020", "t": "Federated Data Processing System (Signature Edition)", "g": "virtualization-cloud"}
+{"id": "JAH-VCLG-000021", "t": "Wi-Fi Proximity Dead-Man Switch (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000022", "t": "Wi-Fi ARP Poisoning Bridge (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000023", "t": "Wi-Fi Client Activity Logger (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000024", "t": "GPS Signal Jammer Probe (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000025", "t": "Plunder Bug Ethernet Tap (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000026", "t": "Throwing Star LAN Tap (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000027", "t": "KVM-over-IP Switch (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-VCLG-000028", "t": "Lambda Calculus Evaluators (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Abstract Machines & Formal Paradigms"}
+{"id": "JAH-VCLG-000029", "t": "DNS Sinkhole Utility (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000030", "t": "Appwrite (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000031", "t": "Virt-Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000032", "t": "Nixpacks Build Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000033", "t": "Supabase Local Stack (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000034", "t": "Nginx Reverse Proxy (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000035", "t": "HAProxy Balancer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000036", "t": "Traefik Proxy (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000037", "t": "Envoy Proxy (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000038", "t": "Linkerd Mesh (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000039", "t": "Consul Datacenter Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000040", "t": "MinIO Object Server (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000041", "t": "EncFS Container (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000042", "t": "Duplicati Backup Agent (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000043", "t": "BorgBackup (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000044", "t": "Restic Backup Tool (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000045", "t": "Podman Container Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000046", "t": "Buildah Container Builder (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000047", "t": "Kata Containers Framework (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000048", "t": "Firecracker VMM (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000049", "t": "QEMU Emulator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000050", "t": "Cloud-Hypervisor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000051", "t": "LXD Container Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000052", "t": "Incus Infrastructure Daemon (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000053", "t": "Proxmox Virtual Environment (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000054", "t": "Harvester HCI (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000055", "t": "KubeVirt Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000056", "t": "K3s Minimal Kubernetes (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000057", "t": "Kind (Kubernetes in Docker) (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000058", "t": "Minikube Sandbox (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000059", "t": "MicroK8s Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000060", "t": "Talos Linux OS (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000061", "t": "Flatcar Container Linux (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000062", "t": "Alpine Linux OS (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000063", "t": "SmartOS Hypervisor (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000064", "t": "QEMU MicroVM Target (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000065", "t": "kvmtool Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000066", "t": "Vagrant Environment Manager (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000067", "t": "Kopia Deduplication Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000068", "t": "OrbitDB Peer-to-Peer Database (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000069", "t": "Lokinet Overlay Network (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000070", "t": "Loki Log Aggregator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000071", "t": "Meilisearch Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000072", "t": "Nagios Core Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000073", "t": "Icinga System Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000074", "t": "Calico Network Plugin (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000075", "t": "Cilium CNI Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000076", "t": "Flannel Network Plugin (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000077", "t": "CoreDNS Kubernetes Plugin (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000078", "t": "Cert-Manager Controller (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000079", "t": "ExternalDNS Controller (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000080", "t": "Ingress-Nginx Controller (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000081", "t": "MetalLB Load Balancer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000082", "t": "Argo Workflows Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000083", "t": "Flux CD Automation (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000084", "t": "Argo CD Operator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000085", "t": "Kustomize Configurator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000086", "t": "Sealed Secrets Operator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000087", "t": "Appwrite Auth Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-VCLG-000088", "t": "PocketBase Backend (Signature Edition)", "g": "Bizarre Software"}

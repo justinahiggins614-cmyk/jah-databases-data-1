@@ -1,0 +1,60 @@
+{"id": "JAH-CF-000001", "t": "Quadratic costs — mobile robot navigation", "g": "quadratic-costs"}
+{"id": "JAH-CF-000002", "t": "Quadratic costs — drone racing", "g": "quadratic-costs"}
+{"id": "JAH-CF-000003", "t": "Quadratic costs — arm reaching", "g": "quadratic-costs"}
+{"id": "JAH-CF-000004", "t": "Quadratic costs — autonomous parking", "g": "quadratic-costs"}
+{"id": "JAH-CF-000005", "t": "Quadratic costs — biped walking", "g": "quadratic-costs"}
+{"id": "JAH-CF-000006", "t": "Quadratic costs — AUV depth keeping", "g": "quadratic-costs"}
+{"id": "JAH-CF-000007", "t": "Quadratic costs — satellite slew", "g": "quadratic-costs"}
+{"id": "JAH-CF-000008", "t": "Quadratic costs — warehouse routing", "g": "quadratic-costs"}
+{"id": "JAH-CF-000009", "t": "Quadratic costs — manipulator tracking", "g": "quadratic-costs"}
+{"id": "JAH-CF-000010", "t": "Quadratic costs — formation flight", "g": "quadratic-costs"}
+{"id": "JAH-CF-000011", "t": "Time-optimal costs — mobile robot navigation", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000012", "t": "Time-optimal costs — drone racing", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000013", "t": "Time-optimal costs — arm reaching", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000014", "t": "Time-optimal costs — autonomous parking", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000015", "t": "Time-optimal costs — biped walking", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000016", "t": "Time-optimal costs — AUV depth keeping", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000017", "t": "Time-optimal costs — satellite slew", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000018", "t": "Time-optimal costs — warehouse routing", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000019", "t": "Time-optimal costs — manipulator tracking", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000020", "t": "Time-optimal costs — formation flight", "g": "time-optimal-costs"}
+{"id": "JAH-CF-000021", "t": "Energy costs — mobile robot navigation", "g": "energy-costs"}
+{"id": "JAH-CF-000022", "t": "Energy costs — drone racing", "g": "energy-costs"}
+{"id": "JAH-CF-000023", "t": "Energy costs — arm reaching", "g": "energy-costs"}
+{"id": "JAH-CF-000024", "t": "Energy costs — autonomous parking", "g": "energy-costs"}
+{"id": "JAH-CF-000025", "t": "Energy costs — biped walking", "g": "energy-costs"}
+{"id": "JAH-CF-000026", "t": "Energy costs — AUV depth keeping", "g": "energy-costs"}
+{"id": "JAH-CF-000027", "t": "Energy costs — satellite slew", "g": "energy-costs"}
+{"id": "JAH-CF-000028", "t": "Energy costs — warehouse routing", "g": "energy-costs"}
+{"id": "JAH-CF-000029", "t": "Energy costs — manipulator tracking", "g": "energy-costs"}
+{"id": "JAH-CF-000030", "t": "Energy costs — formation flight", "g": "energy-costs"}
+{"id": "JAH-CF-000031", "t": "Obstacle and safety costs — mobile robot navigation", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000032", "t": "Obstacle and safety costs — drone racing", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000033", "t": "Obstacle and safety costs — arm reaching", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000034", "t": "Obstacle and safety costs — autonomous parking", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000035", "t": "Obstacle and safety costs — biped walking", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000036", "t": "Obstacle and safety costs — AUV depth keeping", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000037", "t": "Obstacle and safety costs — satellite slew", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000038", "t": "Obstacle and safety costs — warehouse routing", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000039", "t": "Obstacle and safety costs — manipulator tracking", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000040", "t": "Obstacle and safety costs — formation flight", "g": "obstacle-and-safety-costs"}
+{"id": "JAH-CF-000041", "t": "Terminal costs — mobile robot navigation", "g": "terminal-costs"}
+{"id": "JAH-CF-000042", "t": "Terminal costs — drone racing", "g": "terminal-costs"}
+{"id": "JAH-CF-000043", "t": "Terminal costs — arm reaching", "g": "terminal-costs"}
+{"id": "JAH-CF-000044", "t": "Terminal costs — autonomous parking", "g": "terminal-costs"}
+{"id": "JAH-CF-000045", "t": "Terminal costs — biped walking", "g": "terminal-costs"}
+{"id": "JAH-CF-000046", "t": "Terminal costs — AUV depth keeping", "g": "terminal-costs"}
+{"id": "JAH-CF-000047", "t": "Terminal costs — satellite slew", "g": "terminal-costs"}
+{"id": "JAH-CF-000048", "t": "Terminal costs — warehouse routing", "g": "terminal-costs"}
+{"id": "JAH-CF-000049", "t": "Terminal costs — manipulator tracking", "g": "terminal-costs"}
+{"id": "JAH-CF-000050", "t": "Terminal costs — formation flight", "g": "terminal-costs"}
+{"id": "JAH-CF-000051", "t": "Multi-objective costs — mobile robot navigation", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000052", "t": "Multi-objective costs — drone racing", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000053", "t": "Multi-objective costs — arm reaching", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000054", "t": "Multi-objective costs — autonomous parking", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000055", "t": "Multi-objective costs — biped walking", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000056", "t": "Multi-objective costs — AUV depth keeping", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000057", "t": "Multi-objective costs — satellite slew", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000058", "t": "Multi-objective costs — warehouse routing", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000059", "t": "Multi-objective costs — manipulator tracking", "g": "multi-objective-costs"}
+{"id": "JAH-CF-000060", "t": "Multi-objective costs — formation flight", "g": "multi-objective-costs"}

@@ -1,0 +1,58 @@
+{"id": "JAH-ACM-000001", "t": "Turing Machines", "g": "model"}
+{"id": "JAH-ACM-000002", "t": "Universal Turing Machines", "g": "model"}
+{"id": "JAH-ACM-000003", "t": "Finite Automata", "g": "model"}
+{"id": "JAH-ACM-000004", "t": "Deterministic Finite Automata", "g": "model"}
+{"id": "JAH-ACM-000005", "t": "Nondeterministic Finite Automata", "g": "model"}
+{"id": "JAH-ACM-000006", "t": "Pushdown Automata", "g": "model"}
+{"id": "JAH-ACM-000007", "t": "Linear Bounded Automata", "g": "model"}
+{"id": "JAH-ACM-000008", "t": "Register Machines", "g": "model"}
+{"id": "JAH-ACM-000009", "t": "Counter Machines", "g": "model"}
+{"id": "JAH-ACM-000010", "t": "Random Access Machines", "g": "model"}
+{"id": "JAH-ACM-000011", "t": "Lambda Calculus", "g": "model"}
+{"id": "JAH-ACM-000012", "t": "Simply Typed Lambda Calculus", "g": "model"}
+{"id": "JAH-ACM-000013", "t": "Combinatory Logic", "g": "model"}
+{"id": "JAH-ACM-000014", "t": "SKI Combinators", "g": "model"}
+{"id": "JAH-ACM-000015", "t": "Graph Reduction", "g": "model"}
+{"id": "JAH-ACM-000016", "t": "Term Rewriting Systems", "g": "model"}
+{"id": "JAH-ACM-000017", "t": "String Rewriting", "g": "model"}
+{"id": "JAH-ACM-000018", "t": "Markov Algorithms", "g": "model"}
+{"id": "JAH-ACM-000019", "t": "Post Systems", "g": "model"}
+{"id": "JAH-ACM-000020", "t": "Petri Nets", "g": "model"}
+{"id": "JAH-ACM-000021", "t": "Colored Petri Nets", "g": "model"}
+{"id": "JAH-ACM-000022", "t": "Timed Petri Nets", "g": "model"}
+{"id": "JAH-ACM-000023", "t": "Statecharts", "g": "model"}
+{"id": "JAH-ACM-000024", "t": "Finite State Transducers", "g": "model"}
+{"id": "JAH-ACM-000025", "t": "Büchi Automata", "g": "model"}
+{"id": "JAH-ACM-000026", "t": "Tree Automata", "g": "model"}
+{"id": "JAH-ACM-000027", "t": "Alternating Automata", "g": "model"}
+{"id": "JAH-ACM-000028", "t": "Quantum Turing Machines", "g": "model"}
+{"id": "JAH-ACM-000029", "t": "Probabilistic Turing Machines", "g": "model"}
+{"id": "JAH-ACM-000030", "t": "Oracle Machines", "g": "model"}
+{"id": "JAH-ACM-000031", "t": "Interactive Proof Systems", "g": "model"}
+{"id": "JAH-ACM-000032", "t": "Cellular Automata", "g": "model"}
+{"id": "JAH-ACM-000033", "t": "Elementary Cellular Automata", "g": "model"}
+{"id": "JAH-ACM-000034", "t": "Lindenmayer Systems", "g": "model"}
+{"id": "JAH-ACM-000035", "t": "Substitution Systems", "g": "model"}
+{"id": "JAH-ACM-000036", "t": "Tag Systems", "g": "model"}
+{"id": "JAH-ACM-000037", "t": "Wang Tiles", "g": "model"}
+{"id": "JAH-ACM-000038", "t": "Abstract State Machines", "g": "model"}
+{"id": "JAH-ACM-000039", "t": "Pi-Calculus", "g": "model"}
+{"id": "JAH-ACM-000040", "t": "Ambient Calculus", "g": "model"}
+{"id": "JAH-ACM-000041", "t": "Actor Model", "g": "model"}
+{"id": "JAH-ACM-000042", "t": "CSP", "g": "model"}
+{"id": "JAH-ACM-000043", "t": "CCS", "g": "model"}
+{"id": "JAH-ACM-000044", "t": "Kahn Process Networks", "g": "model"}
+{"id": "JAH-ACM-000045", "t": "Synchronous Dataflow", "g": "model"}
+{"id": "JAH-ACM-000046", "t": "Boolean Networks", "g": "model"}
+{"id": "JAH-ACM-000047", "t": "Neural Network Models", "g": "model"}
+{"id": "JAH-ACM-000048", "t": "Spiking Neuron Models", "g": "model"}
+{"id": "JAH-ACM-000049", "t": "Membrane Computing", "g": "model"}
+{"id": "JAH-ACM-000050", "t": "DNA Computing Models", "g": "model"}
+{"id": "JAH-ACM-000051", "t": "Chemical Reaction Networks", "g": "model"}
+{"id": "JAH-ACM-000052", "t": "Population Protocols", "g": "model"}
+{"id": "JAH-ACM-000053", "t": "Swarm Models", "g": "model"}
+{"id": "JAH-ACM-000054", "t": "Game Semantics", "g": "model"}
+{"id": "JAH-ACM-000055", "t": "Trace Semantics", "g": "model"}
+{"id": "JAH-ACM-000056", "t": "Denotational Models", "g": "model"}
+{"id": "JAH-ACM-000057", "t": "Operational Models", "g": "model"}
+{"id": "JAH-ACM-000058", "t": "Axiomatic Models", "g": "model"}

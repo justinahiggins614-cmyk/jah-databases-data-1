@@ -1,0 +1,61 @@
+{"id": "JAH-EI-000001", "t": "Local Inference Runners", "g": "edge"}
+{"id": "JAH-EI-000002", "t": "Embedded Runners", "g": "edge"}
+{"id": "JAH-EI-000003", "t": "Browser Runners", "g": "edge"}
+{"id": "JAH-EI-000004", "t": "Mobile Runners", "g": "edge"}
+{"id": "JAH-EI-000005", "t": "Vector Embedders", "g": "edge"}
+{"id": "JAH-EI-000006", "t": "Local Indexers", "g": "edge"}
+{"id": "JAH-EI-000007", "t": "Detokenizers", "g": "edge"}
+{"id": "JAH-EI-000008", "t": "Context Managers", "g": "edge"}
+{"id": "JAH-EI-000009", "t": "KV Cache Managers", "g": "edge"}
+{"id": "JAH-EI-000010", "t": "Prompt Parsers", "g": "edge"}
+{"id": "JAH-EI-000011", "t": "Grammar Samplers", "g": "edge"}
+{"id": "JAH-EI-000012", "t": "Constrained Decoders", "g": "edge"}
+{"id": "JAH-EI-000013", "t": "Semantic Routers", "g": "edge"}
+{"id": "JAH-EI-000014", "t": "Function Callers", "g": "edge"}
+{"id": "JAH-EI-000015", "t": "Tool Routers", "g": "edge"}
+{"id": "JAH-EI-000016", "t": "Chunkers", "g": "edge"}
+{"id": "JAH-EI-000017", "t": "Text Splitters", "g": "edge"}
+{"id": "JAH-EI-000018", "t": "Offline Knowledge Bases", "g": "edge"}
+{"id": "JAH-EI-000019", "t": "Local RAG Pipelines", "g": "edge"}
+{"id": "JAH-EI-000020", "t": "Embeddings Registries", "g": "edge"}
+{"id": "JAH-EI-000021", "t": "Rerankers", "g": "edge"}
+{"id": "JAH-EI-000022", "t": "Hybrid Searchers", "g": "edge"}
+{"id": "JAH-EI-000023", "t": "Query Rewriters", "g": "edge"}
+{"id": "JAH-EI-000024", "t": "Answer Synthesizers", "g": "edge"}
+{"id": "JAH-EI-000025", "t": "Citation Trackers", "g": "edge"}
+{"id": "JAH-EI-000026", "t": "Hallucination Guards", "g": "edge"}
+{"id": "JAH-EI-000027", "t": "PII Redactors", "g": "edge"}
+{"id": "JAH-EI-000028", "t": "Content Filters", "g": "edge"}
+{"id": "JAH-EI-000029", "t": "Jailbreak Detectors", "g": "edge"}
+{"id": "JAH-EI-000030", "t": "Model Firewalls", "g": "edge"}
+{"id": "JAH-EI-000031", "t": "Usage Meters", "g": "edge"}
+{"id": "JAH-EI-000032", "t": "Cost Optimizers", "g": "edge"}
+{"id": "JAH-EI-000033", "t": "Latency Optimizers", "g": "edge"}
+{"id": "JAH-EI-000034", "t": "Throughput Schedulers", "g": "edge"}
+{"id": "JAH-EI-000035", "t": "Memory Planners", "g": "edge"}
+{"id": "JAH-EI-000036", "t": "Power Managers", "g": "edge"}
+{"id": "JAH-EI-000037", "t": "Thermal Guards", "g": "edge"}
+{"id": "JAH-EI-000038", "t": "Model Switchers", "g": "edge"}
+{"id": "JAH-EI-000039", "t": "A/B Routers", "g": "edge"}
+{"id": "JAH-EI-000040", "t": "Canary Evaluators", "g": "edge"}
+{"id": "JAH-EI-000041", "t": "Feedback Collectors", "g": "edge"}
+{"id": "JAH-EI-000042", "t": "Personalizers", "g": "edge"}
+{"id": "JAH-EI-000043", "t": "Memory Systems", "g": "edge"}
+{"id": "JAH-EI-000044", "t": "Agent Loops", "g": "edge"}
+{"id": "JAH-EI-000045", "t": "Planner Modules", "g": "edge"}
+{"id": "JAH-EI-000046", "t": "Executor Modules", "g": "edge"}
+{"id": "JAH-EI-000047", "t": "Verifier Modules", "g": "edge"}
+{"id": "JAH-EI-000048", "t": "Reflection Loops", "g": "edge"}
+{"id": "JAH-EI-000049", "t": "Multi-Agent Coordinators", "g": "edge"}
+{"id": "JAH-EI-000050", "t": "Skill Libraries", "g": "edge"}
+{"id": "JAH-EI-000051", "t": "Tool Registries", "g": "edge"}
+{"id": "JAH-EI-000052", "t": "MCP Servers", "g": "edge"}
+{"id": "JAH-EI-000053", "t": "MCP Clients", "g": "edge"}
+{"id": "JAH-EI-000054", "t": "Vector Databases (Local)", "g": "edge"}
+{"id": "JAH-EI-000055", "t": "Graph Stores (Local)", "g": "edge"}
+{"id": "JAH-EI-000056", "t": "Document Stores (Local)", "g": "edge"}
+{"id": "JAH-EI-000057", "t": "Sync Engines", "g": "edge"}
+{"id": "JAH-EI-000058", "t": "Update Managers", "g": "edge"}
+{"id": "JAH-EI-000059", "t": "Telemetry Agents", "g": "edge"}
+{"id": "JAH-EI-000060", "t": "Crash Reporters", "g": "edge"}
+{"id": "JAH-EI-000061", "t": "Benchmark Harnesses", "g": "edge"}

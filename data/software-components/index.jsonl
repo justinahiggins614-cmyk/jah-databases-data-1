@@ -1,0 +1,60 @@
+{"id": "JAH-CMP-000001", "t": "Plugins", "g": "extension"}
+{"id": "JAH-CMP-000002", "t": "Extensions", "g": "extension"}
+{"id": "JAH-CMP-000003", "t": "Add-ons", "g": "extension"}
+{"id": "JAH-CMP-000004", "t": "Applets", "g": "extension"}
+{"id": "JAH-CMP-000005", "t": "Widgets", "g": "extension"}
+{"id": "JAH-CMP-000006", "t": "Gadgets", "g": "extension"}
+{"id": "JAH-CMP-000007", "t": "Modules", "g": "extension"}
+{"id": "JAH-CMP-000008", "t": "Packages", "g": "extension"}
+{"id": "JAH-CMP-000009", "t": "Bundles", "g": "extension"}
+{"id": "JAH-CMP-000010", "t": "Components", "g": "extension"}
+{"id": "JAH-CMP-000011", "t": "Libraries", "g": "extension"}
+{"id": "JAH-CMP-000012", "t": "Shared Libraries", "g": "extension"}
+{"id": "JAH-CMP-000013", "t": "Static Libraries", "g": "extension"}
+{"id": "JAH-CMP-000014", "t": "Dynamic Link Libraries", "g": "extension"}
+{"id": "JAH-CMP-000015", "t": "Middleware", "g": "extension"}
+{"id": "JAH-CMP-000016", "t": "Frameworks", "g": "extension"}
+{"id": "JAH-CMP-000017", "t": "Micro-Frameworks", "g": "extension"}
+{"id": "JAH-CMP-000018", "t": "Dependencies", "g": "extension"}
+{"id": "JAH-CMP-000019", "t": "Shims", "g": "extension"}
+{"id": "JAH-CMP-000020", "t": "Polyfills", "g": "extension"}
+{"id": "JAH-CMP-000021", "t": "Wrappers", "g": "extension"}
+{"id": "JAH-CMP-000022", "t": "Device Drivers", "g": "extension"}
+{"id": "JAH-CMP-000023", "t": "Virtual Drivers", "g": "extension"}
+{"id": "JAH-CMP-000024", "t": "System Extensions", "g": "extension"}
+{"id": "JAH-CMP-000025", "t": "Kernel Modules", "g": "extension"}
+{"id": "JAH-CMP-000026", "t": "Scripts", "g": "extension"}
+{"id": "JAH-CMP-000027", "t": "Shell Scripts", "g": "extension"}
+{"id": "JAH-CMP-000028", "t": "Automation Scripts", "g": "extension"}
+{"id": "JAH-CMP-000029", "t": "Macros", "g": "extension"}
+{"id": "JAH-CMP-000030", "t": "Helper Applications", "g": "extension"}
+{"id": "JAH-CMP-000031", "t": "Utilities", "g": "extension"}
+{"id": "JAH-CMP-000032", "t": "Subroutines", "g": "extension"}
+{"id": "JAH-CMP-000033", "t": "Functions", "g": "extension"}
+{"id": "JAH-CMP-000034", "t": "Servlets", "g": "extension"}
+{"id": "JAH-CMP-000035", "t": "Background Workers", "g": "extension"}
+{"id": "JAH-CMP-000036", "t": "Sidecars", "g": "extension"}
+{"id": "JAH-CMP-000037", "t": "Agents", "g": "extension"}
+{"id": "JAH-CMP-000038", "t": "Telemetry Agents", "g": "extension"}
+{"id": "JAH-CMP-000039", "t": "Adapters", "g": "extension"}
+{"id": "JAH-CMP-000040", "t": "Connectors", "g": "extension"}
+{"id": "JAH-CMP-000041", "t": "Transpiler Plugins", "g": "extension"}
+{"id": "JAH-CMP-000042", "t": "Linter Rulesets", "g": "extension"}
+{"id": "JAH-CMP-000043", "t": "Theme Extensions", "g": "extension"}
+{"id": "JAH-CMP-000044", "t": "Language Packs", "g": "extension"}
+{"id": "JAH-CMP-000045", "t": "Decorators", "g": "extension"}
+{"id": "JAH-CMP-000046", "t": "Mixins", "g": "extension"}
+{"id": "JAH-CMP-000047", "t": "Job Workers", "g": "extension"}
+{"id": "JAH-CMP-000048", "t": "Monitoring Agents", "g": "extension"}
+{"id": "JAH-CMP-000049", "t": "API Wrappers", "g": "extension"}
+{"id": "JAH-CMP-000050", "t": "Helper Utilities", "g": "extension"}
+{"id": "JAH-CMP-000051", "t": "Font Libraries", "g": "extension"}
+{"id": "JAH-CMP-000052", "t": "Codec Libraries", "g": "extension"}
+{"id": "JAH-CMP-000053", "t": "Crypto Libraries", "g": "extension"}
+{"id": "JAH-CMP-000054", "t": "Math Libraries", "g": "extension"}
+{"id": "JAH-CMP-000055", "t": "GUI Toolkits", "g": "extension"}
+{"id": "JAH-CMP-000056", "t": "Testing Libraries", "g": "extension"}
+{"id": "JAH-CMP-000057", "t": "Serialization Libraries", "g": "extension"}
+{"id": "JAH-CMP-000058", "t": "HTTP Client Libraries", "g": "extension"}
+{"id": "JAH-CMP-000059", "t": "Database Drivers", "g": "extension"}
+{"id": "JAH-CMP-000060", "t": "Logging Libraries", "g": "extension"}

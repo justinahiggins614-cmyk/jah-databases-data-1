@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-SMS-000001", "t": "What session memory is: the conversation's working past (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000002", "t": "Turn boundaries: where one exchange ends and the next begins (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000003", "t": "Key-value capture: facts the user states outright (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000004", "t": "Preference capture: likes, constraints, and defaults (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000005", "t": "The running summary: compressing without losing decisions (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000006", "t": "Entity tracking: people, projects, and names across turns (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000007", "t": "Intent persistence: what the user is trying to accomplish (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000008", "t": "Correction memory: remembering 'I meant X, not Y' (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000009", "t": "Recency weighting: newer turns count more (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000010", "t": "Session handoff notes: what a fresh session must know (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000011", "t": "Forgetting on purpose: what session memory must drop (Signature Edition)", "g": "session-memory-foundations"}
+{"id": "JAH-AIR-SMS-000012", "t": "Contradiction resolution across turns (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000013", "t": "Multi-thread conversations: parallel topics in one session (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000014", "t": "Reference resolution: 'it', 'that', 'the other one' (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000015", "t": "Temporal grounding: 'yesterday', 'last time', 'next week' (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000016", "t": "Goal stack tracking: nested sub-goals (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000017", "t": "Partial progress memory: half-finished tasks (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000018", "t": "Tool-result memory: what the tools returned (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000019", "t": "Error memory: what failed and the fix that worked (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000020", "t": "Style memory: tone and format the user prefers (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000021", "t": "Confidence memory: which answers were uncertain (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000022", "t": "Session memory vs context window: what lives where (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000023", "t": "Memory update rules: overwrite, merge, or append (Signature Edition)", "g": "session-memory-compounded"}
+{"id": "JAH-AIR-SMS-000024", "t": "Long sessions: memory that survives 200+ turns (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000025", "t": "Adversarial memory: users testing consistency (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000026", "t": "Memory injection defense: not all stated facts are true (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000027", "t": "Privacy boundaries in session memory (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000028", "t": "Session memory audit: proving what was remembered (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000029", "t": "Cross-session stitching without cross-session storage (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000030", "t": "Emotional state tracking across a session (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000031", "t": "Decision rationale memory: why, not just what (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000032", "t": "Memory-driven proactivity: acting on remembered context (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000033", "t": "Multi-user sessions: whose memory is whose (Signature Edition)", "g": "session-memory-advanced"}
+{"id": "JAH-AIR-SMS-000034", "t": "The session close-out: packaging memory for handoff (Signature Edition)", "g": "session-memory-advanced"}

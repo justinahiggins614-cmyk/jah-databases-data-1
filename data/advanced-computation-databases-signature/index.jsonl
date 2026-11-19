@@ -1,0 +1,35 @@
+{"id": "JAH-ADVCG-000001", "t": "Reversible Computing and Zero-Dissipation Logic Catalog (Signature Edition)", "g": "reversible-computing"}
+{"id": "JAH-ADVCG-000002", "t": "Optical and Photonic Computing Architecture Catalog (Signature Edition)", "g": "photonic-computing"}
+{"id": "JAH-ADVCG-000003", "t": "Neuromorphic Spiking Neural Network Hardware Catalog (Signature Edition)", "g": "neuromorphic-hw"}
+{"id": "JAH-ADVCG-000004", "t": "Sub-Atomic Quantum Dot Cellular Automata Catalog (Signature Edition)", "g": "qdot-automata"}
+{"id": "JAH-ADVCG-000005", "t": "Simulated Reality Fidelity Metric and Physics Engine Catalog (Signature Edition)", "g": "sim-fidelity"}
+{"id": "JAH-ADVCG-000006", "t": "Infinite-Precision Spatial Index and Non-Euclidean Digital Space Catalog (Signature Edition)", "g": "infinite-precision"}
+{"id": "JAH-ADVCG-000007", "t": "Autonomous Self-Rewriting Code Kernel Verifier Catalog (Signature Edition)", "g": "self-rewriting"}
+{"id": "JAH-ADVCG-000008", "t": "Distributed Zero-Knowledge Cryptographic Consensus Catalog (Signature Edition)", "g": "zk-consensus"}
+{"id": "JAH-ADVCG-000009", "t": "DNA and RNA Molecular Logic Circuit Catalog (Signature Edition)", "g": "molecular-logic"}
+{"id": "JAH-ADVCG-000010", "t": "Spacetime Metric Simulation Algorithm Catalog (Signature Edition)", "g": "spacetime-sim"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000011", "t": "Silicon Photonics Interconnect Catalog (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000012", "t": "Optical Neural Network Accelerator Designs (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000013", "t": "Photonic Quantum Computing Roadmaps (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000014", "t": "All-Optical Switching Fabrics (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000015", "t": "Optical Memory and Storage Concepts (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000016", "t": "Lidar-on-Chip Design Library (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000017", "t": "Photonic Reservoir Computing (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000018", "t": "Optical Frequency Comb Applications (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000019", "t": "Programmable Photonic Processors (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000020", "t": "Photonic Biosensor Arrays (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000021", "t": "Optical Interconnect Standards Survey (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000022", "t": "Photonic Packaging and Integration (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000023", "t": "Nonlinear Photonic Devices (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000024", "t": "Photonic Education Curriculum (Signature Edition)"}
+{"g": "Photonic Computing Futures", "id": "JAH-ADVCG-000025", "t": "The Photonic Century: Technology Foresight (Signature Edition)"}
+{"id": "JAH-ADVCG-000026", "t": "Photonic Memory Fabrics (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000027", "t": "The All-Optical Switch (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000028", "t": "The Photonic Pond Computer (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000029", "t": "The Coherent Photonic Mesh (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000030", "t": "Plasmonic Interconnect Bridges (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000031", "t": "Photonic Analog Solvers (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000032", "t": "The Optical Frequency Comb Engine (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000033", "t": "Photonic In-Memory Compute (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000034", "t": "The Hybrid Electronic-Photonic Stack (Signature Edition)", "g": "Photonic Computing Futures"}
+{"id": "JAH-ADVCG-000035", "t": "The Photonic Apprentice's Handbook (Signature Edition)", "g": "Photonic Computing Futures"}

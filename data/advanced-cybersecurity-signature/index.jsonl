@@ -1,0 +1,37 @@
+{"id": "JAH-ACSG-000001", "t": "Endpoint Detection and Response Platform (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000002", "t": "Security Information and Event Management System (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000003", "t": "Threat Intelligence Correlation Engine (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000004", "t": "Malware Behavior Analysis Sandbox (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000005", "t": "Memory Forensics Workbench (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000006", "t": "Disk Artifact Timeline Engine (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000007", "t": "Software Supply Chain Auditor (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000008", "t": "Binary Analysis Workbench (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000009", "t": "Reverse Engineering Laboratory (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000010", "t": "Digital Evidence Integrity Manager (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000011", "t": "Identity Attack Detection Engine (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000012", "t": "Cloud Configuration Security Auditor (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000013", "t": "Container Security Scanner (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000014", "t": "Network Intrusion Detection System (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000015", "t": "Security Policy Compliance Engine (Signature Edition)", "g": "advanced-cybersecurity"}
+{"id": "JAH-ACSG-000016", "t": "Wi-Fi Evil Twin Portal Injector (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000017", "t": "Wi-Fi Null Data Power-Save Exploiter (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000018", "t": "Wi-Fi TKIP Attack Utility (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000019", "t": "Wi-Fi Broadcast Echo Tool (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000020", "t": "Coordinate Measuring Machine (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000021", "t": "3D Laser Scanner (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000022", "t": "Hydraulic Cable Cutter (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000023", "t": "Fiber Optic Cleaver (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000024", "t": "Current Loop Calibrator (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ACSG-000025", "t": "Binary Decision Diagram (BDD) Manipulators (Signature Edition)", "g": "Computational Models, Math & Theoretical Execution / Mathematical & Discrete Solvers"}
+{"id": "JAH-ACSG-000026", "t": "Policy Engines (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-ACSG-000027", "t": "Binary Decompiler (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000028", "t": "ROP Gadget Finder (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000029", "t": "Radare2 Framework (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000030", "t": "Wazuh Security Platform (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000031", "t": "Security Onion Distribution (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000032", "t": "Cosign Container Signer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000033", "t": "Syft SBOM Generator (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000034", "t": "YARA Pattern Engine (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000035", "t": "Sysmon for Linux (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000036", "t": "Falco Runtime Security (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-ACSG-000037", "t": "Freedreno GPU Driver (Signature Edition)", "g": "Bizarre Software"}

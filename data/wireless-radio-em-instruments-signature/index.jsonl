@@ -1,0 +1,36 @@
+{"id": "JAH-WREG-000001", "t": "Wi-Fi Signal Strength Meter (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000002", "t": "Wi-Fi Channel Occupancy Analyzer (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000003", "t": "Bluetooth Device Scanner (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000004", "t": "Bluetooth Signal Strength Monitor (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000005", "t": "NFC Reader and Writer on supported hardware (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000006", "t": "RFID Reader Interface using a compatible reader (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000007", "t": "Software-Defined Radio Receiver (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000008", "t": "Radio Spectrum Analyzer using an SDR or external instrument (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000009", "t": "Radio Frequency Counter using compatible hardware (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000010", "t": "RF Signal Strength Meter (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000011", "t": "RF Signal Recording and Playback Analyzer using appropriate hardware (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000012", "t": "RF Antenna Comparison Station (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000013", "t": "RF Interference Survey Instrument (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000014", "t": "Radio Protocol Analysis Station (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000015", "t": "GPS Receiver Data Analyzer (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000016", "t": "GPS Antenna Performance Tester using suitable equipment (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000017", "t": "UWB Ranging Interface using compatible devices (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000018", "t": "Electromagnetic Interference Measurement Station using probes and an analyzer (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000019", "t": "Near-Field RF Probe Measurement Station (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000020", "t": "Wireless Network Coverage Survey Station (Signature Edition)", "g": "wireless-radio-em-instruments"}
+{"id": "JAH-WREG-000021", "t": "Wi-Fi Ambient Power Harvester (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000022", "t": "Wi-Fi Backscatter Reflector Tag (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000023", "t": "HackRF One Software-Defined Radio (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000024", "t": "Chirp-Z Transform Spectrum Analyzer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000025", "t": "Handheld Spectrum Analyzer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000026", "t": "Directional Coupler (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000027", "t": "Spectrum Analyzer with Tracking Generator (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000028", "t": "RF Field Strength Meter (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-WREG-000029", "t": "Gqrx SDR Receiver (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000030", "t": "SDR# (SDRSharp) (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000031", "t": "SDRangel Platform (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000032", "t": "Chirp Radio Programmer (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000033", "t": "WSJT-X Amateur Suite (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000034", "t": "Direwolf Soundcard TNC (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000035", "t": "Flrig Transceiver Control (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-WREG-000036", "t": "Fldigi Digital Modem (Signature Edition)", "g": "Bizarre Software"}

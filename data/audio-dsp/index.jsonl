@@ -1,0 +1,60 @@
+{"id": "JAH-AUD-000001", "t": "Digital Audio Workstations", "g": "audio"}
+{"id": "JAH-AUD-000002", "t": "Multitrack Recorders", "g": "audio"}
+{"id": "JAH-AUD-000003", "t": "Software Synthesizers", "g": "audio"}
+{"id": "JAH-AUD-000004", "t": "Subtractive Synths", "g": "audio"}
+{"id": "JAH-AUD-000005", "t": "FM Synths", "g": "audio"}
+{"id": "JAH-AUD-000006", "t": "Wavetable Synths", "g": "audio"}
+{"id": "JAH-AUD-000007", "t": "Granular Synths", "g": "audio"}
+{"id": "JAH-AUD-000008", "t": "Additive Synths", "g": "audio"}
+{"id": "JAH-AUD-000009", "t": "Physical Modelers", "g": "audio"}
+{"id": "JAH-AUD-000010", "t": "Samplers", "g": "audio"}
+{"id": "JAH-AUD-000011", "t": "Drum Machines", "g": "audio"}
+{"id": "JAH-AUD-000012", "t": "Step Sequencers", "g": "audio"}
+{"id": "JAH-AUD-000013", "t": "Piano Rolls", "g": "audio"}
+{"id": "JAH-AUD-000014", "t": "VST Plugins", "g": "audio"}
+{"id": "JAH-AUD-000015", "t": "Audio Units", "g": "audio"}
+{"id": "JAH-AUD-000016", "t": "CLAP Plugins", "g": "audio"}
+{"id": "JAH-AUD-000017", "t": "LV2 Plugins", "g": "audio"}
+{"id": "JAH-AUD-000018", "t": "LADSPA Plugins", "g": "audio"}
+{"id": "JAH-AUD-000019", "t": "Oscillators", "g": "audio"}
+{"id": "JAH-AUD-000020", "t": "Low-Frequency Oscillators", "g": "audio"}
+{"id": "JAH-AUD-000021", "t": "ADSR Envelopes", "g": "audio"}
+{"id": "JAH-AUD-000022", "t": "Filters", "g": "audio"}
+{"id": "JAH-AUD-000023", "t": "State-Variable Filters", "g": "audio"}
+{"id": "JAH-AUD-000024", "t": "Ladder Filters", "g": "audio"}
+{"id": "JAH-AUD-000025", "t": "Comb Filters", "g": "audio"}
+{"id": "JAH-AUD-000026", "t": "Allpass Filters", "g": "audio"}
+{"id": "JAH-AUD-000027", "t": "Equalizers", "g": "audio"}
+{"id": "JAH-AUD-000028", "t": "Graphic Equalizers", "g": "audio"}
+{"id": "JAH-AUD-000029", "t": "Dynamic Equalizers", "g": "audio"}
+{"id": "JAH-AUD-000030", "t": "Compressors", "g": "audio"}
+{"id": "JAH-AUD-000031", "t": "Limiters", "g": "audio"}
+{"id": "JAH-AUD-000032", "t": "Gates", "g": "audio"}
+{"id": "JAH-AUD-000033", "t": "Expanders", "g": "audio"}
+{"id": "JAH-AUD-000034", "t": "De-Essers", "g": "audio"}
+{"id": "JAH-AUD-000035", "t": "Vocoders", "g": "audio"}
+{"id": "JAH-AUD-000036", "t": "Talkboxes", "g": "audio"}
+{"id": "JAH-AUD-000037", "t": "Pitch Shifters", "g": "audio"}
+{"id": "JAH-AUD-000038", "t": "Pitch Correctors", "g": "audio"}
+{"id": "JAH-AUD-000039", "t": "Harmonizers", "g": "audio"}
+{"id": "JAH-AUD-000040", "t": "Resamplers", "g": "audio"}
+{"id": "JAH-AUD-000041", "t": "Bitcrushers", "g": "audio"}
+{"id": "JAH-AUD-000042", "t": "Saturators", "g": "audio"}
+{"id": "JAH-AUD-000043", "t": "Distortions", "g": "audio"}
+{"id": "JAH-AUD-000044", "t": "Overdrives", "g": "audio"}
+{"id": "JAH-AUD-000045", "t": "Chorus Effects", "g": "audio"}
+{"id": "JAH-AUD-000046", "t": "Flangers", "g": "audio"}
+{"id": "JAH-AUD-000047", "t": "Phasers", "g": "audio"}
+{"id": "JAH-AUD-000048", "t": "Delays", "g": "audio"}
+{"id": "JAH-AUD-000049", "t": "Tape Delays", "g": "audio"}
+{"id": "JAH-AUD-000050", "t": "Reverbs", "g": "audio"}
+{"id": "JAH-AUD-000051", "t": "Convolution Reverbs", "g": "audio"}
+{"id": "JAH-AUD-000052", "t": "Impulse Responses", "g": "audio"}
+{"id": "JAH-AUD-000053", "t": "FFT Visualizers", "g": "audio"}
+{"id": "JAH-AUD-000054", "t": "Spectrum Analyzers", "g": "audio"}
+{"id": "JAH-AUD-000055", "t": "Loudness Meters", "g": "audio"}
+{"id": "JAH-AUD-000056", "t": "Phase Meters", "g": "audio"}
+{"id": "JAH-AUD-000057", "t": "Goniometers", "g": "audio"}
+{"id": "JAH-AUD-000058", "t": "Tuners", "g": "audio"}
+{"id": "JAH-AUD-000059", "t": "Metronomes", "g": "audio"}
+{"id": "JAH-AUD-000060", "t": "Loopers", "g": "audio"}

@@ -1,0 +1,73 @@
+{"id": "JAH-NET-000001", "t": "Network Bridges", "g": "device"}
+{"id": "JAH-NET-000002", "t": "Tunnels", "g": "device"}
+{"id": "JAH-NET-000003", "t": "VPN Tunnels", "g": "device"}
+{"id": "JAH-NET-000004", "t": "SSH Tunnels", "g": "device"}
+{"id": "JAH-NET-000005", "t": "Gateways", "g": "device"}
+{"id": "JAH-NET-000006", "t": "API Gateways", "g": "device"}
+{"id": "JAH-NET-000007", "t": "Network Gateways", "g": "device"}
+{"id": "JAH-NET-000008", "t": "Edge Gateways", "g": "device"}
+{"id": "JAH-NET-000009", "t": "Routers", "g": "device"}
+{"id": "JAH-NET-000010", "t": "Core Routers", "g": "device"}
+{"id": "JAH-NET-000011", "t": "Edge Routers", "g": "device"}
+{"id": "JAH-NET-000012", "t": "Virtual Routers", "g": "device"}
+{"id": "JAH-NET-000013", "t": "Proxies", "g": "device"}
+{"id": "JAH-NET-000014", "t": "Forward Proxies", "g": "device"}
+{"id": "JAH-NET-000015", "t": "Reverse Proxies", "g": "device"}
+{"id": "JAH-NET-000016", "t": "Transparent Proxies", "g": "device"}
+{"id": "JAH-NET-000017", "t": "Load Balancers", "g": "device"}
+{"id": "JAH-NET-000018", "t": "Application Load Balancers", "g": "device"}
+{"id": "JAH-NET-000019", "t": "Network Load Balancers", "g": "device"}
+{"id": "JAH-NET-000020", "t": "Global Load Balancers", "g": "device"}
+{"id": "JAH-NET-000021", "t": "Relays", "g": "device"}
+{"id": "JAH-NET-000022", "t": "Message Relays", "g": "device"}
+{"id": "JAH-NET-000023", "t": "Network Sockets", "g": "device"}
+{"id": "JAH-NET-000024", "t": "Listening Sockets", "g": "device"}
+{"id": "JAH-NET-000025", "t": "Raw Sockets", "g": "device"}
+{"id": "JAH-NET-000026", "t": "Ports", "g": "device"}
+{"id": "JAH-NET-000027", "t": "Firewalls", "g": "device"}
+{"id": "JAH-NET-000028", "t": "Next-Gen Firewalls", "g": "device"}
+{"id": "JAH-NET-000029", "t": "Web Application Firewalls", "g": "device"}
+{"id": "JAH-NET-000030", "t": "Intrusion Prevention", "g": "device"}
+{"id": "JAH-NET-000031", "t": "Intrusion Detection", "g": "device"}
+{"id": "JAH-NET-000032", "t": "NAT Devices", "g": "device"}
+{"id": "JAH-NET-000033", "t": "DHCP Servers", "g": "device"}
+{"id": "JAH-NET-000034", "t": "DNS Servers", "g": "device"}
+{"id": "JAH-NET-000035", "t": "NTP Servers", "g": "device"}
+{"id": "JAH-NET-000036", "t": "Switches", "g": "device"}
+{"id": "JAH-NET-000037", "t": "Managed Switches", "g": "device"}
+{"id": "JAH-NET-000038", "t": "Unmanaged Switches", "g": "device"}
+{"id": "JAH-NET-000039", "t": "Hubs", "g": "device"}
+{"id": "JAH-NET-000040", "t": "Repeaters", "g": "device"}
+{"id": "JAH-NET-000041", "t": "Modems", "g": "device"}
+{"id": "JAH-NET-000042", "t": "Access Points", "g": "device"}
+{"id": "JAH-NET-000043", "t": "Wireless Controllers", "g": "device"}
+{"id": "JAH-NET-000044", "t": "Mesh Nodes", "g": "device"}
+{"id": "JAH-NET-000045", "t": "Range Extenders", "g": "device"}
+{"id": "JAH-NET-000046", "t": "Powerline Adapters", "g": "device"}
+{"id": "JAH-NET-000047", "t": "Media Converters", "g": "device"}
+{"id": "JAH-NET-000048", "t": "Terminal Servers", "g": "device"}
+{"id": "JAH-NET-000049", "t": "KVM Switches", "g": "device"}
+{"id": "JAH-NET-000050", "t": "Console Servers", "g": "device"}
+{"id": "JAH-NET-000051", "t": "Packet Brokers", "g": "device"}
+{"id": "JAH-NET-000052", "t": "Network Taps", "g": "device"}
+{"id": "JAH-NET-000053", "t": "Bypass Switches", "g": "device"}
+{"id": "JAH-NET-000054", "t": "Broadband Routers", "g": "device"}
+{"id": "JAH-NET-000055", "t": "Cable Modems (DOCSIS)", "g": "device"}
+{"id": "JAH-NET-000056", "t": "DSL Modems", "g": "device"}
+{"id": "JAH-NET-000057", "t": "Fiber ONTs", "g": "device"}
+{"id": "JAH-NET-000058", "t": "Mesh Wi-Fi Systems", "g": "device"}
+{"id": "JAH-NET-000059", "t": "Wi-Fi 6 Routers", "g": "device"}
+{"id": "JAH-NET-000060", "t": "Wi-Fi 7 Routers", "g": "device"}
+{"id": "JAH-NET-000061", "t": "Travel Routers", "g": "device"}
+{"id": "JAH-NET-000062", "t": "Cellular (4G/5G) Routers", "g": "device"}
+{"id": "JAH-NET-000063", "t": "Multi-WAN Load-Balancing Routers", "g": "device"}
+{"id": "JAH-NET-000064", "t": "VPN Routers", "g": "device"}
+{"id": "JAH-NET-000065", "t": "Gaming Routers (QoS-Focused)", "g": "device"}
+{"id": "JAH-NET-000066", "t": "Modem-Router Gateways (Combos)", "g": "device"}
+{"id": "JAH-NET-000067", "t": "SOHO Firewall Routers", "g": "device"}
+{"id": "JAH-NET-000068", "t": "SD-WAN Edge Routers", "g": "device"}
+{"id": "JAH-NET-000069", "t": "Outdoor Point-to-Point Bridges", "g": "device"}
+{"id": "JAH-NET-000070", "t": "USB Cellular Modems (Dongles)", "g": "device"}
+{"id": "JAH-NET-000071", "t": "Satellite Terminals", "g": "device"}
+{"id": "JAH-NET-000072", "t": "Third-Party Router Firmware", "g": "device"}
+{"id": "JAH-NET-000073", "t": "DSLAM-Side Line Diagnostics", "g": "device"}

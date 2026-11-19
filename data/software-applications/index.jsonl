@@ -1,0 +1,60 @@
+{"id": "JAH-APP-000001", "t": "Native Applications", "g": "execution"}
+{"id": "JAH-APP-000002", "t": "Cross-Platform Applications", "g": "execution"}
+{"id": "JAH-APP-000003", "t": "Web Applications", "g": "execution"}
+{"id": "JAH-APP-000004", "t": "Progressive Web Applications", "g": "execution"}
+{"id": "JAH-APP-000005", "t": "Single-Page Applications", "g": "execution"}
+{"id": "JAH-APP-000006", "t": "Multi-Page Applications", "g": "execution"}
+{"id": "JAH-APP-000007", "t": "Hybrid Applications", "g": "execution"}
+{"id": "JAH-APP-000008", "t": "Mobile Applications", "g": "execution"}
+{"id": "JAH-APP-000009", "t": "Native Mobile Apps", "g": "execution"}
+{"id": "JAH-APP-000010", "t": "Desktop Applications", "g": "execution"}
+{"id": "JAH-APP-000011", "t": "Command-Line Applications", "g": "execution"}
+{"id": "JAH-APP-000012", "t": "Terminal UI Applications", "g": "execution"}
+{"id": "JAH-APP-000013", "t": "Graphical UI Applications", "g": "execution"}
+{"id": "JAH-APP-000014", "t": "Headless Applications", "g": "execution"}
+{"id": "JAH-APP-000015", "t": "Daemon Services", "g": "execution"}
+{"id": "JAH-APP-000016", "t": "Background Services", "g": "execution"}
+{"id": "JAH-APP-000017", "t": "System Services", "g": "execution"}
+{"id": "JAH-APP-000018", "t": "Windows Services", "g": "execution"}
+{"id": "JAH-APP-000019", "t": "Microservices", "g": "execution"}
+{"id": "JAH-APP-000020", "t": "Serverless Functions", "g": "execution"}
+{"id": "JAH-APP-000021", "t": "Cloud-Native Applications", "g": "execution"}
+{"id": "JAH-APP-000022", "t": "Distributed Applications", "g": "execution"}
+{"id": "JAH-APP-000023", "t": "Peer-to-Peer Applications", "g": "execution"}
+{"id": "JAH-APP-000024", "t": "Decentralized Applications", "g": "execution"}
+{"id": "JAH-APP-000025", "t": "Edge Applications", "g": "execution"}
+{"id": "JAH-APP-000026", "t": "Embedded Applications", "g": "execution"}
+{"id": "JAH-APP-000027", "t": "Real-Time Applications", "g": "execution"}
+{"id": "JAH-APP-000028", "t": "Hard Real-Time Applications", "g": "execution"}
+{"id": "JAH-APP-000029", "t": "Soft Real-Time Applications", "g": "execution"}
+{"id": "JAH-APP-000030", "t": "Batch Applications", "g": "execution"}
+{"id": "JAH-APP-000031", "t": "Containerized Applications", "g": "execution"}
+{"id": "JAH-APP-000032", "t": "Sandboxed Applications", "g": "execution"}
+{"id": "JAH-APP-000033", "t": "Virtualized Applications", "g": "execution"}
+{"id": "JAH-APP-000034", "t": "Monolithic Applications", "g": "execution"}
+{"id": "JAH-APP-000035", "t": "Event-Driven Applications", "g": "execution"}
+{"id": "JAH-APP-000036", "t": "Interactive Applications", "g": "execution"}
+{"id": "JAH-APP-000037", "t": "Real-Time Streaming Applications", "g": "execution"}
+{"id": "JAH-APP-000038", "t": "Stateless Applications", "g": "execution"}
+{"id": "JAH-APP-000039", "t": "Stateful Applications", "g": "execution"}
+{"id": "JAH-APP-000040", "t": "WebAssembly Applications", "g": "execution"}
+{"id": "JAH-APP-000041", "t": "Legacy Applications", "g": "execution"}
+{"id": "JAH-APP-000042", "t": "Kiosk Applications", "g": "execution"}
+{"id": "JAH-APP-000043", "t": "Portable Applications", "g": "execution"}
+{"id": "JAH-APP-000044", "t": "Single-File Executables", "g": "execution"}
+{"id": "JAH-APP-000045", "t": "Multi-Tenant Applications", "g": "execution"}
+{"id": "JAH-APP-000046", "t": "Self-Contained Applications", "g": "execution"}
+{"id": "JAH-APP-000047", "t": "Console Applications", "g": "execution"}
+{"id": "JAH-APP-000048", "t": "Overlay Applications", "g": "execution"}
+{"id": "JAH-APP-000049", "t": "System Tray Applications", "g": "execution"}
+{"id": "JAH-APP-000050", "t": "Launch Daemons and Agents", "g": "execution"}
+{"id": "JAH-APP-000051", "t": "Multi-Platform Applications", "g": "execution"}
+{"id": "JAH-APP-000052", "t": "Text-Mode Applications", "g": "execution"}
+{"id": "JAH-APP-000053", "t": "Bare-Metal Executables", "g": "execution"}
+{"id": "JAH-APP-000054", "t": "Driver Applications", "g": "execution"}
+{"id": "JAH-APP-000055", "t": "Distributed Batch Systems", "g": "execution"}
+{"id": "JAH-APP-000056", "t": "Batch Processing Systems", "g": "execution"}
+{"id": "JAH-APP-000057", "t": "Streaming Media Applications", "g": "execution"}
+{"id": "JAH-APP-000058", "t": "Collaboration Applications", "g": "execution"}
+{"id": "JAH-APP-000059", "t": "Productivity Suites", "g": "execution"}
+{"id": "JAH-APP-000060", "t": "Creative Suites", "g": "execution"}

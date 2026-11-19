@@ -1,0 +1,53 @@
+{"id": "JAH-DIN-000001", "t": "Distributed Caches", "g": "infra"}
+{"id": "JAH-DIN-000002", "t": "Memory Caches", "g": "infra"}
+{"id": "JAH-DIN-000003", "t": "L1 Caches", "g": "infra"}
+{"id": "JAH-DIN-000004", "t": "L2 Caches", "g": "infra"}
+{"id": "JAH-DIN-000005", "t": "L3 Caches", "g": "infra"}
+{"id": "JAH-DIN-000006", "t": "CDN Caches", "g": "infra"}
+{"id": "JAH-DIN-000007", "t": "Web Caches", "g": "infra"}
+{"id": "JAH-DIN-000008", "t": "Query Caches", "g": "infra"}
+{"id": "JAH-DIN-000009", "t": "Object Caches", "g": "infra"}
+{"id": "JAH-DIN-000010", "t": "Page Caches", "g": "infra"}
+{"id": "JAH-DIN-000011", "t": "Buffer Caches", "g": "infra"}
+{"id": "JAH-DIN-000012", "t": "DNS Caches", "g": "infra"}
+{"id": "JAH-DIN-000013", "t": "Data Lakes", "g": "infra"}
+{"id": "JAH-DIN-000014", "t": "Data Warehouses", "g": "infra"}
+{"id": "JAH-DIN-000015", "t": "Data Marts", "g": "infra"}
+{"id": "JAH-DIN-000016", "t": "Lakehouses", "g": "infra"}
+{"id": "JAH-DIN-000017", "t": "Data Stores", "g": "infra"}
+{"id": "JAH-DIN-000018", "t": "Data Dumps", "g": "infra"}
+{"id": "JAH-DIN-000019", "t": "Data Indices", "g": "infra"}
+{"id": "JAH-DIN-000020", "t": "Data Catalogs", "g": "infra"}
+{"id": "JAH-DIN-000021", "t": "Data Libraries", "g": "infra"}
+{"id": "JAH-DIN-000022", "t": "Data Inventories", "g": "infra"}
+{"id": "JAH-DIN-000023", "t": "Data Manifests", "g": "infra"}
+{"id": "JAH-DIN-000024", "t": "Metadata Repositories", "g": "infra"}
+{"id": "JAH-DIN-000025", "t": "Master Data Stores", "g": "infra"}
+{"id": "JAH-DIN-000026", "t": "Reference Data Stores", "g": "infra"}
+{"id": "JAH-DIN-000027", "t": "Staging Areas", "g": "infra"}
+{"id": "JAH-DIN-000028", "t": "Operational Data Stores", "g": "infra"}
+{"id": "JAH-DIN-000029", "t": "Archive Tiers", "g": "infra"}
+{"id": "JAH-DIN-000030", "t": "Backup Tiers", "g": "infra"}
+{"id": "JAH-DIN-000031", "t": "WORM Stores", "g": "infra"}
+{"id": "JAH-DIN-000032", "t": "Content Repositories", "g": "infra"}
+{"id": "JAH-DIN-000033", "t": "Document Stores", "g": "infra"}
+{"id": "JAH-DIN-000034", "t": "File Shares", "g": "infra"}
+{"id": "JAH-DIN-000035", "t": "NAS Systems", "g": "infra"}
+{"id": "JAH-DIN-000036", "t": "SAN Fabrics", "g": "infra"}
+{"id": "JAH-DIN-000037", "t": "Object Gateways", "g": "infra"}
+{"id": "JAH-DIN-000038", "t": "Storage Virtualization", "g": "infra"}
+{"id": "JAH-DIN-000039", "t": "Software-Defined Storage", "g": "infra"}
+{"id": "JAH-DIN-000040", "t": "Hyperconverged Storage", "g": "infra"}
+{"id": "JAH-DIN-000041", "t": "Cloud Volumes", "g": "infra"}
+{"id": "JAH-DIN-000042", "t": "Ephemeral Storage", "g": "infra"}
+{"id": "JAH-DIN-000043", "t": "Persistent Volumes", "g": "infra"}
+{"id": "JAH-DIN-000044", "t": "StatefulSets Storage", "g": "infra"}
+{"id": "JAH-DIN-000045", "t": "Backup Appliances", "g": "infra"}
+{"id": "JAH-DIN-000046", "t": "Tape Libraries", "g": "infra"}
+{"id": "JAH-DIN-000047", "t": "Optical Archives", "g": "infra"}
+{"id": "JAH-DIN-000048", "t": "DNA Storage", "g": "infra"}
+{"id": "JAH-DIN-000049", "t": "Holographic Storage", "g": "infra"}
+{"id": "JAH-DIN-000050", "t": "Data Diodes", "g": "infra"}
+{"id": "JAH-DIN-000051", "t": "Cross-Domain Guards", "g": "infra"}
+{"id": "JAH-DIN-000052", "t": "Data Clean Rooms", "g": "infra"}
+{"id": "JAH-DIN-000053", "t": "Confidential Stores", "g": "infra"}

@@ -1,0 +1,68 @@
+{"id": "JAH-CGRL-000001", "t": "Code Generation and Repair Library Database: Pattern: Safe Array Access (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000002", "t": "Code Generation and Repair Library Database: Bug Fix: Off-by-One in Loop (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000003", "t": "Code Generation and Repair Library Database: Bug Fix: Async in forEach Ignored (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000004", "t": "Code Generation and Repair Library Database: Pattern: Retry with Backoff (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000005", "t": "Code Generation and Repair Library Database: Refactoring: Extract Function (JS)", "c": 0, "g": "refactoring"}
+{"id": "JAH-CGRL-000006", "t": "Code Generation and Repair Library Database: Bug Fix: Floating Point Money (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000007", "t": "Code Generation and Repair Library Database: Pattern: Input Validation Guard (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000008", "t": "Code Generation and Repair Library Database: Bug Fix: this Lost in Callback (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000009", "t": "Code Generation and Repair Library Database: Pattern: Debounce (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000010", "t": "Code Generation and Repair Library Database: Refactoring: Replace Magic Numbers (JS)", "c": 0, "g": "refactoring"}
+{"id": "JAH-CGRL-000011", "t": "Code Generation and Repair Library Database: Bug Fix: Race Condition on Shared State (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000012", "t": "Code Generation and Repair Library Database: Pattern: CSV Line Parser (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000013", "t": "Code Generation and Repair Library Database: Bug Fix: Sort Numbers as Strings (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000014", "t": "Code Generation and Repair Library Database: Pattern: Deep Clone (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000015", "t": "Code Generation and Repair Library Database: Refactoring: Guard Clauses (JS)", "c": 0, "g": "refactoring"}
+{"id": "JAH-CGRL-000016", "t": "Code Generation and Repair Library Database: Bug Fix: Missing await (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000017", "t": "Code Generation and Repair Library Database: Pattern: Event Emitter (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000018", "t": "Code Generation and Repair Library Database: Pattern: Config with Defaults (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000019", "t": "Code Generation and Repair Library Database: Refactoring: Replace Callback Hell (JS)", "c": 0, "g": "refactoring"}
+{"id": "JAH-CGRL-000020", "t": "Code Generation and Repair Library Database: Bug Fix: Closure in Loop (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000021", "t": "Code Generation and Repair Library Database: Pattern: Memoize (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000022", "t": "Code Generation and Repair Library Database: Bug Fix: NaN Propagation (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000023", "t": "Code Generation and Repair Library Database: Pattern: Pipeline (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000024", "t": "Code Generation and Repair Library Database: Refactoring: Early Continue (JS)", "c": 0, "g": "refactoring"}
+{"id": "JAH-CGRL-000025", "t": "Code Generation and Repair Library Database: Bug Fix: Regex Special Characters (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000026", "t": "Code Generation and Repair Library Database: Pattern: Throttle (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000027", "t": "Code Generation and Repair Library Database: Bug Fix: JSON Parse Crash (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000028", "t": "Code Generation and Repair Library Database: Pattern: Builder (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000029", "t": "Code Generation and Repair Library Database: Refactoring: Parameter Object (JS)", "c": 0, "g": "refactoring"}
+{"id": "JAH-CGRL-000030", "t": "Code Generation and Repair Library Database: Bug Fix: Array Mutation Surprise (JS)", "c": 0, "g": "bug-fix"}
+{"id": "JAH-CGRL-000031", "t": "Code Generation and Repair Library Database: Pattern: Once (JS)", "c": 0, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000032", "t": "Code Generation and Repair Library Database: Transformation: Callback to Promise (JS)", "c": 0, "g": "transformation"}
+{"id": "JAH-CGRL-000033", "t": "Code Generation and Repair Library Database: Idiom: Destructuring Defaults (JS)", "c": 0, "g": "idiom"}
+{"id": "JAH-CGRL-000034", "t": "Code Generation and Repair Library Database: Review Checklist: Security Pass (JS)", "c": 0, "g": "review-checklist"}
+{"id": "JAH-CGRL-000035", "t": "Code Generation and Repair Library Database: AI Prompt Patterns for Code Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000036", "t": "Code Generation and Repair Library Database: Self-Repair Loop: Generate-Test-Fix", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000037", "t": "Code Generation and Repair Library Database: AI Diff Review Before Merge", "c": 1, "g": "review-checklist"}
+{"id": "JAH-CGRL-000038", "t": "Code Generation and Repair Library Database: Spec-to-Code Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000039", "t": "Code Generation and Repair Library Database: AI Test Generation from Code", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000040", "t": "Code Generation and Repair Library Database: AI Refactoring Agent Workflow", "c": 1, "g": "refactoring"}
+{"id": "JAH-CGRL-000041", "t": "Code Generation and Repair Library Database: AI Debugging with Stack Traces", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000042", "t": "Code Generation and Repair Library Database: AI Code Translation (Python to JS)", "c": 1, "g": "transformation"}
+{"id": "JAH-CGRL-000043", "t": "Code Generation and Repair Library Database: AI Docstring Generation", "c": 1, "g": "idiom"}
+{"id": "JAH-CGRL-000044", "t": "Code Generation and Repair Library Database: AI Regex Generation and Verification", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000045", "t": "Code Generation and Repair Library Database: AI SQL Query Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000046", "t": "Code Generation and Repair Library Database: AI Shell One-Liner Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000047", "t": "Code Generation and Repair Library Database: AI Boilerplate Scaffolding", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000048", "t": "Code Generation and Repair Library Database: AI API Client Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000049", "t": "Code Generation and Repair Library Database: AI Error Explanation", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000050", "t": "Code Generation and Repair Library Database: AI Performance Suggestions", "c": 1, "g": "refactoring"}
+{"id": "JAH-CGRL-000051", "t": "Code Generation and Repair Library Database: AI Security Fix Suggestions", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000052", "t": "Code Generation and Repair Library Database: AI Type Annotation Inference", "c": 1, "g": "transformation"}
+{"id": "JAH-CGRL-000053", "t": "Code Generation and Repair Library Database: AI Legacy Code Modernization", "c": 1, "g": "transformation"}
+{"id": "JAH-CGRL-000054", "t": "Code Generation and Repair Library Database: AI Dead Code Detection", "c": 1, "g": "refactoring"}
+{"id": "JAH-CGRL-000055", "t": "Code Generation and Repair Library Database: AI Dependency Upgrade Fixes", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000056", "t": "Code Generation and Repair Library Database: AI Flaky Test Diagnosis", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000057", "t": "Code Generation and Repair Library Database: AI Log Analysis for Root Cause", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000058", "t": "Code Generation and Repair Library Database: AI Config File Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000059", "t": "Code Generation and Repair Library Database: AI Dockerfile Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000060", "t": "Code Generation and Repair Library Database: AI CI YAML Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000061", "t": "Code Generation and Repair Library Database: AI Migration Script Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000062", "t": "Code Generation and Repair Library Database: AI Mock Data Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000063", "t": "Code Generation and Repair Library Database: AI Contract Test Generation", "c": 1, "g": "generation-pattern"}
+{"id": "JAH-CGRL-000064", "t": "Code Generation and Repair Library Database: AI Prompt Chaining for Large Edits", "c": 1, "g": "transformation"}
+{"id": "JAH-CGRL-000065", "t": "Code Generation and Repair Library Database: AI Guardrails for Generated Code", "c": 1, "g": "review-checklist"}
+{"id": "JAH-CGRL-000066", "t": "Code Generation and Repair Library Database: AI Human-in-the-Loop Review", "c": 1, "g": "review-checklist"}
+{"id": "JAH-CGRL-000067", "t": "Code Generation and Repair Library Database: AI Repair Verification Loop", "c": 1, "g": "bug-fix"}
+{"id": "JAH-CGRL-000068", "t": "Code Generation and Repair Library Database: AI Codebase Onboarding Q&A", "c": 1, "g": "idiom"}

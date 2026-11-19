@@ -1,0 +1,34 @@
+{"id": "JAH-RACSS-000001", "t": "Resource Allocation and Computational Scheduling Signature Database: Utilization", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000002", "t": "Resource Allocation and Computational Scheduling Signature Database: Allocation Ratio", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000003", "t": "Resource Allocation and Computational Scheduling Signature Database: Headroom", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000004", "t": "Resource Allocation and Computational Scheduling Signature Database: Overcommit Ratio", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000005", "t": "Resource Allocation and Computational Scheduling Signature Database: Cost per Hour", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000006", "t": "Resource Allocation and Computational Scheduling Signature Database: Total Cost", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000007", "t": "Resource Allocation and Computational Scheduling Signature Database: Budget Burn", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000008", "t": "Resource Allocation and Computational Scheduling Signature Database: Budget Remaining", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000009", "t": "Resource Allocation and Computational Scheduling Signature Database: Runway", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000010", "t": "Resource Allocation and Computational Scheduling Signature Database: Queue Wait", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000011", "t": "Resource Allocation and Computational Scheduling Signature Database: Throughput", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000012", "t": "Resource Allocation and Computational Scheduling Signature Database: Total Latency", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000013", "t": "Resource Allocation and Computational Scheduling Signature Database: Priority Weight", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000014", "t": "Resource Allocation and Computational Scheduling Signature Database: Fair Share", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000015", "t": "Resource Allocation and Computational Scheduling Signature Database: Share Deficit", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000016", "t": "Resource Allocation and Computational Scheduling Signature Database: Efficiency", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000017", "t": "Resource Allocation and Computational Scheduling Signature Database: Waste Ratio", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000018", "t": "Resource Allocation and Computational Scheduling Signature Database: Fragmentation", "c": 0, "g": "capacity"}
+{"id": "JAH-RACSS-000019", "t": "Resource Allocation and Computational Scheduling Signature Database: Spot Discount", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000020", "t": "Resource Allocation and Computational Scheduling Signature Database: Reserved Savings", "c": 0, "g": "cost"}
+{"id": "JAH-RACSS-000021", "t": "Resource Allocation and Computational Scheduling Signature Database: Scale-Out Count", "c": 0, "g": "scaling"}
+{"id": "JAH-RACSS-000022", "t": "Resource Allocation and Computational Scheduling Signature Database: Target Tracking", "c": 0, "g": "scaling"}
+{"id": "JAH-RACSS-000023", "t": "Resource Allocation and Computational Scheduling Signature Database: Job Duration", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000024", "t": "Resource Allocation and Computational Scheduling Signature Database: Makespan", "c": 0, "g": "scheduling"}
+{"id": "JAH-RACSS-000025", "t": "Resource Allocation and Computational Scheduling Signature Database: Speedup", "c": 0, "g": "scaling"}
+{"id": "JAH-RACSS-000026", "t": "Resource Allocation and Computational Scheduling Signature Database: Amdahl's Law", "c": 0, "g": "scaling"}
+{"id": "JAH-RACSS-000027", "t": "Resource Allocation and Computational Scheduling Signature Database: Parallel Efficiency", "c": 0, "g": "scaling"}
+{"id": "JAH-RACSS-000028", "t": "Resource Allocation and Computational Scheduling Signature Database: Energy (Wh)", "c": 0, "g": "energy"}
+{"id": "JAH-RACSS-000029", "t": "Resource Allocation and Computational Scheduling Signature Database: PUE", "c": 0, "g": "energy"}
+{"id": "JAH-RACSS-000030", "t": "Resource Allocation and Computational Scheduling Signature Database: Carbon", "c": 0, "g": "energy"}
+{"id": "JAH-RACSS-000031", "t": "Resource Allocation and Computational Scheduling Signature Database: Bandwidth", "c": 0, "g": "network"}
+{"id": "JAH-RACSS-000032", "t": "Resource Allocation and Computational Scheduling Signature Database: IOPS", "c": 0, "g": "network"}
+{"id": "JAH-RACSS-000033", "t": "Resource Allocation and Computational Scheduling Signature Database: Network Latency", "c": 0, "g": "network"}
+{"id": "JAH-RACSS-000034", "t": "Resource Allocation and Computational Scheduling Signature Database: Allocation Score Capstone", "c": 0, "g": "scheduling"}

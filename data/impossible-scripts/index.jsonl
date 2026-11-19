@@ -1,0 +1,60 @@
+{"id": "JAH-IS-000001", "t": "Bulkrename — bulk file renamer", "g": "file-automation"}
+{"id": "JAH-IS-000002", "t": "Bulkrename — bulk file renamer (2)", "g": "file-automation"}
+{"id": "JAH-IS-000003", "t": "Filerename — bulk file renamer", "g": "file-automation"}
+{"id": "JAH-IS-000004", "t": "Bulkrename — bulk file renamer (3)", "g": "file-automation"}
+{"id": "JAH-IS-000005", "t": "Renamer — bulk file renamer", "g": "file-automation"}
+{"id": "JAH-IS-000006", "t": "Bulkrename — bulk file renamer (4)", "g": "file-automation"}
+{"id": "JAH-IS-000007", "t": "Backupmanifest — backup integrity manifest", "g": "backup-and-integrity"}
+{"id": "JAH-IS-000008", "t": "Integritymanifest — backup integrity manifest", "g": "backup-and-integrity"}
+{"id": "JAH-IS-000009", "t": "Backupmanifest — backup integrity manifest (2)", "g": "backup-and-integrity"}
+{"id": "JAH-IS-000010", "t": "Safemanifest — backup integrity manifest", "g": "backup-and-integrity"}
+{"id": "JAH-IS-000011", "t": "Backupmanifest — backup integrity manifest (3)", "g": "backup-and-integrity"}
+{"id": "JAH-IS-000012", "t": "Hashmanifest — backup integrity manifest", "g": "backup-and-integrity"}
+{"id": "JAH-IS-000013", "t": "Logextract — log error extractor", "g": "text-processing"}
+{"id": "JAH-IS-000014", "t": "Logextract — log error extractor (2)", "g": "text-processing"}
+{"id": "JAH-IS-000015", "t": "Errorextract — log error extractor", "g": "text-processing"}
+{"id": "JAH-IS-000016", "t": "Logextract — log error extractor (3)", "g": "text-processing"}
+{"id": "JAH-IS-000017", "t": "Logscan — log error extractor", "g": "text-processing"}
+{"id": "JAH-IS-000018", "t": "Logextract — log error extractor (4)", "g": "text-processing"}
+{"id": "JAH-IS-000019", "t": "Deduplines — duplicate line remover", "g": "text-processing"}
+{"id": "JAH-IS-000020", "t": "Deduplines — duplicate line remover (case-insensitive)", "g": "text-processing"}
+{"id": "JAH-IS-000021", "t": "Deduplines — duplicate line remover (2)", "g": "text-processing"}
+{"id": "JAH-IS-000022", "t": "Linededup — duplicate line remover", "g": "text-processing"}
+{"id": "JAH-IS-000023", "t": "Deduplines — duplicate line remover (case-insensitive) (2)", "g": "text-processing"}
+{"id": "JAH-IS-000024", "t": "Uniquelines — duplicate line remover", "g": "text-processing"}
+{"id": "JAH-IS-000025", "t": "Todoscan — TODO comment scanner", "g": "text-processing"}
+{"id": "JAH-IS-000026", "t": "Todoscan — TODO comment scanner (2)", "g": "text-processing"}
+{"id": "JAH-IS-000027", "t": "Fixmescan — TODO comment scanner", "g": "text-processing"}
+{"id": "JAH-IS-000028", "t": "Todoscan — TODO comment scanner (3)", "g": "text-processing"}
+{"id": "JAH-IS-000029", "t": "Todosweep — TODO comment scanner", "g": "text-processing"}
+{"id": "JAH-IS-000030", "t": "Todoscan — TODO comment scanner (4)", "g": "text-processing"}
+{"id": "JAH-IS-000031", "t": "Inimigrate — config key migrator (host to server_host)", "g": "data-cleaning"}
+{"id": "JAH-IS-000032", "t": "Inimigrate — config key migrator (user to username)", "g": "data-cleaning"}
+{"id": "JAH-IS-000033", "t": "Cfgmigrate — config key migrator (pass to password)", "g": "data-cleaning"}
+{"id": "JAH-IS-000034", "t": "Inimigrate — config key migrator (db to database)", "g": "data-cleaning"}
+{"id": "JAH-IS-000035", "t": "Inimigrate — config key migrator (timeout to request_timeout)", "g": "data-cleaning"}
+{"id": "JAH-IS-000036", "t": "Cfgmigrate — config key migrator (host to server_host)", "g": "data-cleaning"}
+{"id": "JAH-IS-000037", "t": "Csvnorm — CSV normalizer", "g": "data-cleaning"}
+{"id": "JAH-IS-000038", "t": "Csvnorm — CSV normalizer (2)", "g": "data-cleaning"}
+{"id": "JAH-IS-000039", "t": "Csvclean — CSV normalizer", "g": "data-cleaning"}
+{"id": "JAH-IS-000040", "t": "Csvnorm — CSV normalizer (3)", "g": "data-cleaning"}
+{"id": "JAH-IS-000041", "t": "Tidycsv — CSV normalizer", "g": "data-cleaning"}
+{"id": "JAH-IS-000042", "t": "Csvnorm — CSV normalizer (4)", "g": "data-cleaning"}
+{"id": "JAH-IS-000043", "t": "Csvmd — CSV to markdown table", "g": "reporting"}
+{"id": "JAH-IS-000044", "t": "Csvmd — CSV to markdown table (2)", "g": "reporting"}
+{"id": "JAH-IS-000045", "t": "Mdtable — CSV to markdown table", "g": "reporting"}
+{"id": "JAH-IS-000046", "t": "Csvmd — CSV to markdown table (3)", "g": "reporting"}
+{"id": "JAH-IS-000047", "t": "Csvreport — CSV to markdown table", "g": "reporting"}
+{"id": "JAH-IS-000048", "t": "Csvmd — CSV to markdown table (4)", "g": "reporting"}
+{"id": "JAH-IS-000049", "t": "Sizehist — file size histogram", "g": "reporting"}
+{"id": "JAH-IS-000050", "t": "Sizehist — file size histogram (2)", "g": "reporting"}
+{"id": "JAH-IS-000051", "t": "Sizehist — file size histogram (3)", "g": "reporting"}
+{"id": "JAH-IS-000052", "t": "Filehist — file size histogram", "g": "reporting"}
+{"id": "JAH-IS-000053", "t": "Sizehist — file size histogram (4)", "g": "reporting"}
+{"id": "JAH-IS-000054", "t": "Diskhist — file size histogram", "g": "reporting"}
+{"id": "JAH-IS-000055", "t": "Jsonlval — JSONL validator", "g": "validation"}
+{"id": "JAH-IS-000056", "t": "Jsonlvalidate — JSONL validator", "g": "validation"}
+{"id": "JAH-IS-000057", "t": "Jsonlval — JSONL validator (2)", "g": "validation"}
+{"id": "JAH-IS-000058", "t": "Jsonlcheck — JSONL validator", "g": "validation"}
+{"id": "JAH-IS-000059", "t": "Jsonlval — JSONL validator (3)", "g": "validation"}
+{"id": "JAH-IS-000060", "t": "Jsonlaudit — JSONL validator", "g": "validation"}

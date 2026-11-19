@@ -1,0 +1,60 @@
+{"id": "JAH-RP-000001", "t": "Compiled pose — Warehouse AMR corridor prediction (fused #1)", "g": "ground-robots"}
+{"id": "JAH-RP-000002", "t": "Compiled pose — Delivery robot sidewalk forecast (fused #2)", "g": "ground-robots"}
+{"id": "JAH-RP-000003", "t": "Compiled pose — Autonomous forklift aisle turn (fused #3)", "g": "ground-robots"}
+{"id": "JAH-RP-000004", "t": "Compiled pose — Patrol robot perimeter loop (fused #4)", "g": "ground-robots"}
+{"id": "JAH-RP-000005", "t": "Compiled pose — Agricultural rover row traversal (fused #5)", "g": "ground-robots"}
+{"id": "JAH-RP-000006", "t": "Compiled pose — Mining truck haul road climb (fused #6)", "g": "ground-robots"}
+{"id": "JAH-RP-000007", "t": "Compiled pose — Hospital courier hallway run (fused #7)", "g": "ground-robots"}
+{"id": "JAH-RP-000008", "t": "Compiled pose — Last-mile delivery bot crossing (fused #8)", "g": "ground-robots"}
+{"id": "JAH-RP-000009", "t": "Compiled pose — Parking lot maneuver forecast (fused #9)", "g": "ground-robots"}
+{"id": "JAH-RP-000010", "t": "Compiled pose — Off-road UGV ridge climb (fused #10)", "g": "ground-robots"}
+{"id": "JAH-RP-000011", "t": "Compiled pose — Quadrotor waypoint survey (fused #11)", "g": "aerial-robots"}
+{"id": "JAH-RP-000012", "t": "Compiled pose — Delivery drone descent profile (fused #12)", "g": "aerial-robots"}
+{"id": "JAH-RP-000013", "t": "Compiled pose — Inspection drone orbit (fused #13)", "g": "aerial-robots"}
+{"id": "JAH-RP-000014", "t": "Compiled pose — Swarm formation hold (fused #14)", "g": "aerial-robots"}
+{"id": "JAH-RP-000015", "t": "Compiled pose — Fixed-wing transect (fused #15)", "g": "aerial-robots"}
+{"id": "JAH-RP-000016", "t": "Compiled pose — VTOL transition maneuver (fused #16)", "g": "aerial-robots"}
+{"id": "JAH-RP-000017", "t": "Compiled pose — Rooftop landing approach (fused #17)", "g": "aerial-robots"}
+{"id": "JAH-RP-000018", "t": "Compiled pose — Canyon wind gust response (fused #18)", "g": "aerial-robots"}
+{"id": "JAH-RP-000019", "t": "Compiled pose — Agricultural spray pass (fused #19)", "g": "aerial-robots"}
+{"id": "JAH-RP-000020", "t": "Compiled pose — Search grid sweep (fused #20)", "g": "aerial-robots"}
+{"id": "JAH-RP-000021", "t": "Compiled pose — Pick-and-place joint trajectory (fused #21)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000022", "t": "Compiled pose — Welding seam path (fused #22)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000023", "t": "Compiled pose — Assembly insertion (fused #23)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000024", "t": "Compiled pose — Palletizing cycle (fused #24)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000025", "t": "Compiled pose — Surgical tool path (fused #25)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000026", "t": "Compiled pose — Painting stroke (fused #26)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000027", "t": "Compiled pose — Bin picking reach (fused #27)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000028", "t": "Compiled pose — Screwdriving approach (fused #28)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000029", "t": "Compiled pose — Deburring pass (fused #29)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000030", "t": "Compiled pose — Collaborative handover (fused #30)", "g": "manipulator-arms"}
+{"id": "JAH-RP-000031", "t": "Compiled pose — AUV survey transect (fused #31)", "g": "marine-robots"}
+{"id": "JAH-RP-000032", "t": "Compiled pose — ROV station keeping (fused #32)", "g": "marine-robots"}
+{"id": "JAH-RP-000033", "t": "Compiled pose — Surface vessel waypoint leg (fused #33)", "g": "marine-robots"}
+{"id": "JAH-RP-000034", "t": "Compiled pose — Under-ice survey (fused #34)", "g": "marine-robots"}
+{"id": "JAH-RP-000035", "t": "Compiled pose — Pipeline following (fused #35)", "g": "marine-robots"}
+{"id": "JAH-RP-000036", "t": "Compiled pose — Harbor patrol loop (fused #36)", "g": "marine-robots"}
+{"id": "JAH-RP-000037", "t": "Compiled pose — Wave glider drift forecast (fused #37)", "g": "marine-robots"}
+{"id": "JAH-RP-000038", "t": "Compiled pose — Docking approach (fused #38)", "g": "marine-robots"}
+{"id": "JAH-RP-000039", "t": "Compiled pose — Bathymetry lawnmower (fused #39)", "g": "marine-robots"}
+{"id": "JAH-RP-000040", "t": "Compiled pose — Rescue search pattern (fused #40)", "g": "marine-robots"}
+{"id": "JAH-RP-000041", "t": "Compiled pose — Walking gait cycle (fused #41)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000042", "t": "Compiled pose — Stair climb (fused #42)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000043", "t": "Compiled pose — Door opening reach (fused #43)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000044", "t": "Compiled pose — Carrying load walk (fused #44)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000045", "t": "Compiled pose — Sit-to-stand (fused #45)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000046", "t": "Compiled pose — Push recovery step (fused #46)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000047", "t": "Compiled pose — Turning maneuver (fused #47)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000048", "t": "Compiled pose — Slope ascent (fused #48)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000049", "t": "Compiled pose — Obstacle step-over (fused #49)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000050", "t": "Compiled pose — Handshake reach (fused #50)", "g": "humanoid-robots"}
+{"id": "JAH-RP-000051", "t": "Compiled pose — Satellite rendezvous (fused #51)", "g": "space-robots"}
+{"id": "JAH-RP-000052", "t": "Compiled pose — Robotic arm capture (fused #52)", "g": "space-robots"}
+{"id": "JAH-RP-000053", "t": "Compiled pose — Rover traverse (fused #53)", "g": "space-robots"}
+{"id": "JAH-RP-000054", "t": "Compiled pose — Docking final approach (fused #54)", "g": "space-robots"}
+{"id": "JAH-RP-000055", "t": "Compiled pose — Debris avoidance burn (fused #55)", "g": "space-robots"}
+{"id": "JAH-RP-000056", "t": "Compiled pose — Antenna pointing slew (fused #56)", "g": "space-robots"}
+{"id": "JAH-RP-000057", "t": "Compiled pose — Sample collection (fused #57)", "g": "space-robots"}
+{"id": "JAH-RP-000058", "t": "Compiled pose — Hopping maneuver (fused #58)", "g": "space-robots"}
+{"id": "JAH-RP-000059", "t": "Compiled pose — Tethered inspection (fused #59)", "g": "space-robots"}
+{"id": "JAH-RP-000060", "t": "Compiled pose — Orbital station keeping (fused #60)", "g": "space-robots"}

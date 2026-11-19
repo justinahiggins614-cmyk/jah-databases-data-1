@@ -1,0 +1,34 @@
+{"id": "JAH-KQFSS-000001", "t": "Knowledge Quality and Freshness Scoring Signature Database: Completeness Check", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFSS-000002", "t": "Knowledge Quality and Freshness Scoring Signature Database: Correctness Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000003", "t": "Knowledge Quality and Freshness Scoring Signature Database: Duplication Detection", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000004", "t": "Knowledge Quality and Freshness Scoring Signature Database: Freshness Scoring", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000005", "t": "Knowledge Quality and Freshness Scoring Signature Database: Confidence Calibration", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000006", "t": "Knowledge Quality and Freshness Scoring Signature Database: Source Reliability", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000007", "t": "Knowledge Quality and Freshness Scoring Signature Database: Citation Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000008", "t": "Knowledge Quality and Freshness Scoring Signature Database: Consistency Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000009", "t": "Knowledge Quality and Freshness Scoring Signature Database: Coverage Analysis", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFSS-000010", "t": "Knowledge Quality and Freshness Scoring Signature Database: Staleness Detection", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000011", "t": "Knowledge Quality and Freshness Scoring Signature Database: Update Prioritization", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000012", "t": "Knowledge Quality and Freshness Scoring Signature Database: Data Profiling", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFSS-000013", "t": "Knowledge Quality and Freshness Scoring Signature Database: Schema Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000014", "t": "Knowledge Quality and Freshness Scoring Signature Database: Referential Integrity", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000015", "t": "Knowledge Quality and Freshness Scoring Signature Database: Outlier Detection", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000016", "t": "Knowledge Quality and Freshness Scoring Signature Database: Bias Detection", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000017", "t": "Knowledge Quality and Freshness Scoring Signature Database: Provenance Audit", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000018", "t": "Knowledge Quality and Freshness Scoring Signature Database: Version Currency", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000019", "t": "Knowledge Quality and Freshness Scoring Signature Database: Broken Link Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000020", "t": "Knowledge Quality and Freshness Scoring Signature Database: Format Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000021", "t": "Knowledge Quality and Freshness Scoring Signature Database: Null Analysis", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFSS-000022", "t": "Knowledge Quality and Freshness Scoring Signature Database: Range Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000023", "t": "Knowledge Quality and Freshness Scoring Signature Database: Pattern Check", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000024", "t": "Knowledge Quality and Freshness Scoring Signature Database: Cross-Field Validation", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000025", "t": "Knowledge Quality and Freshness Scoring Signature Database: Temporal Consistency", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000026", "t": "Knowledge Quality and Freshness Scoring Signature Database: Unit Consistency", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000027", "t": "Knowledge Quality and Freshness Scoring Signature Database: Naming Consistency", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000028", "t": "Knowledge Quality and Freshness Scoring Signature Database: Deduplication", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000029", "t": "Knowledge Quality and Freshness Scoring Signature Database: Merge Review", "c": 0, "g": "correctness"}
+{"id": "JAH-KQFSS-000030", "t": "Knowledge Quality and Freshness Scoring Signature Database: Quality Dashboard", "c": 0, "g": "completeness"}
+{"id": "JAH-KQFSS-000031", "t": "Knowledge Quality and Freshness Scoring Signature Database: Data SLA", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000032", "t": "Knowledge Quality and Freshness Scoring Signature Database: Refresh Scheduling", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000033", "t": "Knowledge Quality and Freshness Scoring Signature Database: Retention Policy", "c": 0, "g": "freshness"}
+{"id": "JAH-KQFSS-000034", "t": "Knowledge Quality and Freshness Scoring Signature Database: Capstone: Quality Program", "c": 0, "g": "completeness"}

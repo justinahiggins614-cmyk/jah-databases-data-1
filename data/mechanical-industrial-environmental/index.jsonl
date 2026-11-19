@@ -1,0 +1,39 @@
+{"id": "JAH-MIE-000001", "t": "Digital Caliper Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000002", "t": "Coordinate Measurement System Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000003", "t": "Laser Distance Meter Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000004", "t": "Digital Tachometer Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000005", "t": "Laser Doppler Vibrometer Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000006", "t": "Ultrasonic Thickness Gauge Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000007", "t": "Ultrasonic Leak Detector Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000008", "t": "Ground Penetrating Radar Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000009", "t": "Rebar Detector Interface", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000010", "t": "Industrial Pressure Sensor Monitor", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000011", "t": "Temperature Sensor Measurement Station", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000012", "t": "Humidity and Dew Point Monitor", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000013", "t": "Air Quality Measurement Station", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000014", "t": "Particulate Matter Sensor Monitor", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000015", "t": "Gas Sensor Measurement Station", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000016", "t": "Weather Station Console", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000017", "t": "Wind Speed and Direction Measurement Station", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000018", "t": "Soil Moisture Measurement Station", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000019", "t": "Water Quality Sensor Console", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000020", "t": "Industrial Vibration Monitoring Station", "g": "mechanical-industrial-environmental"}
+{"id": "JAH-MIE-000021", "t": "Non-Contact Infrared Thermometer", "g": "Toolset"}
+{"id": "JAH-MIE-000022", "t": "Stroboscopic Tachometer", "g": "Toolset"}
+{"id": "JAH-MIE-000023", "t": "Ultrasonic Thickness Gauge", "g": "Toolset"}
+{"id": "JAH-MIE-000024", "t": "Thermal Wire Stripper", "g": "Toolset"}
+{"id": "JAH-MIE-000025", "t": "Modular Plug Crimper", "g": "Toolset"}
+{"id": "JAH-MIE-000026", "t": "PLC Trainer", "g": "Toolset"}
+{"id": "JAH-MIE-000027", "t": "NAT Traversal Relays (STUN/TURN/ICE)", "g": "Network Architecture, Protocols & Data Pipelines / Network Protocols & Low-Level Traffic"}
+{"id": "JAH-MIE-000028", "t": "Semantic Router", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000029", "t": "Semantic Similarity Router", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000030", "t": "STUN/TURN Relay Server", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000031", "t": "TorBox Proxy", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000032", "t": "Self-Healing Concrete Sensor", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000033", "t": "Keepalived Controller", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000034", "t": "Socat Relay", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000035", "t": "Nostr Protocol Relay", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000036", "t": "FLAC Audio Encoder", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000037", "t": "MozJPEG Encoder", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000038", "t": "OpenPLC Runtime", "g": "Bizarre Software"}
+{"id": "JAH-MIE-000039", "t": "Beremiz IDE", "g": "Bizarre Software"}

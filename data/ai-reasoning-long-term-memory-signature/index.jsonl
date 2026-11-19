@@ -1,0 +1,34 @@
+{"id": "JAH-AIR-LMS-000001", "t": "What long-term memory is: knowledge that outlives the session (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000002", "t": "Durable stores: where long-term memory lives (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000003", "t": "Consolidation: from session experience to durable knowledge (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000004", "t": "The forgetting curve: durable does not mean eternal (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000005", "t": "Semantic indexing: finding memories by meaning (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000006", "t": "Memory schemas: the shape of a durable entry (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000007", "t": "Provenance: where every memory came from (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000008", "t": "Freshness dates: knowledge has a shelf life (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000009", "t": "User profiles: the durable picture of the user (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000010", "t": "Domain knowledge: the system's durable expertise (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000011", "t": "Retrieval basics: asking the library a question (Signature Edition)", "g": "long-term-memory-foundations"}
+{"id": "JAH-AIR-LMS-000012", "t": "Vector stores: similarity at scale (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000013", "t": "Knowledge graphs: memory as relations (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000014", "t": "Hybrid retrieval: vectors plus structure plus recency (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000015", "t": "Memory updates: changing a fact everywhere it matters (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000016", "t": "Conflict resolution: when memories disagree (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000017", "t": "Merging duplicates: one fact, one entry (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000018", "t": "Hierarchical memory: summaries of summaries (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000019", "t": "Memory compression: smaller without dumber (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000020", "t": "Cross-session identity: knowing it is the same user (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000021", "t": "Evaluating recall: does the memory actually work (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000022", "t": "Capacity planning: memory that grows for years (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000023", "t": "Access control: who may read and write memory (Signature Edition)", "g": "long-term-memory-compounded"}
+{"id": "JAH-AIR-LMS-000024", "t": "Lifelong learning: memory that improves with age (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000025", "t": "Catastrophic forgetting defense: new knowledge must not erase old (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000026", "t": "Temporal versioning: what was true when (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000027", "t": "Contradiction timelines: the honest history of disagreement (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000028", "t": "Memory surgery: precise edits to durable knowledge (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000029", "t": "Federated memory: knowledge across systems (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000030", "t": "Memory poisoning defense: protecting the durable store (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000031", "t": "Audit trails: the memory's own memory (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000032", "t": "The right to be forgotten: deleting on demand (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000033", "t": "Memory as training data: what the store teaches the model (Signature Edition)", "g": "long-term-memory-advanced"}
+{"id": "JAH-AIR-LMS-000034", "t": "The century archive: memory built to outlive its builders (Signature Edition)", "g": "long-term-memory-advanced"}

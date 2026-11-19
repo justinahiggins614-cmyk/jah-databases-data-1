@@ -1,0 +1,49 @@
+{"id": "JAH-CITS-000001", "t": "What Is Cloud Computing (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000002", "t": "The Internet: How Packets Travel (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000003", "t": "DNS: The Internet Phone Book (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000004", "t": "IP Addresses and Subnetting (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000005", "t": "HTTP and the Web Request (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000006", "t": "TLS and HTTPS: Encryption in Transit (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000007", "t": "Virtualization: One Machine, Many (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000008", "t": "Cloud Service Models: IaaS, PaaS, and SaaS (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000009", "t": "Cloud Deployment Models: Public, Private, and Hybrid (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000010", "t": "Data Centers, Regions, and Availability Zones (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000011", "t": "Cloud Storage: Object, File, and Block (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-CITS-000012", "t": "Containers and Container Images (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000013", "t": "Kubernetes: Container Orchestration (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000014", "t": "Load Balancers and Auto Scaling (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000015", "t": "Content Delivery Networks (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000016", "t": "Virtual Networks, Subnets, and Firewalls (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000017", "t": "Cloud Databases: Relational and NoSQL (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000018", "t": "Serverless Computing and Functions as a Service (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000019", "t": "Identity and Access Management in the Cloud (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000020", "t": "Message Queues and Event Streams (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000021", "t": "CI and CD: Cloud Deployment Pipelines (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000022", "t": "Caching: Redis and Memcached (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-CITS-000023", "t": "Edge Computing (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000024", "t": "IoT Connectivity: MQTT and Device Fleets (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000025", "t": "Cloud Security: The Shared Responsibility Model (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000026", "t": "DDoS Defense and Web Application Firewalls (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000027", "t": "Zero Trust Network Architecture (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000028", "t": "Multi-Cloud and Hybrid Architecture (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000029", "t": "Observability: Logs, Metrics, and Traces (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000030", "t": "Cloud Cost Engineering and FinOps (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000031", "t": "Disaster Recovery and Cloud Backups (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000032", "t": "Infrastructure as Code (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000033", "t": "Service Mesh (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-CITS-000034", "t": "The Future Internet: IPv6, QUIC, and Beyond (Signature Edition)", "g": "Advanced"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000035", "t": "Delay-Tolerant Networking Protocols"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000036", "t": "Mars Relay Orbiter Network"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000037", "t": "Laser Communication Terminals"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000038", "t": "The Lunar Internet Gateway"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000039", "t": "Caching at Interplanetary Scale"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000040", "t": "Time Synchronization Across Planets"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000041", "t": "Security for the Deep-Space Network"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000042", "t": "The Outer Planets Relay Chain"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000043", "t": "Interplanetary Email and Messaging"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000044", "t": "The Mars Web: A Local Internet"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000045", "t": "Deep-Space Network Ground Stations"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000046", "t": "Protocols for Crewed Missions"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000047", "t": "The Interplanetary Address System"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000048", "t": "Governance of the Space Network"}
+{"g": "Interplanetary Internet", "id": "JAH-CITS-000049", "t": "The First Interplanetary Packet"}
