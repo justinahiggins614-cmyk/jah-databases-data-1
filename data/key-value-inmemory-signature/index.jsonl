@@ -1,0 +1,10 @@
+{"id": "JAH-KVINS-000001", "t": "Signature Redis Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000002", "t": "Signature Memcached Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000003", "t": "Signature Amazon DynamoDB Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000004", "t": "Signature Aerospike Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000005", "t": "Signature Riak KV Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000006", "t": "Signature Oracle NoSQL Database Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000007", "t": "Signature Dragonfly Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000008", "t": "Signature KeyDB Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000009", "t": "Signature Hazelcast Engine", "g": "key-value-inmemory-signature"}
+{"id": "JAH-KVINS-000010", "t": "Signature Apache Ignite Engine", "g": "key-value-inmemory-signature"}

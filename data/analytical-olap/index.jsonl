@@ -1,0 +1,13 @@
+{"id": "JAH-OLAP-000001", "t": "Snowflake", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000002", "t": "Google BigQuery", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000003", "t": "ClickHouse", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000004", "t": "DuckDB", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000005", "t": "Amazon Redshift", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000006", "t": "Apache Druid", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000007", "t": "Apache Pinot", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000008", "t": "StarRocks", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000009", "t": "Trino", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000010", "t": "Databricks SQL", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000011", "t": "Apache Doris", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000012", "t": "Databricks Lakehouse (Delta Lake)", "g": "analytical-olap"}
+{"id": "JAH-OLAP-000013", "t": "Apache Doris", "g": "analytical-olap"}

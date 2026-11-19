@@ -1,0 +1,15 @@
+{"id": "JAH-ATK286-00001", "t": "Spec Parsing — Foundation", "title": "Connector Building: Spec Parsing (Foundation)", "c": 1, "g": "spec-parsing"}
+{"id": "JAH-ATK286-00002", "t": "Spec Parsing — Operation", "title": "Connector Building: Spec Parsing (Operation)", "c": 1, "g": "spec-parsing"}
+{"id": "JAH-ATK286-00003", "t": "Spec Parsing — Mastery", "title": "Connector Building: Spec Parsing (Mastery)", "c": 1, "g": "spec-parsing"}
+{"id": "JAH-ATK286-00004", "t": "Client Codegen — Foundation", "title": "Connector Building: Client Codegen (Foundation)", "c": 1, "g": "client-codegen"}
+{"id": "JAH-ATK286-00005", "t": "Client Codegen — Operation", "title": "Connector Building: Client Codegen (Operation)", "c": 1, "g": "client-codegen"}
+{"id": "JAH-ATK286-00006", "t": "Client Codegen — Mastery", "title": "Connector Building: Client Codegen (Mastery)", "c": 1, "g": "client-codegen"}
+{"id": "JAH-ATK286-00007", "t": "Auth Wiring — Foundation", "title": "Connector Building: Auth Wiring (Foundation)", "c": 1, "g": "auth-wiring"}
+{"id": "JAH-ATK286-00008", "t": "Auth Wiring — Operation", "title": "Connector Building: Auth Wiring (Operation)", "c": 1, "g": "auth-wiring"}
+{"id": "JAH-ATK286-00009", "t": "Auth Wiring — Mastery", "title": "Connector Building: Auth Wiring (Mastery)", "c": 1, "g": "auth-wiring"}
+{"id": "JAH-ATK286-00010", "t": "Error Mapping — Foundation", "title": "Connector Building: Error Mapping (Foundation)", "c": 1, "g": "error-mapping"}
+{"id": "JAH-ATK286-00011", "t": "Error Mapping — Operation", "title": "Connector Building: Error Mapping (Operation)", "c": 1, "g": "error-mapping"}
+{"id": "JAH-ATK286-00012", "t": "Error Mapping — Mastery", "title": "Connector Building: Error Mapping (Mastery)", "c": 1, "g": "error-mapping"}
+{"id": "JAH-ATK286-00013", "t": "Retry Policy — Foundation", "title": "Connector Building: Retry Policy (Foundation)", "c": 1, "g": "retry-policy"}
+{"id": "JAH-ATK286-00014", "t": "Retry Policy — Operation", "title": "Connector Building: Retry Policy (Operation)", "c": 1, "g": "retry-policy"}
+{"id": "JAH-ATK286-00015", "t": "Retry Policy — Mastery", "title": "Connector Building: Retry Policy (Mastery)", "c": 1, "g": "retry-policy"}

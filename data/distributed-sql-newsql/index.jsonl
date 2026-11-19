@@ -1,0 +1,12 @@
+{"id": "JAH-DSQL-000001", "t": "CockroachDB", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000002", "t": "YugabyteDB", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000003", "t": "TiDB", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000004", "t": "Google Cloud Spanner", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000005", "t": "SingleStore", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000006", "t": "NuoDB", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000007", "t": "Volt Active Data", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000008", "t": "Datomic", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000009", "t": "Vitess", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000010", "t": "HarperDB", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000011", "t": "OceanBase", "g": "distributed-sql-newsql"}
+{"id": "JAH-DSQL-000012", "t": "OceanBase", "g": "distributed-sql-newsql"}

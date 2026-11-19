@@ -1,0 +1,15 @@
+{"id": "JAH-ATK281-00001", "t": "Registry Diffing — Foundation", "title": "Unknown Resource Discovery: Registry Diffing (Foundation)", "c": 1, "g": "registry-diff"}
+{"id": "JAH-ATK281-00002", "t": "Registry Diffing — Operation", "title": "Unknown Resource Discovery: Registry Diffing (Operation)", "c": 1, "g": "registry-diff"}
+{"id": "JAH-ATK281-00003", "t": "Registry Diffing — Mastery", "title": "Unknown Resource Discovery: Registry Diffing (Mastery)", "c": 1, "g": "registry-diff"}
+{"id": "JAH-ATK281-00004", "t": "Keyword Relevance Scoring — Foundation", "title": "Unknown Resource Discovery: Keyword Relevance Scoring (Foundation)", "c": 1, "g": "keyword-scoring"}
+{"id": "JAH-ATK281-00005", "t": "Keyword Relevance Scoring — Operation", "title": "Unknown Resource Discovery: Keyword Relevance Scoring (Operation)", "c": 1, "g": "keyword-scoring"}
+{"id": "JAH-ATK281-00006", "t": "Keyword Relevance Scoring — Mastery", "title": "Unknown Resource Discovery: Keyword Relevance Scoring (Mastery)", "c": 1, "g": "keyword-scoring"}
+{"id": "JAH-ATK281-00007", "t": "Source Sweeping — Foundation", "title": "Unknown Resource Discovery: Source Sweeping (Foundation)", "c": 1, "g": "source-sweep"}
+{"id": "JAH-ATK281-00008", "t": "Source Sweeping — Operation", "title": "Unknown Resource Discovery: Source Sweeping (Operation)", "c": 1, "g": "source-sweep"}
+{"id": "JAH-ATK281-00009", "t": "Source Sweeping — Mastery", "title": "Unknown Resource Discovery: Source Sweeping (Mastery)", "c": 1, "g": "source-sweep"}
+{"id": "JAH-ATK281-00010", "t": "Duplicate Merging — Foundation", "title": "Unknown Resource Discovery: Duplicate Merging (Foundation)", "c": 1, "g": "dedupe-merge"}
+{"id": "JAH-ATK281-00011", "t": "Duplicate Merging — Operation", "title": "Unknown Resource Discovery: Duplicate Merging (Operation)", "c": 1, "g": "dedupe-merge"}
+{"id": "JAH-ATK281-00012", "t": "Duplicate Merging — Mastery", "title": "Unknown Resource Discovery: Duplicate Merging (Mastery)", "c": 1, "g": "dedupe-merge"}
+{"id": "JAH-ATK281-00013", "t": "Confidence Ranking — Foundation", "title": "Unknown Resource Discovery: Confidence Ranking (Foundation)", "c": 1, "g": "confidence-ranking"}
+{"id": "JAH-ATK281-00014", "t": "Confidence Ranking — Operation", "title": "Unknown Resource Discovery: Confidence Ranking (Operation)", "c": 1, "g": "confidence-ranking"}
+{"id": "JAH-ATK281-00015", "t": "Confidence Ranking — Mastery", "title": "Unknown Resource Discovery: Confidence Ranking (Mastery)", "c": 1, "g": "confidence-ranking"}

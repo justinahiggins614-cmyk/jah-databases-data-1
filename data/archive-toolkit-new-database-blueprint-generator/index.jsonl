@@ -1,0 +1,15 @@
+{"id": "JAH-ATK284-00001", "t": "Entity Extraction — Foundation", "title": "Database Blueprinting: Entity Extraction (Foundation)", "c": 1, "g": "entity-extraction"}
+{"id": "JAH-ATK284-00002", "t": "Entity Extraction — Operation", "title": "Database Blueprinting: Entity Extraction (Operation)", "c": 1, "g": "entity-extraction"}
+{"id": "JAH-ATK284-00003", "t": "Entity Extraction — Mastery", "title": "Database Blueprinting: Entity Extraction (Mastery)", "c": 1, "g": "entity-extraction"}
+{"id": "JAH-ATK284-00004", "t": "Relation Mapping — Foundation", "title": "Database Blueprinting: Relation Mapping (Foundation)", "c": 1, "g": "relation-mapping"}
+{"id": "JAH-ATK284-00005", "t": "Relation Mapping — Operation", "title": "Database Blueprinting: Relation Mapping (Operation)", "c": 1, "g": "relation-mapping"}
+{"id": "JAH-ATK284-00006", "t": "Relation Mapping — Mastery", "title": "Database Blueprinting: Relation Mapping (Mastery)", "c": 1, "g": "relation-mapping"}
+{"id": "JAH-ATK284-00007", "t": "Type Assignment — Foundation", "title": "Database Blueprinting: Type Assignment (Foundation)", "c": 1, "g": "type-assignment"}
+{"id": "JAH-ATK284-00008", "t": "Type Assignment — Operation", "title": "Database Blueprinting: Type Assignment (Operation)", "c": 1, "g": "type-assignment"}
+{"id": "JAH-ATK284-00009", "t": "Type Assignment — Mastery", "title": "Database Blueprinting: Type Assignment (Mastery)", "c": 1, "g": "type-assignment"}
+{"id": "JAH-ATK284-00010", "t": "Index Planning — Foundation", "title": "Database Blueprinting: Index Planning (Foundation)", "c": 1, "g": "index-planning"}
+{"id": "JAH-ATK284-00011", "t": "Index Planning — Operation", "title": "Database Blueprinting: Index Planning (Operation)", "c": 1, "g": "index-planning"}
+{"id": "JAH-ATK284-00012", "t": "Index Planning — Mastery", "title": "Database Blueprinting: Index Planning (Mastery)", "c": 1, "g": "index-planning"}
+{"id": "JAH-ATK284-00013", "t": "Validation Rules — Foundation", "title": "Database Blueprinting: Validation Rules (Foundation)", "c": 1, "g": "validation-rules"}
+{"id": "JAH-ATK284-00014", "t": "Validation Rules — Operation", "title": "Database Blueprinting: Validation Rules (Operation)", "c": 1, "g": "validation-rules"}
+{"id": "JAH-ATK284-00015", "t": "Validation Rules — Mastery", "title": "Database Blueprinting: Validation Rules (Mastery)", "c": 1, "g": "validation-rules"}

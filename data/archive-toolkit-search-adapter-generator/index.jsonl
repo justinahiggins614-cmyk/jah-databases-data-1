@@ -1,0 +1,15 @@
+{"id": "JAH-ATK288-00001", "t": "Interface Contract — Foundation", "title": "Search Adaptation: Interface Contract (Foundation)", "c": 1, "g": "interface-contract"}
+{"id": "JAH-ATK288-00002", "t": "Interface Contract — Operation", "title": "Search Adaptation: Interface Contract (Operation)", "c": 1, "g": "interface-contract"}
+{"id": "JAH-ATK288-00003", "t": "Interface Contract — Mastery", "title": "Search Adaptation: Interface Contract (Mastery)", "c": 1, "g": "interface-contract"}
+{"id": "JAH-ATK288-00004", "t": "Backend Wrapping — Foundation", "title": "Search Adaptation: Backend Wrapping (Foundation)", "c": 1, "g": "backend-wrapping"}
+{"id": "JAH-ATK288-00005", "t": "Backend Wrapping — Operation", "title": "Search Adaptation: Backend Wrapping (Operation)", "c": 1, "g": "backend-wrapping"}
+{"id": "JAH-ATK288-00006", "t": "Backend Wrapping — Mastery", "title": "Search Adaptation: Backend Wrapping (Mastery)", "c": 1, "g": "backend-wrapping"}
+{"id": "JAH-ATK288-00007", "t": "Query Translation — Foundation", "title": "Search Adaptation: Query Translation (Foundation)", "c": 1, "g": "query-translation"}
+{"id": "JAH-ATK288-00008", "t": "Query Translation — Operation", "title": "Search Adaptation: Query Translation (Operation)", "c": 1, "g": "query-translation"}
+{"id": "JAH-ATK288-00009", "t": "Query Translation — Mastery", "title": "Search Adaptation: Query Translation (Mastery)", "c": 1, "g": "query-translation"}
+{"id": "JAH-ATK288-00010", "t": "Result Normalization — Foundation", "title": "Search Adaptation: Result Normalization (Foundation)", "c": 1, "g": "result-normalization"}
+{"id": "JAH-ATK288-00011", "t": "Result Normalization — Operation", "title": "Search Adaptation: Result Normalization (Operation)", "c": 1, "g": "result-normalization"}
+{"id": "JAH-ATK288-00012", "t": "Result Normalization — Mastery", "title": "Search Adaptation: Result Normalization (Mastery)", "c": 1, "g": "result-normalization"}
+{"id": "JAH-ATK288-00013", "t": "Multi-Backend Merging — Foundation", "title": "Search Adaptation: Multi-Backend Merging (Foundation)", "c": 1, "g": "multi-backend-merge"}
+{"id": "JAH-ATK288-00014", "t": "Multi-Backend Merging — Operation", "title": "Search Adaptation: Multi-Backend Merging (Operation)", "c": 1, "g": "multi-backend-merge"}
+{"id": "JAH-ATK288-00015", "t": "Multi-Backend Merging — Mastery", "title": "Search Adaptation: Multi-Backend Merging (Mastery)", "c": 1, "g": "multi-backend-merge"}

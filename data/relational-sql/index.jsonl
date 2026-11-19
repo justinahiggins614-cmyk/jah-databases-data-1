@@ -1,0 +1,13 @@
+{"id": "JAH-RSQL-000001", "t": "PostgreSQL", "g": "relational-sql"}
+{"id": "JAH-RSQL-000002", "t": "MySQL", "g": "relational-sql"}
+{"id": "JAH-RSQL-000003", "t": "MariaDB", "g": "relational-sql"}
+{"id": "JAH-RSQL-000004", "t": "Amazon Aurora", "g": "relational-sql"}
+{"id": "JAH-RSQL-000005", "t": "Azure SQL Database", "g": "relational-sql"}
+{"id": "JAH-RSQL-000006", "t": "PlanetScale", "g": "relational-sql"}
+{"id": "JAH-RSQL-000007", "t": "Neon", "g": "relational-sql"}
+{"id": "JAH-RSQL-000008", "t": "Citus", "g": "relational-sql"}
+{"id": "JAH-RSQL-000009", "t": "AlloyDB", "g": "relational-sql"}
+{"id": "JAH-RSQL-000010", "t": "Percona Server for MySQL", "g": "relational-sql"}
+{"id": "JAH-RSQL-000011", "t": "InterBase", "g": "relational-sql"}
+{"id": "JAH-RSQL-000012", "t": "InterBase", "g": "relational-sql"}
+{"id": "JAH-RSQL-000013", "t": "Relational Tabular Rows", "g": "database-types"}

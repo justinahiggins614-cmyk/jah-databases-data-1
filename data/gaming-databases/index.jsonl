@@ -1,0 +1,11 @@
+{"id": "JAH-GAM-000001", "t": "Player Inventory Inventories", "g": "game-inventory"}
+{"id": "JAH-GAM-000002", "t": "Multiplayer Matchmaking States", "g": "matchmaking"}
+{"id": "JAH-GAM-000003", "t": "Game World Physics State", "g": "world-physics"}
+{"id": "JAH-GAM-000004", "t": "Non-Player Character AI Trees", "g": "npc-trees"}
+{"id": "JAH-GAM-000005", "t": "Procedural Generation Seeds", "g": "procgen-seeds"}
+{"id": "JAH-GAM-000006", "t": "Replay Data Files", "g": "replay-files"}
+{"id": "JAH-GAM-000007", "t": "Achievement Unlock Records", "g": "achievements"}
+{"id": "JAH-GAM-000008", "t": "Guild and Clan Hierarchies", "g": "guild-hier"}
+{"id": "JAH-GAM-000009", "t": "Combat Damage Calculations", "g": "combat-math"}
+{"id": "JAH-GAM-000010", "t": "Economic Auction House Listings", "g": "auction-house"}
+{"id": "JAH-GAM-000011", "t": "Game Level NavMesh Geometry", "g": "database-types"}

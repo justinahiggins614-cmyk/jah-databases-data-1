@@ -1,0 +1,15 @@
+{"id": "JAH-ATK309-00001", "t": "Goal Specification — Foundation", "title": "Goal-Driven Navigation: Goal Specification (Foundation)", "c": 1, "g": "goal-spec"}
+{"id": "JAH-ATK309-00002", "t": "Goal Specification — Operation", "title": "Goal-Driven Navigation: Goal Specification (Operation)", "c": 1, "g": "goal-spec"}
+{"id": "JAH-ATK309-00003", "t": "Goal Specification — Mastery", "title": "Goal-Driven Navigation: Goal Specification (Mastery)", "c": 1, "g": "goal-spec"}
+{"id": "JAH-ATK309-00004", "t": "Operator Modeling — Foundation", "title": "Goal-Driven Navigation: Operator Modeling (Foundation)", "c": 1, "g": "operator-model"}
+{"id": "JAH-ATK309-00005", "t": "Operator Modeling — Operation", "title": "Goal-Driven Navigation: Operator Modeling (Operation)", "c": 1, "g": "operator-model"}
+{"id": "JAH-ATK309-00006", "t": "Operator Modeling — Mastery", "title": "Goal-Driven Navigation: Operator Modeling (Mastery)", "c": 1, "g": "operator-model"}
+{"id": "JAH-ATK309-00007", "t": "Utility Scoring — Foundation", "title": "Goal-Driven Navigation: Utility Scoring (Foundation)", "c": 1, "g": "utility-scoring"}
+{"id": "JAH-ATK309-00008", "t": "Utility Scoring — Operation", "title": "Goal-Driven Navigation: Utility Scoring (Operation)", "c": 1, "g": "utility-scoring"}
+{"id": "JAH-ATK309-00009", "t": "Utility Scoring — Mastery", "title": "Goal-Driven Navigation: Utility Scoring (Mastery)", "c": 1, "g": "utility-scoring"}
+{"id": "JAH-ATK309-00010", "t": "Plan Execution — Foundation", "title": "Goal-Driven Navigation: Plan Execution (Foundation)", "c": 1, "g": "plan-execution"}
+{"id": "JAH-ATK309-00011", "t": "Plan Execution — Operation", "title": "Goal-Driven Navigation: Plan Execution (Operation)", "c": 1, "g": "plan-execution"}
+{"id": "JAH-ATK309-00012", "t": "Plan Execution — Mastery", "title": "Goal-Driven Navigation: Plan Execution (Mastery)", "c": 1, "g": "plan-execution"}
+{"id": "JAH-ATK309-00013", "t": "Replanning — Foundation", "title": "Goal-Driven Navigation: Replanning (Foundation)", "c": 1, "g": "replanning"}
+{"id": "JAH-ATK309-00014", "t": "Replanning — Operation", "title": "Goal-Driven Navigation: Replanning (Operation)", "c": 1, "g": "replanning"}
+{"id": "JAH-ATK309-00015", "t": "Replanning — Mastery", "title": "Goal-Driven Navigation: Replanning (Mastery)", "c": 1, "g": "replanning"}

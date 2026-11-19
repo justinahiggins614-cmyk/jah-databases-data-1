@@ -1,0 +1,12 @@
+{"id": "JAH-GSP-000001", "t": "GIS Vector Boundaries", "g": "gis-vectors"}
+{"id": "JAH-GSP-000002", "t": "Digital Elevation Models", "g": "dem-terrain"}
+{"id": "JAH-GSP-000003", "t": "Meteorological Grids", "g": "met-grids"}
+{"id": "JAH-GSP-000004", "t": "Oceanographic Current Logs", "g": "ocean-currents"}
+{"id": "JAH-GSP-000005", "t": "Seismic Waveform Telemetry", "g": "seismic-waves"}
+{"id": "JAH-GSP-000006", "t": "Satellite Remote Sensing Imagery", "g": "sat-remote"}
+{"id": "JAH-GSP-000007", "t": "Hydrological River Gauges", "g": "hydro-gauges"}
+{"id": "JAH-GSP-000008", "t": "Air Quality Index Logs", "g": "aqi-logs"}
+{"id": "JAH-GSP-000009", "t": "Bathymetric Sonar Maps", "g": "bathy-maps"}
+{"id": "JAH-GSP-000010", "t": "Soil Composition Profiles", "g": "soil-profiles"}
+{"id": "JAH-GSP-000011", "t": "Urban Traffic Intersection Counts", "g": "database-types"}
+{"id": "JAH-GSP-000012", "t": "Zoning Compliance Variance Records", "g": "database-types"}

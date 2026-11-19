@@ -1,0 +1,15 @@
+{"id": "JAH-ATK293-00001", "t": "Gold Test Sets — Foundation", "title": "Accuracy Evaluation: Gold Test Sets (Foundation)", "c": 1, "g": "gold-sets"}
+{"id": "JAH-ATK293-00002", "t": "Gold Test Sets — Operation", "title": "Accuracy Evaluation: Gold Test Sets (Operation)", "c": 1, "g": "gold-sets"}
+{"id": "JAH-ATK293-00003", "t": "Gold Test Sets — Mastery", "title": "Accuracy Evaluation: Gold Test Sets (Mastery)", "c": 1, "g": "gold-sets"}
+{"id": "JAH-ATK293-00004", "t": "Precision and Recall — Foundation", "title": "Accuracy Evaluation: Precision and Recall (Foundation)", "c": 1, "g": "precision-recall"}
+{"id": "JAH-ATK293-00005", "t": "Precision and Recall — Operation", "title": "Accuracy Evaluation: Precision and Recall (Operation)", "c": 1, "g": "precision-recall"}
+{"id": "JAH-ATK293-00006", "t": "Precision and Recall — Mastery", "title": "Accuracy Evaluation: Precision and Recall (Mastery)", "c": 1, "g": "precision-recall"}
+{"id": "JAH-ATK293-00007", "t": "Per-Query Breakdown — Foundation", "title": "Accuracy Evaluation: Per-Query Breakdown (Foundation)", "c": 1, "g": "per-query"}
+{"id": "JAH-ATK293-00008", "t": "Per-Query Breakdown — Operation", "title": "Accuracy Evaluation: Per-Query Breakdown (Operation)", "c": 1, "g": "per-query"}
+{"id": "JAH-ATK293-00009", "t": "Per-Query Breakdown — Mastery", "title": "Accuracy Evaluation: Per-Query Breakdown (Mastery)", "c": 1, "g": "per-query"}
+{"id": "JAH-ATK293-00010", "t": "Ranking Quality — Foundation", "title": "Accuracy Evaluation: Ranking Quality (Foundation)", "c": 1, "g": "ranking-quality"}
+{"id": "JAH-ATK293-00011", "t": "Ranking Quality — Operation", "title": "Accuracy Evaluation: Ranking Quality (Operation)", "c": 1, "g": "ranking-quality"}
+{"id": "JAH-ATK293-00012", "t": "Ranking Quality — Mastery", "title": "Accuracy Evaluation: Ranking Quality (Mastery)", "c": 1, "g": "ranking-quality"}
+{"id": "JAH-ATK293-00013", "t": "Regression Comparison — Foundation", "title": "Accuracy Evaluation: Regression Comparison (Foundation)", "c": 1, "g": "regression-compare"}
+{"id": "JAH-ATK293-00014", "t": "Regression Comparison — Operation", "title": "Accuracy Evaluation: Regression Comparison (Operation)", "c": 1, "g": "regression-compare"}
+{"id": "JAH-ATK293-00015", "t": "Regression Comparison — Mastery", "title": "Accuracy Evaluation: Regression Comparison (Mastery)", "c": 1, "g": "regression-compare"}

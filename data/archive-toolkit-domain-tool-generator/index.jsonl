@@ -1,0 +1,15 @@
+{"id": "JAH-ATK289-00001", "t": "Requirement Capture — Foundation", "title": "Domain Tooling: Requirement Capture (Foundation)", "c": 1, "g": "requirement-capture"}
+{"id": "JAH-ATK289-00002", "t": "Requirement Capture — Operation", "title": "Domain Tooling: Requirement Capture (Operation)", "c": 1, "g": "requirement-capture"}
+{"id": "JAH-ATK289-00003", "t": "Requirement Capture — Mastery", "title": "Domain Tooling: Requirement Capture (Mastery)", "c": 1, "g": "requirement-capture"}
+{"id": "JAH-ATK289-00004", "t": "Rule Validation — Foundation", "title": "Domain Tooling: Rule Validation (Foundation)", "c": 1, "g": "rule-validation"}
+{"id": "JAH-ATK289-00005", "t": "Rule Validation — Operation", "title": "Domain Tooling: Rule Validation (Operation)", "c": 1, "g": "rule-validation"}
+{"id": "JAH-ATK289-00006", "t": "Rule Validation — Mastery", "title": "Domain Tooling: Rule Validation (Mastery)", "c": 1, "g": "rule-validation"}
+{"id": "JAH-ATK289-00007", "t": "Tool Assembly — Foundation", "title": "Domain Tooling: Tool Assembly (Foundation)", "c": 1, "g": "tool-assembly"}
+{"id": "JAH-ATK289-00008", "t": "Tool Assembly — Operation", "title": "Domain Tooling: Tool Assembly (Operation)", "c": 1, "g": "tool-assembly"}
+{"id": "JAH-ATK289-00009", "t": "Tool Assembly — Mastery", "title": "Domain Tooling: Tool Assembly (Mastery)", "c": 1, "g": "tool-assembly"}
+{"id": "JAH-ATK289-00010", "t": "Pipeline Checks — Foundation", "title": "Domain Tooling: Pipeline Checks (Foundation)", "c": 1, "g": "pipeline-checks"}
+{"id": "JAH-ATK289-00011", "t": "Pipeline Checks — Operation", "title": "Domain Tooling: Pipeline Checks (Operation)", "c": 1, "g": "pipeline-checks"}
+{"id": "JAH-ATK289-00012", "t": "Pipeline Checks — Mastery", "title": "Domain Tooling: Pipeline Checks (Mastery)", "c": 1, "g": "pipeline-checks"}
+{"id": "JAH-ATK289-00013", "t": "Acceptance Testing — Foundation", "title": "Domain Tooling: Acceptance Testing (Foundation)", "c": 1, "g": "acceptance-test"}
+{"id": "JAH-ATK289-00014", "t": "Acceptance Testing — Operation", "title": "Domain Tooling: Acceptance Testing (Operation)", "c": 1, "g": "acceptance-test"}
+{"id": "JAH-ATK289-00015", "t": "Acceptance Testing — Mastery", "title": "Domain Tooling: Acceptance Testing (Mastery)", "c": 1, "g": "acceptance-test"}

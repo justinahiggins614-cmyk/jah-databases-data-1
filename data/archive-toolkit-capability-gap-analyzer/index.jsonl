@@ -1,0 +1,15 @@
+{"id": "JAH-ATK282-00001", "t": "Capability Inventory — Foundation", "title": "Capability Gap Analysis: Capability Inventory (Foundation)", "c": 1, "g": "capability-inventory"}
+{"id": "JAH-ATK282-00002", "t": "Capability Inventory — Operation", "title": "Capability Gap Analysis: Capability Inventory (Operation)", "c": 1, "g": "capability-inventory"}
+{"id": "JAH-ATK282-00003", "t": "Capability Inventory — Mastery", "title": "Capability Gap Analysis: Capability Inventory (Mastery)", "c": 1, "g": "capability-inventory"}
+{"id": "JAH-ATK282-00004", "t": "Requirement Mapping — Foundation", "title": "Capability Gap Analysis: Requirement Mapping (Foundation)", "c": 1, "g": "requirement-mapping"}
+{"id": "JAH-ATK282-00005", "t": "Requirement Mapping — Operation", "title": "Capability Gap Analysis: Requirement Mapping (Operation)", "c": 1, "g": "requirement-mapping"}
+{"id": "JAH-ATK282-00006", "t": "Requirement Mapping — Mastery", "title": "Capability Gap Analysis: Requirement Mapping (Mastery)", "c": 1, "g": "requirement-mapping"}
+{"id": "JAH-ATK282-00007", "t": "Gap Severity Scoring — Foundation", "title": "Capability Gap Analysis: Gap Severity Scoring (Foundation)", "c": 1, "g": "gap-scoring"}
+{"id": "JAH-ATK282-00008", "t": "Gap Severity Scoring — Operation", "title": "Capability Gap Analysis: Gap Severity Scoring (Operation)", "c": 1, "g": "gap-scoring"}
+{"id": "JAH-ATK282-00009", "t": "Gap Severity Scoring — Mastery", "title": "Capability Gap Analysis: Gap Severity Scoring (Mastery)", "c": 1, "g": "gap-scoring"}
+{"id": "JAH-ATK282-00010", "t": "Remediation Planning — Foundation", "title": "Capability Gap Analysis: Remediation Planning (Foundation)", "c": 1, "g": "remediation-planning"}
+{"id": "JAH-ATK282-00011", "t": "Remediation Planning — Operation", "title": "Capability Gap Analysis: Remediation Planning (Operation)", "c": 1, "g": "remediation-planning"}
+{"id": "JAH-ATK282-00012", "t": "Remediation Planning — Mastery", "title": "Capability Gap Analysis: Remediation Planning (Mastery)", "c": 1, "g": "remediation-planning"}
+{"id": "JAH-ATK282-00013", "t": "Coverage Tracking — Foundation", "title": "Capability Gap Analysis: Coverage Tracking (Foundation)", "c": 1, "g": "coverage-tracking"}
+{"id": "JAH-ATK282-00014", "t": "Coverage Tracking — Operation", "title": "Capability Gap Analysis: Coverage Tracking (Operation)", "c": 1, "g": "coverage-tracking"}
+{"id": "JAH-ATK282-00015", "t": "Coverage Tracking — Mastery", "title": "Capability Gap Analysis: Coverage Tracking (Mastery)", "c": 1, "g": "coverage-tracking"}

@@ -1,0 +1,9 @@
+{"id": "JAH-FNDG-000001", "t": "Double-Entry Ledgers (Signature Edition)", "g": "dbl-ledger"}
+{"id": "JAH-FNDG-000002", "t": "Market Tick Data (Signature Edition)", "g": "tick-data"}
+{"id": "JAH-FNDG-000003", "t": "Order Book Depths (Signature Edition)", "g": "orderbook"}
+{"id": "JAH-FNDG-000004", "t": "Credit Bureau Scores (Signature Edition)", "g": "credit-scores"}
+{"id": "JAH-FNDG-000005", "t": "Wire Transfer Logs (Signature Edition)", "g": "wire-logs"}
+{"id": "JAH-FNDG-000006", "t": "Loan Amortization Schedules (Signature Edition)", "g": "amort-sched"}
+{"id": "JAH-FNDG-000007", "t": "Fraud Detection Heuristics (Signature Edition)", "g": "fraud-heur"}
+{"id": "JAH-FNDG-000008", "t": "Cryptocurrency Blockchain Blocks (Signature Edition)", "g": "chain-blocks"}
+{"id": "JAH-FNDG-000009", "t": "Foreign Exchange Rates (Signature Edition)", "g": "fx-rates"}

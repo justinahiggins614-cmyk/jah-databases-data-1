@@ -1,0 +1,13 @@
+{"id": "JAH-GRPHS-000001", "t": "Signature Neo4j Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000002", "t": "Signature Amazon Neptune Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000003", "t": "Signature TigerGraph Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000004", "t": "Signature ArangoDB (graph engine) Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000005", "t": "Signature Dgraph Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000006", "t": "Signature JanusGraph Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000007", "t": "Signature Memgraph Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000008", "t": "Signature Kuzu Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000009", "t": "Signature FalkorDB Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000010", "t": "Signature HugeGraph Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000011", "t": "Signature NebulaGraph Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000012", "t": "Signature Apache Age Engine", "g": "graph-databases-signature"}
+{"id": "JAH-GRPHS-000013", "t": "Signature AnzoGraph Engine", "g": "graph-databases-signature"}

@@ -1,0 +1,7 @@
+{"id": "JAH-ECD-000001", "t": "Shopping Cart States", "g": "cart-state"}
+{"id": "JAH-ECD-000002", "t": "Customer Loyalty Points", "g": "loyalty-points"}
+{"id": "JAH-ECD-000003", "t": "Consumer Product Reviews", "g": "prod-reviews"}
+{"id": "JAH-ECD-000004", "t": "Dynamic Pricing Rules", "g": "dyn-pricing"}
+{"id": "JAH-ECD-000005", "t": "Gift Card Ledgers", "g": "gift-ledger"}
+{"id": "JAH-ECD-000006", "t": "Return Merchandise Authorizations", "g": "rma-records"}
+{"id": "JAH-ECD-000007", "t": "Omni-Channel Inventory Allocations", "g": "omni-inventory"}

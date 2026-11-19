@@ -1,0 +1,15 @@
+{"id": "JAH-ATK308-00001", "t": "Schedule Specification — Foundation", "title": "Scheduled Navigation: Schedule Specification (Foundation)", "c": 1, "g": "schedule-spec"}
+{"id": "JAH-ATK308-00002", "t": "Schedule Specification — Operation", "title": "Scheduled Navigation: Schedule Specification (Operation)", "c": 1, "g": "schedule-spec"}
+{"id": "JAH-ATK308-00003", "t": "Schedule Specification — Mastery", "title": "Scheduled Navigation: Schedule Specification (Mastery)", "c": 1, "g": "schedule-spec"}
+{"id": "JAH-ATK308-00004", "t": "Due Selection — Foundation", "title": "Scheduled Navigation: Due Selection (Foundation)", "c": 1, "g": "due-selection"}
+{"id": "JAH-ATK308-00005", "t": "Due Selection — Operation", "title": "Scheduled Navigation: Due Selection (Operation)", "c": 1, "g": "due-selection"}
+{"id": "JAH-ATK308-00006", "t": "Due Selection — Mastery", "title": "Scheduled Navigation: Due Selection (Mastery)", "c": 1, "g": "due-selection"}
+{"id": "JAH-ATK308-00007", "t": "Priority Queuing — Foundation", "title": "Scheduled Navigation: Priority Queuing (Foundation)", "c": 1, "g": "priority-queue"}
+{"id": "JAH-ATK308-00008", "t": "Priority Queuing — Operation", "title": "Scheduled Navigation: Priority Queuing (Operation)", "c": 1, "g": "priority-queue"}
+{"id": "JAH-ATK308-00009", "t": "Priority Queuing — Mastery", "title": "Scheduled Navigation: Priority Queuing (Mastery)", "c": 1, "g": "priority-queue"}
+{"id": "JAH-ATK308-00010", "t": "Adaptive Backoff — Foundation", "title": "Scheduled Navigation: Adaptive Backoff (Foundation)", "c": 1, "g": "adaptive-backoff"}
+{"id": "JAH-ATK308-00011", "t": "Adaptive Backoff — Operation", "title": "Scheduled Navigation: Adaptive Backoff (Operation)", "c": 1, "g": "adaptive-backoff"}
+{"id": "JAH-ATK308-00012", "t": "Adaptive Backoff — Mastery", "title": "Scheduled Navigation: Adaptive Backoff (Mastery)", "c": 1, "g": "adaptive-backoff"}
+{"id": "JAH-ATK308-00013", "t": "Missed-Run Policy — Foundation", "title": "Scheduled Navigation: Missed-Run Policy (Foundation)", "c": 1, "g": "missed-run-policy"}
+{"id": "JAH-ATK308-00014", "t": "Missed-Run Policy — Operation", "title": "Scheduled Navigation: Missed-Run Policy (Operation)", "c": 1, "g": "missed-run-policy"}
+{"id": "JAH-ATK308-00015", "t": "Missed-Run Policy — Mastery", "title": "Scheduled Navigation: Missed-Run Policy (Mastery)", "c": 1, "g": "missed-run-policy"}

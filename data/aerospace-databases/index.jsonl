@@ -1,0 +1,10 @@
+{"id": "JAH-AERO-000001", "t": "Celestial Catalog Coordinates", "g": "celestial-cat"}
+{"id": "JAH-AERO-000002", "t": "Telescope Light Curves", "g": "light-curves"}
+{"id": "JAH-AERO-000003", "t": "Orbital Two-Line Elements", "g": "tle-elements"}
+{"id": "JAH-AERO-000004", "t": "Radar Cross-Section Profiles", "g": "rcs-profiles"}
+{"id": "JAH-AERO-000005", "t": "Missile Telemetry and Guidance", "g": "missile-tel"}
+{"id": "JAH-AERO-000006", "t": "Spacecraft Environmental Logs", "g": "sc-env-logs"}
+{"id": "JAH-AERO-000007", "t": "Ballistic Trajectory Calculations", "g": "ballistic-traj"}
+{"id": "JAH-AERO-000008", "t": "Sonar Acoustic Signatures", "g": "sonar-sig"}
+{"id": "JAH-AERO-000009", "t": "Star Tracker Image Metadata", "g": "startracker"}
+{"id": "JAH-AERO-000010", "t": "Deep Space Network Schedules", "g": "dsn-sched"}

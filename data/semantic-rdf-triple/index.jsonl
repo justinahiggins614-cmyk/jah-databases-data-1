@@ -1,0 +1,15 @@
+{"id": "JAH-RDF-000001", "t": "Stardog", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000002", "t": "Apache Jena", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000003", "t": "RDF4J", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000004", "t": "OpenLink Virtuoso", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000005", "t": "GraphDB", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000006", "t": "Blazegraph", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000007", "t": "AllegroGraph", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000008", "t": "Amazon Neptune (RDF)", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000009", "t": "TerminusDB", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000010", "t": "Oxigraph", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000011", "t": "Trinity (GraphEngine)", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000012", "t": "Cayley", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000013", "t": "Apache Jena TDB", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000014", "t": "Graphengine / Trinity", "g": "semantic-rdf-triple"}
+{"id": "JAH-RDF-000015", "t": "Cayley", "g": "semantic-rdf-triple"}

@@ -1,0 +1,14 @@
+{"id": "JAH-WCOL-000001", "t": "Apache Cassandra", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000002", "t": "Apache HBase", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000003", "t": "ScyllaDB", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000004", "t": "Google Cloud Bigtable", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000005", "t": "Azure Table Storage", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000006", "t": "Amazon Keyspaces", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000007", "t": "Apache Accumulo", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000008", "t": "DataStax Astra DB", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000009", "t": "Apache Phoenix", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000010", "t": "Hypertable", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000011", "t": "Apache Kudu", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000012", "t": "Apache Kudu", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000013", "t": "Bigtable", "g": "wide-column-stores"}
+{"id": "JAH-WCOL-000014", "t": "Wide-Column Sparse Cells", "g": "database-types"}

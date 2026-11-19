@@ -1,0 +1,11 @@
+{"id": "JAH-FND-000001", "t": "Double-Entry Ledgers", "g": "dbl-ledger"}
+{"id": "JAH-FND-000002", "t": "Market Tick Data", "g": "tick-data"}
+{"id": "JAH-FND-000003", "t": "Order Book Depths", "g": "orderbook"}
+{"id": "JAH-FND-000004", "t": "Credit Bureau Scores", "g": "credit-scores"}
+{"id": "JAH-FND-000005", "t": "Wire Transfer Logs", "g": "wire-logs"}
+{"id": "JAH-FND-000006", "t": "Loan Amortization Schedules", "g": "amort-sched"}
+{"id": "JAH-FND-000007", "t": "Fraud Detection Heuristics", "g": "fraud-heur"}
+{"id": "JAH-FND-000008", "t": "Cryptocurrency Blockchain Blocks", "g": "chain-blocks"}
+{"id": "JAH-FND-000009", "t": "Foreign Exchange Rates", "g": "fx-rates"}
+{"id": "JAH-FND-000010", "t": "Anti-Money Laundering (AML) Graph Networks", "g": "database-types"}
+{"id": "JAH-FND-000011", "t": "Actuarial Mortality Tables", "g": "database-types"}

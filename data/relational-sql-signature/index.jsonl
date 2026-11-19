@@ -1,0 +1,12 @@
+{"id": "JAH-RSQLS-000001", "t": "Signature PostgreSQL Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000002", "t": "Signature MySQL Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000003", "t": "Signature MariaDB Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000004", "t": "Signature Amazon Aurora Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000005", "t": "Signature Azure SQL Database Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000006", "t": "Signature PlanetScale Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000007", "t": "Signature Neon Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000008", "t": "Signature Citus Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000009", "t": "Signature AlloyDB Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000010", "t": "Signature Percona Server for MySQL Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000011", "t": "Signature InterBase Engine", "g": "relational-sql-signature"}
+{"id": "JAH-RSQLS-000012", "t": "Signature InterBase Engine", "g": "relational-sql-signature"}

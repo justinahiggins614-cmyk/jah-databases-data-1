@@ -1,0 +1,15 @@
+{"id": "JAH-ATK306-00001", "t": "Seed Queries — Foundation", "title": "Recursive Retrieval: Seed Queries (Foundation)", "c": 1, "g": "seed-query"}
+{"id": "JAH-ATK306-00002", "t": "Seed Queries — Operation", "title": "Recursive Retrieval: Seed Queries (Operation)", "c": 1, "g": "seed-query"}
+{"id": "JAH-ATK306-00003", "t": "Seed Queries — Mastery", "title": "Recursive Retrieval: Seed Queries (Mastery)", "c": 1, "g": "seed-query"}
+{"id": "JAH-ATK306-00004", "t": "Follow-up Generation — Foundation", "title": "Recursive Retrieval: Follow-up Generation (Foundation)", "c": 1, "g": "followup-generation"}
+{"id": "JAH-ATK306-00005", "t": "Follow-up Generation — Operation", "title": "Recursive Retrieval: Follow-up Generation (Operation)", "c": 1, "g": "followup-generation"}
+{"id": "JAH-ATK306-00006", "t": "Follow-up Generation — Mastery", "title": "Recursive Retrieval: Follow-up Generation (Mastery)", "c": 1, "g": "followup-generation"}
+{"id": "JAH-ATK306-00007", "t": "Stopping Criteria — Foundation", "title": "Recursive Retrieval: Stopping Criteria (Foundation)", "c": 1, "g": "stopping-criteria"}
+{"id": "JAH-ATK306-00008", "t": "Stopping Criteria — Operation", "title": "Recursive Retrieval: Stopping Criteria (Operation)", "c": 1, "g": "stopping-criteria"}
+{"id": "JAH-ATK306-00009", "t": "Stopping Criteria — Mastery", "title": "Recursive Retrieval: Stopping Criteria (Mastery)", "c": 1, "g": "stopping-criteria"}
+{"id": "JAH-ATK306-00010", "t": "Cycle Detection — Foundation", "title": "Recursive Retrieval: Cycle Detection (Foundation)", "c": 1, "g": "cycle-detection"}
+{"id": "JAH-ATK306-00011", "t": "Cycle Detection — Operation", "title": "Recursive Retrieval: Cycle Detection (Operation)", "c": 1, "g": "cycle-detection"}
+{"id": "JAH-ATK306-00012", "t": "Cycle Detection — Mastery", "title": "Recursive Retrieval: Cycle Detection (Mastery)", "c": 1, "g": "cycle-detection"}
+{"id": "JAH-ATK306-00013", "t": "Result Merging — Foundation", "title": "Recursive Retrieval: Result Merging (Foundation)", "c": 1, "g": "result-merging"}
+{"id": "JAH-ATK306-00014", "t": "Result Merging — Operation", "title": "Recursive Retrieval: Result Merging (Operation)", "c": 1, "g": "result-merging"}
+{"id": "JAH-ATK306-00015", "t": "Result Merging — Mastery", "title": "Recursive Retrieval: Result Merging (Mastery)", "c": 1, "g": "result-merging"}

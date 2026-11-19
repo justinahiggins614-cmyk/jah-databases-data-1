@@ -1,0 +1,15 @@
+{"id": "JAH-RDFS-000001", "t": "Signature Stardog Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000002", "t": "Signature Apache Jena Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000003", "t": "Signature RDF4J Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000004", "t": "Signature OpenLink Virtuoso Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000005", "t": "Signature GraphDB Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000006", "t": "Signature Blazegraph Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000007", "t": "Signature AllegroGraph Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000008", "t": "Signature Amazon Neptune (RDF) Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000009", "t": "Signature TerminusDB Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000010", "t": "Signature Oxigraph Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000011", "t": "Signature Trinity (GraphEngine) Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000012", "t": "Signature Cayley Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000013", "t": "Signature Apache Jena TDB Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000014", "t": "Signature Graphengine / Trinity Engine", "g": "semantic-rdf-triple-signature"}
+{"id": "JAH-RDFS-000015", "t": "Signature Cayley Engine", "g": "semantic-rdf-triple-signature"}

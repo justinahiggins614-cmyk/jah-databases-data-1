@@ -1,0 +1,10 @@
+{"id": "JAH-LGDG-000001", "t": "Fleet Telemetry Logs (Signature Edition)", "g": "fleet-tel"}
+{"id": "JAH-LGDG-000002", "t": "Bill of Lading Documents (Signature Edition)", "g": "bol-docs"}
+{"id": "JAH-LGDG-000003", "t": "Warehouse Slotting Maps (Signature Edition)", "g": "wh-slotting"}
+{"id": "JAH-LGDG-000004", "t": "Customs Clearance Manifests (Signature Edition)", "g": "customs-manifest"}
+{"id": "JAH-LGDG-000005", "t": "Container Tracking Metadata (Signature Edition)", "g": "container-track"}
+{"id": "JAH-LGDG-000006", "t": "Last-Mile Delivery Routes (Signature Edition)", "g": "lastmile-routes"}
+{"id": "JAH-LGDG-000007", "t": "Supplier Vendor Profiles (Signature Edition)", "g": "vendor-profiles"}
+{"id": "JAH-LGDG-000008", "t": "Port Terminal Schedules (Signature Edition)", "g": "port-schedules"}
+{"id": "JAH-LGDG-000009", "t": "Pallet Dimension Profiles (Signature Edition)", "g": "pallet-dims"}
+{"id": "JAH-LGDG-000010", "t": "Cold-Chain Temperature Logs (Signature Edition)", "g": "coldchain-logs"}

@@ -1,0 +1,15 @@
+{"id": "JAH-ATK283-00001", "t": "Coverage Auditing — Foundation", "title": "Missing Knowledge Detection: Coverage Auditing (Foundation)", "c": 1, "g": "coverage-audit"}
+{"id": "JAH-ATK283-00002", "t": "Coverage Auditing — Operation", "title": "Missing Knowledge Detection: Coverage Auditing (Operation)", "c": 1, "g": "coverage-audit"}
+{"id": "JAH-ATK283-00003", "t": "Coverage Auditing — Mastery", "title": "Missing Knowledge Detection: Coverage Auditing (Mastery)", "c": 1, "g": "coverage-audit"}
+{"id": "JAH-ATK283-00004", "t": "Entity Fact Checking — Foundation", "title": "Missing Knowledge Detection: Entity Fact Checking (Foundation)", "c": 1, "g": "entity-fact-check"}
+{"id": "JAH-ATK283-00005", "t": "Entity Fact Checking — Operation", "title": "Missing Knowledge Detection: Entity Fact Checking (Operation)", "c": 1, "g": "entity-fact-check"}
+{"id": "JAH-ATK283-00006", "t": "Entity Fact Checking — Mastery", "title": "Missing Knowledge Detection: Entity Fact Checking (Mastery)", "c": 1, "g": "entity-fact-check"}
+{"id": "JAH-ATK283-00007", "t": "Question Answering Probes — Foundation", "title": "Missing Knowledge Detection: Question Answering Probes (Foundation)", "c": 1, "g": "qa-probes"}
+{"id": "JAH-ATK283-00008", "t": "Question Answering Probes — Operation", "title": "Missing Knowledge Detection: Question Answering Probes (Operation)", "c": 1, "g": "qa-probes"}
+{"id": "JAH-ATK283-00009", "t": "Question Answering Probes — Mastery", "title": "Missing Knowledge Detection: Question Answering Probes (Mastery)", "c": 1, "g": "qa-probes"}
+{"id": "JAH-ATK283-00010", "t": "Priority Ranking — Foundation", "title": "Missing Knowledge Detection: Priority Ranking (Foundation)", "c": 1, "g": "priority-ranking"}
+{"id": "JAH-ATK283-00011", "t": "Priority Ranking — Operation", "title": "Missing Knowledge Detection: Priority Ranking (Operation)", "c": 1, "g": "priority-ranking"}
+{"id": "JAH-ATK283-00012", "t": "Priority Ranking — Mastery", "title": "Missing Knowledge Detection: Priority Ranking (Mastery)", "c": 1, "g": "priority-ranking"}
+{"id": "JAH-ATK283-00013", "t": "Drift Watching — Foundation", "title": "Missing Knowledge Detection: Drift Watching (Foundation)", "c": 1, "g": "drift-watch"}
+{"id": "JAH-ATK283-00014", "t": "Drift Watching — Operation", "title": "Missing Knowledge Detection: Drift Watching (Operation)", "c": 1, "g": "drift-watch"}
+{"id": "JAH-ATK283-00015", "t": "Drift Watching — Mastery", "title": "Missing Knowledge Detection: Drift Watching (Mastery)", "c": 1, "g": "drift-watch"}

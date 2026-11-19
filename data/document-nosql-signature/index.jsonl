@@ -1,0 +1,13 @@
+{"id": "JAH-DOCNS-000001", "t": "Signature MongoDB Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000002", "t": "Signature CouchDB Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000003", "t": "Signature PouchDB (sync) Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000004", "t": "Signature Couchbase Server Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000005", "t": "Signature RethinkDB Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000006", "t": "Signature RavenDB Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000007", "t": "Signature ArangoDB (document store) Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000008", "t": "Signature Amazon DocumentDB Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000009", "t": "Signature EJDB2 Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000010", "t": "Signature Ditto Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000011", "t": "Signature FerretDB Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000012", "t": "Signature Couchbase Engine", "g": "document-nosql-signature"}
+{"id": "JAH-DOCNS-000013", "t": "Signature FerretDB Engine", "g": "document-nosql-signature"}

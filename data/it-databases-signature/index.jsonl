@@ -1,0 +1,7 @@
+{"id": "JAH-ITDG-000001", "t": "Identity Access Management Tokens (Signature Edition)", "g": "iam-tokens"}
+{"id": "JAH-ITDG-000002", "t": "Container Orchestration State (Signature Edition)", "g": "k8s-state"}
+{"id": "JAH-ITDG-000003", "t": "CI/CD Pipeline Build Artifacts (Signature Edition)", "g": "cicd-artifacts"}
+{"id": "JAH-ITDG-000004", "t": "Network Packet Captures (PCAP) (Signature Edition)", "g": "pcap-data"}
+{"id": "JAH-ITDG-000005", "t": "SSL/TLS Certificate Metadata (Signature Edition)", "g": "tls-certs"}
+{"id": "JAH-ITDG-000006", "t": "Distributed Trace Spans (Signature Edition)", "g": "trace-spans"}
+{"id": "JAH-ITDG-000007", "t": "System Kernel Crash Dumps (Signature Edition)", "g": "kernel-dumps"}

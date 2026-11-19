@@ -1,0 +1,15 @@
+{"id": "JAH-ATK287-00001", "t": "Tokenizing — Foundation", "title": "Parser Generation: Tokenizing (Foundation)", "c": 1, "g": "tokenizing"}
+{"id": "JAH-ATK287-00002", "t": "Tokenizing — Operation", "title": "Parser Generation: Tokenizing (Operation)", "c": 1, "g": "tokenizing"}
+{"id": "JAH-ATK287-00003", "t": "Tokenizing — Mastery", "title": "Parser Generation: Tokenizing (Mastery)", "c": 1, "g": "tokenizing"}
+{"id": "JAH-ATK287-00004", "t": "Grammar Rules — Foundation", "title": "Parser Generation: Grammar Rules (Foundation)", "c": 1, "g": "grammar-rules"}
+{"id": "JAH-ATK287-00005", "t": "Grammar Rules — Operation", "title": "Parser Generation: Grammar Rules (Operation)", "c": 1, "g": "grammar-rules"}
+{"id": "JAH-ATK287-00006", "t": "Grammar Rules — Mastery", "title": "Parser Generation: Grammar Rules (Mastery)", "c": 1, "g": "grammar-rules"}
+{"id": "JAH-ATK287-00007", "t": "Recursive Descent — Foundation", "title": "Parser Generation: Recursive Descent (Foundation)", "c": 1, "g": "recursive-descent"}
+{"id": "JAH-ATK287-00008", "t": "Recursive Descent — Operation", "title": "Parser Generation: Recursive Descent (Operation)", "c": 1, "g": "recursive-descent"}
+{"id": "JAH-ATK287-00009", "t": "Recursive Descent — Mastery", "title": "Parser Generation: Recursive Descent (Mastery)", "c": 1, "g": "recursive-descent"}
+{"id": "JAH-ATK287-00010", "t": "AST Building — Foundation", "title": "Parser Generation: AST Building (Foundation)", "c": 1, "g": "ast-building"}
+{"id": "JAH-ATK287-00011", "t": "AST Building — Operation", "title": "Parser Generation: AST Building (Operation)", "c": 1, "g": "ast-building"}
+{"id": "JAH-ATK287-00012", "t": "AST Building — Mastery", "title": "Parser Generation: AST Building (Mastery)", "c": 1, "g": "ast-building"}
+{"id": "JAH-ATK287-00013", "t": "Error Recovery — Foundation", "title": "Parser Generation: Error Recovery (Foundation)", "c": 1, "g": "error-recovery"}
+{"id": "JAH-ATK287-00014", "t": "Error Recovery — Operation", "title": "Parser Generation: Error Recovery (Operation)", "c": 1, "g": "error-recovery"}
+{"id": "JAH-ATK287-00015", "t": "Error Recovery — Mastery", "title": "Parser Generation: Error Recovery (Mastery)", "c": 1, "g": "error-recovery"}

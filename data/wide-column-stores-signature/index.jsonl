@@ -1,0 +1,13 @@
+{"id": "JAH-WCOLS-000001", "t": "Signature Apache Cassandra Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000002", "t": "Signature Apache HBase Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000003", "t": "Signature ScyllaDB Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000004", "t": "Signature Google Cloud Bigtable Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000005", "t": "Signature Azure Table Storage Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000006", "t": "Signature Amazon Keyspaces Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000007", "t": "Signature Apache Accumulo Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000008", "t": "Signature DataStax Astra DB Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000009", "t": "Signature Apache Phoenix Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000010", "t": "Signature Hypertable Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000011", "t": "Signature Apache Kudu Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000012", "t": "Signature Apache Kudu Engine", "g": "wide-column-stores-signature"}
+{"id": "JAH-WCOLS-000013", "t": "Signature Bigtable Engine", "g": "wide-column-stores-signature"}

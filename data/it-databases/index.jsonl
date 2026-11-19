@@ -1,0 +1,13 @@
+{"id": "JAH-ITD-000001", "t": "Identity Access Management Tokens", "g": "iam-tokens"}
+{"id": "JAH-ITD-000002", "t": "Container Orchestration State", "g": "k8s-state"}
+{"id": "JAH-ITD-000003", "t": "CI/CD Pipeline Build Artifacts", "g": "cicd-artifacts"}
+{"id": "JAH-ITD-000004", "t": "Network Packet Captures (PCAP)", "g": "pcap-data"}
+{"id": "JAH-ITD-000005", "t": "SSL/TLS Certificate Metadata", "g": "tls-certs"}
+{"id": "JAH-ITD-000006", "t": "Distributed Trace Spans", "g": "trace-spans"}
+{"id": "JAH-ITD-000007", "t": "System Kernel Crash Dumps", "g": "kernel-dumps"}
+{"id": "JAH-ITD-000008", "t": "Call Detail Records (CDRs)", "g": "database-types"}
+{"id": "JAH-ITD-000009", "t": "IP Address Allocation (BGP Tables)", "g": "database-types"}
+{"id": "JAH-ITD-000010", "t": "DNS Zone File Records", "g": "database-types"}
+{"id": "JAH-ITD-000011", "t": "Network Traffic NetFlow/IPFIX Summaries", "g": "database-types"}
+{"id": "JAH-ITD-000012", "t": "5G Beamforming Configuration Vectors", "g": "database-types"}
+{"id": "JAH-ITD-000013", "t": "Digital Rights Management (DRM) Licenses", "g": "database-types"}

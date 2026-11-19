@@ -1,0 +1,15 @@
+{"id": "JAH-ATK294-00001", "t": "Hypothesis Framing — Foundation", "title": "Experiment Management: Hypothesis Framing (Foundation)", "c": 1, "g": "hypothesis"}
+{"id": "JAH-ATK294-00002", "t": "Hypothesis Framing — Operation", "title": "Experiment Management: Hypothesis Framing (Operation)", "c": 1, "g": "hypothesis"}
+{"id": "JAH-ATK294-00003", "t": "Hypothesis Framing — Mastery", "title": "Experiment Management: Hypothesis Framing (Mastery)", "c": 1, "g": "hypothesis"}
+{"id": "JAH-ATK294-00004", "t": "Controlled A/B Runs — Foundation", "title": "Experiment Management: Controlled A/B Runs (Foundation)", "c": 1, "g": "ab-run"}
+{"id": "JAH-ATK294-00005", "t": "Controlled A/B Runs — Operation", "title": "Experiment Management: Controlled A/B Runs (Operation)", "c": 1, "g": "ab-run"}
+{"id": "JAH-ATK294-00006", "t": "Controlled A/B Runs — Mastery", "title": "Experiment Management: Controlled A/B Runs (Mastery)", "c": 1, "g": "ab-run"}
+{"id": "JAH-ATK294-00007", "t": "Significance Checking — Foundation", "title": "Experiment Management: Significance Checking (Foundation)", "c": 1, "g": "significance"}
+{"id": "JAH-ATK294-00008", "t": "Significance Checking — Operation", "title": "Experiment Management: Significance Checking (Operation)", "c": 1, "g": "significance"}
+{"id": "JAH-ATK294-00009", "t": "Significance Checking — Mastery", "title": "Experiment Management: Significance Checking (Mastery)", "c": 1, "g": "significance"}
+{"id": "JAH-ATK294-00010", "t": "Winner Selection — Foundation", "title": "Experiment Management: Winner Selection (Foundation)", "c": 1, "g": "winner-selection"}
+{"id": "JAH-ATK294-00011", "t": "Winner Selection — Operation", "title": "Experiment Management: Winner Selection (Operation)", "c": 1, "g": "winner-selection"}
+{"id": "JAH-ATK294-00012", "t": "Winner Selection — Mastery", "title": "Experiment Management: Winner Selection (Mastery)", "c": 1, "g": "winner-selection"}
+{"id": "JAH-ATK294-00013", "t": "Rollout Reporting — Foundation", "title": "Experiment Management: Rollout Reporting (Foundation)", "c": 1, "g": "rollout-report"}
+{"id": "JAH-ATK294-00014", "t": "Rollout Reporting — Operation", "title": "Experiment Management: Rollout Reporting (Operation)", "c": 1, "g": "rollout-report"}
+{"id": "JAH-ATK294-00015", "t": "Rollout Reporting — Mastery", "title": "Experiment Management: Rollout Reporting (Mastery)", "c": 1, "g": "rollout-report"}

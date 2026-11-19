@@ -1,0 +1,13 @@
+{"id": "JAH-OLAPS-000001", "t": "Signature Snowflake Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000002", "t": "Signature Google BigQuery Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000003", "t": "Signature ClickHouse Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000004", "t": "Signature DuckDB Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000005", "t": "Signature Amazon Redshift Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000006", "t": "Signature Apache Druid Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000007", "t": "Signature Apache Pinot Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000008", "t": "Signature StarRocks Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000009", "t": "Signature Trino Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000010", "t": "Signature Databricks SQL Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000011", "t": "Signature Apache Doris Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000012", "t": "Signature Databricks Lakehouse (Delta Lake) Engine", "g": "analytical-olap-signature"}
+{"id": "JAH-OLAPS-000013", "t": "Signature Apache Doris Engine", "g": "analytical-olap-signature"}

@@ -1,0 +1,15 @@
+{"id": "JAH-ATK299-00001", "t": "State Modeling — Foundation", "title": "Expansion Governance: State Modeling (Foundation)", "c": 1, "g": "state-model"}
+{"id": "JAH-ATK299-00002", "t": "State Modeling — Operation", "title": "Expansion Governance: State Modeling (Operation)", "c": 1, "g": "state-model"}
+{"id": "JAH-ATK299-00003", "t": "State Modeling — Mastery", "title": "Expansion Governance: State Modeling (Mastery)", "c": 1, "g": "state-model"}
+{"id": "JAH-ATK299-00004", "t": "Guard Checks — Foundation", "title": "Expansion Governance: Guard Checks (Foundation)", "c": 1, "g": "guard-checks"}
+{"id": "JAH-ATK299-00005", "t": "Guard Checks — Operation", "title": "Expansion Governance: Guard Checks (Operation)", "c": 1, "g": "guard-checks"}
+{"id": "JAH-ATK299-00006", "t": "Guard Checks — Mastery", "title": "Expansion Governance: Guard Checks (Mastery)", "c": 1, "g": "guard-checks"}
+{"id": "JAH-ATK299-00007", "t": "Approval Flow — Foundation", "title": "Expansion Governance: Approval Flow (Foundation)", "c": 1, "g": "approval-flow"}
+{"id": "JAH-ATK299-00008", "t": "Approval Flow — Operation", "title": "Expansion Governance: Approval Flow (Operation)", "c": 1, "g": "approval-flow"}
+{"id": "JAH-ATK299-00009", "t": "Approval Flow — Mastery", "title": "Expansion Governance: Approval Flow (Mastery)", "c": 1, "g": "approval-flow"}
+{"id": "JAH-ATK299-00010", "t": "Audit Logging — Foundation", "title": "Expansion Governance: Audit Logging (Foundation)", "c": 1, "g": "audit-log"}
+{"id": "JAH-ATK299-00011", "t": "Audit Logging — Operation", "title": "Expansion Governance: Audit Logging (Operation)", "c": 1, "g": "audit-log"}
+{"id": "JAH-ATK299-00012", "t": "Audit Logging — Mastery", "title": "Expansion Governance: Audit Logging (Mastery)", "c": 1, "g": "audit-log"}
+{"id": "JAH-ATK299-00013", "t": "Rollback — Foundation", "title": "Expansion Governance: Rollback (Foundation)", "c": 1, "g": "rollback"}
+{"id": "JAH-ATK299-00014", "t": "Rollback — Operation", "title": "Expansion Governance: Rollback (Operation)", "c": 1, "g": "rollback"}
+{"id": "JAH-ATK299-00015", "t": "Rollback — Mastery", "title": "Expansion Governance: Rollback (Mastery)", "c": 1, "g": "rollback"}

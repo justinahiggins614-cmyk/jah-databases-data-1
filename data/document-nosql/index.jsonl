@@ -1,0 +1,13 @@
+{"id": "JAH-DOCN-000001", "t": "MongoDB", "g": "document-nosql"}
+{"id": "JAH-DOCN-000002", "t": "CouchDB", "g": "document-nosql"}
+{"id": "JAH-DOCN-000003", "t": "PouchDB (sync)", "g": "document-nosql"}
+{"id": "JAH-DOCN-000004", "t": "Couchbase Server", "g": "document-nosql"}
+{"id": "JAH-DOCN-000005", "t": "RethinkDB", "g": "document-nosql"}
+{"id": "JAH-DOCN-000006", "t": "RavenDB", "g": "document-nosql"}
+{"id": "JAH-DOCN-000007", "t": "ArangoDB (document store)", "g": "document-nosql"}
+{"id": "JAH-DOCN-000008", "t": "Amazon DocumentDB", "g": "document-nosql"}
+{"id": "JAH-DOCN-000009", "t": "EJDB2", "g": "document-nosql"}
+{"id": "JAH-DOCN-000010", "t": "Ditto", "g": "document-nosql"}
+{"id": "JAH-DOCN-000011", "t": "FerretDB", "g": "document-nosql"}
+{"id": "JAH-DOCN-000012", "t": "Couchbase", "g": "document-nosql"}
+{"id": "JAH-DOCN-000013", "t": "FerretDB", "g": "document-nosql"}

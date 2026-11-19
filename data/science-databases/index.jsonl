@@ -1,0 +1,10 @@
+{"id": "JAH-SCD-000001", "t": "Finite Element Analysis Meshes", "g": "fea-meshes"}
+{"id": "JAH-SCD-000002", "t": "Particle Accelerator Collisions", "g": "accelerator"}
+{"id": "JAH-SCD-000003", "t": "Crystallographic Diffraction Patterns", "g": "xrd-patterns"}
+{"id": "JAH-SCD-000004", "t": "Spectroscopic Emission Spectra", "g": "spectra"}
+{"id": "JAH-SCD-000005", "t": "Chemical Compound Synthesis Recipes", "g": "synth-recipes"}
+{"id": "JAH-SCD-000006", "t": "Materials Stress-Strain Curves", "g": "stress-strain"}
+{"id": "JAH-SCD-000007", "t": "Fluid Dynamics Flow Fields", "g": "flow-fields"}
+{"id": "JAH-SCD-000008", "t": "Quantum State Matrices", "g": "quantum-states"}
+{"id": "JAH-SCD-000009", "t": "Isotopic Dating Ratios", "g": "isotope-dating"}
+{"id": "JAH-SCD-000010", "t": "Polymer Chain Configurations", "g": "polymer-chains"}

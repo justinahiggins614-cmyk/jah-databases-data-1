@@ -1,0 +1,10 @@
+{"id": "JAH-AEROG-000001", "t": "Celestial Catalog Coordinates (Signature Edition)", "g": "celestial-cat"}
+{"id": "JAH-AEROG-000002", "t": "Telescope Light Curves (Signature Edition)", "g": "light-curves"}
+{"id": "JAH-AEROG-000003", "t": "Orbital Two-Line Elements (Signature Edition)", "g": "tle-elements"}
+{"id": "JAH-AEROG-000004", "t": "Radar Cross-Section Profiles (Signature Edition)", "g": "rcs-profiles"}
+{"id": "JAH-AEROG-000005", "t": "Missile Telemetry and Guidance (Signature Edition)", "g": "missile-tel"}
+{"id": "JAH-AEROG-000006", "t": "Spacecraft Environmental Logs (Signature Edition)", "g": "sc-env-logs"}
+{"id": "JAH-AEROG-000007", "t": "Ballistic Trajectory Calculations (Signature Edition)", "g": "ballistic-traj"}
+{"id": "JAH-AEROG-000008", "t": "Sonar Acoustic Signatures (Signature Edition)", "g": "sonar-sig"}
+{"id": "JAH-AEROG-000009", "t": "Star Tracker Image Metadata (Signature Edition)", "g": "startracker"}
+{"id": "JAH-AEROG-000010", "t": "Deep Space Network Schedules (Signature Edition)", "g": "dsn-sched"}

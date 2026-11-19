@@ -1,0 +1,15 @@
+{"id": "JAH-ATK297-00001", "t": "Dependency Graphing — Foundation", "title": "Dependency Planning: Dependency Graphing (Foundation)", "c": 1, "g": "dependency-graph"}
+{"id": "JAH-ATK297-00002", "t": "Dependency Graphing — Operation", "title": "Dependency Planning: Dependency Graphing (Operation)", "c": 1, "g": "dependency-graph"}
+{"id": "JAH-ATK297-00003", "t": "Dependency Graphing — Mastery", "title": "Dependency Planning: Dependency Graphing (Mastery)", "c": 1, "g": "dependency-graph"}
+{"id": "JAH-ATK297-00004", "t": "Topological Ordering — Foundation", "title": "Dependency Planning: Topological Ordering (Foundation)", "c": 1, "g": "topological-order"}
+{"id": "JAH-ATK297-00005", "t": "Topological Ordering — Operation", "title": "Dependency Planning: Topological Ordering (Operation)", "c": 1, "g": "topological-order"}
+{"id": "JAH-ATK297-00006", "t": "Topological Ordering — Mastery", "title": "Dependency Planning: Topological Ordering (Mastery)", "c": 1, "g": "topological-order"}
+{"id": "JAH-ATK297-00007", "t": "Build Layering — Foundation", "title": "Dependency Planning: Build Layering (Foundation)", "c": 1, "g": "layering"}
+{"id": "JAH-ATK297-00008", "t": "Build Layering — Operation", "title": "Dependency Planning: Build Layering (Operation)", "c": 1, "g": "layering"}
+{"id": "JAH-ATK297-00009", "t": "Build Layering — Mastery", "title": "Dependency Planning: Build Layering (Mastery)", "c": 1, "g": "layering"}
+{"id": "JAH-ATK297-00010", "t": "Critical Path — Foundation", "title": "Dependency Planning: Critical Path (Foundation)", "c": 1, "g": "critical-path"}
+{"id": "JAH-ATK297-00011", "t": "Critical Path — Operation", "title": "Dependency Planning: Critical Path (Operation)", "c": 1, "g": "critical-path"}
+{"id": "JAH-ATK297-00012", "t": "Critical Path — Mastery", "title": "Dependency Planning: Critical Path (Mastery)", "c": 1, "g": "critical-path"}
+{"id": "JAH-ATK297-00013", "t": "Plan Export — Foundation", "title": "Dependency Planning: Plan Export (Foundation)", "c": 1, "g": "plan-export"}
+{"id": "JAH-ATK297-00014", "t": "Plan Export — Operation", "title": "Dependency Planning: Plan Export (Operation)", "c": 1, "g": "plan-export"}
+{"id": "JAH-ATK297-00015", "t": "Plan Export — Mastery", "title": "Dependency Planning: Plan Export (Mastery)", "c": 1, "g": "plan-export"}

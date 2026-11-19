@@ -1,0 +1,10 @@
+{"id": "JAH-GSPG-000001", "t": "GIS Vector Boundaries (Signature Edition)", "g": "gis-vectors"}
+{"id": "JAH-GSPG-000002", "t": "Digital Elevation Models (Signature Edition)", "g": "dem-terrain"}
+{"id": "JAH-GSPG-000003", "t": "Meteorological Grids (Signature Edition)", "g": "met-grids"}
+{"id": "JAH-GSPG-000004", "t": "Oceanographic Current Logs (Signature Edition)", "g": "ocean-currents"}
+{"id": "JAH-GSPG-000005", "t": "Seismic Waveform Telemetry (Signature Edition)", "g": "seismic-waves"}
+{"id": "JAH-GSPG-000006", "t": "Satellite Remote Sensing Imagery (Signature Edition)", "g": "sat-remote"}
+{"id": "JAH-GSPG-000007", "t": "Hydrological River Gauges (Signature Edition)", "g": "hydro-gauges"}
+{"id": "JAH-GSPG-000008", "t": "Air Quality Index Logs (Signature Edition)", "g": "aqi-logs"}
+{"id": "JAH-GSPG-000009", "t": "Bathymetric Sonar Maps (Signature Edition)", "g": "bathy-maps"}
+{"id": "JAH-GSPG-000010", "t": "Soil Composition Profiles (Signature Edition)", "g": "soil-profiles"}

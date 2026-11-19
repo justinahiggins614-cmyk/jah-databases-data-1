@@ -1,0 +1,10 @@
+{"id": "JAH-GAMG-000001", "t": "Player Inventory Inventories (Signature Edition)", "g": "game-inventory"}
+{"id": "JAH-GAMG-000002", "t": "Multiplayer Matchmaking States (Signature Edition)", "g": "matchmaking"}
+{"id": "JAH-GAMG-000003", "t": "Game World Physics State (Signature Edition)", "g": "world-physics"}
+{"id": "JAH-GAMG-000004", "t": "Non-Player Character AI Trees (Signature Edition)", "g": "npc-trees"}
+{"id": "JAH-GAMG-000005", "t": "Procedural Generation Seeds (Signature Edition)", "g": "procgen-seeds"}
+{"id": "JAH-GAMG-000006", "t": "Replay Data Files (Signature Edition)", "g": "replay-files"}
+{"id": "JAH-GAMG-000007", "t": "Achievement Unlock Records (Signature Edition)", "g": "achievements"}
+{"id": "JAH-GAMG-000008", "t": "Guild and Clan Hierarchies (Signature Edition)", "g": "guild-hier"}
+{"id": "JAH-GAMG-000009", "t": "Combat Damage Calculations (Signature Edition)", "g": "combat-math"}
+{"id": "JAH-GAMG-000010", "t": "Economic Auction House Listings (Signature Edition)", "g": "auction-house"}

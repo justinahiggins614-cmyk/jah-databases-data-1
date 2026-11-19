@@ -1,0 +1,12 @@
+{"id": "JAH-DSQLS-000001", "t": "Signature CockroachDB Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000002", "t": "Signature YugabyteDB Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000003", "t": "Signature TiDB Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000004", "t": "Signature Google Cloud Spanner Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000005", "t": "Signature SingleStore Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000006", "t": "Signature NuoDB Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000007", "t": "Signature Volt Active Data Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000008", "t": "Signature Datomic Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000009", "t": "Signature Vitess Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000010", "t": "Signature HarperDB Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000011", "t": "Signature OceanBase Engine", "g": "distributed-sql-newsql-signature"}
+{"id": "JAH-DSQLS-000012", "t": "Signature OceanBase Engine", "g": "distributed-sql-newsql-signature"}

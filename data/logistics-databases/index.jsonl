@@ -1,0 +1,10 @@
+{"id": "JAH-LGD-000001", "t": "Fleet Telemetry Logs", "g": "fleet-tel"}
+{"id": "JAH-LGD-000002", "t": "Bill of Lading Documents", "g": "bol-docs"}
+{"id": "JAH-LGD-000003", "t": "Warehouse Slotting Maps", "g": "wh-slotting"}
+{"id": "JAH-LGD-000004", "t": "Customs Clearance Manifests", "g": "customs-manifest"}
+{"id": "JAH-LGD-000005", "t": "Container Tracking Metadata", "g": "container-track"}
+{"id": "JAH-LGD-000006", "t": "Last-Mile Delivery Routes", "g": "lastmile-routes"}
+{"id": "JAH-LGD-000007", "t": "Supplier Vendor Profiles", "g": "vendor-profiles"}
+{"id": "JAH-LGD-000008", "t": "Port Terminal Schedules", "g": "port-schedules"}
+{"id": "JAH-LGD-000009", "t": "Pallet Dimension Profiles", "g": "pallet-dims"}
+{"id": "JAH-LGD-000010", "t": "Cold-Chain Temperature Logs", "g": "coldchain-logs"}

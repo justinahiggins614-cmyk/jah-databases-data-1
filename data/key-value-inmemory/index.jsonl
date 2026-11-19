@@ -1,0 +1,11 @@
+{"id": "JAH-KVIN-000001", "t": "Redis", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000002", "t": "Memcached", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000003", "t": "Amazon DynamoDB", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000004", "t": "Aerospike", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000005", "t": "Riak KV", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000006", "t": "Oracle NoSQL Database", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000007", "t": "Dragonfly", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000008", "t": "KeyDB", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000009", "t": "Hazelcast", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000010", "t": "Apache Ignite", "g": "key-value-inmemory"}
+{"id": "JAH-KVIN-000011", "t": "In-Memory Key-Value Blobs", "g": "database-types"}
