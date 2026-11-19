@@ -1,0 +1,28 @@
+{"id": "JAH-SRT-000001", "t": "Registries", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000002", "t": "Repositories (Repos)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000003", "t": "Vaults", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000004", "t": "Archives", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000005", "t": "Cold Storage Archives", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000006", "t": "Databases", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000007", "t": "Relational Databases (RDBMS)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000008", "t": "Vector Databases", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000009", "t": "Blob Stores", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000010", "t": "Ledgers", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000011", "t": "Immutable Ledgers", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000012", "t": "Blockchains", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000013", "t": "Caches", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000014", "t": "L1/L2/L3 Hardware Caches", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000015", "t": "Content Delivery Caches (CDN)", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000016", "t": "Stores", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000017", "t": "Dumps", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000018", "t": "Memory Dumps", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000019", "t": "Database Dumps", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000020", "t": "Core Dumps", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000021", "t": "Indices", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000022", "t": "Search Indices", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000023", "t": "Catalogs", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000024", "t": "Asset Catalogs", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000025", "t": "Inventories", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000026", "t": "Manifests", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000027", "t": "Deployment Manifests", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}
+{"id": "JAH-SRT-000028", "t": "Asset Manifests", "g": "STORAGE & REPOSITORY CATEGORIES (Data, Vaults, Inventories)"}

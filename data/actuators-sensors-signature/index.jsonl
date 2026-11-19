@@ -1,0 +1,32 @@
+{"id": "JAH-ACS-000001", "t": "What Are Actuators and Sensors: The Muscle and the Senses of Every Machine (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000002", "t": "The Energy Families of Motion: Electric, Hydraulic, and Pneumatic Power (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000003", "t": "DC Motors: The Spinning Workhorse of Machines (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000004", "t": "Torque, Speed, and Power: The Three Numbers Every Motor Lives By (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000005", "t": "What Sensors Do: Turning the Physical World into Numbers (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000006", "t": "Brushless DC Motors: Magnets That Switch Themselves (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000007", "t": "Stepper Motors: Motion in Counted Steps (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000008", "t": "Measurement Truth: Accuracy, Precision, Resolution, and Calibration (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-ACS-000009", "t": "Servo Motors and Drives: Closing the Loop on Motion (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000010", "t": "Gearboxes, Leadscrews, and Ballscrews: Trading Speed for Force (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000011", "t": "Solenoids and Contactors: The Electromagnetic Push and Pull (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000012", "t": "Voice Coils and Linear Motors: Force Without Gears (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000013", "t": "Hydraulic Actuators: Huge Force from Pressurized Oil (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000014", "t": "Pneumatic Actuators: Fast Muscle from Compressed Air (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000015", "t": "Piezoelectric Actuators: Crystal Precision for Tiny Moves (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000016", "t": "Shape-Memory Alloys: Metal That Remembers Its Shape (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000017", "t": "Magnetostrictive Actuators: Giant Magnetism, Tiny Stretch (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000018", "t": "Position Sensors: Encoders and Resolvers That Count Rotation (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000019", "t": "Force, Torque, and Strain: Weighing and Feeling the Load (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000020", "t": "Pressure Sensors: Feeling the Push of Fluids (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000021", "t": "Temperature Sensors: Thermocouples, RTDs, and Thermistors (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000022", "t": "Proximity and Distance: Ultrasonic, Infrared, and Capacitive Eyes (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000023", "t": "Vision Sensors: Cameras That Measure the World (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000024", "t": "IMUs: Accelerometers and Gyroscopes That Feel Motion (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000025", "t": "LIDAR and Radar: Mapping the World with Light and Radio (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000026", "t": "Tactile Sensors: Giving Machines a Sense of Touch (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-ACS-000027", "t": "Signal Conditioning: From Microvolts to Clean Data (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-ACS-000028", "t": "ADCs and DACs: The Border Crossing Between Worlds (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-ACS-000029", "t": "Talking to Chips: I2C, SPI, and CAN Buses (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-ACS-000030", "t": "Sensor Fusion: Kalman and Complementary Filters (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-ACS-000031", "t": "Sizing and Selection: Picking the Right Actuator and Sensor (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-ACS-000032", "t": "Failure, Safety, and Maintenance: What Breaks and How to Know (Signature Edition)", "g": "Advanced"}

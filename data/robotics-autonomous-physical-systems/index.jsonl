@@ -1,0 +1,32 @@
+{"id": "JAH-RPS-000001", "t": "Robot Sensor Monitoring Console", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000002", "t": "Autonomous Mobile Robot Control Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000003", "t": "Robot Localization and Mapping Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000004", "t": "LiDAR Data Acquisition Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000005", "t": "Depth Camera Processing Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000006", "t": "Motion Capture Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000007", "t": "Multi-Camera Tracking System", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000008", "t": "Robotic Vision Inspection Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000009", "t": "Autonomous Drone Ground Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000010", "t": "Flight Controller Diagnostic Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000011", "t": "Teleoperation Control Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000012", "t": "Haptic Device Controller", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000013", "t": "Force and Torque Measurement Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000014", "t": "Industrial Automation Control Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000015", "t": "Automated Laboratory Instrument Controller", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000016", "t": "Multi-Instrument Synchronized Measurement System", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000017", "t": "Hardware-in-the-Loop Test Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000018", "t": "Real-Time Process Control Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000019", "t": "Distributed Sensor Acquisition Station", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000020", "t": "Integrated Physical Test Laboratory", "g": "robotics-autonomous-physical-systems"}
+{"id": "JAH-RPS-000021", "t": "Industrial Robot Joint Strain Telemetry", "g": "database-types"}
+{"id": "JAH-RPS-000022", "t": "Provisions", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}
+{"id": "JAH-RPS-000023", "t": "RunPee", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000024", "t": "EarTrumpet", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000025", "t": "shadcn/ui Primitives", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000026", "t": "Mosh Mobile Shell", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000027", "t": "LibreCAD 2D Drafting", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000028", "t": "Rekor Transparency Log", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000029", "t": "In-Toto Supply Framework", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000030", "t": "Ory Hydra Engine", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000031", "t": "Dex IdP Engine", "g": "Bizarre Software"}
+{"id": "JAH-RPS-000032", "t": "SuperTokens Suite", "g": "Bizarre Software"}

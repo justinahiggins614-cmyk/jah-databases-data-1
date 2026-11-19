@@ -1,0 +1,30 @@
+{"id": "JAH-PWC-000001", "t": "Wi-Fi Network Scanner", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000002", "t": "Smartphone Wi-Fi Signal Strength Meter", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000003", "t": "Wi-Fi Channel Analyzer", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000004", "t": "Smartphone Bluetooth Device Scanner", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000005", "t": "Bluetooth Signal Monitor", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000006", "t": "Bluetooth Protocol Analyzer Interface", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000007", "t": "NFC Tag Reader", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000008", "t": "NFC Tag Writer", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000009", "t": "RFID Reader Interface", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000010", "t": "Software-Defined Radio Control Station", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000011", "t": "Radio Spectrum Display", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000012", "t": "Radio Signal Decoder", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000013", "t": "GPS Data Logger", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000014", "t": "Network Latency Tester", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000015", "t": "Internet Speed Tester", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000016", "t": "Network Connection Monitor", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000017", "t": "DNS Lookup Tool", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000018", "t": "Network Port Checker", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000019", "t": "HTTP API Testing Console", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000020", "t": "Packet Capture Viewer", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000021", "t": "LAN Device Inventory Tool", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000022", "t": "Secure Remote Terminal", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000023", "t": "Serial Console Interface", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000024", "t": "USB Diagnostic Interface", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000025", "t": "USB-to-UART Controller", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000026", "t": "CAN Bus Diagnostic Console", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000027", "t": "OBD-II Vehicle Scanner", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000028", "t": "Modbus Diagnostic Client", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000029", "t": "Remote KVM Viewer", "g": "phone-wireless-comms"}
+{"id": "JAH-PWC-000030", "t": "Network Packet Analyzer", "g": "phone-wireless-comms"}

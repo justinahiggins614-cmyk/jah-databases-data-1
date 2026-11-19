@@ -1,0 +1,28 @@
+{"id": "JAH-LEGSS-000001", "t": "Signature Oracle Database Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000002", "t": "Signature Microsoft SQL Server Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000003", "t": "Signature IBM Db2 Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000004", "t": "Signature Teradata Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000005", "t": "Signature Informix Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000006", "t": "Signature SAP HANA Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000007", "t": "Signature SAP ASE Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000008", "t": "Signature Vertica Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000009", "t": "Signature Greenplum Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000010", "t": "Signature Firebird Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000011", "t": "Signature Altibase Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000012", "t": "Signature Progress OpenEdge Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000013", "t": "Signature Mimer SQL Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000014", "t": "Signature Ingres Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000015", "t": "Signature Raima Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000016", "t": "Signature Caché Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000017", "t": "Signature eXtremeDB Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000018", "t": "Signature InfinityDB Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000019", "t": "Signature Pervasive PSQL Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000020", "t": "Signature Altibase Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000021", "t": "Signature Progress OpenEdge Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000022", "t": "Signature Mimer SQL Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000023", "t": "Signature Ingres Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000024", "t": "Signature Raima Database Manager (RDM) Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000025", "t": "Signature Caché (InterSystems) Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000026", "t": "Signature Nucleus / eXtremeDB Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000027", "t": "Signature Infinity DB Engine", "g": "enterprise-legacy-sql-signature"}
+{"id": "JAH-LEGSS-000028", "t": "Signature Pervasive PSQL (Actian Zen) Engine", "g": "enterprise-legacy-sql-signature"}

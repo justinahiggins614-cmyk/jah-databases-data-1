@@ -1,0 +1,32 @@
+{"id": "JAH-AER-000001", "t": "What Aerodynamics Is: The Study of Air in Motion", "g": "Foundations"}
+{"id": "JAH-AER-000002", "t": "Air as a Fluid: Density, Pressure, and Viscosity", "g": "Foundations"}
+{"id": "JAH-AER-000003", "t": "The Four Forces: Lift, Weight, Thrust, and Drag", "g": "Foundations"}
+{"id": "JAH-AER-000004", "t": "Continuity and Bernoulli: Why Speed Changes Pressure", "g": "Foundations"}
+{"id": "JAH-AER-000005", "t": "The Reynolds Number: When Smooth Flow Turns Turbulent", "g": "Foundations"}
+{"id": "JAH-AER-000006", "t": "How Wings Make Lift: Airfoils, Angle of Attack, and Circulation", "g": "Foundations"}
+{"id": "JAH-AER-000007", "t": "Drag, Decomposed: Friction, Pressure, and Induced Drag", "g": "Foundations"}
+{"id": "JAH-AER-000008", "t": "The Boundary Layer: Where Air Meets the Wing", "g": "Foundations"}
+{"id": "JAH-AER-000009", "t": "Airfoil Geometry: Camber, Thickness, and the Mean Line", "g": "Compounded"}
+{"id": "JAH-AER-000010", "t": "Compressible Flow: The Mach Number and the Speed of Sound", "g": "Compounded"}
+{"id": "JAH-AER-000011", "t": "Ground Effect: Free Lift Near the Surface", "g": "Compounded"}
+{"id": "JAH-AER-000012", "t": "Airfoil Performance: Lift Curves, Stall, and Drag Polars", "g": "Compounded"}
+{"id": "JAH-AER-000013", "t": "Induced Drag and Aspect Ratio: The Cost of Making Lift", "g": "Compounded"}
+{"id": "JAH-AER-000014", "t": "Normal Shock Waves: Supersonic to Subsonic in One Jump", "g": "Compounded"}
+{"id": "JAH-AER-000015", "t": "Oblique Shocks and Expansion Fans: Turning Supersonic Flow", "g": "Compounded"}
+{"id": "JAH-AER-000016", "t": "The Prandtl-Glauert Correction: Compressibility at Subsonic Speeds", "g": "Compounded"}
+{"id": "JAH-AER-000017", "t": "Sweep and the Transonic Problem: Delaying the Shock", "g": "Compounded"}
+{"id": "JAH-AER-000018", "t": "Stall and High-Lift Devices: Flaps, Slats, and the Critical Angle", "g": "Compounded"}
+{"id": "JAH-AER-000019", "t": "Wind Shear and Wake Turbulence: Hazards in the Air", "g": "Compounded"}
+{"id": "JAH-AER-000020", "t": "Supersonic Airfoil Theory: Thin Wings and Wave Drag", "g": "Advanced"}
+{"id": "JAH-AER-000021", "t": "The Area Rule: Sculpting Wave Drag Away", "g": "Advanced"}
+{"id": "JAH-AER-000022", "t": "Hypersonic Flow: Thin Shocks, Hot Gas, Real Chemistry", "g": "Advanced"}
+{"id": "JAH-AER-000023", "t": "Aircraft Stability: The Weathervane and the Neutral Point", "g": "Advanced"}
+{"id": "JAH-AER-000024", "t": "Control Surfaces: Pitch, Roll, and Yaw Authority", "g": "Advanced"}
+{"id": "JAH-AER-000025", "t": "Boundary-Layer Control: Suction, Blowing, and Laminar Wings", "g": "Advanced"}
+{"id": "JAH-AER-000026", "t": "Helicopter Rotor Aerodynamics: Hover and Forward Flight", "g": "Advanced"}
+{"id": "JAH-AER-000027", "t": "Wind Tunnel Testing: Similitude, Blockage, and Corrections", "g": "Advanced"}
+{"id": "JAH-AER-000028", "t": "CFD: Solving the Navier-Stokes Equations on a Grid", "g": "Advanced"}
+{"id": "JAH-AER-000029", "t": "Aeroelasticity: Flutter, Divergence, and Control Reversal", "g": "Advanced"}
+{"id": "JAH-AER-000030", "t": "Propulsion Integration: Inlets, Nozzles, and Afterbodies", "g": "Advanced"}
+{"id": "JAH-AER-000031", "t": "Sonic Boom: The N-Wave and Its Reach", "g": "Advanced"}
+{"id": "JAH-AER-000032", "t": "Design Integration: The Lift-to-Drag Balance of the Whole Airplane", "g": "Advanced"}

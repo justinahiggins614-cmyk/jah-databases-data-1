@@ -1,0 +1,29 @@
+{"id": "JAH-NIT-000001", "t": "Bridges", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000002", "t": "Software-Defined Bridges", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000003", "t": "GRE Tunnels", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000004", "t": "Mail Relays", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000005", "t": "Sockets", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000006", "t": "WebSockets", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000007", "t": "Unix Domain Sockets", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000008", "t": "Pipelines", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000009", "t": "Rendering Pipelines", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000010", "t": "Processing Pipelines", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000011", "t": "Data Streams", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000012", "t": "Media Streams", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000013", "t": "Channels", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000014", "t": "Communication Channels", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000015", "t": "Event Channels", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000016", "t": "Links", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000017", "t": "Meshes", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000018", "t": "Mesh Networks", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000019", "t": "Compute Nodes", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000020", "t": "Master Nodes", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000021", "t": "Worker Nodes", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000022", "t": "Service Endpoints", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000023", "t": "Busses", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000024", "t": "Event Busses", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000025", "t": "System Busses", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000026", "t": "Hardware Busses (I2C, SPI, CAN, PCIe)", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000027", "t": "Message Queues", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000028", "t": "Job Queues", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}
+{"id": "JAH-NIT-000029", "t": "Message Brokers", "g": "NETWORK & INTERCONNECTIVITY CATEGORIES (Bridges, Nodes, Streams)"}

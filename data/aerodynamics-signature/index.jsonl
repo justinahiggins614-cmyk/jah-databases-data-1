@@ -1,0 +1,32 @@
+{"id": "JAH-AES-000001", "t": "What Aerodynamics Is: The Study of Air in Motion (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000002", "t": "Air as a Fluid: Density, Pressure, and Viscosity (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000003", "t": "The Four Forces: Lift, Weight, Thrust, and Drag (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000004", "t": "Continuity and Bernoulli: Why Speed Changes Pressure (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000005", "t": "The Reynolds Number: When Smooth Flow Turns Turbulent (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000006", "t": "How Wings Make Lift: Airfoils, Angle of Attack, and Circulation (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000007", "t": "Drag, Decomposed: Friction, Pressure, and Induced Drag (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000008", "t": "The Boundary Layer: Where Air Meets the Wing (Signature Edition)", "g": "Foundations"}
+{"id": "JAH-AES-000009", "t": "Airfoil Geometry: Camber, Thickness, and the Mean Line (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000010", "t": "Compressible Flow: The Mach Number and the Speed of Sound (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000011", "t": "Ground Effect: Free Lift Near the Surface (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000012", "t": "Airfoil Performance: Lift Curves, Stall, and Drag Polars (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000013", "t": "Induced Drag and Aspect Ratio: The Cost of Making Lift (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000014", "t": "Normal Shock Waves: Supersonic to Subsonic in One Jump (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000015", "t": "Oblique Shocks and Expansion Fans: Turning Supersonic Flow (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000016", "t": "The Prandtl-Glauert Correction: Compressibility at Subsonic Speeds (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000017", "t": "Sweep and the Transonic Problem: Delaying the Shock (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000018", "t": "Stall and High-Lift Devices: Flaps, Slats, and the Critical Angle (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000019", "t": "Wind Shear and Wake Turbulence: Hazards in the Air (Signature Edition)", "g": "Compounded"}
+{"id": "JAH-AES-000020", "t": "Supersonic Airfoil Theory: Thin Wings and Wave Drag (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000021", "t": "The Area Rule: Sculpting Wave Drag Away (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000022", "t": "Hypersonic Flow: Thin Shocks, Hot Gas, Real Chemistry (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000023", "t": "Aircraft Stability: The Weathervane and the Neutral Point (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000024", "t": "Control Surfaces: Pitch, Roll, and Yaw Authority (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000025", "t": "Boundary-Layer Control: Suction, Blowing, and Laminar Wings (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000026", "t": "Helicopter Rotor Aerodynamics: Hover and Forward Flight (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000027", "t": "Wind Tunnel Testing: Similitude, Blockage, and Corrections (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000028", "t": "CFD: Solving the Navier-Stokes Equations on a Grid (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000029", "t": "Aeroelasticity: Flutter, Divergence, and Control Reversal (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000030", "t": "Propulsion Integration: Inlets, Nozzles, and Afterbodies (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000031", "t": "Sonic Boom: The N-Wave and Its Reach (Signature Edition)", "g": "Advanced"}
+{"id": "JAH-AES-000032", "t": "Design Integration: The Lift-to-Drag Balance of the Whole Airplane (Signature Edition)", "g": "Advanced"}

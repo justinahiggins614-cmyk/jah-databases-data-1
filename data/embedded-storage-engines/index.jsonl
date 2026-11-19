@@ -1,0 +1,28 @@
+{"id": "JAH-STEN-000001", "t": "RocksDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000002", "t": "LevelDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000003", "t": "LMDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000004", "t": "Pebble", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000005", "t": "WiredTiger", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000006", "t": "BadgerDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000007", "t": "FASTER", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000008", "t": "Sophia", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000009", "t": "ForestDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000010", "t": "Berkeley DB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000011", "t": "Sled", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000012", "t": "redb", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000013", "t": "Kyoto Cabinet", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000014", "t": "UnQLite", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000015", "t": "HamsterDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000016", "t": "BonsaiDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000017", "t": "heed", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000018", "t": "AgateDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000019", "t": "Sled", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000020", "t": "Redb", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000021", "t": "Kyoto Cabinet", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000022", "t": "UnQLite", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000023", "t": "HamsterDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000024", "t": "BonsaiDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000025", "t": "heed", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000026", "t": "AgateDB", "g": "embedded-storage-engines"}
+{"id": "JAH-STEN-000027", "t": "Embedded SQLite Schema Definitions", "g": "database-types"}
+{"id": "JAH-STEN-000028", "t": "USB Runtime Mount Layouts", "g": "database-types"}

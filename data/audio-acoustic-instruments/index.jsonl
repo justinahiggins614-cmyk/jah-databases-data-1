@@ -1,0 +1,28 @@
+{"id": "JAH-AAI-000001", "t": "Audio Oscilloscope", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000002", "t": "Real-Time Audio Spectrum Analyzer", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000003", "t": "Audio Signal Distortion Meter", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000004", "t": "Audio Phase Meter", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000005", "t": "Audio Impulse Response Analyzer", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000006", "t": "Room Reverberation Meter", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000007", "t": "Acoustic Echo Analyzer", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000008", "t": "Audio Feedback Detector", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000009", "t": "Audio Clipping Detector", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000010", "t": "Ultrasonic Signal Analyzer using a compatible microphone", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000011", "t": "Acoustic Equipment Fault Detector", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000012", "t": "Machine Sound Signature Analyzer", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000013", "t": "Rotational Speed Estimator using recorded sound", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000014", "t": "Vibration Analysis Station using a connected accelerometer", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000015", "t": "Contact Microphone Measurement Station", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000016", "t": "Acoustic Leak Detection Interface using a compatible sensor", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000017", "t": "Audio Cable Continuity Tester using suitable external circuitry", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000018", "t": "Loudspeaker Impedance Measurement Interface", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000019", "t": "Audio Frequency Sweep Testing Station", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000020", "t": "Acoustic Material Comparison Station", "g": "audio-acoustic-instruments"}
+{"id": "JAH-AAI-000021", "t": "Wi-Fi Acoustic Vibration Eavesdropper", "g": "Toolset"}
+{"id": "JAH-AAI-000022", "t": "Ultrasonic Acoustic Microphone Suppressor", "g": "Toolset"}
+{"id": "JAH-AAI-000023", "t": "Directional Acoustic Fire Extinguisher", "g": "Toolset"}
+{"id": "JAH-AAI-000024", "t": "Piezoceramic Acoustic Transducer", "g": "Toolset"}
+{"id": "JAH-AAI-000025", "t": "Acoustic Parabolic Microphone", "g": "Toolset"}
+{"id": "JAH-AAI-000026", "t": "Acoustic Leakage Detector", "g": "Toolset"}
+{"id": "JAH-AAI-000027", "t": "Acoustic Frequency Jammer & Resonator", "g": "Tool Matrix"}
+{"id": "JAH-AAI-000028", "t": "Ultrasonic Blade Driver", "g": "Bizarre Software"}

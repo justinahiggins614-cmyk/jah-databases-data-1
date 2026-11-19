@@ -1,0 +1,28 @@
+{"id": "JAH-LEGS-000001", "t": "Oracle Database", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000002", "t": "Microsoft SQL Server", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000003", "t": "IBM Db2", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000004", "t": "Teradata", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000005", "t": "Informix", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000006", "t": "SAP HANA", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000007", "t": "SAP ASE", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000008", "t": "Vertica", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000009", "t": "Greenplum", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000010", "t": "Firebird", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000011", "t": "Altibase", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000012", "t": "Progress OpenEdge", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000013", "t": "Mimer SQL", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000014", "t": "Ingres", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000015", "t": "Raima", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000016", "t": "Caché", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000017", "t": "eXtremeDB", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000018", "t": "InfinityDB", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000019", "t": "Pervasive PSQL", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000020", "t": "Altibase", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000021", "t": "Progress OpenEdge", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000022", "t": "Mimer SQL", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000023", "t": "Ingres", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000024", "t": "Raima Database Manager (RDM)", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000025", "t": "Caché (InterSystems)", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000026", "t": "Nucleus / eXtremeDB", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000027", "t": "Infinity DB", "g": "enterprise-legacy-sql"}
+{"id": "JAH-LEGS-000028", "t": "Pervasive PSQL (Actian Zen)", "g": "enterprise-legacy-sql"}

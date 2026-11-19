@@ -1,0 +1,32 @@
+{"id": "JAH-VCTRS-000001", "t": "Signature Pinecone Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000002", "t": "Signature Weaviate Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000003", "t": "Signature Milvus Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000004", "t": "Signature Qdrant Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000005", "t": "Signature Chroma Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000006", "t": "Signature pgvector Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000007", "t": "Signature Vespa Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000008", "t": "Signature Zilliz Cloud Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000009", "t": "Signature Vald Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000010", "t": "Signature Marqo Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000011", "t": "Signature Faiss Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000012", "t": "Signature Annoy Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000013", "t": "Signature ScaNN Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000014", "t": "Signature HNSWlib Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000015", "t": "Signature NMSLIB Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000016", "t": "Signature DiskANN Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000017", "t": "Signature USearch Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000018", "t": "Signature Turbopuffer Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000019", "t": "Signature Superlinked Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000020", "t": "Signature JVector Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000021", "t": "Signature LanceDB Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000022", "t": "Signature Elasticsearch Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000023", "t": "Signature OpenSearch Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000024", "t": "Signature Jina AI Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000025", "t": "Signature txtai Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000026", "t": "Signature Vearch Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000027", "t": "Signature LanceDB Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000028", "t": "Signature Elasticsearch Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000029", "t": "Signature OpenSearch Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000030", "t": "Signature Jina AI Document Database Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000031", "t": "Signature txtai Engine", "g": "vector-ai-search-signature"}
+{"id": "JAH-VCTRS-000032", "t": "Signature Vearch Engine", "g": "vector-ai-search-signature"}

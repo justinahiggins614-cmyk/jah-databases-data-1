@@ -1,0 +1,26 @@
+{"id": "JAH-STENS-000001", "t": "Signature RocksDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000002", "t": "Signature LevelDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000003", "t": "Signature LMDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000004", "t": "Signature Pebble Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000005", "t": "Signature WiredTiger Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000006", "t": "Signature BadgerDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000007", "t": "Signature FASTER Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000008", "t": "Signature Sophia Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000009", "t": "Signature ForestDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000010", "t": "Signature Berkeley DB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000011", "t": "Signature Sled Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000012", "t": "Signature redb Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000013", "t": "Signature Kyoto Cabinet Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000014", "t": "Signature UnQLite Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000015", "t": "Signature HamsterDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000016", "t": "Signature BonsaiDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000017", "t": "Signature heed Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000018", "t": "Signature AgateDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000019", "t": "Signature Sled Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000020", "t": "Signature Redb Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000021", "t": "Signature Kyoto Cabinet Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000022", "t": "Signature UnQLite Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000023", "t": "Signature HamsterDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000024", "t": "Signature BonsaiDB Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000025", "t": "Signature heed Engine", "g": "embedded-storage-engines-signature"}
+{"id": "JAH-STENS-000026", "t": "Signature AgateDB Engine", "g": "embedded-storage-engines-signature"}

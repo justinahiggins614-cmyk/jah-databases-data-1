@@ -1,0 +1,31 @@
+{"id": "JAH-OII-000001", "t": "Digital Microscope Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000002", "t": "USB Borescope Inspection Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000003", "t": "Endoscope Viewer", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000004", "t": "High-Speed Camera Analysis Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000005", "t": "Motion Tracking Camera", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000006", "t": "Optical Flow Measurement Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000007", "t": "Photogrammetry Scanner", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000008", "t": "3D Object Scanner", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000009", "t": "Structured-Light Scanner using compatible projection and camera hardware", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000010", "t": "Laser Scanner Data Processing Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000011", "t": "Thermal Imaging Station using a compatible infrared camera", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000012", "t": "Infrared Thermometer Interface", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000013", "t": "Optical Fiber Inspection Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000014", "t": "Optical Time-Domain Reflectometer Interface", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000015", "t": "Fiber Optic Power Meter Interface", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000016", "t": "Fiber Optic Loss Measurement Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000017", "t": "Machine Vision Inspection Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000018", "t": "Surface Defect Inspection Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000019", "t": "Printed Circuit Board Optical Inspection Station", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000020", "t": "X-Ray Inspection Workstation using a compatible X-ray inspection system", "g": "optical-imaging-inspection"}
+{"id": "JAH-OII-000021", "t": "FLIR Thermal Imaging Camera", "g": "Toolset"}
+{"id": "JAH-OII-000022", "t": "Borescope / Industrial Endoscope", "g": "Toolset"}
+{"id": "JAH-OII-000023", "t": "Punch Down Tool", "g": "Toolset"}
+{"id": "JAH-OII-000024", "t": "Physical Proximity & Spatial Laser-Trip Sensors", "g": "Tool Matrix"}
+{"id": "JAH-OII-000025", "t": "Bill of Materials (BOM) Generators", "g": "Hardware, Fabrication & Manufacturing Labs / PCB Design & Circuit Engineering"}
+{"id": "JAH-OII-000026", "t": "SysInternals Suite", "g": "Bizarre Software"}
+{"id": "JAH-OII-000027", "t": "Port Knocking Utility", "g": "Bizarre Software"}
+{"id": "JAH-OII-000028", "t": "ADSR Envelope Generator", "g": "Bizarre Software"}
+{"id": "JAH-OII-000029", "t": "Interrupt Service Routine Dispatcher", "g": "Bizarre Software"}
+{"id": "JAH-OII-000030", "t": "ADSR Modulation Matrix", "g": "Bizarre Software"}
+{"id": "JAH-OII-000031", "t": "Auto Dark Mode", "g": "Bizarre Software"}

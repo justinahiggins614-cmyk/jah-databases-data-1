@@ -1,0 +1,32 @@
+{"id": "JAH-PPH-000001", "t": "Petrophysics: The Conversation Between Rock and Fluid", "g": "Foundations"}
+{"id": "JAH-PPH-000002", "t": "Porosity: The Space Between the Grains", "g": "Foundations"}
+{"id": "JAH-PPH-000003", "t": "Permeability: Darcy's Law and the Rock's Willingness to Flow", "g": "Foundations"}
+{"id": "JAH-PPH-000004", "t": "Saturation: Who Owns the Pore Space", "g": "Foundations"}
+{"id": "JAH-PPH-000005", "t": "Reservoir Rocks: Sandstone Against Carbonate", "g": "Foundations"}
+{"id": "JAH-PPH-000006", "t": "Grain Size, Sorting, and the Architecture of Pore Space", "g": "Foundations"}
+{"id": "JAH-PPH-000007", "t": "Reservoir Fluids: Density, Viscosity, and Volume Factors", "g": "Foundations"}
+{"id": "JAH-PPH-000008", "t": "Darcy's Law in Full: Linear Flow, Radial Flow, and Units That Matter", "g": "Compounded"}
+{"id": "JAH-PPH-000009", "t": "Archie's Equation: The Master Key to Water Saturation", "g": "Compounded"}
+{"id": "JAH-PPH-000010", "t": "Resistivity Logging: Reading Water from Electricity", "g": "Compounded"}
+{"id": "JAH-PPH-000011", "t": "The SP Log: The Spontaneous Potential", "g": "Compounded"}
+{"id": "JAH-PPH-000012", "t": "The Gamma Ray Log: The Shale Detector", "g": "Compounded"}
+{"id": "JAH-PPH-000013", "t": "The Sonic Log: Timing Sound Through Rock", "g": "Compounded"}
+{"id": "JAH-PPH-000014", "t": "The Density Log: Porosity from Compton Scattering", "g": "Compounded"}
+{"id": "JAH-PPH-000015", "t": "The Neutron Log: The Hydrogen Hunter", "g": "Compounded"}
+{"id": "JAH-PPH-000016", "t": "Capillary Pressure: The Curved Interface Between Fluids", "g": "Compounded"}
+{"id": "JAH-PPH-000017", "t": "Wettability: The Contact Angle That Rules Recovery", "g": "Compounded"}
+{"id": "JAH-PPH-000018", "t": "Relative Permeability: Two Fluids Sharing One Rock", "g": "Compounded"}
+{"id": "JAH-PPH-000019", "t": "Shale Volume: Correcting Logs for Clay", "g": "Compounded"}
+{"id": "JAH-PPH-000020", "t": "Quick-Look Interpretation: Formation Evaluation in Five Minutes", "g": "Compounded"}
+{"id": "JAH-PPH-000021", "t": "Crossplots: The M-N, Pickett, and Hingle Plots", "g": "Compounded"}
+{"id": "JAH-PPH-000022", "t": "Routine Core Analysis: Measuring the Rock Directly", "g": "Compounded"}
+{"id": "JAH-PPH-000023", "t": "Shaly Sands: Waxman-Smits, Simandoux, and the Indonesia Equation", "g": "Compounded"}
+{"id": "JAH-PPH-000024", "t": "Special Core Analysis: The Expensive Truth", "g": "Advanced"}
+{"id": "JAH-PPH-000025", "t": "Capillary Pressure Curves: Drainage, Imbibition, and the Leverett J-Function", "g": "Advanced"}
+{"id": "JAH-PPH-000026", "t": "NMR Logging: T2 Distributions and the Bound-Fluid Cutoff", "g": "Advanced"}
+{"id": "JAH-PPH-000027", "t": "Borehole Imaging: Photographing the Formation Wall", "g": "Advanced"}
+{"id": "JAH-PPH-000028", "t": "Formation Testing: Pressure Points and Permeability from Drawdown", "g": "Advanced"}
+{"id": "JAH-PPH-000029", "t": "Saturation-Height Functions: Mapping the Transition Zone", "g": "Advanced"}
+{"id": "JAH-PPH-000030", "t": "Permeability from Logs: Morris-Biggs, Coates, and the Flow-Zone Indicator", "g": "Advanced"}
+{"id": "JAH-PPH-000031", "t": "Net Pay and Cutoffs: Deciding What Counts as Reservoir", "g": "Advanced"}
+{"id": "JAH-PPH-000032", "t": "Petrophysical Interpretation Workflows: Deterministic Against Probabilistic", "g": "Advanced"}
