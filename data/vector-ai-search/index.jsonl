@@ -1,0 +1,33 @@
+{"id": "JAH-VCTR-000001", "t": "Pinecone", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000002", "t": "Weaviate", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000003", "t": "Milvus", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000004", "t": "Qdrant", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000005", "t": "Chroma", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000006", "t": "pgvector", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000007", "t": "Vespa", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000008", "t": "Zilliz Cloud", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000009", "t": "Vald", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000010", "t": "Marqo", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000011", "t": "Faiss", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000012", "t": "Annoy", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000013", "t": "ScaNN", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000014", "t": "HNSWlib", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000015", "t": "NMSLIB", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000016", "t": "DiskANN", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000017", "t": "USearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000018", "t": "Turbopuffer", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000019", "t": "Superlinked", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000020", "t": "JVector", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000021", "t": "LanceDB", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000022", "t": "Elasticsearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000023", "t": "OpenSearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000024", "t": "Jina AI", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000025", "t": "txtai", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000026", "t": "Vearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000027", "t": "LanceDB", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000028", "t": "Elasticsearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000029", "t": "OpenSearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000030", "t": "Jina AI Document Database", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000031", "t": "txtai", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000032", "t": "Vearch", "g": "vector-ai-search"}
+{"id": "JAH-VCTR-000033", "t": "Non-Euclidean Hyperbolic Manifold Embeddings", "g": "database-types"}

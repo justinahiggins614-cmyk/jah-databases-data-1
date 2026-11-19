@@ -1,0 +1,34 @@
+{"id": "JAH-SWENG-000001", "t": "What Software Engineers Do", "g": "Foundations"}
+{"id": "JAH-SWENG-000002", "t": "Learning to Code: The First Year", "g": "Foundations"}
+{"id": "JAH-SWENG-000003", "t": "Data Structures Every Engineer Knows", "g": "Foundations"}
+{"id": "JAH-SWENG-000004", "t": "How the Web Works", "g": "Foundations"}
+{"id": "JAH-SWENG-000005", "t": "Version Control with Git", "g": "Foundations"}
+{"id": "JAH-SWENG-000006", "t": "Debugging Like an Engineer", "g": "Foundations"}
+{"id": "JAH-SWENG-000007", "t": "Code Review Culture", "g": "Foundations"}
+{"id": "JAH-SWENG-000008", "t": "Testing: Unit to End-to-End", "g": "Foundations"}
+{"id": "JAH-SWENG-000009", "t": "Agile and Scrum Basics", "g": "Foundations"}
+{"id": "JAH-SWENG-000010", "t": "The Terminal and Command Line", "g": "Foundations"}
+{"id": "JAH-SWENG-000011", "t": "History of Software Engineering", "g": "Foundations"}
+{"id": "JAH-SWENG-000012", "t": "System Design Fundamentals", "g": "Compounded"}
+{"id": "JAH-SWENG-000013", "t": "Databases: SQL and NoSQL", "g": "Compounded"}
+{"id": "JAH-SWENG-000014", "t": "APIs and Microservices", "g": "Compounded"}
+{"id": "JAH-SWENG-000015", "t": "Continuous Integration and Delivery Pipelines", "g": "Compounded"}
+{"id": "JAH-SWENG-000016", "t": "Observability: Logs, Metrics, Traces", "g": "Compounded"}
+{"id": "JAH-SWENG-000017", "t": "Security for Engineers", "g": "Compounded"}
+{"id": "JAH-SWENG-000018", "t": "Technical Interviews", "g": "Compounded"}
+{"id": "JAH-SWENG-000019", "t": "On-Call and Incident Response", "g": "Compounded"}
+{"id": "JAH-SWENG-000020", "t": "Refactoring Legacy Code", "g": "Compounded"}
+{"id": "JAH-SWENG-000021", "t": "Performance Engineering", "g": "Compounded"}
+{"id": "JAH-SWENG-000022", "t": "Mobile Development Careers", "g": "Compounded"}
+{"id": "JAH-SWENG-000023", "t": "Open Source Contribution", "g": "Compounded"}
+{"id": "JAH-SWENG-000024", "t": "Distributed Systems Design", "g": "Advanced"}
+{"id": "JAH-SWENG-000025", "t": "Staff Engineer: Technical Leadership", "g": "Advanced"}
+{"id": "JAH-SWENG-000026", "t": "Engineering Management", "g": "Advanced"}
+{"id": "JAH-SWENG-000027", "t": "Architecture Decision Records", "g": "Advanced"}
+{"id": "JAH-SWENG-000028", "t": "Scaling to Millions of Users", "g": "Advanced"}
+{"id": "JAH-SWENG-000029", "t": "Machine Learning Engineering", "g": "Advanced"}
+{"id": "JAH-SWENG-000030", "t": "Platform Engineering", "g": "Advanced"}
+{"id": "JAH-SWENG-000031", "t": "Site Reliability Engineering", "g": "Advanced"}
+{"id": "JAH-SWENG-000032", "t": "Data Engineering", "g": "Advanced"}
+{"id": "JAH-SWENG-000033", "t": "The Principal Engineer Path", "g": "Advanced"}
+{"id": "JAH-SWENG-000034", "t": "The Software Engineer Career Ladder", "g": "Advanced"}
