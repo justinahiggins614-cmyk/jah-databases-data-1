@@ -1,0 +1,24 @@
+{"id": "JAH-CMDRG-000001", "t": "What the Drone and Robot Generator Is", "g": "Foundations"}
+{"id": "JAH-CMDRG-000002", "t": "Multirotor Sizing Math", "g": "Math & Verification"}
+{"id": "JAH-CMDRG-000003", "t": "Thrust-to-Weight and Agility", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000004", "t": "Propeller and Motor Matching", "g": "Build It Yourself"}
+{"id": "JAH-CMDRG-000005", "t": "Flight Controller and PID Tuning", "g": "Build It Yourself"}
+{"id": "JAH-CMDRG-000006", "t": "Battery Sizing and Power Budget", "g": "Math & Verification"}
+{"id": "JAH-CMDRG-000007", "t": "Fixed-Wing Generator Path", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000008", "t": "Ground Robot Generator Path", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000009", "t": "Sensors and Autonomy Stack", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000010", "t": "Manufacturing Constraints", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000011", "t": "Formal Verification Idea", "g": "Signature Design"}
+{"id": "JAH-CMDRG-000012", "t": "Pareto Frontier of Designs", "g": "Signature Design"}
+{"id": "JAH-CMDRG-000013", "t": "Mission Tuple Specification", "g": "Foundations"}
+{"id": "JAH-CMDRG-000014", "t": "Digital Twin Simulation", "g": "Build It Yourself"}
+{"id": "JAH-CMDRG-000015", "t": "Failsafes and Return-to-Home", "g": "Safety & Limits"}
+{"id": "JAH-CMDRG-000016", "t": "Payload Integration", "g": "Build It Yourself"}
+{"id": "JAH-CMDRG-000017", "t": "Regulations and Airspace", "g": "Safety & Limits"}
+{"id": "JAH-CMDRG-000018", "t": "Cost Modeling", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000019", "t": "Maintenance and Logging", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000020", "t": "Swarm Extension", "g": "Signature Design"}
+{"id": "JAH-CMDRG-000021", "t": "Underwater and Surface Branch", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000022", "t": "Indoor and Micro Branch", "g": "Real-World Basis"}
+{"id": "JAH-CMDRG-000023", "t": "Fixed-Wing VTOL Hybrids", "g": "Signature Design"}
+{"id": "JAH-CMDRG-000024", "t": "The Complete Generator Workflow", "g": "Foundations"}

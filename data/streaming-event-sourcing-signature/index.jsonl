@@ -1,0 +1,25 @@
+{"id": "JAH-STRMS-000001", "t": "Signature Apache Kafka Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000002", "t": "Signature EventStoreDB Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000003", "t": "Signature Apache Pulsar Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000004", "t": "Signature Redpanda Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000005", "t": "Signature NATS JetStream Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000006", "t": "Signature ksqlDB Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000007", "t": "Signature Axon Server Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000008", "t": "Signature Apache Flink Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000009", "t": "Signature Pravega Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000010", "t": "Signature WarpStream Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000011", "t": "Signature Materialize Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000012", "t": "Signature RisingWave Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000013", "t": "Signature Akka Persistence Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000014", "t": "Signature DeltaStream Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000015", "t": "Signature Estuary Flow Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000016", "t": "Signature Benthos Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000017", "t": "Signature Timeplus Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000018", "t": "Signature Materialize Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000019", "t": "Signature RisingWave Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000020", "t": "Signature Apache Flink State Backend Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000021", "t": "Signature DecK / Akka Persistence Store Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000022", "t": "Signature DeltaStream Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000023", "t": "Signature Estuary Flow Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000024", "t": "Signature Benthos Stream Engine Engine", "g": "streaming-event-sourcing-signature"}
+{"id": "JAH-STRMS-000025", "t": "Signature Timeplus Engine", "g": "streaming-event-sourcing-signature"}

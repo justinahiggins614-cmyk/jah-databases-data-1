@@ -1,0 +1,23 @@
+{"id": "JAH-LEDG-000001", "t": "immudb", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000002", "t": "Amazon QLDB", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000003", "t": "BigchainDB", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000004", "t": "Hyperledger Fabric", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000005", "t": "R3 Corda", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000006", "t": "Fluree", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000007", "t": "ProvenDB", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000008", "t": "Postchain", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000009", "t": "Amazon Managed Blockchain", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000010", "t": "Dolt", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000011", "t": "Trinsic", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000012", "t": "Hyperledger Indy", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000013", "t": "Verifiable Data Registry (VDR)", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000014", "t": "SpacetimeDB", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000015", "t": "Apache BookKeeper", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000016", "t": "Ceramic Network", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000017", "t": "Trinsic / Provenance Stores", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000018", "t": "Hyperledger Indy Ledger State", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000019", "t": "Verifiable Data Registry (VDR)", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000020", "t": "Corda Vault", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000021", "t": "SpacetimeDB", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000022", "t": "LogStore / Apache BookKeeper", "g": "ledger-cryptographic"}
+{"id": "JAH-LEDG-000023", "t": "Ceramic Network State Store", "g": "ledger-cryptographic"}

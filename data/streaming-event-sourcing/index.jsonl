@@ -1,0 +1,25 @@
+{"id": "JAH-STRM-000001", "t": "Apache Kafka", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000002", "t": "EventStoreDB", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000003", "t": "Apache Pulsar", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000004", "t": "Redpanda", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000005", "t": "NATS JetStream", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000006", "t": "ksqlDB", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000007", "t": "Axon Server", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000008", "t": "Apache Flink", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000009", "t": "Pravega", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000010", "t": "WarpStream", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000011", "t": "Materialize", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000012", "t": "RisingWave", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000013", "t": "Akka Persistence", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000014", "t": "DeltaStream", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000015", "t": "Estuary Flow", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000016", "t": "Benthos", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000017", "t": "Timeplus", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000018", "t": "Materialize", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000019", "t": "RisingWave", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000020", "t": "Apache Flink State Backend", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000021", "t": "DecK / Akka Persistence Store", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000022", "t": "DeltaStream", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000023", "t": "Estuary Flow", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000024", "t": "Benthos Stream Engine", "g": "streaming-event-sourcing"}
+{"id": "JAH-STRM-000025", "t": "Timeplus", "g": "streaming-event-sourcing"}

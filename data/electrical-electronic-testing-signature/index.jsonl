@@ -1,0 +1,25 @@
+{"id": "JAH-ELEG-000001", "t": "Digital Multimeter Interface (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000002", "t": "USB Voltage and Current Meter (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000003", "t": "USB Power Consumption Analyzer (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000004", "t": "USB Cable Data and Charging Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000005", "t": "USB Port Functionality Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000006", "t": "USB Device Identification Instrument (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000007", "t": "USB-C Power Delivery Analyzer using compatible hardware (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000008", "t": "USB-C Cable Capability Tester using compatible hardware (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000009", "t": "Serial Port Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000010", "t": "UART Communication Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000011", "t": "RS-232 Communication Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000012", "t": "RS-485 Communication Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000013", "t": "TTL Logic-Level Monitor (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000014", "t": "Digital Logic Probe Interface (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000015", "t": "Logic Analyzer (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000016", "t": "Digital Oscilloscope (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000017", "t": "Arbitrary Waveform Generator Controller (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000018", "t": "Programmable DC Power Supply Controller (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000019", "t": "Electronic Load Controller (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000020", "t": "Circuit Continuity and Resistance Tester (Signature Edition)", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELEG-000021", "t": "Broadband Handheld Gaussmeter (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ELEG-000022", "t": "Logic Probe (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ELEG-000023", "t": "Light Source and Power Meter Set (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ELEG-000024", "t": "Dummy Load (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-ELEG-000025", "t": "Logic Probes (Signature Edition)", "g": "TOOLS (Utilities, Instruments, Engines, Mechanisms)"}

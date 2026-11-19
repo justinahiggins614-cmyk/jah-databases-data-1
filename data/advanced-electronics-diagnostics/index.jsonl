@@ -1,0 +1,24 @@
+{"id": "JAH-AEX-000001", "t": "JTAG Debugging Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000002", "t": "SWD Microcontroller Debugging Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000003", "t": "SPI Bus Analyzer", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000004", "t": "I2C Bus Analyzer", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000005", "t": "CAN Bus Analyzer", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000006", "t": "LIN Bus Diagnostic Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000007", "t": "Modbus RTU Diagnostic Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000008", "t": "Modbus TCP Diagnostic Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000009", "t": "Automotive OBD-II Scanner", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000010", "t": "Automotive Sensor Data Analyzer", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000011", "t": "Programmable Logic Controller Diagnostic Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000012", "t": "Industrial Current Loop Measurement Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000013", "t": "Industrial Sensor Calibration Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000014", "t": "Power Supply Ripple Analyzer", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000015", "t": "Power Quality Analyzer using compatible measurement hardware", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000016", "t": "Electronic Component Tester using a suitable test fixture", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000017", "t": "Semiconductor Curve Tracer using external test hardware", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000018", "t": "Battery Capacity and Discharge Tester", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000019", "t": "Battery Internal Resistance Tester using compatible hardware", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000020", "t": "Circuit Board Test and Measurement Station", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEX-000021", "t": "RF Near-Field Probe Set", "g": "Toolset"}
+{"id": "JAH-AEX-000022", "t": "Time-Domain Reflectometer", "g": "Toolset"}
+{"id": "JAH-AEX-000023", "t": "Optical Time-Domain Reflectometer", "g": "Toolset"}
+{"id": "JAH-AEX-000024", "t": "Signal Integrity Analyzers", "g": "Hardware, Fabrication & Manufacturing Labs / PCB Design & Circuit Engineering"}

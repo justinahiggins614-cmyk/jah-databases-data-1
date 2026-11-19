@@ -1,0 +1,23 @@
+{"id": "JAH-LEDGS-000001", "t": "Signature immudb Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000002", "t": "Signature Amazon QLDB Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000003", "t": "Signature BigchainDB Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000004", "t": "Signature Hyperledger Fabric Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000005", "t": "Signature R3 Corda Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000006", "t": "Signature Fluree Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000007", "t": "Signature ProvenDB Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000008", "t": "Signature Postchain Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000009", "t": "Signature Amazon Managed Blockchain Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000010", "t": "Signature Dolt Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000011", "t": "Signature Trinsic Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000012", "t": "Signature Hyperledger Indy Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000013", "t": "Signature Verifiable Data Registry (VDR) Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000014", "t": "Signature SpacetimeDB Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000015", "t": "Signature Apache BookKeeper Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000016", "t": "Signature Ceramic Network Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000017", "t": "Signature Trinsic / Provenance Stores Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000018", "t": "Signature Hyperledger Indy Ledger State Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000019", "t": "Signature Verifiable Data Registry (VDR) Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000020", "t": "Signature Corda Vault Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000021", "t": "Signature SpacetimeDB Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000022", "t": "Signature LogStore / Apache BookKeeper Engine", "g": "ledger-cryptographic-signature"}
+{"id": "JAH-LEDGS-000023", "t": "Signature Ceramic Network State Store Engine", "g": "ledger-cryptographic-signature"}

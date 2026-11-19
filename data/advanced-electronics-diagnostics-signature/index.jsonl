@@ -1,0 +1,25 @@
+{"id": "JAH-AEXG-000001", "t": "JTAG Debugging Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000002", "t": "SWD Microcontroller Debugging Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000003", "t": "SPI Bus Analyzer (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000004", "t": "I2C Bus Analyzer (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000005", "t": "CAN Bus Analyzer (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000006", "t": "LIN Bus Diagnostic Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000007", "t": "Modbus RTU Diagnostic Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000008", "t": "Modbus TCP Diagnostic Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000009", "t": "Automotive OBD-II Scanner (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000010", "t": "Automotive Sensor Data Analyzer (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000011", "t": "Programmable Logic Controller Diagnostic Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000012", "t": "Industrial Current Loop Measurement Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000013", "t": "Industrial Sensor Calibration Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000014", "t": "Power Supply Ripple Analyzer (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000015", "t": "Power Quality Analyzer using compatible measurement hardware (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000016", "t": "Electronic Component Tester using a suitable test fixture (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000017", "t": "Semiconductor Curve Tracer using external test hardware (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000018", "t": "Battery Capacity and Discharge Tester (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000019", "t": "Battery Internal Resistance Tester using compatible hardware (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000020", "t": "Circuit Board Test and Measurement Station (Signature Edition)", "g": "advanced-electronics-diagnostics"}
+{"id": "JAH-AEXG-000021", "t": "RF Near-Field Probe Set (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-AEXG-000022", "t": "Time-Domain Reflectometer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-AEXG-000023", "t": "Optical Time-Domain Reflectometer (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-AEXG-000024", "t": "Signal Integrity Analyzers (Signature Edition)", "g": "Hardware, Fabrication & Manufacturing Labs / PCB Design & Circuit Engineering"}
+{"id": "JAH-AEXG-000025", "t": "Protocol Decoders (Signature Edition)", "g": "Network Architecture, Protocols & Data Pipelines / Network Protocols & Low-Level Traffic"}

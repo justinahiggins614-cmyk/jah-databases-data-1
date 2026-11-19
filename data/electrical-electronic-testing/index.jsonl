@@ -1,0 +1,24 @@
+{"id": "JAH-ELE-000001", "t": "Digital Multimeter Interface", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000002", "t": "USB Voltage and Current Meter", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000003", "t": "USB Power Consumption Analyzer", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000004", "t": "USB Cable Data and Charging Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000005", "t": "USB Port Functionality Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000006", "t": "USB Device Identification Instrument", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000007", "t": "USB-C Power Delivery Analyzer using compatible hardware", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000008", "t": "USB-C Cable Capability Tester using compatible hardware", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000009", "t": "Serial Port Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000010", "t": "UART Communication Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000011", "t": "RS-232 Communication Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000012", "t": "RS-485 Communication Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000013", "t": "TTL Logic-Level Monitor", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000014", "t": "Digital Logic Probe Interface", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000015", "t": "Logic Analyzer", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000016", "t": "Digital Oscilloscope", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000017", "t": "Arbitrary Waveform Generator Controller", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000018", "t": "Programmable DC Power Supply Controller", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000019", "t": "Electronic Load Controller", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000020", "t": "Circuit Continuity and Resistance Tester", "g": "electrical-electronic-testing"}
+{"id": "JAH-ELE-000021", "t": "Broadband Handheld Gaussmeter", "g": "Toolset"}
+{"id": "JAH-ELE-000022", "t": "Logic Probe", "g": "Toolset"}
+{"id": "JAH-ELE-000023", "t": "Light Source and Power Meter Set", "g": "Toolset"}
+{"id": "JAH-ELE-000024", "t": "Dummy Load", "g": "Toolset"}

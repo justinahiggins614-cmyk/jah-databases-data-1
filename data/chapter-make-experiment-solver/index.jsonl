@@ -1,0 +1,24 @@
+{"id": "JAH-CMES-000001", "t": "What the Experiment Solver Is", "g": "Foundations"}
+{"id": "JAH-CMES-000002", "t": "The Experiment Tuple", "g": "Math & Verification"}
+{"id": "JAH-CMES-000003", "t": "Hypothesis and Falsifiability", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000004", "t": "Controls and Blinding", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000005", "t": "Measurement Uncertainty", "g": "Math & Verification"}
+{"id": "JAH-CMES-000006", "t": "Design of Experiments (DOE)", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000007", "t": "Statistical Testing Without Tears", "g": "Math & Verification"}
+{"id": "JAH-CMES-000008", "t": "Lab Notebook Discipline", "g": "Build It Yourself"}
+{"id": "JAH-CMES-000009", "t": "Calibration Chains", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000010", "t": "Simulation as Pre-Experiment", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000011", "t": "Failure Analysis", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000012", "t": "Replication and Reproducibility", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000013", "t": "The Intervention Budget", "g": "Signature Design"}
+{"id": "JAH-CMES-000014", "t": "Closing the Loop: From Result to Decision", "g": "Foundations"}
+{"id": "JAH-CMES-000015", "t": "Experiment Automation", "g": "Build It Yourself"}
+{"id": "JAH-CMES-000016", "t": "Negative Results Are Results", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000017", "t": "The Epsilon-First Rule", "g": "Math & Verification"}
+{"id": "JAH-CMES-000018", "t": "Measurement System Analysis", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000019", "t": "Sequential Testing", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000020", "t": "The Complete Solver Workflow", "g": "Foundations"}
+{"id": "JAH-CMES-000021", "t": "Intervention Safety Envelopes", "g": "Safety & Limits"}
+{"id": "JAH-CMES-000022", "t": "Data Integrity", "g": "Real-World Basis"}
+{"id": "JAH-CMES-000023", "t": "Teaching Experiments", "g": "Foundations"}
+{"id": "JAH-CMES-000024", "t": "When Not to Experiment", "g": "Safety & Limits"}

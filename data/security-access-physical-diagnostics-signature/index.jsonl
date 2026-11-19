@@ -1,0 +1,25 @@
+{"id": "JAH-SADG-000001", "t": "Network Cable Tester Interface (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000002", "t": "Ethernet Cable Length Tester Interface (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000003", "t": "Ethernet Cable Fault Locator Interface (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000004", "t": "Fiber Optic Cable Fault Analysis Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000005", "t": "Network Packet Capture Appliance (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000006", "t": "Hardware Network Traffic Monitor (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000007", "t": "Network Tap Analysis Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000008", "t": "Hardware Security Token Reader (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000009", "t": "Smartcard Reader and Diagnostic Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000010", "t": "RFID Access-Control Test Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000011", "t": "NFC Access-Control Test Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000012", "t": "Magnetic Stripe Reader Interface (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000013", "t": "Webcam Privacy Inspection Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000014", "t": "Camera Lens Inspection Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000015", "t": "Wireless Camera Detection Receiver using compatible RF hardware (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000016", "t": "Nonlinear Junction Detector Interface using specialized equipment (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000017", "t": "Digital Forensic Write-Blocker Control Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000018", "t": "Hard Drive Health and Diagnostic Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000019", "t": "Magnetic Media Degausser Controller (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000020", "t": "Hardware Data Destruction Verification Station (Signature Edition)", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SADG-000021", "t": "Wi-Fi GPS Tracker Beacon (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-SADG-000022", "t": "Rebar Finder / Covermeter (Signature Edition)", "g": "Toolset"}
+{"id": "JAH-SADG-000023", "t": "ACPI Tables (DSDT, SSDT, MADT) (Signature Edition)", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Boot & Kernel Initialization"}
+{"id": "JAH-SADG-000024", "t": "TeraCopy (Signature Edition)", "g": "Bizarre Software"}
+{"id": "JAH-SADG-000025", "t": "WAL Recovery Utility (Signature Edition)", "g": "Bizarre Software"}

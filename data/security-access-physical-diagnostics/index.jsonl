@@ -1,0 +1,25 @@
+{"id": "JAH-SAD-000001", "t": "Network Cable Tester Interface", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000002", "t": "Ethernet Cable Length Tester Interface", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000003", "t": "Ethernet Cable Fault Locator Interface", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000004", "t": "Fiber Optic Cable Fault Analysis Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000005", "t": "Network Packet Capture Appliance", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000006", "t": "Hardware Network Traffic Monitor", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000007", "t": "Network Tap Analysis Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000008", "t": "Hardware Security Token Reader", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000009", "t": "Smartcard Reader and Diagnostic Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000010", "t": "RFID Access-Control Test Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000011", "t": "NFC Access-Control Test Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000012", "t": "Magnetic Stripe Reader Interface", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000013", "t": "Webcam Privacy Inspection Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000014", "t": "Camera Lens Inspection Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000015", "t": "Wireless Camera Detection Receiver using compatible RF hardware", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000016", "t": "Nonlinear Junction Detector Interface using specialized equipment", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000017", "t": "Digital Forensic Write-Blocker Control Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000018", "t": "Hard Drive Health and Diagnostic Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000019", "t": "Magnetic Media Degausser Controller", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000020", "t": "Hardware Data Destruction Verification Station", "g": "security-access-physical-diagnostics"}
+{"id": "JAH-SAD-000021", "t": "Wi-Fi GPS Tracker Beacon", "g": "Toolset"}
+{"id": "JAH-SAD-000022", "t": "Rebar Finder / Covermeter", "g": "Toolset"}
+{"id": "JAH-SAD-000023", "t": "ACPI Tables (DSDT, SSDT, MADT)", "g": "Low-Level Systems, Firmware & Bare-Metal Architecture / Boot & Kernel Initialization"}
+{"id": "JAH-SAD-000024", "t": "TeraCopy", "g": "Bizarre Software"}
+{"id": "JAH-SAD-000025", "t": "WAL Recovery Utility", "g": "Bizarre Software"}

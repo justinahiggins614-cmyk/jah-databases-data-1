@@ -1,0 +1,24 @@
+{"id": "JAH-CMAG-000001", "t": "What the AI Genome Is", "g": "Foundations"}
+{"id": "JAH-CMAG-000002", "t": "Model Cards and Manifests", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000003", "t": "Architecture Encoding", "g": "Build It Yourself"}
+{"id": "JAH-CMAG-000004", "t": "Checkpointing Done Right", "g": "Build It Yourself"}
+{"id": "JAH-CMAG-000005", "t": "Training Lineage", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000006", "t": "Evaluation as Genome Block", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000007", "t": "The Composable Blocks Idea", "g": "Signature Design"}
+{"id": "JAH-CMAG-000008", "t": "Human-Mimetic Organization", "g": "Signature Design"}
+{"id": "JAH-CMAG-000009", "t": "Deterministic Inference", "g": "Build It Yourself"}
+{"id": "JAH-CMAG-000010", "t": "Quantization in the Genome", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000011", "t": "Fine-Tuning Lineage", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000012", "t": "Safety Evals in the Genome", "g": "Safety & Limits"}
+{"id": "JAH-CMAG-000013", "t": "The Model Registry", "g": "Build It Yourself"}
+{"id": "JAH-CMAG-000014", "t": "Genome Diffing", "g": "Signature Design"}
+{"id": "JAH-CMAG-000015", "t": "Distillation Lineage", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000016", "t": "Federated Genome Blocks", "g": "Signature Design"}
+{"id": "JAH-CMAG-000017", "t": "The Genome Verifier", "g": "Math & Verification"}
+{"id": "JAH-CMAG-000018", "t": "Capability Manifests", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000019", "t": "Genome Compression", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000020", "t": "The Complete Genome Workflow", "g": "Foundations"}
+{"id": "JAH-CMAG-000021", "t": "Genome Ethics", "g": "Safety & Limits"}
+{"id": "JAH-CMAG-000022", "t": "Interpreting Genomes", "g": "Real-World Basis"}
+{"id": "JAH-CMAG-000023", "t": "Genome Evolution", "g": "Signature Design"}
+{"id": "JAH-CMAG-000024", "t": "Teaching the Genome", "g": "Foundations"}

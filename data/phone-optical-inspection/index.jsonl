@@ -1,0 +1,25 @@
+{"id": "JAH-POI-000001", "t": "Magnifying Inspection Camera", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000002", "t": "Document Scanner", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000003", "t": "Optical Character Recognition (OCR) Reader", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000004", "t": "Barcode Scanner", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000005", "t": "QR Code Scanner", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000006", "t": "Text and Label Analyzer", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000007", "t": "Visual Defect Detector", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000008", "t": "Solder Joint Visual Inspector", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000009", "t": "PCB Trace and Component Identifier", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000010", "t": "Wire Color Identifier", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000011", "t": "Plant and Material Image Classifier", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000012", "t": "Cloud and Weather Image Analyzer", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000013", "t": "Visual Smoke Detector", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000014", "t": "Flame Image Detector", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000015", "t": "Motion-Activated Camera", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000016", "t": "Time-Lapse Recorder", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000017", "t": "Slow-Motion Analyzer", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000018", "t": "Optical Flow Analyzer", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000019", "t": "Camera-Based People Counter", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000020", "t": "Object Tracking Camera", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000021", "t": "Face Detection Tool", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000022", "t": "License Plate OCR Reader", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000023", "t": "Optical Character and Symbol Inspector", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000024", "t": "Digital Microscope Interface", "g": "phone-optical-inspection"}
+{"id": "JAH-POI-000025", "t": "Borescope Viewer", "g": "phone-optical-inspection"}
